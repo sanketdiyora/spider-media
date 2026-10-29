@@ -22,7 +22,7 @@ def wait(cid,tries=40):
     return False
 def main():
     slot=sys.argv[1]; dry='--dry' in sys.argv
-    ist=datetime.datetime.utcnow()+datetime.timedelta(hours=5,minutes=30)
+    ist=datetime.datetime.now(datetime.timezone.utc)+datetime.timedelta(hours=5,minutes=30)
     date=sys.argv[sys.argv.index('--date')+1] if '--date' in sys.argv else ist.strftime('%Y-%m-%d')
     sched=json.loads(urllib.request.urlopen(SCHED+f'?t={int(time.time())}',timeout=60).read())
     items=[s for s in sched if s['date']==date and s['slot']==slot]
