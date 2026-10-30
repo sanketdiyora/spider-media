@@ -37,7 +37,7 @@ def main():
     if any((m.get('caption') or '').strip()==cap.strip() for m in recent):
         print('SKIP: already posted (caption match)'); return 0
     if it['type']=='reel':
-        c=call(f'{IG}/media',{'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'true'},'POST')
+        c=call(f'{IG}/media',{'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'true','thumb_offset':str(it.get('thumb_offset',1500))},'POST')
         cid=c.get('id')
     else:
         kids=[]
