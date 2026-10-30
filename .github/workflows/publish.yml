@@ -1,0 +1,30 @@
+name: Publish Instagram slot
+on:
+  schedule:
+    - cron: '30 5 * * *'    # 11:00 IST
+    - cron: '0 8 * * *'     # 13:30 IST
+    - cron: '30 11 * * *'   # 17:00 IST
+    - cron: '0 15 * * *'    # 20:30 IST
+    - cron: '30 16 * * *'   # 22:00 IST
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Slot (1100, 1330, 1700, 2030, 2200, or a manual slot)'
+        required: true
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pick slot
+        id: s
+        run: |
+          case "${{ github.event.schedule }}" in
+            "30 5 * * *") S=1100;; "0 8 * * *") S=1330;; "30 11 * * *") S=1700;;
+            "0 15 * * *") S=2030;; "30 16 * * *") S=2200;; *) S="${{ github.event.inputs.slot }}";;
+          esac
+          echo "slot=$S" >> "$GITHUB_OUTPUT"
+      - name: Publish
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 publish.py "${{ steps.s.outputs.slot }}"
