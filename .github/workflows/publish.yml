@@ -1,11 +1,12 @@
 name: Publish Instagram slot
 on:
   schedule:
-    - cron: '30 5 * * *'    # 11:00 IST
-    - cron: '0 8 * * *'     # 13:30 IST
-    - cron: '30 11 * * *'   # 17:00 IST
-    - cron: '0 15 * * *'    # 20:30 IST
-    - cron: '30 16 * * *'   # 22:00 IST
+    # Triggered ~25 min early at odd minutes (GitHub delays :00/:30 crons); job waits until the exact slot time
+    - cron: '7 5 * * *'     # slot 11:00 IST
+    - cron: '37 7 * * *'    # slot 13:30 IST
+    - cron: '7 11 * * *'    # slot 17:00 IST
+    - cron: '37 14 * * *'   # slot 20:30 IST
+    - cron: '7 16 * * *'    # slot 22:00 IST
   workflow_dispatch:
     inputs:
       slot:
@@ -20,10 +21,17 @@ jobs:
         id: s
         run: |
           case "${{ github.event.schedule }}" in
-            "30 5 * * *") S=1100;; "0 8 * * *") S=1330;; "30 11 * * *") S=1700;;
-            "0 15 * * *") S=2030;; "30 16 * * *") S=2200;; *) S="${{ github.event.inputs.slot }}";;
+            "7 5 * * *") S=1100;; "37 7 * * *") S=1330;; "7 11 * * *") S=1700;;
+            "37 14 * * *") S=2030;; "7 16 * * *") S=2200;; *) S="${{ github.event.inputs.slot }}";;
           esac
           echo "slot=$S" >> "$GITHUB_OUTPUT"
+      - name: Wait for slot time (scheduled runs only)
+        if: github.event_name == 'schedule'
+        run: |
+          S=${{ steps.s.outputs.slot }}
+          TARGET=$(TZ=Asia/Kolkata date -d "today ${S:0:2}:${S:2:2}" +%s)
+          NOW=$(date +%s)
+          if [ $TARGET -gt $NOW ] && [ $((TARGET-NOW)) -lt 3000 ]; then sleep $((TARGET-NOW)); fi
       - name: Publish
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
