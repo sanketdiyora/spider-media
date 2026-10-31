@@ -9,6 +9,9 @@ on:
     - cron: '7 16 * * *'    # slot 22:00 IST
     - cron: '5 6 * * *'     # slot 12:00 IST
     - cron: '5 13 * * *'    # slot 19:00 IST
+    - cron: '5 1 * * *'     # slot 07:00 IST
+    - cron: '5 2 * * *'     # slot 08:00 IST
+    - cron: '5 17 * * *'    # slot 23:00 IST
   workflow_dispatch:
     inputs:
       slot:
@@ -24,7 +27,7 @@ jobs:
         run: |
           case "${{ github.event.schedule }}" in
             "7 5 * * *") S=1100;; "37 7 * * *") S=1330;; "7 11 * * *") S=1700;;
-            "37 14 * * *") S=2030;; "7 16 * * *") S=2200;; "5 6 * * *") S=1200;; "5 13 * * *") S=1900;; *) S="${{ github.event.inputs.slot }}";;
+            "37 14 * * *") S=2030;; "7 16 * * *") S=2200;; "5 6 * * *") S=1200;; "5 13 * * *") S=1900;; "5 1 * * *") S=0700;; "5 2 * * *") S=0800;; "5 17 * * *") S=2300;; *) S="${{ github.event.inputs.slot }}";;
           esac
           echo "slot=$S" >> "$GITHUB_OUTPUT"
       - name: Wait for slot time (scheduled runs only)
