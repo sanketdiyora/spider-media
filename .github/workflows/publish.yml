@@ -26,13 +26,18 @@ jobs:
           esac
           echo "slot=$S" >> "$GITHUB_OUTPUT"
       - name: Wait for slot time (scheduled runs only)
+        id: w
         if: github.event_name == 'schedule'
         run: |
           S=${{ steps.s.outputs.slot }}
           TARGET=$(TZ=Asia/Kolkata date -d "today ${S:0:2}:${S:2:2}" +%s)
           NOW=$(date +%s)
-          if [ $TARGET -gt $NOW ] && [ $((TARGET-NOW)) -lt 3000 ]; then sleep $((TARGET-NOW)); fi
+          DIFF=$((NOW-TARGET))
+          # Guard: skip if the run is more than 60 min away from the slot (GitHub delayed the cron)
+          if [ $DIFF -gt 3600 ] || [ $DIFF -lt -3600 ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; echo "SKIP: run is $((DIFF/60)) min off slot $S"; exit 0; fi
+          if [ $TARGET -gt $NOW ]; then sleep $((TARGET-NOW)); fi
       - name: Publish
+        if: steps.w.outputs.skip != 'true'
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
         run: python3 publish.py "${{ steps.s.outputs.slot }}"
