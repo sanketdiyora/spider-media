@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02 20:41 IST",
+"updated": "2026-11-02 21:06 IST",
 "date": "2026-11-02",
 "followers": 34,
 "media_count": 42,
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/DfPNFmbl-gs/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 4,
+"views": 13,
+"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -122,11 +122,11 @@
 "time": "2026-11-02 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfPayQHldDx/",
-"likes": 1,
+"likes": 4,
 "comments": 0,
-"views": 75,
-"reach": 38,
-"saved": 2,
+"views": 127,
+"reach": 95,
+"saved": 3,
 "shares": 0
 }
 },
@@ -143,13 +143,21 @@
 "time": "2026-11-02 20:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfPlHQojGnh/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
+"views": 25,
 "reach": 0,
 "saved": 0,
 "shares": 0
 }
+},
+{
+"slot": "2300",
+"name": "Next-day setups reel",
+"type": "reel",
+"title": "Kal (Tue 3 Nov) ke 2 scenario 👇",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
@@ -160,9 +168,9 @@
 "time": "2026-11-02 20:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfPlHQojGnh/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
+"views": 25,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -174,11 +182,11 @@
 "time": "2026-11-02 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfPayQHldDx/",
-"likes": 1,
+"likes": 4,
 "comments": 0,
-"views": 75,
-"reach": 38,
-"saved": 2,
+"views": 127,
+"reach": 95,
+"saved": 3,
 "shares": 0
 },
 {
@@ -190,8 +198,8 @@
 "link": "https://www.instagram.com/p/DfPNFmbl-gs/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 4,
+"views": 13,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -260,8 +268,8 @@
 "link": "https://www.instagram.com/reel/DfNStqpDG5L/",
 "likes": 32,
 "comments": 1,
-"views": 1408,
-"reach": 1194,
+"views": 1411,
+"reach": 1196,
 "saved": 15,
 "shares": 21
 },
@@ -275,7 +283,7 @@
 "likes": 17,
 "comments": 0,
 "views": 1212,
-"reach": 1008,
+"reach": 1010,
 "saved": 10,
 "shares": 2
 },
@@ -587,12 +595,16 @@
 "sl": 1.127210852053029,
 "tp": 1.1096691479729366,
 "created": "2026-11-01T23:00+05:30",
-"status": "PENDING",
+"status": "OPEN",
 "src": "yahoo:EURUSD=X",
 "reel": "https://www.instagram.com/reel/DfNStqpDG5L/",
-"events": [],
-"last": 1.118943691253662,
-"last_t": 1793602229
+"events": [
+"02 Nov 12:45 OPEN @ 1.11924"
+],
+"last": 1.121076226234436,
+"last_t": 1793632945,
+"entry": 1.1192373501984416,
+"opened": 1793603700
 },
 {
 "id": "20261101_2300_GOLD",
@@ -614,8 +626,8 @@
 ],
 "entry": 3926.57045170775,
 "opened": 1793597400,
-"last": 3914.0,
-"last_t": 1793601658
+"last": 3968.5,
+"last_t": 1793632381
 },
 {
 "id": "20261101_2300_ETHUSD",
@@ -637,14 +649,51 @@
 ],
 "entry": 2276.9961844102886,
 "opened": 1793577600,
-"last": 2282.85009765625,
-"last_t": 1793602265
+"last": 2285.419921875,
+"last_t": 1793633600
+},
+{
+"id": "20261102_2105_BTCUSD",
+"pair": "BTCUSD",
+"dir": "SELL",
+"style": "swing",
+"zone": [
+77697.93032638213,
+78247.93634028453
+],
+"sl": 79989.6220509755,
+"created": "2026-11-02T21:05+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 73572.8852221141
+},
+{
+"id": "20261102_2105_USDCAD",
+"pair": "USDCAD",
+"dir": "SELL",
+"style": "swing",
+"zone": [
+1.3959320849552899,
+1.3975279150447097
+],
+"sl": 1.4025813769945388,
+"created": "2026-11-02T21:05+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 1.3839633592846423
 }
 ],
-"voice_chars_month": 11435,
+"voice_chars_month": 12573,
 "voice_limit": 30000,
 "disk_free_gb": 27.1,
 "github_runs": [
+{
+"t": "2026-11-02T15:16:39Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-02T15:00:25Z",
 "ok": "success",
@@ -664,11 +713,6 @@
 "t": "2026-11-02T11:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-02T09:21:10Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
