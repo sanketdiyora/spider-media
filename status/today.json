@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-02 13:46 IST",
+"updated": "2026-11-02 17:11 IST",
 "date": "2026-11-02",
 "followers": 34,
-"media_count": 39,
+"media_count": 40,
 "slots": [
 {
 "slot": "0700",
@@ -59,12 +59,12 @@
 "time": "2026-11-02 12:49",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfOwTDCjvh5/",
-"likes": 1,
+"likes": 7,
 "comments": 0,
-"views": 24,
-"reach": 10,
+"views": 137,
+"reach": 119,
 "saved": 0,
-"shares": 0
+"shares": 2
 }
 },
 {
@@ -80,12 +80,12 @@
 "time": "2026-11-02 13:46",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
-"likes": 0,
+"likes": 4,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
+"views": 130,
+"reach": 104,
+"saved": 2,
+"shares": 2
 }
 },
 {
@@ -93,8 +93,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18097759745669934",
+"cap": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position. Jeet bhi badi, loss bhi. Margin = position ÷ leverage. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#leverage #forexhindi #tradingeducation #riskmanagement #xauusd",
+"cap1": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position",
+"time": "2026-11-02 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfPNFmbl-gs/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -115,12 +128,12 @@
 ],
 "recent_posts": [
 {
-"id": "17945407302362956",
-"cap": "Bot free. Kaise? 3 steps me 👇\nAccount → deposit → DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #mt5 #algotrading #forexhindi",
-"cap1": "Bot free. Kaise? 3 steps me 👇",
-"time": "2026-11-02 13:46",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
+"id": "18097759745669934",
+"cap": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position. Jeet bhi badi, loss bhi. Margin = position ÷ leverage. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#leverage #forexhindi #tradingeducation #riskmanagement #xauusd",
+"cap1": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position",
+"time": "2026-11-02 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfPNFmbl-gs/",
 "likes": 0,
 "comments": 0,
 "views": 0,
@@ -129,18 +142,32 @@
 "shares": 0
 },
 {
+"id": "17945407302362956",
+"cap": "Bot free. Kaise? 3 steps me 👇\nAccount → deposit → DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #mt5 #algotrading #forexhindi",
+"cap1": "Bot free. Kaise? 3 steps me 👇",
+"time": "2026-11-02 13:46",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
+"likes": 4,
+"comments": 0,
+"views": 130,
+"reach": 104,
+"saved": 2,
+"shares": 2
+},
+{
 "id": "18135859387661123",
 "cap": "Loss ek fees hai. Discipline wo ticket hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "Loss ek fees hai. Discipline wo ticket hai. 🕷️",
 "time": "2026-11-02 12:49",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfOwTDCjvh5/",
-"likes": 1,
+"likes": 7,
 "comments": 0,
-"views": 24,
-"reach": 10,
+"views": 137,
+"reach": 119,
 "saved": 0,
-"shares": 0
+"shares": 2
 },
 {
 "id": "18125934841928558",
@@ -179,8 +206,8 @@
 "link": "https://www.instagram.com/reel/DfNStqpDG5L/",
 "likes": 32,
 "comments": 1,
-"views": 1370,
-"reach": 1162,
+"views": 1393,
+"reach": 1182,
 "saved": 15,
 "shares": 21
 },
@@ -191,11 +218,11 @@
 "time": "2026-11-01 22:11",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfNLzLulPSV/",
-"likes": 12,
+"likes": 17,
 "comments": 0,
-"views": 896,
-"reach": 736,
-"saved": 5,
+"views": 1198,
+"reach": 995,
+"saved": 10,
 "shares": 2
 },
 {
@@ -207,8 +234,8 @@
 "link": "https://www.instagram.com/reel/DfNB5sHgNw7/",
 "likes": 1,
 "comments": 0,
-"views": 137,
-"reach": 114,
+"views": 138,
+"reach": 115,
 "saved": 1,
 "shares": 0
 },
@@ -235,8 +262,8 @@
 "link": "https://www.instagram.com/reel/DfMRb5WgsVV/",
 "likes": 1,
 "comments": 1,
-"views": 124,
-"reach": 109,
+"views": 127,
+"reach": 111,
 "saved": 0,
 "shares": 1
 },
@@ -277,8 +304,8 @@
 "link": "https://www.instagram.com/p/DfKDiOFl-U0/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -291,8 +318,8 @@
 "link": "https://www.instagram.com/reel/DfJrhMvjuPk/",
 "likes": 1,
 "comments": 0,
-"views": 126,
-"reach": 116,
+"views": 127,
+"reach": 118,
 "saved": 0,
 "shares": 0
 },
@@ -319,8 +346,8 @@
 "link": "https://www.instagram.com/reel/DfIduCAgWYx/",
 "likes": 2,
 "comments": 0,
-"views": 150,
-"reach": 127,
+"views": 152,
+"reach": 129,
 "saved": 0,
 "shares": 0
 },
@@ -445,8 +472,8 @@
 "link": "https://www.instagram.com/reel/DfFrvqCEUYD/",
 "likes": 1,
 "comments": 0,
-"views": 100,
-"reach": 85,
+"views": 101,
+"reach": 86,
 "saved": 0,
 "shares": 1
 },
@@ -517,20 +544,6 @@
 "comments": 0,
 "views": 3,
 "reach": 36,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "17910289548578899",
-"cap": "Gold ke sabse khatarnak 5 minute: NFP, CPI, FOMC. ⚡\nSpread chauda, slippage, dono taraf spike.\nIsliye GoldMint TITAN, Aegis aur Striker me auto news filter hai.\n(Chart illustration hai, real data nahi.)\n⚠️ For educational purposes only. Not financial advice. Trade at your own risk.\n#xauusd #goldtrading #nfp #forexnews #tradingbot",
-"cap1": "Gold ke sabse khatarnak 5 minute: NFP, CPI, FOMC. ⚡",
-"time": "2026-10-28 21:45",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfC1p_aOQme/",
-"likes": 1,
-"comments": 0,
-"views": 110,
-"reach": 100,
 "saved": 0,
 "shares": 0
 }
@@ -604,8 +617,23 @@
 ],
 "voice_chars_month": 2618,
 "voice_limit": 30000,
-"disk_free_gb": 27.7,
+"disk_free_gb": 27.5,
 "github_runs": [
+{
+"t": "2026-11-02T11:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-02T09:21:10Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-02T09:11:53Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-02T07:28:52Z",
 "ok": "success",
@@ -613,21 +641,6 @@
 },
 {
 "t": "2026-11-01T20:59:52Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-01T20:26:12Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-01T19:10:00Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-01T18:17:42Z",
 "ok": "success",
 "ev": "schedule"
 }
