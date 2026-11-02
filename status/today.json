@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-02 12:48 IST",
+"updated": "2026-11-02 13:46 IST",
 "date": "2026-11-02",
 "followers": 34,
-"media_count": 37,
+"media_count": 39,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfOJnkmEm9a/",
 "likes": 0,
 "comments": 0,
-"views": 15,
-"reach": 4,
+"views": 16,
+"reach": 6,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/p/DfOlHt5jAl5/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 1,
+"views": 6,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -51,16 +51,42 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Loss ek fees hai. Discipline wo ticket hai. 🕷️",
-"status": "MISSED",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18135859387661123",
+"cap": "Loss ek fees hai. Discipline wo ticket hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Loss ek fees hai. Discipline wo ticket hai. 🕷️",
+"time": "2026-11-02 12:49",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfOwTDCjvh5/",
+"likes": 1,
+"comments": 0,
+"views": 24,
+"reach": 10,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
 "name": "BOT reel",
 "type": "reel",
 "title": "Bot free. Kaise? 3 steps me 👇",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17945407302362956",
+"cap": "Bot free. Kaise? 3 steps me 👇\nAccount → deposit → DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #mt5 #algotrading #forexhindi",
+"cap1": "Bot free. Kaise? 3 steps me 👇",
+"time": "2026-11-02 13:46",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -89,6 +115,34 @@
 ],
 "recent_posts": [
 {
+"id": "17945407302362956",
+"cap": "Bot free. Kaise? 3 steps me 👇\nAccount → deposit → DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #mt5 #algotrading #forexhindi",
+"cap1": "Bot free. Kaise? 3 steps me 👇",
+"time": "2026-11-02 13:46",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
+"id": "18135859387661123",
+"cap": "Loss ek fees hai. Discipline wo ticket hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Loss ek fees hai. Discipline wo ticket hai. 🕷️",
+"time": "2026-11-02 12:49",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfOwTDCjvh5/",
+"likes": 1,
+"comments": 0,
+"views": 24,
+"reach": 10,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18125934841928558",
 "cap": "Saare bots FREE. Catch kya hai? 🤔\nSeedha jawab: partner broker pe account, broker humein IB commission deta hai, tumse bot fee nahi.\nNormal spread/commission har broker jaisa. Profit guarantee nahi.\nDM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #forexhindi #mt5 #xauusd",
 "cap1": "Saare bots FREE. Catch kya hai? 🤔",
@@ -97,8 +151,8 @@
 "link": "https://www.instagram.com/p/DfOlHt5jAl5/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 1,
+"views": 6,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -111,8 +165,8 @@
 "link": "https://www.instagram.com/p/DfOJnkmEm9a/",
 "likes": 0,
 "comments": 0,
-"views": 15,
-"reach": 4,
+"views": 16,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -125,8 +179,8 @@
 "link": "https://www.instagram.com/reel/DfNStqpDG5L/",
 "likes": 32,
 "comments": 1,
-"views": 1359,
-"reach": 1152,
+"views": 1370,
+"reach": 1162,
 "saved": 15,
 "shares": 21
 },
@@ -137,10 +191,10 @@
 "time": "2026-11-01 22:11",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfNLzLulPSV/",
-"likes": 11,
+"likes": 12,
 "comments": 0,
-"views": 846,
-"reach": 676,
+"views": 896,
+"reach": 736,
 "saved": 5,
 "shares": 2
 },
@@ -181,8 +235,8 @@
 "link": "https://www.instagram.com/reel/DfMRb5WgsVV/",
 "likes": 1,
 "comments": 1,
-"views": 123,
-"reach": 108,
+"views": 124,
+"reach": 109,
 "saved": 0,
 "shares": 1
 },
@@ -479,34 +533,6 @@
 "reach": 100,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18088111328315446",
-"cap": "5 tarah ke EXIT jo har trader ko pata hone chahiye 👇\n\n1. Fixed TP/SL\n2. Trailing stop\n3. Basket TP\n4. Time exit\n5. Equity stop\n\nEntry sab seekhte hain. Paisa exit pe banta ya jaata hai.\nSave kar lo, kaam aayega.\n\nAur GoldMint TITAN ka EXIT? Apna system. Sunday ko data ke saath.\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n\n#tradingeducation #exitstrategy #stoploss #xauusd #algotrading",
-"cap1": "5 tarah ke EXIT jo har trader ko pata hone chahiye 👇",
-"time": "2026-10-28 18:40",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfCLTuMEm1L/",
-"likes": 1,
-"comments": 0,
-"views": 18,
-"reach": 44,
-"saved": 1,
-"shares": 0
-},
-{
-"id": "18396714316164373",
-"cap": "Cent account kya hai? 🪙 $100 ko 10,000 USC kaise dikhata hai, aur bot testing ke liye kyun best hai.\nYaad rakho: cent account me bhi asli paisa lagta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#centaccount #tradingbot #forexhindi #mt5 #beginnertrader",
-"cap1": "Cent account kya hai? 🪙 $100 ko 10,000 USC kaise dikhata hai, aur bot ",
-"time": "2026-10-28 15:30",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfCiRYguaeu/",
-"likes": 7,
-"comments": 0,
-"views": 466,
-"reach": 411,
-"saved": 1,
-"shares": 5
 }
 ],
 "trades": [
@@ -581,6 +607,11 @@
 "disk_free_gb": 27.7,
 "github_runs": [
 {
+"t": "2026-11-02T07:28:52Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-01T20:59:52Z",
 "ok": "success",
 "ev": "schedule"
@@ -597,11 +628,6 @@
 },
 {
 "t": "2026-11-01T18:17:42Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-01T17:05:52Z",
 "ok": "success",
 "ev": "schedule"
 }
