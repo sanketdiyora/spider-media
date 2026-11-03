@@ -1,0 +1,54 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-03/2300.mp4",
+ "dur": 23.49,
+ "music": "corporate/474.mp3",
+ "chars": 310,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "BTCUSD",
+   "dir": "SELL",
+   "style": "swing",
+   "zone": [
+    77697.93032638213,
+    78247.93634028453
+   ],
+   "sl": 79989.6220509755,
+   "entry": 77697.93032638213,
+   "rr": 1.8,
+   "tp": 73572.8852221141
+  },
+  {
+   "pair": "USDCAD",
+   "dir": "SELL",
+   "style": "swing",
+   "zone": [
+    1.3959320849552899,
+    1.3975279150447097
+   ],
+   "sl": 1.4025813769945388,
+   "entry": 1.3959320849552899,
+   "rr": 1.8,
+   "tp": 1.3839633592846423
+  },
+  {
+   "pair": "EURUSD",
+   "dir": "SELL",
+   "style": "swing",
+   "zone": [
+    1.1192373501984416,
+    1.1211509906435426
+   ],
+   "sl": 1.127210852053029,
+   "entry": 1.1192373501984416,
+   "rr": 1.2,
+   "tp": 1.1096691479729366
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_94186d32",
+ "crops": [
+  "/home/claude/ig/setup/w_94186d32/tg_0.jpg",
+  "/home/claude/ig/setup/w_94186d32/tg_1.jpg",
+  "/home/claude/ig/setup/w_94186d32/tg_2.jpg"
+ ]
+}
