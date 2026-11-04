@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-04 12:43 IST",
+"updated": "2026-11-04 13:42 IST",
 "date": "2026-11-04",
 "followers": 35,
-"media_count": 56,
+"media_count": 57,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 6,
-"reach": 3,
+"views": 8,
+"reach": 4,
 "saved": 0,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-04 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 60,
-"reach": 7,
+"views": 120,
+"reach": 96,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 31,
+"reach": 19,
 "saved": 0,
 "shares": 0
 }
@@ -93,8 +93,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second m",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18357087595217208",
+"cap": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second me.\nIsliye Aegis advanced bot hai. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #tradingbot #xauusd #forexhindi",
+"cap1": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second m",
+"time": "2026-11-04 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfT-n88oeKR/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -123,6 +136,20 @@
 ],
 "recent_posts": [
 {
+"id": "18357087595217208",
+"cap": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second me.\nIsliye Aegis advanced bot hai. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #tradingbot #xauusd #forexhindi",
+"cap1": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second m",
+"time": "2026-11-04 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfT-n88oeKR/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18092306351237489",
 "cap": "Chal rahe 2 scenario ka UPDATE (Wed 4 Nov) 👇\nGOLD SELL — OPEN · zone 3,927 · SL 4,028 · target 3,804\nETHUSD SELL — OPEN · zone 2,277 · SL 2,367 · target 2,169\nAaj London session ka koi A+ breakout setup nahi — watchlist mode, patience.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "Chal rahe 2 scenario ka UPDATE (Wed 4 Nov) 👇",
@@ -131,8 +158,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 31,
+"reach": 19,
 "saved": 0,
 "shares": 0
 },
@@ -143,10 +170,10 @@
 "time": "2026-11-04 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 60,
-"reach": 7,
+"views": 120,
+"reach": 96,
 "saved": 0,
 "shares": 0
 },
@@ -173,8 +200,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 6,
-"reach": 3,
+"views": 8,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -201,8 +228,8 @@
 "link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
 "likes": 2,
 "comments": 0,
-"views": 112,
-"reach": 104,
+"views": 113,
+"reach": 106,
 "saved": 1,
 "shares": 0
 },
@@ -215,8 +242,8 @@
 "link": "https://www.instagram.com/reel/DfR_mK_jLHt/",
 "likes": 3,
 "comments": 0,
-"views": 103,
-"reach": 91,
+"views": 106,
+"reach": 94,
 "saved": 0,
 "shares": 0
 },
@@ -527,20 +554,6 @@
 "reach": 2,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18035957567667616",
-"cap": "Taare jud ke banta hai ORION ✨ Kai engines, ML filter jo kamzor setup skip karta hai.\nDM \"ORION\". Free with partner broker.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #tradingbot #xauusd #mt5 #algotrading",
-"cap1": "Taare jud ke banta hai ORION ✨ Kai engines, ML filter jo kamzor setup ",
-"time": "2026-10-31 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfJrhMvjuPk/",
-"likes": 1,
-"comments": 0,
-"views": 128,
-"reach": 119,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -665,6 +678,16 @@
 "disk_free_gb": 25.9,
 "github_runs": [
 {
+"t": "2026-11-04T08:00:23Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-04T07:21:43Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-04T06:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -678,16 +701,6 @@
 "t": "2026-11-04T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-04T01:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-03T22:13:32Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
