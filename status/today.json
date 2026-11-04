@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04 20:41 IST",
+"updated": "2026-11-04 21:24 IST",
 "date": "2026-11-04",
 "followers": 35,
 "media_count": 61,
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
 "likes": 2,
 "comments": 0,
-"views": 125,
+"views": 126,
 "reach": 103,
 "saved": 0,
 "shares": 0
@@ -82,7 +82,7 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 110,
+"views": 111,
 "reach": 93,
 "saved": 1,
 "shares": 0
@@ -103,7 +103,7 @@
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
 "likes": 2,
 "comments": 0,
-"views": 143,
+"views": 144,
 "reach": 108,
 "saved": 2,
 "shares": 0
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 16,
-"reach": 14,
+"views": 23,
+"reach": 15,
 "saved": 0,
 "shares": 0
 }
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 53,
-"reach": 43,
+"views": 68,
+"reach": 55,
 "saved": 0,
 "shares": 0
 }
@@ -187,11 +187,19 @@
 "link": "https://www.instagram.com/reel/DfUutRWDEzd/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 27,
+"reach": 6,
 "saved": 0,
 "shares": 0
 }
+},
+{
+"slot": "2300",
+"name": "Next-day setups reel",
+"type": "reel",
+"title": "Kal (Thu 5 Nov) ke 2 scenario 👇",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
@@ -204,8 +212,8 @@
 "link": "https://www.instagram.com/reel/DfUutRWDEzd/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 27,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -218,8 +226,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 53,
-"reach": 43,
+"views": 68,
+"reach": 55,
 "saved": 0,
 "shares": 0
 },
@@ -232,8 +240,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 16,
-"reach": 14,
+"views": 23,
+"reach": 15,
 "saved": 0,
 "shares": 0
 },
@@ -260,7 +268,7 @@
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
 "likes": 2,
 "comments": 0,
-"views": 143,
+"views": 144,
 "reach": 108,
 "saved": 2,
 "shares": 0
@@ -274,7 +282,7 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 110,
+"views": 111,
 "reach": 93,
 "saved": 1,
 "shares": 0
@@ -288,7 +296,7 @@
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
 "likes": 2,
 "comments": 0,
-"views": 125,
+"views": 126,
 "reach": 103,
 "saved": 0,
 "shares": 0
@@ -330,7 +338,7 @@
 "link": "https://www.instagram.com/reel/DfSbHxPFQ2f/",
 "likes": 2,
 "comments": 0,
-"views": 126,
+"views": 127,
 "reach": 105,
 "saved": 2,
 "shares": 0
@@ -344,7 +352,7 @@
 "link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
 "likes": 2,
 "comments": 0,
-"views": 118,
+"views": 119,
 "reach": 110,
 "saved": 1,
 "shares": 0
@@ -358,7 +366,7 @@
 "link": "https://www.instagram.com/reel/DfR_mK_jLHt/",
 "likes": 3,
 "comments": 0,
-"views": 107,
+"views": 108,
 "reach": 95,
 "saved": 0,
 "shares": 0
@@ -386,7 +394,7 @@
 "link": "https://www.instagram.com/reel/DfRZ1TfjT8l/",
 "likes": 0,
 "comments": 0,
-"views": 117,
+"views": 118,
 "reach": 103,
 "saved": 0,
 "shares": 0
@@ -629,16 +637,18 @@
 "sl": 1.127210852053029,
 "tp": 1.1096691479729366,
 "created": "2026-11-01T23:00+05:30",
-"status": "OPEN",
+"status": "SL",
 "src": "yahoo:EURUSD=X",
 "reel": "https://www.instagram.com/reel/DfNStqpDG5L/",
 "events": [
-"02 Nov 12:45 OPEN @ 1.11924"
+"02 Nov 12:45 OPEN @ 1.11924",
+"04 Nov 18:30 SL hit"
 ],
-"last": 1.1254924535751343,
-"last_t": 1793792726,
+"last": 1.1242270469665527,
+"last_t": 1793807126,
 "entry": 1.1192373501984416,
-"opened": 1793603700
+"opened": 1793603700,
+"r": -1.0
 },
 {
 "id": "20261101_2300_GOLD",
@@ -677,16 +687,18 @@
 "sl": 2366.7979653033212,
 "tp": 2169.23404733865,
 "created": "2026-11-01T23:00+05:30",
-"status": "OPEN",
+"status": "SL",
 "src": "yahoo:ETH-USD",
 "reel": "https://www.instagram.com/reel/DfNStqpDG5L/",
 "events": [
-"02 Nov 05:30 OPEN @ 2,277.0"
+"02 Nov 05:30 OPEN @ 2,277.0",
+"04 Nov 20:15 SL hit"
 ],
 "entry": 2276.9961844102886,
 "opened": 1793577600,
-"last": 2334.6298828125,
-"last_t": 1793792771
+"last": 2421.469970703125,
+"last_t": 1793807167,
+"r": -1.0
 },
 {
 "id": "20261102_2105_BTCUSD",
@@ -699,17 +711,19 @@
 ],
 "sl": 79989.6220509755,
 "created": "2026-11-02T21:05+05:30",
-"status": "OPEN",
+"status": "SL",
 "src": "duka",
 "reel": "2300.mp4",
 "tp": 73572.8852221141,
 "events": [
-"02 Nov 21:15 OPEN @ 77,698"
+"02 Nov 21:15 OPEN @ 77,698",
+"04 Nov 20:30 SL hit"
 ],
 "entry": 77697.93032638213,
 "opened": 1793634300,
-"last": 78595.0,
-"last_t": 1793792700
+"last": 80326.2,
+"last_t": 1793807100,
+"r": -1.0
 },
 {
 "id": "20261102_2105_USDCAD",
@@ -731,14 +745,51 @@
 ],
 "entry": 1.3959320849552899,
 "opened": 1793634300,
-"last": 1.39569,
-"last_t": 1793792700
+"last": 1.39583,
+"last_t": 1793807100
+},
+{
+"id": "20261104_2118_USDJPY",
+"pair": "USDJPY",
+"dir": "BUY",
+"style": "swing",
+"zone": [
+158.08587083190287,
+158.3394625014305
+],
+"sl": 157.28283054506542,
+"created": "2026-11-04T21:18+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 160.2414000228876
+},
+{
+"id": "20261104_2118_GBPUSD",
+"pair": "GBPUSD",
+"dir": "BUY",
+"style": "swing",
+"zone": [
+1.3449551826400057,
+1.3468848173599948
+],
+"sl": 1.3388446726933743,
+"created": "2026-11-04T21:18+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 1.3613570777599115
 }
 ],
-"voice_chars_month": 38359,
+"voice_chars_month": 38906,
 "voice_limit": 30000,
 "disk_free_gb": 25.8,
 "github_runs": [
+{
+"t": "2026-11-04T15:42:35Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-04T15:00:27Z",
 "ok": "success",
@@ -758,11 +809,6 @@
 "t": "2026-11-04T13:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-04T12:56:24Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
