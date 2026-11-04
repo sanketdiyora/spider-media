@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-04 08:10 IST",
+"updated": "2026-11-04 11:11 IST",
 "date": "2026-11-04",
 "followers": 35,
-"media_count": 53,
+"media_count": 54,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -30,8 +30,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Sprea",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18193786534360929",
+"cap": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Spread, swap, margin chalta rehta hai.\nDM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #forexhindi #tradingeducation #xauusd",
+"cap1": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Sprea",
+"time": "2026-11-04 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfTtfUEDTqc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -76,6 +89,20 @@
 ],
 "recent_posts": [
 {
+"id": "18193786534360929",
+"cap": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Spread, swap, margin chalta rehta hai.\nDM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #forexhindi #tradingeducation #xauusd",
+"cap1": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Sprea",
+"time": "2026-11-04 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfTtfUEDTqc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18196614100395533",
 "cap": "Aaj ki 4 badi khabrein (Wed 4 Nov) 📰\n1️⃣ US midterm results — counting jaari, USD/gold me volatility ka scenario\n2️⃣ Eurozone flash CPI — 3:30 PM IST\n3️⃣ US ADP jobs — 6:45 PM IST\n4️⃣ US ISM services PMI — 8:30 PM IST\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #xauusd #tradingnews #spidertrades",
 "cap1": "Aaj ki 4 badi khabrein (Wed 4 Nov) 📰",
@@ -84,8 +111,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -98,7 +125,7 @@
 "link": "https://www.instagram.com/reel/DfSbHxPFQ2f/",
 "likes": 2,
 "comments": 0,
-"views": 120,
+"views": 121,
 "reach": 100,
 "saved": 2,
 "shares": 0
@@ -112,8 +139,8 @@
 "link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
 "likes": 2,
 "comments": 0,
-"views": 108,
-"reach": 101,
+"views": 110,
+"reach": 104,
 "saved": 1,
 "shares": 0
 },
@@ -126,8 +153,8 @@
 "link": "https://www.instagram.com/reel/DfR_mK_jLHt/",
 "likes": 3,
 "comments": 0,
-"views": 96,
-"reach": 85,
+"views": 101,
+"reach": 90,
 "saved": 0,
 "shares": 0
 },
@@ -252,8 +279,8 @@
 "link": "https://www.instagram.com/reel/DfPayQHldDx/",
 "likes": 5,
 "comments": 0,
-"views": 140,
-"reach": 123,
+"views": 142,
+"reach": 124,
 "saved": 3,
 "shares": 2
 },
@@ -480,20 +507,6 @@
 "reach": 130,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "17887353015622798",
-"cap": "90% win rate, phir bhi minus? 😳 9 jeet, 1 bada loss = account neeche.\nWin rate nahi, avg win vs avg loss dekho.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#winrate #riskmanagement #tradingeducation #forexhindi #tradingbot",
-"cap1": "90% win rate, phir bhi minus? 😳 9 jeet, 1 bada loss = account neeche.",
-"time": "2026-10-31 01:09",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfIWm4IkaAt/",
-"likes": 1,
-"comments": 0,
-"views": 147,
-"reach": 122,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -618,6 +631,11 @@
 "disk_free_gb": 25.9,
 "github_runs": [
 {
+"t": "2026-11-04T05:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-04T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -634,11 +652,6 @@
 },
 {
 "t": "2026-11-03T21:40:48Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-03T20:36:31Z",
 "ok": "success",
 "ev": "schedule"
 }
