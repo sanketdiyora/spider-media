@@ -1,0 +1,40 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-04/2300.mp4",
+ "dur": 38.66,
+ "music": "synthwave/131.mp3",
+ "chars": 547,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "USDJPY",
+   "dir": "BUY",
+   "style": "swing",
+   "zone": [
+    158.08587083190287,
+    158.3394625014305
+   ],
+   "sl": 157.28283054506542,
+   "entry": 158.3394625014305,
+   "rr": 1.8,
+   "tp": 160.2414000228876
+  },
+  {
+   "pair": "GBPUSD",
+   "dir": "BUY",
+   "style": "swing",
+   "zone": [
+    1.3449551826400057,
+    1.3468848173599948
+   ],
+   "sl": 1.3388446726933743,
+   "entry": 1.3468848173599948,
+   "rr": 1.8,
+   "tp": 1.3613570777599115
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_41dd4055",
+ "crops": [
+  "/home/claude/ig/setup/w_41dd4055/tg_0.jpg",
+  "/home/claude/ig/setup/w_41dd4055/tg_1.jpg"
+ ]
+}
