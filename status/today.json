@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-04 11:48 IST",
+"updated": "2026-11-04 12:11 IST",
 "date": "2026-11-04",
 "followers": 35,
-"media_count": 54,
+"media_count": 55,
 "slots": [
 {
 "slot": "0700",
@@ -20,7 +20,7 @@
 "likes": 0,
 "comments": 0,
 "views": 6,
-"reach": 2,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -51,8 +51,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17916935346468549",
+"cap": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️",
+"time": "2026-11-04 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1230",
@@ -97,6 +110,20 @@
 ],
 "recent_posts": [
 {
+"id": "17916935346468549",
+"cap": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️",
+"time": "2026-11-04 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18193786534360929",
 "cap": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Spread, swap, margin chalta rehta hai.\nDM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #forexhindi #tradingeducation #xauusd",
 "cap1": "Hedge ke 4 myths 🛡️ Hedge loss ko freeze karta hai, khatam nahi. Sprea",
@@ -120,7 +147,7 @@
 "likes": 0,
 "comments": 0,
 "views": 6,
-"reach": 2,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -501,20 +528,6 @@
 "reach": 1,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "17951780253055217",
-"cap": "Ek galat trade poora account kaise kha jaata hai? 🛑 Jab stop loss nahi hota.\n-50% ke baad wapas aane ke liye +100% chahiye. Bot me check karo: trade pe SL ya account pe equity stop.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#stoploss #riskmanagement #forexhindi #tradingbot #tradingeducation",
-"cap1": "Ek galat trade poora account kaise kha jaata hai? 🛑 Jab stop loss nahi",
-"time": "2026-10-31 02:12",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfIduCAgWYx/",
-"likes": 2,
-"comments": 0,
-"views": 153,
-"reach": 130,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -639,6 +652,11 @@
 "disk_free_gb": 25.9,
 "github_runs": [
 {
+"t": "2026-11-04T06:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-04T05:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -655,11 +673,6 @@
 },
 {
 "t": "2026-11-03T22:13:32Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-03T21:40:48Z",
 "ok": "success",
 "ev": "schedule"
 }
