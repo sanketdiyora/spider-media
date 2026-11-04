@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04 11:11 IST",
+"updated": "2026-11-04 11:48 IST",
 "date": "2026-11-04",
 "followers": 35,
 "media_count": 54,
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 3,
+"views": 6,
 "reach": 2,
 "saved": 0,
 "shares": 0
@@ -51,6 +51,14 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️",
+"status": "PENDING",
+"post": null
+},
+{
+"slot": "1230",
+"name": "reel",
+"type": "reel",
+"title": "Chal rahe 2 scenario ka UPDATE (Wed 4 Nov) 👇",
 "status": "PENDING",
 "post": null
 },
@@ -111,7 +119,7 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 3,
+"views": 6,
 "reach": 2,
 "saved": 0,
 "shares": 0
@@ -126,7 +134,7 @@
 "likes": 2,
 "comments": 0,
 "views": 121,
-"reach": 100,
+"reach": 101,
 "saved": 2,
 "shares": 0
 },
@@ -528,8 +536,8 @@
 "events": [
 "02 Nov 12:45 OPEN @ 1.11924"
 ],
-"last": 1.121076226234436,
-"last_t": 1793750425,
+"last": 1.1234692335128784,
+"last_t": 1793772929,
 "entry": 1.1192373501984416,
 "opened": 1793603700
 },
@@ -553,8 +561,8 @@
 ],
 "entry": 3926.57045170775,
 "opened": 1793597400,
-"last": 3943.39990234375,
-"last_t": 1793749850
+"last": 4019.800048828125,
+"last_t": 1793772336
 },
 {
 "id": "20261101_2300_ETHUSD",
@@ -576,8 +584,8 @@
 ],
 "entry": 2276.9961844102886,
 "opened": 1793577600,
-"last": 2273.9599609375,
-"last_t": 1793750452
+"last": 2287.580078125,
+"last_t": 1793772931
 },
 {
 "id": "20261102_2105_BTCUSD",
@@ -599,8 +607,8 @@
 ],
 "entry": 77697.93032638213,
 "opened": 1793634300,
-"last": 77324.0,
-"last_t": 1793749500
+"last": 77645.3,
+"last_t": 1793772000
 },
 {
 "id": "20261102_2105_USDCAD",
@@ -622,11 +630,11 @@
 ],
 "entry": 1.3959320849552899,
 "opened": 1793634300,
-"last": 1.40047,
-"last_t": 1793749500
+"last": 1.39693,
+"last_t": 1793772000
 }
 ],
-"voice_chars_month": 37485,
+"voice_chars_month": 37741,
 "voice_limit": 30000,
 "disk_free_gb": 25.9,
 "github_runs": [
