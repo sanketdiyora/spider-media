@@ -1,0 +1,40 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-04/0800.mp4",
+ "dur": 19.35,
+ "music": "synthwave/159.mp3",
+ "chars": 248,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GOLD",
+   "dir": "SELL",
+   "style": "swing",
+   "zone": [
+    3926.57045170775,
+    3951.029483188083
+   ],
+   "sl": 4028.4830828758036,
+   "entry": 3926.57045170775,
+   "rr": 1.2,
+   "tp": 3804.2752943060855
+  },
+  {
+   "pair": "ETHUSD",
+   "dir": "SELL",
+   "style": "swing",
+   "zone": [
+    2276.9961844102886,
+    2298.5486118246167
+   ],
+   "sl": 2366.7979653033212,
+   "entry": 2276.9961844102886,
+   "rr": 1.2,
+   "tp": 2169.23404733865
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_8c9d0d89",
+ "crops": [
+  "/home/claude/ig/setup/w_8c9d0d89/tg_0.jpg",
+  "/home/claude/ig/setup/w_8c9d0d89/tg_1.jpg"
+ ]
+}
