@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-04 13:42 IST",
+"updated": "2026-11-04 17:11 IST",
 "date": "2026-11-04",
 "followers": 35,
-"media_count": 57,
+"media_count": 58,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 8,
-"reach": 4,
+"views": 10,
+"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/p/DfTtfUEDTqc/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
 "likes": 2,
 "comments": 0,
-"views": 120,
-"reach": 96,
+"views": 121,
+"reach": 101,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 31,
-"reach": 19,
+"views": 102,
+"reach": 85,
 "saved": 0,
 "shares": 0
 }
@@ -101,11 +101,11 @@
 "time": "2026-11-04 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 142,
+"reach": 107,
+"saved": 2,
 "shares": 0
 }
 },
@@ -114,8 +114,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Floating vs realized loss 💡 Balance $1,000, floating −$150, equity $85",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18123711988983086",
+"cap": "Floating vs realized loss 💡 Balance $1,000, floating −$150, equity $850. Equity dekho, balance nahi.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#drawdown #riskmanagement #forexhindi #tradingeducation #tradingbot",
+"cap1": "Floating vs realized loss 💡 Balance $1,000, floating −$150, equity $85",
+"time": "2026-11-04 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfUWsMHl7CW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -136,17 +149,31 @@
 ],
 "recent_posts": [
 {
+"id": "18123711988983086",
+"cap": "Floating vs realized loss 💡 Balance $1,000, floating −$150, equity $850. Equity dekho, balance nahi.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#drawdown #riskmanagement #forexhindi #tradingeducation #tradingbot",
+"cap1": "Floating vs realized loss 💡 Balance $1,000, floating −$150, equity $85",
+"time": "2026-11-04 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfUWsMHl7CW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18357087595217208",
 "cap": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second me.\nIsliye Aegis advanced bot hai. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#hedging #goldmintaegis #tradingbot #xauusd #forexhindi",
 "cap1": "Hedge ka sach: loss freeze, khatam nahi 🧊 Example ke saath 15 second m",
 "time": "2026-11-04 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 142,
+"reach": 107,
+"saved": 2,
 "shares": 0
 },
 {
@@ -158,8 +185,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 31,
-"reach": 19,
+"views": 102,
+"reach": 85,
 "saved": 0,
 "shares": 0
 },
@@ -172,8 +199,8 @@
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
 "likes": 2,
 "comments": 0,
-"views": 120,
-"reach": 96,
+"views": 121,
+"reach": 101,
 "saved": 0,
 "shares": 0
 },
@@ -186,8 +213,8 @@
 "link": "https://www.instagram.com/p/DfTtfUEDTqc/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -200,8 +227,8 @@
 "link": "https://www.instagram.com/p/DfTSA1vFHGq/",
 "likes": 0,
 "comments": 0,
-"views": 8,
-"reach": 4,
+"views": 10,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -214,8 +241,8 @@
 "link": "https://www.instagram.com/reel/DfSbHxPFQ2f/",
 "likes": 2,
 "comments": 0,
-"views": 121,
-"reach": 101,
+"views": 124,
+"reach": 103,
 "saved": 2,
 "shares": 0
 },
@@ -228,8 +255,8 @@
 "link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
 "likes": 2,
 "comments": 0,
-"views": 113,
-"reach": 106,
+"views": 118,
+"reach": 109,
 "saved": 1,
 "shares": 0
 },
@@ -242,8 +269,8 @@
 "link": "https://www.instagram.com/reel/DfR_mK_jLHt/",
 "likes": 3,
 "comments": 0,
-"views": 106,
-"reach": 94,
+"views": 107,
+"reach": 95,
 "saved": 0,
 "shares": 0
 },
@@ -270,8 +297,8 @@
 "link": "https://www.instagram.com/reel/DfRZ1TfjT8l/",
 "likes": 0,
 "comments": 0,
-"views": 116,
-"reach": 102,
+"views": 117,
+"reach": 103,
 "saved": 0,
 "shares": 0
 },
@@ -284,8 +311,8 @@
 "link": "https://www.instagram.com/reel/DfRPjpDl96e/",
 "likes": 2,
 "comments": 0,
-"views": 116,
-"reach": 103,
+"views": 117,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -312,8 +339,8 @@
 "link": "https://www.instagram.com/reel/DfQ0DokgheK/",
 "likes": 1,
 "comments": 0,
-"views": 112,
-"reach": 102,
+"views": 113,
+"reach": 103,
 "saved": 0,
 "shares": 0
 },
@@ -340,8 +367,8 @@
 "link": "https://www.instagram.com/reel/DfP2W38iL1O/",
 "likes": 4,
 "comments": 0,
-"views": 137,
-"reach": 108,
+"views": 138,
+"reach": 109,
 "saved": 1,
 "shares": 1
 },
@@ -354,8 +381,8 @@
 "link": "https://www.instagram.com/reel/DfPlHQojGnh/",
 "likes": 4,
 "comments": 0,
-"views": 226,
-"reach": 185,
+"views": 227,
+"reach": 186,
 "saved": 1,
 "shares": 2
 },
@@ -369,7 +396,7 @@
 "likes": 5,
 "comments": 0,
 "views": 142,
-"reach": 124,
+"reach": 125,
 "saved": 3,
 "shares": 2
 },
@@ -540,20 +567,6 @@
 "reach": 1,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18117933542045520",
-"cap": "Ek strategy ya kai strategies? 🧺 Ek basket me saare ande mat rakho.\nPar dhyaan: zyada engines ≠ zyada profit. 6 slides.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#diversification #algotrading #tradingbot #forexhindi #xauusd",
-"cap1": "Ek strategy ya kai strategies? 🧺 Ek basket me saare ande mat rakho.",
-"time": "2026-10-31 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfKDiOFl-U0/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 2,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -678,6 +691,16 @@
 "disk_free_gb": 25.9,
 "github_runs": [
 {
+"t": "2026-11-04T11:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-04T09:01:50Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-04T08:00:23Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -689,16 +712,6 @@
 },
 {
 "t": "2026-11-04T06:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-04T05:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-04T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
