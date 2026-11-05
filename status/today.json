@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 12:11 IST",
+"updated": "2026-11-05 13:41 IST",
 "date": "2026-11-05",
 "followers": 36,
-"media_count": 65,
+"media_count": 66,
 "slots": [
 {
 "slot": "0700",
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 53,
+"reach": 42,
 "saved": 0,
 "shares": 0
 }
@@ -72,8 +72,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18003194115043928",
+"cap": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bot band. VPS = cloud me computer, 24×5.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
+"cap1": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
+"time": "2026-11-05 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -102,6 +115,20 @@
 ],
 "recent_posts": [
 {
+"id": "18003194115043928",
+"cap": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bot band. VPS = cloud me computer, 24×5.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
+"cap1": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
+"time": "2026-11-05 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18020267792949214",
 "cap": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
@@ -110,8 +137,8 @@
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 53,
+"reach": 42,
 "saved": 0,
 "shares": 0
 },
@@ -180,8 +207,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 90,
-"reach": 81,
+"views": 93,
+"reach": 82,
 "saved": 1,
 "shares": 0
 },
@@ -194,8 +221,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 49,
-"reach": 38,
+"views": 54,
+"reach": 42,
 "saved": 0,
 "shares": 0
 },
@@ -506,20 +533,6 @@
 "reach": 3,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18032115854880893",
-"cap": "Aaj ki badi khabrein 📰 (Mon 2 Nov)\n• US ISM Manufacturing — 8:30 PM IST\n• Oil aur Iran/Hormuz headlines\n• Kal US midterm elections\n• Kal RBA rate decision, 9:00 AM IST\nYe sirf scenario aur jaankari hai, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #marketnews #forexhindi #goldtrading #spidertrades",
-"cap1": "Aaj ki badi khabrein 📰 (Mon 2 Nov)",
-"time": "2026-11-02 07:11",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfOJnkmEm9a/",
-"likes": 0,
-"comments": 0,
-"views": 18,
-"reach": 8,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -698,6 +711,16 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T08:00:25Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-05T07:47:26Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-05T06:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -711,16 +734,6 @@
 "t": "2026-11-05T02:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T01:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-04T22:29:13Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
