@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 07:10 IST",
+"updated": "2026-11-05 11:11 IST",
 "date": "2026-11-05",
 "followers": 36,
-"media_count": 63,
+"media_count": 64,
 "slots": [
 {
 "slot": "0700",
@@ -30,8 +30,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18071236823787839",
+"cap": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC = light/internet/update ka risk.\nSetup help: DM \"VPS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
+"cap1": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC ",
+"time": "2026-11-05 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfWSS33D3lo/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -76,6 +89,20 @@
 ],
 "recent_posts": [
 {
+"id": "18071236823787839",
+"cap": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC = light/internet/update ka risk.\nSetup help: DM \"VPS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
+"cap1": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC ",
+"time": "2026-11-05 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfWSS33D3lo/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18352448224281524",
 "cap": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰\n1️⃣ Norges Bank rate decision — 2:30 PM IST (4.50% hold ki umeed)\n2️⃣ Bank of England rate decision — 5:30 PM IST (Reuters poll: 3.75% → 4.00% hike ki umeed)\n3️⃣ US weekly jobless claims — 7:00 PM IST (exp. ~197K)\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #gbpusd #bankofengland #spidertrades",
 "cap1": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
@@ -98,8 +125,8 @@
 "link": "https://www.instagram.com/reel/DfU_8_Mj00x/",
 "likes": 0,
 "comments": 0,
-"views": 112,
-"reach": 100,
+"views": 113,
+"reach": 101,
 "saved": 0,
 "shares": 1
 },
@@ -112,8 +139,8 @@
 "link": "https://www.instagram.com/reel/DfUutRWDEzd/",
 "likes": 0,
 "comments": 0,
-"views": 118,
-"reach": 102,
+"views": 122,
+"reach": 103,
 "saved": 1,
 "shares": 0
 },
@@ -126,8 +153,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 87,
-"reach": 77,
+"views": 90,
+"reach": 81,
 "saved": 1,
 "shares": 0
 },
@@ -140,8 +167,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 43,
-"reach": 30,
+"views": 47,
+"reach": 37,
 "saved": 0,
 "shares": 0
 },
@@ -480,20 +507,6 @@
 "reach": 1227,
 "saved": 15,
 "shares": 21
-},
-{
-"id": "18016505168972863",
-"cap": "Backtest me +100%, live me account khaali? 📉 Backtest 3 jagah jhooth bol sakta hai.\nOverfitting, spread/slippage, aur chhota time period. Backtest ke baad demo ya cent pe forward test zaroor.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#backtesting #algotrading #tradingbot #forexhindi #overfitting",
-"cap1": "Backtest me +100%, live me account khaali? 📉 Backtest 3 jagah jhooth b",
-"time": "2026-11-01 22:11",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfNLzLulPSV/",
-"likes": 17,
-"comments": 0,
-"views": 1217,
-"reach": 1016,
-"saved": 10,
-"shares": 2
 }
 ],
 "trades": [
@@ -672,6 +685,16 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-05T02:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-05T01:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -683,16 +706,6 @@
 },
 {
 "t": "2026-11-04T21:48:32Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-04T20:54:34Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-04T20:18:26Z",
 "ok": "success",
 "ev": "schedule"
 }
