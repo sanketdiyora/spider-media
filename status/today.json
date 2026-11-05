@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-05 05:38 IST",
+"updated": "2026-11-05 07:10 IST",
 "date": "2026-11-05",
 "followers": 36,
-"media_count": 62,
+"media_count": 63,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18352448224281524",
+"cap": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰\n1️⃣ Norges Bank rate decision — 2:30 PM IST (4.50% hold ki umeed)\n2️⃣ Bank of England rate decision — 5:30 PM IST (Reuters poll: 3.75% → 4.00% hike ki umeed)\n3️⃣ US weekly jobless claims — 7:00 PM IST (exp. ~197K)\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #gbpusd #bankofengland #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
+"time": "2026-11-05 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfV20JVl75G/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "18352448224281524",
+"cap": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰\n1️⃣ Norges Bank rate decision — 2:30 PM IST (4.50% hold ki umeed)\n2️⃣ Bank of England rate decision — 5:30 PM IST (Reuters poll: 3.75% → 4.00% hike ki umeed)\n3️⃣ US weekly jobless claims — 7:00 PM IST (exp. ~197K)\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #gbpusd #bankofengland #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
+"time": "2026-11-05 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfV20JVl75G/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18157897765516715",
 "cap": "Kal (Thu 5 Nov) ke 2 scenario 👇\nUSDJPY BUY — zone 158.34 · SL 157.28 · target 160.24 · RR 1:1.8\nGBPUSD BUY — zone 1.3469 · SL 1.3388 · target 1.3614 · RR 1:1.8\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "Kal (Thu 5 Nov) ke 2 scenario 👇",
@@ -71,7 +98,7 @@
 "link": "https://www.instagram.com/reel/DfU_8_Mj00x/",
 "likes": 0,
 "comments": 0,
-"views": 111,
+"views": 112,
 "reach": 100,
 "saved": 0,
 "shares": 1
@@ -99,8 +126,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 83,
-"reach": 74,
+"views": 87,
+"reach": 77,
 "saved": 1,
 "shares": 0
 },
@@ -113,8 +140,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 37,
-"reach": 28,
+"views": 43,
+"reach": 30,
 "saved": 0,
 "shares": 0
 },
@@ -467,20 +494,6 @@
 "reach": 1016,
 "saved": 10,
 "shares": 2
-},
-{
-"id": "18098704049542915",
-"cap": "Martingale vs Grid ⚔️ Ek me lot badhta hai, dusre me levels dono taraf. Risk dono me hai, exit decide karta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#martingale #gridtrading #tradingbot #forexhindi #xauusd",
-"cap1": "Martingale vs Grid ⚔️ Ek me lot badhta hai, dusre me levels dono taraf",
-"time": "2026-11-01 20:45",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfNB5sHgNw7/",
-"likes": 1,
-"comments": 0,
-"views": 139,
-"reach": 116,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [
@@ -659,6 +672,11 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T01:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-04T22:29:13Z",
 "ok": "success",
 "ev": "schedule"
@@ -675,11 +693,6 @@
 },
 {
 "t": "2026-11-04T20:18:26Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-04T19:39:02Z",
 "ok": "success",
 "ev": "schedule"
 }
