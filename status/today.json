@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 11:11 IST",
+"updated": "2026-11-05 12:11 IST",
 "date": "2026-11-05",
 "followers": 36,
-"media_count": 64,
+"media_count": 65,
 "slots": [
 {
 "slot": "0700",
@@ -51,8 +51,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18020267792949214",
+"cap": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
+"time": "2026-11-05 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfWZHMjksps/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -88,6 +101,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18020267792949214",
+"cap": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
+"time": "2026-11-05 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfWZHMjksps/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18071236823787839",
 "cap": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC = light/internet/update ka risk.\nSetup help: DM \"VPS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
@@ -167,8 +194,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 47,
-"reach": 37,
+"views": 49,
+"reach": 38,
 "saved": 0,
 "shares": 0
 },
@@ -493,20 +520,6 @@
 "reach": 8,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18417464830081967",
-"cap": "Kal (Mon 2 Nov) ke 3 scenarios 👇\nEURUSD • GOLD • ETHUSD — teeno me daily bearish structure, pullback ke baad zone aur levels reel me dekho.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #goldtrading #eurusd #tradingsetups #spidertrades",
-"cap1": "Kal (Mon 2 Nov) ke 3 scenarios 👇",
-"time": "2026-11-01 23:11",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfNStqpDG5L/",
-"likes": 33,
-"comments": 1,
-"views": 1443,
-"reach": 1227,
-"saved": 15,
-"shares": 21
 }
 ],
 "trades": [
@@ -685,6 +698,11 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T06:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-05T05:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -701,11 +719,6 @@
 },
 {
 "t": "2026-11-04T22:29:13Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-04T21:48:32Z",
 "ok": "success",
 "ev": "schedule"
 }
