@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 13:41 IST",
+"updated": "2026-11-05 17:10 IST",
 "date": "2026-11-05",
-"followers": 36,
-"media_count": 66,
+"followers": 38,
+"media_count": 67,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfV20JVl75G/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
 "likes": 0,
 "comments": 0,
-"views": 53,
-"reach": 42,
+"views": 108,
+"reach": 92,
 "saved": 0,
 "shares": 0
 }
@@ -80,11 +80,11 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 169,
+"reach": 137,
+"saved": 2,
 "shares": 0
 }
 },
@@ -93,8 +93,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18121234811324661",
+"cap": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak add ya cut hota hai. Grid/martingale jaise lambe trades me dhyaan rakho. Symbol specification check karo. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #xauusd #riskmanagement",
+"cap1": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
+"time": "2026-11-05 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfW7ee3F2k4/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -115,17 +128,31 @@
 ],
 "recent_posts": [
 {
+"id": "18121234811324661",
+"cap": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak add ya cut hota hai. Grid/martingale jaise lambe trades me dhyaan rakho. Symbol specification check karo. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #xauusd #riskmanagement",
+"cap1": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
+"time": "2026-11-05 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfW7ee3F2k4/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18003194115043928",
 "cap": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bot band. VPS = cloud me computer, 24×5.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
 "cap1": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 169,
+"reach": 137,
+"saved": 2,
 "shares": 0
 },
 {
@@ -137,8 +164,8 @@
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
 "likes": 0,
 "comments": 0,
-"views": 53,
-"reach": 42,
+"views": 108,
+"reach": 92,
 "saved": 0,
 "shares": 0
 },
@@ -165,8 +192,8 @@
 "link": "https://www.instagram.com/p/DfV20JVl75G/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -179,7 +206,7 @@
 "link": "https://www.instagram.com/reel/DfU_8_Mj00x/",
 "likes": 0,
 "comments": 0,
-"views": 113,
+"views": 114,
 "reach": 101,
 "saved": 0,
 "shares": 1
@@ -193,8 +220,8 @@
 "link": "https://www.instagram.com/reel/DfUutRWDEzd/",
 "likes": 0,
 "comments": 0,
-"views": 122,
-"reach": 103,
+"views": 123,
+"reach": 105,
 "saved": 1,
 "shares": 0
 },
@@ -207,8 +234,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 93,
-"reach": 82,
+"views": 115,
+"reach": 99,
 "saved": 1,
 "shares": 0
 },
@@ -221,8 +248,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 54,
-"reach": 42,
+"views": 61,
+"reach": 49,
 "saved": 0,
 "shares": 0
 },
@@ -249,8 +276,8 @@
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
 "likes": 2,
 "comments": 0,
-"views": 147,
-"reach": 110,
+"views": 148,
+"reach": 111,
 "saved": 2,
 "shares": 0
 },
@@ -263,8 +290,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 112,
-"reach": 93,
+"views": 113,
+"reach": 94,
 "saved": 1,
 "shares": 0
 },
@@ -501,8 +528,8 @@
 "link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
 "likes": 5,
 "comments": 1,
-"views": 133,
-"reach": 107,
+"views": 134,
+"reach": 108,
 "saved": 2,
 "shares": 2
 },
@@ -519,20 +546,6 @@
 "reach": 126,
 "saved": 0,
 "shares": 2
-},
-{
-"id": "18125934841928558",
-"cap": "Saare bots FREE. Catch kya hai? 🤔\nSeedha jawab: partner broker pe account, broker humein IB commission deta hai, tumse bot fee nahi.\nNormal spread/commission har broker jaisa. Profit guarantee nahi.\nDM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #forexhindi #mt5 #xauusd",
-"cap1": "Saare bots FREE. Catch kya hai? 🤔",
-"time": "2026-11-02 11:11",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfOlHt5jAl5/",
-"likes": 0,
-"comments": 0,
-"views": 6,
-"reach": 3,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
@@ -711,6 +724,16 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T11:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-05T09:22:41Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-05T08:00:25Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -722,16 +745,6 @@
 },
 {
 "t": "2026-11-05T06:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T05:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T02:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
