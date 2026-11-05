@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 17:10 IST",
+"updated": "2026-11-05 19:10 IST",
 "date": "2026-11-05",
-"followers": 38,
-"media_count": 67,
+"followers": 39,
+"media_count": 68,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfV20JVl75G/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-05 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 108,
-"reach": 92,
+"views": 112,
+"reach": 98,
 "saved": 0,
 "shares": 0
 }
@@ -80,12 +80,12 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 3,
+"likes": 4,
 "comments": 0,
-"views": 169,
-"reach": 137,
-"saved": 2,
-"shares": 0
+"views": 284,
+"reach": 211,
+"saved": 6,
+"shares": 1
 }
 },
 {
@@ -103,7 +103,7 @@
 "link": "https://www.instagram.com/p/DfW7ee3F2k4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -114,8 +114,21 @@
 "name": "ASPIRE reel",
 "type": "reel",
 "title": "A crack is not the end. 🏺",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18159500629444395",
+"cap": "A crack is not the end. 🏺\nLose 2%, and you need only +2.04% to get back. Lose 10%: +11.1%. Lose 50%: +100%.\nThat is why risk is everything. Keep losses small and every crack becomes gold.\nMath: recovery needed = loss ÷ (1 − loss). Example only.\nStay patient. Stay disciplined. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #tradingpsychology #forextrader #drawdown #spidertrades",
+"cap1": "A crack is not the end. 🏺",
+"time": "2026-11-05 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -128,6 +141,20 @@
 ],
 "recent_posts": [
 {
+"id": "18159500629444395",
+"cap": "A crack is not the end. 🏺\nLose 2%, and you need only +2.04% to get back. Lose 10%: +11.1%. Lose 50%: +100%.\nThat is why risk is everything. Keep losses small and every crack becomes gold.\nMath: recovery needed = loss ÷ (1 − loss). Example only.\nStay patient. Stay disciplined. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #tradingpsychology #forextrader #drawdown #spidertrades",
+"cap1": "A crack is not the end. 🏺",
+"time": "2026-11-05 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18121234811324661",
 "cap": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak add ya cut hota hai. Grid/martingale jaise lambe trades me dhyaan rakho. Symbol specification check karo. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #xauusd #riskmanagement",
 "cap1": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
@@ -136,7 +163,7 @@
 "link": "https://www.instagram.com/p/DfW7ee3F2k4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -148,12 +175,12 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 3,
+"likes": 4,
 "comments": 0,
-"views": 169,
-"reach": 137,
-"saved": 2,
-"shares": 0
+"views": 284,
+"reach": 211,
+"saved": 6,
+"shares": 1
 },
 {
 "id": "18020267792949214",
@@ -162,10 +189,10 @@
 "time": "2026-11-05 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 108,
-"reach": 92,
+"views": 112,
+"reach": 98,
 "saved": 0,
 "shares": 0
 },
@@ -192,8 +219,8 @@
 "link": "https://www.instagram.com/p/DfV20JVl75G/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -206,8 +233,8 @@
 "link": "https://www.instagram.com/reel/DfU_8_Mj00x/",
 "likes": 0,
 "comments": 0,
-"views": 114,
-"reach": 101,
+"views": 118,
+"reach": 103,
 "saved": 0,
 "shares": 1
 },
@@ -248,8 +275,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 61,
-"reach": 49,
+"views": 62,
+"reach": 51,
 "saved": 0,
 "shares": 0
 },
@@ -532,20 +559,6 @@
 "reach": 108,
 "saved": 2,
 "shares": 2
-},
-{
-"id": "18135859387661123",
-"cap": "Loss ek fees hai. Discipline wo ticket hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Loss ek fees hai. Discipline wo ticket hai. 🕷️",
-"time": "2026-11-02 12:49",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfOwTDCjvh5/",
-"likes": 9,
-"comments": 0,
-"views": 146,
-"reach": 126,
-"saved": 0,
-"shares": 2
 }
 ],
 "trades": [
@@ -724,6 +737,16 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T13:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-05T13:06:11Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-05T11:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -735,16 +758,6 @@
 },
 {
 "t": "2026-11-05T08:00:25Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T07:47:26Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-05T06:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
