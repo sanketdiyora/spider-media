@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 20:41 IST",
+"updated": "2026-11-05 20:50 IST",
 "date": "2026-11-05",
 "followers": 41,
-"media_count": 69,
+"media_count": 70,
 "slots": [
 {
 "slot": "0700",
@@ -80,9 +80,9 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 10,
+"likes": 11,
 "comments": 0,
-"views": 500,
+"views": 528,
 "reach": 390,
 "saved": 8,
 "shares": 1
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 19,
-"reach": 10,
+"views": 25,
+"reach": 13,
 "saved": 1,
 "shares": 0
 }
@@ -150,9 +150,44 @@
 "saved": 0,
 "shares": 0
 }
+},
+{
+"slot": "2100",
+"name": "reel",
+"type": "reel",
+"title": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
+"status": "POSTED",
+"post": {
+"id": "17957300160274236",
+"cap": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴\nManual trading skill hai. Bot rules follow karta hai, FOMO nahi karta, neend nahi khoti.\nTum plan banao, bot discipline sambhale.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n*example scene, sirf samjhane ke liye\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #tradingpsychology #forexhindi #algotrading #spidertrades",
+"cap1": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
+"time": "2026-11-05 20:49",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXVo0xgXbJ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "17957300160274236",
+"cap": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴\nManual trading skill hai. Bot rules follow karta hai, FOMO nahi karta, neend nahi khoti.\nTum plan banao, bot discipline sambhale.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n*example scene, sirf samjhane ke liye\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #tradingpsychology #forexhindi #algotrading #spidertrades",
+"cap1": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
+"time": "2026-11-05 20:49",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXVo0xgXbJ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18079007264450725",
 "cap": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur martingale bots pe asar zyada. Symbol specification me check karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #tradingbot #mt5",
@@ -176,8 +211,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 19,
-"reach": 10,
+"views": 25,
+"reach": 13,
 "saved": 1,
 "shares": 0
 },
@@ -202,9 +237,9 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 10,
+"likes": 11,
 "comments": 0,
-"views": 500,
+"views": 528,
 "reach": 390,
 "saved": 8,
 "shares": 1
@@ -558,20 +593,6 @@
 "reach": 125,
 "saved": 3,
 "shares": 2
-},
-{
-"id": "18097759745669934",
-"cap": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position. Jeet bhi badi, loss bhi. Margin = position ÷ leverage. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#leverage #forexhindi #tradingeducation #riskmanagement #xauusd",
-"cap1": "Leverage: do dhaari talwaar ⚖️ $100 pe 1:500 = $50,000 tak ka position",
-"time": "2026-11-02 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfPNFmbl-gs/",
-"likes": 0,
-"comments": 0,
-"views": 19,
-"reach": 6,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [
