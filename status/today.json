@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-05 19:10 IST",
+"updated": "2026-11-05 20:41 IST",
 "date": "2026-11-05",
-"followers": 39,
-"media_count": 68,
+"followers": 41,
+"media_count": 69,
 "slots": [
 {
 "slot": "0700",
@@ -80,11 +80,11 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 4,
+"likes": 10,
 "comments": 0,
-"views": 284,
-"reach": 211,
-"saved": 6,
+"views": 500,
+"reach": 390,
+"saved": 8,
 "shares": 1
 }
 },
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/DfW7ee3F2k4/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 5,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -124,9 +124,9 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 19,
+"reach": 10,
+"saved": 1,
 "shares": 0
 }
 },
@@ -135,11 +135,38 @@
 "name": "KNOW reel",
 "type": "reel",
 "title": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur marti",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18079007264450725",
+"cap": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur martingale bots pe asar zyada. Symbol specification me check karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #tradingbot #mt5",
+"cap1": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur marti",
+"time": "2026-11-05 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "18079007264450725",
+"cap": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur martingale bots pe asar zyada. Symbol specification me check karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #tradingbot #mt5",
+"cap1": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur marti",
+"time": "2026-11-05 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18159500629444395",
 "cap": "A crack is not the end. 🏺\nLose 2%, and you need only +2.04% to get back. Lose 10%: +11.1%. Lose 50%: +100%.\nThat is why risk is everything. Keep losses small and every crack becomes gold.\nMath: recovery needed = loss ÷ (1 − loss). Example only.\nStay patient. Stay disciplined. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #tradingpsychology #forextrader #drawdown #spidertrades",
@@ -149,9 +176,9 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 19,
+"reach": 10,
+"saved": 1,
 "shares": 0
 },
 {
@@ -163,8 +190,8 @@
 "link": "https://www.instagram.com/p/DfW7ee3F2k4/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 5,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -175,11 +202,11 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 4,
+"likes": 10,
 "comments": 0,
-"views": 284,
-"reach": 211,
-"saved": 6,
+"views": 500,
+"reach": 390,
+"saved": 8,
 "shares": 1
 },
 {
@@ -545,20 +572,6 @@
 "reach": 6,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "17945407302362956",
-"cap": "Bot free. Kaise? 3 steps me 👇\nAccount → deposit → DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #freebot #mt5 #algotrading #forexhindi",
-"cap1": "Bot free. Kaise? 3 steps me 👇",
-"time": "2026-11-02 13:46",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfO2x_fCPvW/",
-"likes": 5,
-"comments": 1,
-"views": 134,
-"reach": 108,
-"saved": 2,
-"shares": 2
 }
 ],
 "trades": [
@@ -737,6 +750,21 @@
 "disk_free_gb": 25.1,
 "github_runs": [
 {
+"t": "2026-11-05T15:00:27Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-05T14:56:34Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-05T14:24:36Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-05T13:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -745,21 +773,6 @@
 "t": "2026-11-05T13:06:11Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-05T11:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T09:22:41Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-05T08:00:25Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
