@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-05 20:50 IST",
+"updated": "2026-11-05 21:20 IST",
 "date": "2026-11-05",
-"followers": 41,
+"followers": 43,
 "media_count": 70,
 "slots": [
 {
@@ -80,11 +80,11 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 11,
+"likes": 15,
 "comments": 0,
-"views": 531,
-"reach": 390,
-"saved": 8,
+"views": 608,
+"reach": 461,
+"saved": 9,
 "shares": 1
 }
 },
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 26,
-"reach": 13,
+"views": 48,
+"reach": 34,
 "saved": 1,
 "shares": 0
 }
@@ -143,11 +143,11 @@
 "time": "2026-11-05 20:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
+"views": 57,
 "reach": 0,
-"saved": 0,
+"saved": 2,
 "shares": 0
 }
 },
@@ -158,12 +158,12 @@
 "title": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
 "status": "POSTED",
 "post": {
-"id": "17957300160274236",
+"id": "18094683857704749",
 "cap": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴\nManual trading skill hai. Bot rules follow karta hai, FOMO nahi karta, neend nahi khoti.\nTum plan banao, bot discipline sambhale.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n*example scene, sirf samjhane ke liye\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #tradingpsychology #forexhindi #algotrading #spidertrades",
 "cap1": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
-"time": "2026-11-05 20:49",
+"time": "2026-11-05 21:03",
 "type": "REEL",
-"link": "https://www.instagram.com/reel/DfXVo0xgXbJ/",
+"link": "https://www.instagram.com/reel/DfXXNemgWEa/",
 "likes": 0,
 "comments": 0,
 "views": 0,
@@ -171,16 +171,24 @@
 "saved": 0,
 "shares": 0
 }
+},
+{
+"slot": "2300",
+"name": "Next-day setups reel",
+"type": "reel",
+"title": "Kal (Fri 6 Nov) ke 2 scenario 👇",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
 {
-"id": "17957300160274236",
+"id": "18094683857704749",
 "cap": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴\nManual trading skill hai. Bot rules follow karta hai, FOMO nahi karta, neend nahi khoti.\nTum plan banao, bot discipline sambhale.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n*example scene, sirf samjhane ke liye\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #tradingpsychology #forexhindi #algotrading #spidertrades",
 "cap1": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
-"time": "2026-11-05 20:49",
+"time": "2026-11-05 21:03",
 "type": "REEL",
-"link": "https://www.instagram.com/reel/DfXVo0xgXbJ/",
+"link": "https://www.instagram.com/reel/DfXXNemgWEa/",
 "likes": 0,
 "comments": 0,
 "views": 0,
@@ -195,11 +203,11 @@
 "time": "2026-11-05 20:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
+"views": 57,
 "reach": 0,
-"saved": 0,
+"saved": 2,
 "shares": 0
 },
 {
@@ -211,8 +219,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 0,
 "comments": 0,
-"views": 26,
-"reach": 13,
+"views": 48,
+"reach": 34,
 "saved": 1,
 "shares": 0
 },
@@ -237,11 +245,11 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 11,
+"likes": 15,
 "comments": 0,
-"views": 531,
-"reach": 390,
-"saved": 8,
+"views": 608,
+"reach": 461,
+"saved": 9,
 "shares": 1
 },
 {
@@ -716,8 +724,8 @@
 ],
 "entry": 1.3959320849552899,
 "opened": 1793634300,
-"last": 1.39701,
-"last_t": 1793836800
+"last": 1.39891,
+"last_t": 1793893500
 },
 {
 "id": "20261104_2118_USDJPY",
@@ -739,8 +747,8 @@
 ],
 "entry": 158.3394625014305,
 "opened": 1793809800,
-"last": 158.387,
-"last_t": 1793836800
+"last": 157.915,
+"last_t": 1793893500
 },
 {
 "id": "20261104_2118_GBPUSD",
@@ -762,14 +770,51 @@
 ],
 "entry": 1.3468848173599948,
 "opened": 1793808000,
-"last": 1.34777,
-"last_t": 1793836800
+"last": 1.3471,
+"last_t": 1793893500
+},
+{
+"id": "20261105_2119_AUDUSD",
+"pair": "AUDUSD",
+"dir": "SELL",
+"style": "swing",
+"zone": [
+0.6974976419587966,
+0.6988490247078702
+],
+"sl": 0.7031284034132703,
+"created": "2026-11-05T21:19+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 0.6873622713407438
+},
+{
+"id": "20261105_2119_BTCUSD",
+"pair": "BTCUSD",
+"dir": "SELL",
+"style": "swing",
+"zone": [
+77267.62953262847,
+78086.30380070485
+],
+"sl": 80678.77231628002,
+"created": "2026-11-05T21:19+05:30",
+"status": "PENDING",
+"src": "duka",
+"reel": "2300.mp4",
+"tp": 71127.57252205568
 }
 ],
-"voice_chars_month": 38906,
+"voice_chars_month": 39491,
 "voice_limit": 30000,
-"disk_free_gb": 25.1,
+"disk_free_gb": 25.0,
 "github_runs": [
+{
+"t": "2026-11-05T15:45:04Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-05T15:00:27Z",
 "ok": "success",
@@ -789,11 +834,6 @@
 "t": "2026-11-05T13:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T13:06:11Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
