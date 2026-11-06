@@ -1,197 +1,64 @@
 {
-"updated": "2026-11-05 23:10 IST",
-"date": "2026-11-05",
-"followers": 45,
+"updated": "2026-11-06 05:32 IST",
+"date": "2026-11-06",
+"followers": 47,
 "media_count": 71,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
-"title": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
-"status": "POSTED",
-"post": {
-"id": "18352448224281524",
-"cap": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰\n1️⃣ Norges Bank rate decision — 2:30 PM IST (4.50% hold ki umeed)\n2️⃣ Bank of England rate decision — 5:30 PM IST (Reuters poll: 3.75% → 4.00% hike ki umeed)\n3️⃣ US weekly jobless claims — 7:00 PM IST (exp. ~197K)\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #gbpusd #bankofengland #spidertrades",
-"cap1": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
-"time": "2026-11-05 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfV20JVl75G/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 3,
-"saved": 0,
-"shares": 0
-}
+"title": "Aaj ki 3 badi khabrein (Fri 6 Nov) 📰 — sab 7:00 PM IST pe",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1100",
 "name": "BOT post",
 "type": "carousel",
-"title": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC ",
-"status": "POSTED",
-"post": {
-"id": "18071236823787839",
-"cap": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC = light/internet/update ka risk.\nSetup help: DM \"VPS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
-"cap1": "VPS checklist ✅ Bot 24×5 chalana hai to ye cheezein dekho. Ghar ka PC ",
-"time": "2026-11-05 11:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfWSS33D3lo/",
-"likes": 0,
-"comments": 0,
-"views": 1,
-"reach": 1,
-"saved": 0,
-"shares": 0
-}
+"title": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, dail",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1200",
 "name": "Motivation reel",
 "type": "reel",
-"title": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
-"status": "POSTED",
-"post": {
-"id": "18020267792949214",
-"cap": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
-"time": "2026-11-05 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfWZHMjksps/",
-"likes": 1,
-"comments": 0,
-"views": 114,
-"reach": 99,
-"saved": 0,
-"shares": 0
-}
+"title": "Plan tumhe bachata hai. Mood tumhe bechta hai. 🕷️",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1330",
 "name": "BOT reel",
 "type": "reel",
-"title": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
-"status": "POSTED",
-"post": {
-"id": "18003194115043928",
-"cap": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bot band. VPS = cloud me computer, 24×5.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#vps #tradingbot #mt5 #algotrading #forexhindi",
-"cap1": "Bot ko VPS kyun chahiye? 🖥️ Light gayi, internet gaya, update aaya: bo",
-"time": "2026-11-05 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 18,
-"comments": 0,
-"views": 902,
-"reach": 740,
-"saved": 11,
-"shares": 2
-}
+"title": "ML filter: trade skip kab karta hai? 🧠 Score kam = skip. Kam trades, b",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1700",
 "name": "KNOW post",
 "type": "carousel",
-"title": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
-"status": "POSTED",
-"post": {
-"id": "18121234811324661",
-"cap": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak add ya cut hota hai. Grid/martingale jaise lambe trades me dhyaan rakho. Symbol specification check karo. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #xauusd #riskmanagement",
-"cap1": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
-"time": "2026-11-05 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfW7ee3F2k4/",
-"likes": 0,
-"comments": 0,
-"views": 5,
-"reach": 2,
-"saved": 0,
-"shares": 0
-}
+"title": "Gold ki badi news, IST time ke saath 🗓️ NFP, CPI, FOMC, PCE, GDP... US",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1900",
 "name": "ASPIRE reel",
 "type": "reel",
-"title": "A crack is not the end. 🏺",
-"status": "POSTED",
-"post": {
-"id": "18159500629444395",
-"cap": "A crack is not the end. 🏺\nLose 2%, and you need only +2.04% to get back. Lose 10%: +11.1%. Lose 50%: +100%.\nThat is why risk is everything. Keep losses small and every crack becomes gold.\nMath: recovery needed = loss ÷ (1 − loss). Example only.\nStay patient. Stay disciplined. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #tradingpsychology #forextrader #drawdown #spidertrades",
-"cap1": "A crack is not the end. 🏺",
-"time": "2026-11-05 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
-"likes": 1,
-"comments": 0,
-"views": 117,
-"reach": 102,
-"saved": 1,
-"shares": 0
-}
+"title": "Three traders. Same $10,000. Which lane gets to $1 million first? 🏁",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "2030",
 "name": "KNOW reel",
 "type": "reel",
-"title": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur marti",
-"status": "POSTED",
-"post": {
-"id": "18079007264450725",
-"cap": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur martingale bots pe asar zyada. Symbol specification me check karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #tradingbot #mt5",
-"cap1": "Swap kya hai? 🌙 Raat bhar position ka charge ya credit. Grid aur marti",
-"time": "2026-11-05 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
-"likes": 4,
-"comments": 0,
-"views": 152,
-"reach": 123,
-"saved": 2,
-"shares": 1
-}
-},
-{
-"slot": "2100",
-"name": "reel",
-"type": "reel",
-"title": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
-"status": "POSTED",
-"post": {
-"id": "18094683857704749",
-"cap": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴\nManual trading skill hai. Bot rules follow karta hai, FOMO nahi karta, neend nahi khoti.\nTum plan banao, bot discipline sambhale.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n*example scene, sirf samjhane ke liye\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #tradingpsychology #forexhindi #algotrading #spidertrades",
-"cap1": "Raat 2 baje chart dekhna = edge nahi, thakaan hai 😴",
-"time": "2026-11-05 21:03",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXXNemgWEa/",
-"likes": 0,
-"comments": 0,
-"views": 127,
-"reach": 105,
-"saved": 2,
-"shares": 0
-}
-},
-{
-"slot": "2300",
-"name": "Next-day setups reel",
-"type": "reel",
-"title": "Kal (Fri 6 Nov) ke 2 scenario 👇",
-"status": "POSTED",
-"post": {
-"id": "18122109655975654",
-"cap": "Kal (Fri 6 Nov) ke 2 scenario 👇\nAUDUSD SELL — zone 0.6975 · SL 0.7031 · target 0.6874 · RR 1:1.8\nBTCUSD SELL — zone 77,268 · SL 80,679 · target 71,128 · RR 1:1.8\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "Kal (Fri 6 Nov) ke 2 scenario 👇",
-"time": "2026-11-05 23:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXkpZoI8Sa/",
-"likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
+"title": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono ",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
@@ -202,11 +69,11 @@
 "time": "2026-11-05 23:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfXkpZoI8Sa/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 100,
+"reach": 83,
+"saved": 1,
 "shares": 0
 },
 {
@@ -218,8 +85,8 @@
 "link": "https://www.instagram.com/reel/DfXXNemgWEa/",
 "likes": 0,
 "comments": 0,
-"views": 127,
-"reach": 105,
+"views": 129,
+"reach": 108,
 "saved": 2,
 "shares": 0
 },
@@ -232,8 +99,8 @@
 "link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
 "likes": 4,
 "comments": 0,
-"views": 152,
-"reach": 123,
+"views": 202,
+"reach": 168,
 "saved": 2,
 "shares": 1
 },
@@ -246,8 +113,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 1,
 "comments": 0,
-"views": 117,
-"reach": 102,
+"views": 119,
+"reach": 107,
 "saved": 1,
 "shares": 0
 },
@@ -272,12 +139,12 @@
 "time": "2026-11-05 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
-"likes": 18,
+"likes": 20,
 "comments": 0,
-"views": 902,
-"reach": 740,
-"saved": 11,
-"shares": 2
+"views": 1171,
+"reach": 977,
+"saved": 14,
+"shares": 3
 },
 {
 "id": "18020267792949214",
@@ -288,8 +155,8 @@
 "link": "https://www.instagram.com/reel/DfWZHMjksps/",
 "likes": 1,
 "comments": 0,
-"views": 114,
-"reach": 99,
+"views": 115,
+"reach": 101,
 "saved": 0,
 "shares": 0
 },
@@ -330,8 +197,8 @@
 "link": "https://www.instagram.com/reel/DfU_8_Mj00x/",
 "likes": 0,
 "comments": 0,
-"views": 122,
-"reach": 104,
+"views": 123,
+"reach": 105,
 "saved": 0,
 "shares": 1
 },
@@ -344,8 +211,8 @@
 "link": "https://www.instagram.com/reel/DfUutRWDEzd/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 106,
+"views": 125,
+"reach": 107,
 "saved": 1,
 "shares": 0
 },
@@ -358,8 +225,8 @@
 "link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
 "likes": 0,
 "comments": 0,
-"views": 117,
-"reach": 100,
+"views": 118,
+"reach": 101,
 "saved": 1,
 "shares": 0
 },
@@ -372,8 +239,8 @@
 "link": "https://www.instagram.com/reel/DfUdkcsASU9/",
 "likes": 0,
 "comments": 0,
-"views": 65,
-"reach": 53,
+"views": 66,
+"reach": 54,
 "saved": 0,
 "shares": 0
 },
@@ -400,8 +267,8 @@
 "link": "https://www.instagram.com/reel/DfT-n88oeKR/",
 "likes": 2,
 "comments": 0,
-"views": 149,
-"reach": 112,
+"views": 150,
+"reach": 113,
 "saved": 2,
 "shares": 0
 },
@@ -414,8 +281,8 @@
 "link": "https://www.instagram.com/reel/DfT3zPliXjj/",
 "likes": 0,
 "comments": 0,
-"views": 114,
-"reach": 95,
+"views": 115,
+"reach": 96,
 "saved": 1,
 "shares": 0
 },
@@ -428,8 +295,8 @@
 "link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
 "likes": 2,
 "comments": 0,
-"views": 127,
-"reach": 104,
+"views": 128,
+"reach": 105,
 "saved": 0,
 "shares": 0
 },
@@ -470,8 +337,8 @@
 "link": "https://www.instagram.com/reel/DfSbHxPFQ2f/",
 "likes": 2,
 "comments": 0,
-"views": 128,
-"reach": 106,
+"views": 129,
+"reach": 107,
 "saved": 2,
 "shares": 0
 },
@@ -484,8 +351,8 @@
 "link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
 "likes": 2,
 "comments": 0,
-"views": 119,
-"reach": 110,
+"views": 120,
+"reach": 111,
 "saved": 1,
 "shares": 0
 },
@@ -498,8 +365,8 @@
 "link": "https://www.instagram.com/reel/DfR_mK_jLHt/",
 "likes": 3,
 "comments": 0,
-"views": 108,
-"reach": 95,
+"views": 109,
+"reach": 96,
 "saved": 0,
 "shares": 0
 },
@@ -526,8 +393,8 @@
 "link": "https://www.instagram.com/reel/DfRZ1TfjT8l/",
 "likes": 0,
 "comments": 0,
-"views": 118,
-"reach": 103,
+"views": 119,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -540,8 +407,8 @@
 "link": "https://www.instagram.com/reel/DfRPjpDl96e/",
 "likes": 2,
 "comments": 0,
-"views": 118,
-"reach": 105,
+"views": 119,
+"reach": 106,
 "saved": 0,
 "shares": 0
 },
@@ -568,8 +435,8 @@
 "link": "https://www.instagram.com/reel/DfQ0DokgheK/",
 "likes": 1,
 "comments": 0,
-"views": 113,
-"reach": 103,
+"views": 114,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -596,8 +463,8 @@
 "link": "https://www.instagram.com/reel/DfP2W38iL1O/",
 "likes": 4,
 "comments": 0,
-"views": 138,
-"reach": 109,
+"views": 139,
+"reach": 110,
 "saved": 1,
 "shares": 1
 },
@@ -610,8 +477,8 @@
 "link": "https://www.instagram.com/reel/DfPlHQojGnh/",
 "likes": 4,
 "comments": 0,
-"views": 227,
-"reach": 186,
+"views": 228,
+"reach": 187,
 "saved": 1,
 "shares": 2
 }
@@ -737,8 +604,8 @@
 ],
 "entry": 1.3959320849552899,
 "opened": 1793634300,
-"last": 1.39885,
-"last_t": 1793893500
+"last": 1.40172,
+"last_t": 1793922300
 },
 {
 "id": "20261104_2118_USDJPY",
@@ -751,17 +618,19 @@
 ],
 "sl": 157.28283054506542,
 "created": "2026-11-04T21:18+05:30",
-"status": "OPEN",
+"status": "SL",
 "src": "duka",
 "reel": "2300.mp4",
 "tp": 160.2414000228876,
 "events": [
-"04 Nov 22:00 OPEN @ 158.339"
+"04 Nov 22:00 OPEN @ 158.339",
+"06 Nov 04:45 SL hit"
 ],
 "entry": 158.3394625014305,
 "opened": 1793809800,
-"last": 157.778,
-"last_t": 1793893500
+"last": 157.487,
+"last_t": 1793922300,
+"r": -1.0
 },
 {
 "id": "20261104_2118_GBPUSD",
@@ -783,8 +652,8 @@
 ],
 "entry": 1.3468848173599948,
 "opened": 1793808000,
-"last": 1.34783,
-"last_t": 1793893500
+"last": 1.34552,
+"last_t": 1793922300
 },
 {
 "id": "20261105_2119_AUDUSD",
@@ -801,7 +670,9 @@
 "src": "duka",
 "reel": "2300.mp4",
 "tp": 0.6873622713407438,
-"events": []
+"events": [],
+"last": 0.69298,
+"last_t": 1793922300
 },
 {
 "id": "20261105_2119_BTCUSD",
@@ -818,7 +689,9 @@
 "src": "duka",
 "reel": "2300.mp4",
 "tp": 71127.57252205568,
-"events": []
+"events": [],
+"last": 75945.4,
+"last_t": 1793922300
 }
 ],
 "voice_chars_month": 39491,
@@ -826,27 +699,27 @@
 "disk_free_gb": 25.0,
 "github_runs": [
 {
-"t": "2026-11-05T17:30:18Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T15:45:04Z",
+"t": "2026-11-05T22:36:39Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-05T15:00:27Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-05T14:56:34Z",
+"t": "2026-11-05T21:55:12Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-05T14:24:36Z",
+"t": "2026-11-05T21:12:20Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-05T20:29:04Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-05T19:48:56Z",
 "ok": "success",
 "ev": "schedule"
 }
