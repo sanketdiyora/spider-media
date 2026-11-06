@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 18:06 IST",
+"updated": "2026-11-06 18:24 IST",
 "date": "2026-11-06",
 "followers": 47,
 "media_count": 79,
@@ -678,19 +678,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.21 lots @0.77982 SL 0.78145 split TP1/TP2 risk 0.49%"
-},
-{
-"id": "GBPAUD_1793963700_pbo",
-"pair": "GBPAUD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.94892,
-"sl": 1.946635,
-"r": null,
-"opened": "06 Nov 17:00",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.15 lots @1.94950 SL 1.94722 split TP1/TP2 risk 0.47%"
 }
 ],
 "closed_today": [
@@ -771,9 +758,35 @@
 "state": "closed",
 "mt5": "skip_stale",
 "mt5_reason": "signal 64 min old"
+},
+{
+"id": "GBPAUD_1793963700_pbo",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.94892,
+"sl": 1.946635,
+"r": -1.0,
+"opened": "06 Nov 17:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.66 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPAUD_1793963700_pbo",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.94892,
+"sl": 1.946635,
+"r": -1.0,
+"opened": "06 Nov 17:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.66 USD = -1.00R"
+},
 {
 "id": "EURJPY_1793951100_pbo",
 "pair": "EURJPY",
@@ -866,23 +879,23 @@
 "mt5_reason": null
 }
 ],
-"all_n": 7,
-"all_net": -1.17,
+"all_n": 8,
+"all_net": -2.17,
 "all_win": 3,
-"today_net": -1.67,
+"today_net": -2.67,
 "engine": {
-"last_scan": "18:01",
-"age_min": 4,
+"last_scan": "18:16",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-06 12:30 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-06 12:45 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4999.44",
-"equity": "4988.82",
-"floating": "-10.62",
-"positions": "4",
+"balance": "4975.78",
+"equity": "4974.14",
+"floating": "-1.64",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -891,6 +904,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.8,
 "github_runs": [
+{
+"t": "2026-11-06T12:52:53Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-06T11:30:17Z",
 "ok": "success",
@@ -910,11 +928,6 @@
 "t": "2026-11-06T07:46:44Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-06T06:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
