@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 17:06 IST",
+"updated": "2026-11-06 17:10 IST",
 "date": "2026-11-06",
 "followers": 48,
 "media_count": 78,
@@ -676,8 +676,8 @@
 "r": null,
 "opened": "06 Nov 17:00",
 "state": "open",
-"mt5": null,
-"mt5_reason": null
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.15 lots @1.94950 SL 1.94722 split TP1/TP2 risk 0.47%"
 }
 ],
 "closed_today": [
@@ -859,7 +859,7 @@
 "today_net": -1.67,
 "engine": {
 "last_scan": "17:02",
-"age_min": 4,
+"age_min": 9,
 "rc": 0,
 "summary": "run 2026-11-06 11:30 UTC · new 1 · events 0 · open 6"
 },
