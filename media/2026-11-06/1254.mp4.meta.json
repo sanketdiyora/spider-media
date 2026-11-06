@@ -1,0 +1,57 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-06/1254.mp4",
+ "dur": 59.32,
+ "music": "ambient/138.mp3",
+ "chars": 763,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GBPJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    212.073264,
+    212.088
+   ],
+   "sl": 211.7196,
+   "entry": 212.088,
+   "rr": 3.0,
+   "tp1": 212.4564,
+   "tp2": 213.1932
+  },
+  {
+   "pair": "EURUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    1.118921,
+    1.11895608
+   ],
+   "sl": 1.119798,
+   "entry": 1.118921,
+   "rr": 2.5,
+   "tp1": 1.118043,
+   "tp2": 1.116727
+  },
+  {
+   "pair": "CADJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    112.51502400000001,
+    112.525
+   ],
+   "sl": 112.2756,
+   "entry": 112.525,
+   "rr": 3.0,
+   "tp1": 112.7744,
+   "tp2": 113.2731
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_c9819682",
+ "crops": [
+  "/home/claude/ig/setup/w_c9819682/tg_0.jpg",
+  "/home/claude/ig/setup/w_c9819682/tg_1.jpg",
+  "/home/claude/ig/setup/w_c9819682/tg_2.jpg"
+ ]
+}
