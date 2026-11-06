@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-06 07:10 IST",
+"updated": "2026-11-06 11:11 IST",
 "date": "2026-11-06",
 "followers": 47,
-"media_count": 72,
+"media_count": 73,
 "slots": [
 {
 "slot": "0700",
@@ -30,8 +30,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, dail",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18130152412908637",
+"cap": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, daily loss guard, spread filter, journal.\nLogic secret, control tumhara. DM \"ORION\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #algotrading #machinelearning #xauusd #tradingbot",
+"cap1": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, dail",
+"time": "2026-11-06 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfY3FZiiSig/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -76,6 +89,20 @@
 ],
 "recent_posts": [
 {
+"id": "18130152412908637",
+"cap": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, daily loss guard, spread filter, journal.\nLogic secret, control tumhara. DM \"ORION\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #algotrading #machinelearning #xauusd #tradingbot",
+"cap1": "GoldMint ORION ke controls 🌌 Engine toggles, ML filter threshold, dail",
+"time": "2026-11-06 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfY3FZiiSig/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17915826144280587",
 "cap": "Aaj ki 3 badi khabrein (Fri 6 Nov) 📰 — sab 7:00 PM IST pe\n1️⃣ US Nonfarm Payrolls — exp. ~65K (pichhla 29K)\n2️⃣ US wages +0.3% exp. · unemployment 4.2%\n3️⃣ Canada jobs — exp. +16K (pichhla -68K) · USDCAD pe double data\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #nfp #forexhindi #usdcad #spidertrades",
 "cap1": "Aaj ki 3 badi khabrein (Fri 6 Nov) 📰 — sab 7:00 PM IST pe",
@@ -98,8 +125,8 @@
 "link": "https://www.instagram.com/reel/DfXkpZoI8Sa/",
 "likes": 2,
 "comments": 0,
-"views": 100,
-"reach": 83,
+"views": 101,
+"reach": 84,
 "saved": 1,
 "shares": 0
 },
@@ -126,9 +153,9 @@
 "link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
 "likes": 4,
 "comments": 0,
-"views": 204,
-"reach": 169,
-"saved": 2,
+"views": 225,
+"reach": 187,
+"saved": 3,
 "shares": 1
 },
 {
@@ -140,8 +167,8 @@
 "link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
 "likes": 1,
 "comments": 0,
-"views": 119,
-"reach": 107,
+"views": 120,
+"reach": 108,
 "saved": 1,
 "shares": 0
 },
@@ -168,8 +195,8 @@
 "link": "https://www.instagram.com/reel/DfWjbUHEQLI/",
 "likes": 20,
 "comments": 0,
-"views": 1177,
-"reach": 979,
+"views": 1192,
+"reach": 993,
 "saved": 14,
 "shares": 3
 },
@@ -480,20 +507,6 @@
 "reach": 6,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18494634958129076",
-"cap": "Kal (Tue 3 Nov) ke 2 scenario 👇\nBTCUSD SELL — zone 77,698 · SL 79,990 · target 73,573 · RR 1:1.8\nUSDCAD SELL — zone 1.3959 · SL 1.4026 · target 1.3840 · RR 1:1.8\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "Kal (Tue 3 Nov) ke 2 scenario 👇",
-"time": "2026-11-02 23:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfP2W38iL1O/",
-"likes": 4,
-"comments": 0,
-"views": 139,
-"reach": 110,
-"saved": 1,
-"shares": 1
 }
 ],
 "trades": [
@@ -709,8 +722,18 @@
 ],
 "voice_chars_month": 39491,
 "voice_limit": 30000,
-"disk_free_gb": 25.0,
+"disk_free_gb": 24.7,
 "github_runs": [
+{
+"t": "2026-11-06T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-06T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-06T01:30:16Z",
 "ok": "success",
@@ -723,16 +746,6 @@
 },
 {
 "t": "2026-11-05T21:55:12Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-05T21:12:20Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-05T20:29:04Z",
 "ok": "success",
 "ev": "schedule"
 }
