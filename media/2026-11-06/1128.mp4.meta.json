@@ -1,0 +1,42 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-06/1128.mp4",
+ "dur": 40.6,
+ "music": "trap/318.mp3",
+ "chars": 529,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GOLD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    4061.475,
+    4062.96576
+   ],
+   "sl": 4098.744,
+   "entry": 4061.475,
+   "rr": 3.0,
+   "tp1": 4024.206,
+   "tp2": 3949.667
+  },
+  {
+   "pair": "AUDUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.68931,
+    0.689373
+   ],
+   "sl": 0.690885,
+   "entry": 0.68931,
+   "rr": 3.0,
+   "tp1": 0.687735,
+   "tp2": 0.684586
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_f296f719",
+ "crops": [
+  "/home/claude/ig/setup/w_f296f719/tg_0.jpg",
+  "/home/claude/ig/setup/w_f296f719/tg_1.jpg"
+ ]
+}
