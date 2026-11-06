@@ -1,0 +1,57 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-06/1349.mp4",
+ "dur": 59.32,
+ "music": "synthwave/159.mp3",
+ "chars": 789,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "USDJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    157.929836,
+    157.941
+   ],
+   "sl": 157.6619,
+   "entry": 157.941,
+   "rr": 3.0,
+   "tp1": 158.2201,
+   "tp2": 158.7782
+  },
+  {
+   "pair": "EURJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    176.526,
+    176.54378
+   ],
+   "sl": 176.9705,
+   "entry": 176.526,
+   "rr": 3.0,
+   "tp1": 176.0815,
+   "tp2": 175.1926
+  },
+  {
+   "pair": "NZDUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.55557,
+    0.55561624
+   ],
+   "sl": 0.556726,
+   "entry": 0.55557,
+   "rr": 3.0,
+   "tp1": 0.554414,
+   "tp2": 0.552101
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_69ebab4f",
+ "crops": [
+  "/home/claude/ig/setup/w_69ebab4f/tg_0.jpg",
+  "/home/claude/ig/setup/w_69ebab4f/tg_1.jpg",
+  "/home/claude/ig/setup/w_69ebab4f/tg_2.jpg"
+ ]
+}
