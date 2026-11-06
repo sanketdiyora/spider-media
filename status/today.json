@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 19:05 IST",
+"updated": "2026-11-06 19:22 IST",
 "date": "2026-11-06",
 "followers": 47,
 "media_count": 80,
@@ -702,8 +702,8 @@
 "r": null,
 "opened": "06 Nov 19:00",
 "state": "open",
-"mt5": null,
-"mt5_reason": null
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.28 lots @2.41495 SL 2.41650  risk 0.48%"
 }
 ],
 "closed_today": [
@@ -911,7 +911,7 @@
 "today_net": -2.67,
 "engine": {
 "last_scan": "19:01",
-"age_min": 4,
+"age_min": 20,
 "rc": 0,
 "summary": "run 2026-11-06 13:30 UTC · new 1 · events 0 · open 6"
 },
@@ -928,7 +928,7 @@
 },
 "voice_chars_month": 41572,
 "voice_limit": 30000,
-"disk_free_gb": 23.8,
+"disk_free_gb": 23.5,
 "github_runs": [
 {
 "t": "2026-11-06T13:30:19Z",
