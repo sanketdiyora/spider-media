@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 20:06 IST",
+"updated": "2026-11-06 20:21 IST",
 "date": "2026-11-06",
 "followers": 47,
 "media_count": 80,
@@ -680,17 +680,17 @@
 "mt5_reason": "signal 49 min old"
 },
 {
-"id": "NZDCAD_1793961000_pbo",
-"pair": "NZDCAD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.77964,
-"sl": 0.781265,
+"id": "USDJPY_1793975400_dpoc",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 158.433,
+"sl": 158.2285,
 "r": null,
-"opened": "06 Nov 16:15",
+"opened": "06 Nov 20:15",
 "state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.25 USD = -1.00R"
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.19 lots @158.426 SL 158.222  risk 0.50%"
 }
 ],
 "closed_today": [
@@ -797,9 +797,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 4.34 USD = 0.18R"
+},
+{
+"id": "NZDCAD_1793961000_pbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.77964,
+"sl": 0.781265,
+"r": -1.0,
+"opened": "06 Nov 16:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.25 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "NZDCAD_1793961000_pbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.77964,
+"sl": 0.781265,
+"r": -1.0,
+"opened": "06 Nov 16:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.25 USD = -1.00R"
+},
 {
 "id": "GBPNZD_1793970900_poc",
 "pair": "GBPNZD",
@@ -918,23 +944,23 @@
 "mt5_reason": null
 }
 ],
-"all_n": 9,
-"all_net": -3.17,
+"all_n": 10,
+"all_net": -4.17,
 "all_win": 3,
-"today_net": -3.67,
+"today_net": -4.67,
 "engine": {
-"last_scan": "20:01",
+"last_scan": "20:17",
 "age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-06 14:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-06 14:45 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4955.87",
-"equity": "4955.87",
-"floating": "0.00",
-"positions": "0",
+"equity": "4952.15",
+"floating": "-3.72",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
