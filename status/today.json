@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 15:40 IST",
+"updated": "2026-11-06 16:11 IST",
 "date": "2026-11-06",
 "followers": 47,
 "media_count": 78,
@@ -652,19 +652,6 @@
 "state": "risk-free",
 "mt5": "skip_stale",
 "mt5_reason": "signal 49 min old"
-},
-{
-"id": "EURJPY_1793951100_pbo",
-"pair": "EURJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 176.526,
-"sl": 176.9705,
-"r": null,
-"opened": "06 Nov 13:30",
-"state": "open",
-"mt5": "skip_stale",
-"mt5_reason": "signal 64 min old"
 }
 ],
 "closed_today": [
@@ -732,9 +719,35 @@
 "state": "closed",
 "mt5": "not_sent",
 "mt5_reason": "MT5 EA us waqt chalu nahi tha"
+},
+{
+"id": "EURJPY_1793951100_pbo",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 176.526,
+"sl": 176.9705,
+"r": -1.0,
+"opened": "06 Nov 13:30",
+"state": "closed",
+"mt5": "skip_stale",
+"mt5_reason": "signal 64 min old"
 }
 ],
 "closed_recent": [
+{
+"id": "EURJPY_1793951100_pbo",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 176.526,
+"sl": 176.9705,
+"r": -1.0,
+"opened": "06 Nov 13:30",
+"state": "closed",
+"mt5": "skip_stale",
+"mt5_reason": "signal 64 min old"
+},
 {
 "id": "GBPAUD_1793952000_pbo",
 "pair": "GBPAUD",
@@ -814,21 +827,21 @@
 "mt5_reason": null
 }
 ],
-"all_n": 6,
-"all_net": -0.17,
+"all_n": 7,
+"all_net": -1.17,
 "all_win": 3,
-"today_net": -0.67,
+"today_net": -1.67,
 "engine": {
-"last_scan": "15:37",
-"age_min": 3,
+"last_scan": "16:07",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-06 10:05 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-06 10:35 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5000.00",
-"equity": "5000.00",
+"balance": "4999.44",
+"equity": "4999.44",
 "floating": "0.00",
 "positions": "0",
 "ea_enabled": "1",
