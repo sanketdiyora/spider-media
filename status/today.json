@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-06 20:21 IST",
+"updated": "2026-11-06 20:40 IST",
 "date": "2026-11-06",
 "followers": 47,
-"media_count": 80,
+"media_count": 81,
 "slots": [
 {
 "slot": "0700",
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfY6Y85DaaN/",
 "likes": 0,
 "comments": 0,
-"views": 77,
-"reach": 62,
+"views": 79,
+"reach": 63,
 "saved": 1,
 "shares": 0
 }
@@ -146,7 +146,7 @@
 "likes": 0,
 "comments": 0,
 "views": 62,
-"reach": 53,
+"reach": 55,
 "saved": 0,
 "shares": 0
 }
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/DfZuFKRmQZ6/",
 "likes": 1,
 "comments": 0,
-"views": 18,
-"reach": 8,
+"views": 45,
+"reach": 31,
 "saved": 0,
 "shares": 0
 }
@@ -198,11 +198,38 @@
 "name": "KNOW reel",
 "type": "reel",
 "title": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18001443497819953",
+"cap": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono taraf spike. News filter ON ya lot chhota.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #xauusd #tradingbot #nfp #forexhindi",
+"cap1": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono ",
+"time": "2026-11-06 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfZ4WXhFHg1/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "18001443497819953",
+"cap": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono taraf spike. News filter ON ya lot chhota.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #xauusd #tradingbot #nfp #forexhindi",
+"cap1": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono ",
+"time": "2026-11-06 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfZ4WXhFHg1/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18117714362024024",
 "cap": "Three traders. Same $10,000. Which lane gets to $1 million first? 🏁\n8% a month: about 5 years. 5% a month: 7.9 years. 3% a month: 13 years. Slow still gets there. Quitting never does.\nHypothetical math: $10,000 start, no deposits, constant monthly return (examples only). Not a promise of profit.\nTime + consistency. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#compounding #financialfreedom #forextrader #tradingmotivation #spidertrades",
@@ -212,8 +239,8 @@
 "link": "https://www.instagram.com/reel/DfZuFKRmQZ6/",
 "likes": 1,
 "comments": 0,
-"views": 18,
-"reach": 8,
+"views": 45,
+"reach": 31,
 "saved": 0,
 "shares": 0
 },
@@ -241,7 +268,7 @@
 "likes": 0,
 "comments": 0,
 "views": 62,
-"reach": 53,
+"reach": 55,
 "saved": 0,
 "shares": 0
 },
@@ -296,8 +323,8 @@
 "link": "https://www.instagram.com/reel/DfY6Y85DaaN/",
 "likes": 0,
 "comments": 0,
-"views": 77,
-"reach": 62,
+"views": 79,
+"reach": 63,
 "saved": 1,
 "shares": 0
 },
@@ -366,8 +393,8 @@
 "link": "https://www.instagram.com/reel/DfXTf1MFd8M/",
 "likes": 5,
 "comments": 0,
-"views": 305,
-"reach": 251,
+"views": 311,
+"reach": 257,
 "saved": 3,
 "shares": 1
 },
@@ -608,20 +635,6 @@
 "reach": 107,
 "saved": 2,
 "shares": 0
-},
-{
-"id": "18202536616383605",
-"cap": "Fixed $ vs % settings 📏 Price double, fixed step aadha. % settings price ke saath scale.\nGoldMint TITAN: % based, koi bhi symbol. DM \"TITAN\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldminttitan #tradingbot #xauusd #mt5 #algotrading",
-"cap1": "Fixed $ vs % settings 📏 Price double, fixed step aadha. % settings pri",
-"time": "2026-11-03 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfSJ6wCiHr_/",
-"likes": 2,
-"comments": 0,
-"views": 120,
-"reach": 111,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -689,8 +702,21 @@
 "r": null,
 "opened": "06 Nov 20:15",
 "state": "open",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.78 USD = -0.97R"
+},
+{
+"id": "EURJPY_1793976300_dpoc",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 176.515,
+"sl": 176.898,
+"r": null,
+"opened": "06 Nov 20:30",
+"state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.19 lots @158.426 SL 158.222  risk 0.50%"
+"mt5_reason": "OPEN SELL 0.08 lots @176.455 SL 176.898 (scanner SL) entry 176.515 basis: bar not found, 0  risk 0.45%"
 }
 ],
 "closed_today": [
@@ -949,17 +975,17 @@
 "all_win": 3,
 "today_net": -4.67,
 "engine": {
-"last_scan": "20:17",
+"last_scan": "20:36",
 "age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-06 14:45 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-06 15:05 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4955.87",
-"equity": "4952.15",
-"floating": "-3.72",
+"balance": "4932.09",
+"equity": "4930.42",
+"floating": "-1.67",
 "positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -969,6 +995,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.3,
 "github_runs": [
+{
+"t": "2026-11-06T15:00:26Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-06T14:34:25Z",
 "ok": "success",
@@ -988,11 +1019,6 @@
 "t": "2026-11-06T12:52:53Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-06T11:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
