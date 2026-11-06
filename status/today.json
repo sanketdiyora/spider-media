@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 16:55 IST",
+"updated": "2026-11-06 17:06 IST",
 "date": "2026-11-06",
 "followers": 48,
 "media_count": 78,
@@ -156,7 +156,7 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Gold ki badi news, IST time ke saath 🗓️ NFP, CPI, FOMC, PCE, GDP... US",
-"status": "PENDING",
+"status": "DUE",
 "post": null
 },
 {
@@ -665,6 +665,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.21 lots @0.77982 SL 0.78145 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "GBPAUD_1793963700_pbo",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.94892,
+"sl": 1.946635,
+"r": null,
+"opened": "06 Nov 17:00",
+"state": "open",
+"mt5": null,
+"mt5_reason": null
 }
 ],
 "closed_today": [
@@ -845,18 +858,18 @@
 "all_win": 3,
 "today_net": -1.67,
 "engine": {
-"last_scan": "16:51",
+"last_scan": "17:02",
 "age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-06 11:20 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-06 11:30 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4999.44",
-"equity": "4998.39",
-"floating": "-1.05",
-"positions": "2",
+"equity": "4994.62",
+"floating": "-4.82",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -865,6 +878,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.8,
 "github_runs": [
+{
+"t": "2026-11-06T11:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-06T09:17:28Z",
 "ok": "success",
@@ -882,11 +900,6 @@
 },
 {
 "t": "2026-11-06T06:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-06T05:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
