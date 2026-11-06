@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06 19:22 IST",
+"updated": "2026-11-06 19:23 IST",
 "date": "2026-11-06",
 "followers": 47,
 "media_count": 80,
@@ -691,19 +691,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.21 lots @0.77982 SL 0.78145 split TP1/TP2 risk 0.49%"
-},
-{
-"id": "GBPNZD_1793970900_poc",
-"pair": "GBPNZD",
-"dir": "SELL",
-"model": "poc",
-"entry": 2.41301,
-"sl": 2.414562,
-"r": null,
-"opened": "06 Nov 19:00",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.28 lots @2.41495 SL 2.41650  risk 0.48%"
 }
 ],
 "closed_today": [
@@ -797,9 +784,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.66 USD = -1.00R"
+},
+{
+"id": "GBPNZD_1793970900_poc",
+"pair": "GBPNZD",
+"dir": "SELL",
+"model": "poc",
+"entry": 2.41301,
+"sl": 2.414562,
+"r": -1.0,
+"opened": "06 Nov 19:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.34 USD = 0.18R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPNZD_1793970900_poc",
+"pair": "GBPNZD",
+"dir": "SELL",
+"model": "poc",
+"entry": 2.41301,
+"sl": 2.414562,
+"r": -1.0,
+"opened": "06 Nov 19:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.34 USD = 0.18R"
+},
 {
 "id": "GBPAUD_1793963700_pbo",
 "pair": "GBPAUD",
@@ -905,23 +918,23 @@
 "mt5_reason": null
 }
 ],
-"all_n": 8,
-"all_net": -2.17,
+"all_n": 9,
+"all_net": -3.17,
 "all_win": 3,
-"today_net": -2.67,
+"today_net": -3.67,
 "engine": {
-"last_scan": "19:01",
-"age_min": 20,
+"last_scan": "19:21",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-06 13:30 UTC · new 1 · events 0 · open 6"
+"summary": "run 2026-11-06 13:50 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4975.78",
-"equity": "4959.62",
-"floating": "-16.16",
-"positions": "3",
+"balance": "4980.12",
+"equity": "4964.77",
+"floating": "-15.35",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
