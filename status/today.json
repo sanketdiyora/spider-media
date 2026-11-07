@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-07 11:10 IST",
+"updated": "2026-11-07 12:10 IST",
 "date": "2026-11-07",
 "followers": 48,
-"media_count": 84,
+"media_count": 85,
 "slots": [
 {
 "slot": "0700",
@@ -40,7 +40,7 @@
 "link": "https://www.instagram.com/reel/DfbHOwznNdS/",
 "likes": 0,
 "comments": 0,
-"views": 12,
+"views": 14,
 "reach": 8,
 "saved": 0,
 "shares": 0
@@ -72,8 +72,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "POV: tumne revenge trade nahi liya. Aaj ka sabse bada profit. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18122783248947863",
+"cap": "POV: tumne revenge trade nahi liya. Aaj ka sabse bada profit. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "POV: tumne revenge trade nahi liya. Aaj ka sabse bada profit. 🕷️",
+"time": "2026-11-07 12:00",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfbisNNnL1_/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -110,6 +123,20 @@
 ],
 "recent_posts": [
 {
+"id": "18122783248947863",
+"cap": "POV: tumne revenge trade nahi liya. Aaj ka sabse bada profit. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "POV: tumne revenge trade nahi liya. Aaj ka sabse bada profit. 🕷️",
+"time": "2026-11-07 12:00",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfbisNNnL1_/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18122690863979773",
 "cap": "Grid ke liye cent account kyun? 🕸️ Same $100, zyada levels. Par cent me bhi asli paisa aur risk wahi.\nGoldMint SpiderNet: $100 se, cent pe best. DM \"SPIDERNET\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintspidernet #centaccount #gridtrading #xauusd #tradingbot",
 "cap1": "Grid ke liye cent account kyun? 🕸️ Same $100, zyada levels. Par cent m",
@@ -132,7 +159,7 @@
 "link": "https://www.instagram.com/reel/DfbHOwznNdS/",
 "likes": 0,
 "comments": 0,
-"views": 12,
+"views": 14,
 "reach": 8,
 "saved": 0,
 "shares": 0
@@ -203,7 +230,7 @@
 "likes": 1,
 "comments": 0,
 "views": 106,
-"reach": 90,
+"reach": 91,
 "saved": 1,
 "shares": 0
 },
@@ -513,20 +540,6 @@
 "views": 115,
 "reach": 96,
 "saved": 1,
-"shares": 0
-},
-{
-"id": "17916935346468549",
-"cap": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Sabr bhi ek position hai. Sabse mushkil wali. 🕷️",
-"time": "2026-11-04 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfT0UWqCo_a/",
-"likes": 2,
-"comments": 0,
-"views": 129,
-"reach": 106,
-"saved": 0,
 "shares": 0
 }
 ],
@@ -842,7 +855,7 @@
 "today_net": 4.6,
 "engine": {
 "last_scan": "02:56",
-"age_min": 494,
+"age_min": 554,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -862,6 +875,11 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-07T06:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-07T05:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -878,11 +896,6 @@
 },
 {
 "t": "2026-11-06T21:58:15Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-06T21:26:32Z",
 "ok": "success",
 "ev": "schedule"
 }
