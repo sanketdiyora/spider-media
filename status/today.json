@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-07 07:12 IST",
+"updated": "2026-11-07 08:10 IST",
 "date": "2026-11-07",
 "followers": 48,
-"media_count": 82,
+"media_count": 83,
 "slots": [
 {
 "slot": "0700",
@@ -30,8 +30,21 @@
 "name": "Short-term setups reel",
 "type": "reel",
 "title": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18123330838948236",
+"cap": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇\nIs hafte 19 trades: 7 jeete, 12 haare, net -3.4R. Neeche 2 best aur 2 loss 👇\nUSDJPY BUY — TP1 hit, baaki din ke end pe close (+1.5R)\nAUDUSD SELL — TP1 hit, baaki din ke end pe close (+1.4R)\nGBPAUD BUY — SL hit (-1.0R)\nGBPNZD SELL — SL hit (-1.0R)\nHar trade, har loss Telegram pe live post hua tha. Hum loss chhupate nahi.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingjournal #weeklyreview #priceaction #spidertrades",
+"cap1": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇",
+"time": "2026-11-07 08:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfbHOwznNdS/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -83,6 +96,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18123330838948236",
+"cap": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇\nIs hafte 19 trades: 7 jeete, 12 haare, net -3.4R. Neeche 2 best aur 2 loss 👇\nUSDJPY BUY — TP1 hit, baaki din ke end pe close (+1.5R)\nAUDUSD SELL — TP1 hit, baaki din ke end pe close (+1.4R)\nGBPAUD BUY — SL hit (-1.0R)\nGBPNZD SELL — SL hit (-1.0R)\nHar trade, har loss Telegram pe live post hua tha. Hum loss chhupate nahi.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingjournal #weeklyreview #priceaction #spidertrades",
+"cap1": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇",
+"time": "2026-11-07 08:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfbHOwznNdS/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18133906940509442",
 "cap": "Agle hafte ki 4 badi khabrein (9-13 Nov) 📰\n0️⃣ Pichhla hafta: US jobs +165K (umeed se kaafi zyada), unemployment 4.1%\n1️⃣ Tue 10 Nov, 7:00 PM IST — US CPI (October inflation)\n2️⃣ Wed 11 Nov — Veterans Day: US bond market band, stocks khule\n3️⃣ Fri 13 Nov, 7:00 PM IST — US PPI · UK Q3 GDP bhi isi hafte\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #uscpi #forexhindi #weekahead #spidertrades",
@@ -176,8 +203,8 @@
 "link": "https://www.instagram.com/reel/DfZEUYGj5jJ/",
 "likes": 0,
 "comments": 0,
-"views": 119,
-"reach": 111,
+"views": 123,
+"reach": 113,
 "saved": 1,
 "shares": 0
 },
@@ -486,20 +513,6 @@
 "comments": 0,
 "views": 3,
 "reach": 2,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "18196614100395533",
-"cap": "Aaj ki 4 badi khabrein (Wed 4 Nov) 📰\n1️⃣ US midterm results — counting jaari, USD/gold me volatility ka scenario\n2️⃣ Eurozone flash CPI — 3:30 PM IST\n3️⃣ US ADP jobs — 6:45 PM IST\n4️⃣ US ISM services PMI — 8:30 PM IST\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #xauusd #tradingnews #spidertrades",
-"cap1": "Aaj ki 4 badi khabrein (Wed 4 Nov) 📰",
-"time": "2026-11-04 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfTSA1vFHGq/",
-"likes": 0,
-"comments": 0,
-"views": 18,
-"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -816,7 +829,7 @@
 "today_net": 4.6,
 "engine": {
 "last_scan": "02:56",
-"age_min": 255,
+"age_min": 314,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -836,6 +849,11 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-07T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-07T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -852,11 +870,6 @@
 },
 {
 "t": "2026-11-06T20:32:26Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-06T19:51:54Z",
 "ok": "success",
 "ev": "schedule"
 }
