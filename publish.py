@@ -42,6 +42,7 @@ def tg(it,date,slot,link):
         if r.get('ok'): st[key]=True; json.dump(st,open(TGSTATE,'w')); print('TG: sent')
         else: print('TG: fail',r)
     except Exception as e: print('TG: error',e)
+TRIAL_DEFAULT='SS_PERFORMANCE'
 def marker(date,slot): return os.path.join(os.path.dirname(os.path.abspath(__file__)),'posted',f'{date}_{slot}.json')
 def mark(date,slot,mid,link,trial):
     # posted marker in the repo: trial reels may not show in the /media list, so the caption guard alone could repost them
@@ -62,6 +63,7 @@ def main():
     items=[s for s in sched if s['date']==date and s['slot']==slot]
     if not items: print(f'NOTHING scheduled for {date} {slot}'); return 0
     it=items[0]; cap=it['caption']
+    if it['type']=='reel' and 'trial' not in it: it['trial']=TRIAL_DEFAULT     # Sanket 7 Nov 12:27: every reel from now = trial reel ("trial": false in schedule = normal reel)
     print(date,slot,it['type'],len(it['media']),'files')
     if dry:
         for u in it['media']:
