@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Publish today's (IST) scheduled Instagram post for a slot.
 usage: IG_TOKEN=... python3 publish.py 1100 [--dry] [--date YYYY-MM-DD]"""
-import os,sys,json,time,urllib.request,urllib.parse,datetime
+import os,sys,json,time,urllib.request,urllib.parse,datetime,subprocess
 IG='17841439656187228'; V='v21.0'; G=f'https://graph.facebook.com/{V}'
 SCHED='https://raw.githubusercontent.com/sanketdiyora/spider-media/main/schedule.json'
 def call(path,params=None,method='GET'):
@@ -42,6 +42,18 @@ def tg(it,date,slot,link):
         if r.get('ok'): st[key]=True; json.dump(st,open(TGSTATE,'w')); print('TG: sent')
         else: print('TG: fail',r)
     except Exception as e: print('TG: error',e)
+def marker(date,slot): return os.path.join(os.path.dirname(os.path.abspath(__file__)),'posted',f'{date}_{slot}.json')
+def mark(date,slot,mid,link,trial):
+    # posted marker in the repo: trial reels may not show in the /media list, so the caption guard alone could repost them
+    try:
+        f=marker(date,slot); os.makedirs(os.path.dirname(f),exist_ok=True)
+        json.dump({'id':mid,'permalink':link,'trial':trial,'utc':int(time.time())},open(f,'w'))
+        d=os.path.dirname(f); g=['git','-C',d]
+        subprocess.run(g+['add',f],timeout=60); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm',f'posted {date} {slot}'],timeout=60)
+        for _ in range(3):
+            if subprocess.run(g+['push','-q'],timeout=120).returncode==0: break
+            subprocess.run(g+['pull','-q','--rebase'],timeout=120)
+    except Exception as e: print('marker warn',e)
 def main():
     slot=sys.argv[1]; dry='--dry' in sys.argv
     ist=datetime.datetime.now(datetime.timezone.utc)+datetime.timedelta(hours=5,minutes=30)
@@ -55,12 +67,19 @@ def main():
         for u in it['media']:
             r=urllib.request.urlopen(urllib.request.Request(u,method='HEAD'),timeout=60); print('  ok',r.status,u.split('/')[-1],r.headers.get('content-length'))
         return 0
+    if os.path.exists(marker(date,slot)):
+        m=json.load(open(marker(date,slot))); print('SKIP: already posted (marker)',m.get('permalink')); tg(it,date,slot,m.get('permalink')); return 0
     recent=call(f'{IG}/media',{'fields':'caption,timestamp,permalink','limit':'12'}).get('data',[])
     hit=[m for m in recent if (m.get('caption') or '').strip()==cap.strip()]
     if hit:
         print('SKIP: already posted (caption match)'); tg(it,date,slot,hit[0].get('permalink')); return 0
+    body={}
     if it['type']=='reel':
-        c=call(f'{IG}/media',{'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'true','thumb_offset':str(it.get('thumb_offset',1500))},'POST')
+        body={'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'true','thumb_offset':str(it.get('thumb_offset',1500))}
+        if it.get('trial'): body['trial_params']=json.dumps({'graduation_strategy':it['trial']})      # trial reel: non-followers first (Sanket 7 Nov: SS_PERFORMANCE)
+        c=call(f'{IG}/media',body,'POST')
+        if it.get('trial') and not c.get('id'):
+            print('TRIAL FAILED -> posting as a normal reel:',c); body.pop('trial_params'); c=call(f'{IG}/media',body,'POST')
         cid=c.get('id')
     else:
         kids=[]
@@ -75,6 +94,7 @@ def main():
     if not wait(cid): return 1
     p=call(f'{IG}/media_publish',{'creation_id':cid},'POST')
     if 'id' not in p: print('publish fail',p); return 1
-    pm=call(p['id'],{'fields':'permalink'}); print('PUBLISHED',p['id'],pm.get('permalink')); tg(it,date,slot,pm.get('permalink'))
+    pm=call(p['id'],{'fields':'permalink'}); print('PUBLISHED',p['id'],pm.get('permalink'),'TRIAL '+it['trial'] if it.get('trial') and 'trial_params' in body else '')
+    mark(date,slot,p['id'],pm.get('permalink'),bool(it.get('trial') and 'trial_params' in body)); tg(it,date,slot,pm.get('permalink'))
     return 0
 sys.exit(main())

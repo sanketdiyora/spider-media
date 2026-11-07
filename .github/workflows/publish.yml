@@ -19,6 +19,8 @@ on:
       slot:
         description: 'Slot (1100, 1330, 1700, 2030, 2200, or a manual slot)'
         required: true
+permissions:
+  contents: write   # publish.py commits posted/<date>_<slot>.json markers (duplicate guard for trial reels)
 jobs:
   publish:
     runs-on: ubuntu-latest
