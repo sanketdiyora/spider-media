@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-08 17:10 IST",
+"updated": "2026-11-08 19:10 IST",
 "date": "2026-11-08",
-"followers": 48,
-"media_count": 94,
+"followers": 49,
+"media_count": 95,
 "slots": [
 {
 "slot": "0700",
@@ -40,7 +40,7 @@
 "link": "https://www.instagram.com/p/DfeAqSdDS8K/",
 "likes": 0,
 "comments": 0,
-"views": 1,
+"views": 2,
 "reach": 3,
 "saved": 0,
 "shares": 0
@@ -80,12 +80,12 @@
 "time": "2026-11-08 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfeRzsggZ6Z/",
-"likes": 1,
-"comments": 0,
-"views": 65,
-"reach": 39,
-"saved": 2,
-"shares": 3
+"likes": 2,
+"comments": 2,
+"views": 143,
+"reach": 102,
+"saved": 4,
+"shares": 4
 }
 },
 {
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/Dfep3ftATJi/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 4,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -114,8 +114,21 @@
 "name": "ASPIRE reel",
 "type": "reel",
 "title": "+$100 a month, or +6% a month? 📈",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18014608157972135",
+"cap": "+$100 a month, or +6% a month? 📈\nThe straight line leads at first. Around month 18 the curve takes over. By month 36: $4,600 vs $8,147.\nHypothetical math: $1,000 start; one line adds $100 each month, the other compounds +6% each month. Not a promise of profit.\nCurves win late. Give it time. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#compounding #tradingmotivation #financialfreedom #forextrader #spidertrades",
+"cap1": "+$100 a month, or +6% a month? 📈",
+"time": "2026-11-08 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfe3j4kDwB6/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -128,6 +141,20 @@
 ],
 "recent_posts": [
 {
+"id": "18014608157972135",
+"cap": "+$100 a month, or +6% a month? 📈\nThe straight line leads at first. Around month 18 the curve takes over. By month 36: $4,600 vs $8,147.\nHypothetical math: $1,000 start; one line adds $100 each month, the other compounds +6% each month. Not a promise of profit.\nCurves win late. Give it time. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#compounding #tradingmotivation #financialfreedom #forextrader #spidertrades",
+"cap1": "+$100 a month, or +6% a month? 📈",
+"time": "2026-11-08 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfe3j4kDwB6/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17912371011585515",
 "cap": "Lot size formula (gold) 🧮 Lot = (Balance × Risk%) ÷ (SL $ × 100). Examples ke saath. Save kar lo.\nApna lot calculate karwana hai? DM \"LOT\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#lotsize #xauusd #riskmanagement #forexhindi #tradingeducation",
 "cap1": "Lot size formula (gold) 🧮 Lot = (Balance × Risk%) ÷ (SL $ × 100). Exam",
@@ -136,8 +163,8 @@
 "link": "https://www.instagram.com/p/Dfep3ftATJi/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 4,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -148,12 +175,12 @@
 "time": "2026-11-08 13:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfeRzsggZ6Z/",
-"likes": 1,
-"comments": 0,
-"views": 65,
-"reach": 39,
-"saved": 2,
-"shares": 3
+"likes": 2,
+"comments": 2,
+"views": 143,
+"reach": 102,
+"saved": 4,
+"shares": 4
 },
 {
 "id": "18107485064644715",
@@ -178,7 +205,7 @@
 "link": "https://www.instagram.com/p/DfeAqSdDS8K/",
 "likes": 0,
 "comments": 0,
-"views": 1,
+"views": 2,
 "reach": 3,
 "saved": 0,
 "shares": 0
@@ -207,7 +234,7 @@
 "likes": 0,
 "comments": 0,
 "views": 70,
-"reach": 61,
+"reach": 62,
 "saved": 0,
 "shares": 0
 },
@@ -276,7 +303,7 @@
 "link": "https://www.instagram.com/p/Dfbb3PsIPTP/",
 "likes": 0,
 "comments": 0,
-"views": 4,
+"views": 5,
 "reach": 2,
 "saved": 0,
 "shares": 0
@@ -444,7 +471,7 @@
 "link": "https://www.instagram.com/p/DfYbnGlDtBc/",
 "likes": 0,
 "comments": 0,
-"views": 3,
+"views": 5,
 "reach": 3,
 "saved": 0,
 "shares": 0
@@ -514,7 +541,7 @@
 "link": "https://www.instagram.com/p/DfW7ee3F2k4/",
 "likes": 0,
 "comments": 0,
-"views": 12,
+"views": 14,
 "reach": 9,
 "saved": 0,
 "shares": 0
@@ -532,20 +559,6 @@
 "reach": 1006,
 "saved": 14,
 "shares": 3
-},
-{
-"id": "18020267792949214",
-"cap": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Market ko jeetna nahi. Khud ko sambhalna hai. 🕷️",
-"time": "2026-11-05 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfWZHMjksps/",
-"likes": 1,
-"comments": 0,
-"views": 115,
-"reach": 101,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -755,7 +768,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 2294,
+"age_min": 2414,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -775,6 +788,21 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-08T13:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-08T13:01:55Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-08T11:52:51Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-08T11:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -783,21 +811,6 @@
 "t": "2026-11-08T08:54:22Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-08T08:00:24Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-08T07:00:18Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-08T06:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
