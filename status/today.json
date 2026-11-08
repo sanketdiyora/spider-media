@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-08 07:11 IST",
+"updated": "2026-11-08 11:11 IST",
 "date": "2026-11-08",
 "followers": 48,
-"media_count": 90,
+"media_count": 91,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfdlNAIiXyA/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 3,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -30,8 +30,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "5 bots, ek nazar 🤖 TITAN, STRIKER, ORION, SpiderNet, AEGIS: chart, min",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18040869371688574",
+"cap": "5 bots, ek nazar 🤖 TITAN, STRIKER, ORION, SpiderNet, AEGIS: chart, minimum balance aur risk level ek jagah. Naye ho? STRIKER ya ORION, pehle cent/demo pe test. DM bot ka naam.\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #xauusd #algotrading #mt5",
+"cap1": "5 bots, ek nazar 🤖 TITAN, STRIKER, ORION, SpiderNet, AEGIS: chart, min",
+"time": "2026-11-08 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfeAqSdDS8K/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -76,6 +89,20 @@
 ],
 "recent_posts": [
 {
+"id": "18040869371688574",
+"cap": "5 bots, ek nazar 🤖 TITAN, STRIKER, ORION, SpiderNet, AEGIS: chart, minimum balance aur risk level ek jagah. Naye ho? STRIKER ya ORION, pehle cent/demo pe test. DM bot ka naam.\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #xauusd #algotrading #mt5",
+"cap1": "5 bots, ek nazar 🤖 TITAN, STRIKER, ORION, SpiderNet, AEGIS: chart, min",
+"time": "2026-11-08 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfeAqSdDS8K/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17955227799293138",
 "cap": "Is hafte ke forecast numbers 📊 (9-13 Nov)\n1️⃣ Mon 9 Nov, 7:00 AM IST — China CPI (umeed 0.8%) + PPI (-5.4%)\n2️⃣ Tue 10 Nov, 7:00 PM IST — US CPI: umeed +0.3% m/m, core +0.2%\n3️⃣ Thu 12 Nov, 12:30 PM IST — UK GDP Q3\n4️⃣ Fri 13 Nov, 7:00 PM IST — US PPI: umeed +0.4% m/m\nForecast se upar/neeche aane pe hi asli move banta hai. Scenario samjho, call nahi.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #uscpi #forexhindi #weekahead #spidertrades",
 "cap1": "Is hafte ke forecast numbers 📊 (9-13 Nov)",
@@ -84,8 +111,8 @@
 "link": "https://www.instagram.com/p/DfdlNAIiXyA/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 3,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -407,7 +434,7 @@
 "likes": 0,
 "comments": 0,
 "views": 12,
-"reach": 8,
+"reach": 9,
 "saved": 0,
 "shares": 0
 },
@@ -480,20 +507,6 @@
 "reach": 105,
 "saved": 0,
 "shares": 1
-},
-{
-"id": "17962354710011504",
-"cap": "Balance $1,000. Equity $850? 😳 Equity = abhi ka sach. Margin aur stop out equity pe chalte hain.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#equity #forexhindi #tradingeducation #riskmanagement #mt5",
-"cap1": "Balance $1,000. Equity $850? 😳 Equity = abhi ka sach. Margin aur stop ",
-"time": "2026-11-04 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfUutRWDEzd/",
-"likes": 0,
-"comments": 0,
-"views": 126,
-"reach": 108,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -703,7 +716,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1694,
+"age_min": 1934,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -723,6 +736,16 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-08T05:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-08T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-08T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -734,16 +757,6 @@
 },
 {
 "t": "2026-11-07T20:08:53Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-07T19:00:39Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-07T17:57:11Z",
 "ok": "success",
 "ev": "schedule"
 }
