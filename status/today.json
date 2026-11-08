@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-08 05:33 IST",
+"updated": "2026-11-08 07:11 IST",
 "date": "2026-11-08",
 "followers": 48,
-"media_count": 89,
+"media_count": 90,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Is hafte ke forecast numbers 📊 (9-13 Nov)",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17955227799293138",
+"cap": "Is hafte ke forecast numbers 📊 (9-13 Nov)\n1️⃣ Mon 9 Nov, 7:00 AM IST — China CPI (umeed 0.8%) + PPI (-5.4%)\n2️⃣ Tue 10 Nov, 7:00 PM IST — US CPI: umeed +0.3% m/m, core +0.2%\n3️⃣ Thu 12 Nov, 12:30 PM IST — UK GDP Q3\n4️⃣ Fri 13 Nov, 7:00 PM IST — US PPI: umeed +0.4% m/m\nForecast se upar/neeche aane pe hi asli move banta hai. Scenario samjho, call nahi.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #uscpi #forexhindi #weekahead #spidertrades",
+"cap1": "Is hafte ke forecast numbers 📊 (9-13 Nov)",
+"time": "2026-11-08 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfdlNAIiXyA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "17955227799293138",
+"cap": "Is hafte ke forecast numbers 📊 (9-13 Nov)\n1️⃣ Mon 9 Nov, 7:00 AM IST — China CPI (umeed 0.8%) + PPI (-5.4%)\n2️⃣ Tue 10 Nov, 7:00 PM IST — US CPI: umeed +0.3% m/m, core +0.2%\n3️⃣ Thu 12 Nov, 12:30 PM IST — UK GDP Q3\n4️⃣ Fri 13 Nov, 7:00 PM IST — US PPI: umeed +0.4% m/m\nForecast se upar/neeche aane pe hi asli move banta hai. Scenario samjho, call nahi.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #uscpi #forexhindi #weekahead #spidertrades",
+"cap1": "Is hafte ke forecast numbers 📊 (9-13 Nov)",
+"time": "2026-11-08 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfdlNAIiXyA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18115819559334437",
 "cap": "Prop firm 30 second me ⏱️ Fee → challenge → funded → profit split. Aur fail kab hote ho, wo bhi.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#propfirm #fundedtrader #forexhindi #tradingeducation #xauusd",
 "cap1": "Prop firm 30 second me ⏱️ Fee → challenge → funded → profit split. Aur",
@@ -85,8 +112,8 @@
 "link": "https://www.instagram.com/reel/DfcSwdOklJO/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 4,
+"views": 6,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -155,8 +182,8 @@
 "link": "https://www.instagram.com/reel/DfbHOwznNdS/",
 "likes": 0,
 "comments": 0,
-"views": 58,
-"reach": 43,
+"views": 61,
+"reach": 46,
 "saved": 0,
 "shares": 0
 },
@@ -467,20 +494,6 @@
 "reach": 108,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18111575786179744",
-"cap": "What does 1% a day grow into? 🌳\nDay 30: +35%. Day 100: 2.7×. Day 365: 37×. Small steps, compounded.\nOne red day (−1%) bends the tree. It does not break it.\nHypothetical math: $1,000 start, +1% net per day, one −1% day included. Real results vary. Not a promise of profit.\nSmall steps. Big tree. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#compounding #tradingmindset #consistency #forextrader #spidertrades",
-"cap1": "What does 1% a day grow into? 🌳",
-"time": "2026-11-04 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfUkZCNgg_C/",
-"likes": 0,
-"comments": 0,
-"views": 119,
-"reach": 102,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -690,7 +703,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1596,
+"age_min": 1694,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -710,6 +723,11 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-08T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-07T20:43:16Z",
 "ok": "success",
 "ev": "schedule"
@@ -728,11 +746,6 @@
 "t": "2026-11-07T17:57:11Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-07T17:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
