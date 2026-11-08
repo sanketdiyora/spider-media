@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-08 12:11 IST",
+"updated": "2026-11-08 13:41 IST",
 "date": "2026-11-08",
 "followers": 48,
-"media_count": 92,
+"media_count": 93,
 "slots": [
 {
 "slot": "0700",
@@ -59,11 +59,11 @@
 "time": "2026-11-08 12:00",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfeHfQPmPMs/",
-"likes": 0,
+"likes": 4,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 118,
+"reach": 102,
+"saved": 1,
 "shares": 0
 }
 },
@@ -72,8 +72,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "5 bots. Ek hafta 🕷️ TITAN, Aegis, STRIKER, ORION, SpiderNet. Kaunsa tu",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17916911850498205",
+"cap": "5 bots. Ek hafta 🕷️ TITAN, Aegis, STRIKER, ORION, SpiderNet. Kaunsa tumhara favourite?\nFree: hamare partner broker pe account kholke milta hai. DM bot ka naam.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #xauusd #algotrading #mt5",
+"cap1": "5 bots. Ek hafta 🕷️ TITAN, Aegis, STRIKER, ORION, SpiderNet. Kaunsa tu",
+"time": "2026-11-08 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfeRzsggZ6Z/",
+"likes": 1,
+"comments": 0,
+"views": 1,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -102,17 +115,31 @@
 ],
 "recent_posts": [
 {
+"id": "17916911850498205",
+"cap": "5 bots. Ek hafta 🕷️ TITAN, Aegis, STRIKER, ORION, SpiderNet. Kaunsa tumhara favourite?\nFree: hamare partner broker pe account kholke milta hai. DM bot ka naam.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #xauusd #algotrading #mt5",
+"cap1": "5 bots. Ek hafta 🕷️ TITAN, Aegis, STRIKER, ORION, SpiderNet. Kaunsa tu",
+"time": "2026-11-08 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfeRzsggZ6Z/",
+"likes": 1,
+"comments": 0,
+"views": 1,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18107485064644715",
 "cap": "Har loss ek sabak hai. Bas fees thodi mehngi hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "Har loss ek sabak hai. Bas fees thodi mehngi hai. 🕷️",
 "time": "2026-11-08 12:00",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfeHfQPmPMs/",
-"likes": 0,
+"likes": 4,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 118,
+"reach": 102,
+"saved": 1,
 "shares": 0
 },
 {
@@ -152,8 +179,8 @@
 "link": "https://www.instagram.com/reel/DfcdHnwDHMl/",
 "likes": 0,
 "comments": 0,
-"views": 60,
-"reach": 53,
+"views": 61,
+"reach": 54,
 "saved": 0,
 "shares": 0
 },
@@ -237,7 +264,7 @@
 "likes": 0,
 "comments": 0,
 "views": 62,
-"reach": 46,
+"reach": 47,
 "saved": 0,
 "shares": 0
 },
@@ -506,20 +533,6 @@
 "reach": 1,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18352448224281524",
-"cap": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰\n1️⃣ Norges Bank rate decision — 2:30 PM IST (4.50% hold ki umeed)\n2️⃣ Bank of England rate decision — 5:30 PM IST (Reuters poll: 3.75% → 4.00% hike ki umeed)\n3️⃣ US weekly jobless claims — 7:00 PM IST (exp. ~197K)\nScenario samjho, call nahi. Plan aur risk apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #gbpusd #bankofengland #spidertrades",
-"cap1": "Aaj ki 3 badi khabrein (Thu 5 Nov) 📰",
-"time": "2026-11-05 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfV20JVl75G/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 3,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -729,7 +742,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1994,
+"age_min": 2084,
 "rc": 0,
 "summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -749,6 +762,16 @@
 "disk_free_gb": 23.3,
 "github_runs": [
 {
+"t": "2026-11-08T08:00:24Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-08T07:00:18Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-08T06:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -762,16 +785,6 @@
 "t": "2026-11-08T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-08T01:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-07T20:43:16Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
