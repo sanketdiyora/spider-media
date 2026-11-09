@@ -1,0 +1,42 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-09/1051.mp4",
+ "dur": 37.75,
+ "music": "house/471.mp3",
+ "chars": 537,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "BTCUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    74815.2,
+    74833.86
+   ],
+   "sl": 75281.7,
+   "entry": 74815.2,
+   "rr": 1.0,
+   "tp1": 74348.7,
+   "tp2": null
+  },
+  {
+   "pair": "GOLD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    4122.5217600000005,
+    4122.635
+   ],
+   "sl": 4119.804,
+   "entry": 4122.635,
+   "rr": 1.0,
+   "tp1": 4125.466,
+   "tp2": null
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_33e4a36d",
+ "crops": [
+  "/home/claude/ig/setup/w_33e4a36d/tg_0.jpg",
+  "/home/claude/ig/setup/w_33e4a36d/tg_1.jpg"
+ ]
+}
