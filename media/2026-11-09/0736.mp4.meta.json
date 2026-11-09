@@ -1,0 +1,42 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-09/0736.mp4",
+ "dur": 43.94,
+ "music": "trap/407.mp3",
+ "chars": 593,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "BCHUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    238.5,
+    238.6458
+   ],
+   "sl": 242.145,
+   "entry": 238.5,
+   "rr": 1.0,
+   "tp1": 234.855,
+   "tp2": null
+  },
+  {
+   "pair": "GBPUSD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.33702816,
+    1.33708
+   ],
+   "sl": 1.335784,
+   "entry": 1.33708,
+   "rr": 3.0,
+   "tp1": 1.338376,
+   "tp2": 1.340969
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_4c252946",
+ "crops": [
+  "/home/claude/ig/setup/w_4c252946/tg_0.jpg",
+  "/home/claude/ig/setup/w_4c252946/tg_1.jpg"
+ ]
+}
