@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-09 10:54 IST",
+"updated": "2026-11-09 11:06 IST",
 "date": "2026-11-09",
 "followers": 49,
-"media_count": 100,
+"media_count": 101,
 "slots": [
 {
 "slot": "0700",
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 23,
-"reach": 20,
+"views": 26,
+"reach": 21,
 "saved": 0,
 "shares": 0
 }
@@ -93,8 +93,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18639579049023536",
+"cap": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), % based cycle, aur apna exit system (secret).\nSafety: equity guard, news filter, STOP NEW. DM \"TITAN\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldminttitan #martingale #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), ",
+"time": "2026-11-09 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfgldH4F99x/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -139,6 +152,20 @@
 ],
 "recent_posts": [
 {
+"id": "18639579049023536",
+"cap": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), % based cycle, aur apna exit system (secret).\nSafety: equity guard, news filter, STOP NEW. DM \"TITAN\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldminttitan #martingale #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), ",
+"time": "2026-11-09 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfgldH4F99x/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18036235160854076",
 "cap": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇\nBTCUSD SELL — entry 74,815 · SL 75,282 · TP1 74,349 · phir trailing (SL entry pe)\nGOLD BUY — entry 4,123 · SL 4,120 · TP1 4,125 · phir trailing (SL entry pe)\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇",
@@ -161,8 +188,8 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 23,
-"reach": 20,
+"views": 26,
+"reach": 21,
 "saved": 0,
 "shares": 0
 },
@@ -203,7 +230,7 @@
 "link": "https://www.instagram.com/reel/DffB3tdDY5Z/",
 "likes": 0,
 "comments": 0,
-"views": 27,
+"views": 28,
 "reach": 24,
 "saved": 0,
 "shares": 0
@@ -543,20 +570,6 @@
 "reach": 3,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18122109655975654",
-"cap": "Kal (Fri 6 Nov) ke 2 scenario 👇\nAUDUSD SELL — zone 0.6975 · SL 0.7031 · target 0.6874 · RR 1:1.8\nBTCUSD SELL — zone 77,268 · SL 80,679 · target 71,128 · RR 1:1.8\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "Kal (Fri 6 Nov) ke 2 scenario 👇",
-"time": "2026-11-05 23:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXkpZoI8Sa/",
-"likes": 2,
-"comments": 0,
-"views": 118,
-"reach": 97,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -638,8 +651,10 @@
 "opened": "09 Nov 10:15",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.06 lots @74928.28 SL 75281.70 (scanner SL) entry 74815.20 basis: bar not found, 0  risk 0.43%"
-},
+"mt5_reason": "SL 74665.48"
+}
+],
+"closed_today": [
 {
 "id": "XAUUSD_1794200400_poc",
 "pair": "GOLD",
@@ -647,15 +662,27 @@
 "model": "poc",
 "entry": 4122.635,
 "sl": 4119.804,
-"r": null,
+"r": 0.0,
 "opened": "09 Nov 10:45",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "SL 4122.80"
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -10.25 USD = -0.42R"
 }
 ],
-"closed_today": [],
 "closed_recent": [
+{
+"id": "XAUUSD_1794200400_poc",
+"pair": "GOLD",
+"dir": "BUY",
+"model": "poc",
+"entry": 4122.635,
+"sl": 4119.804,
+"r": 0.0,
+"opened": "09 Nov 10:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -10.25 USD = -0.42R"
+},
 {
 "id": "AUDJPY_1793979900_dpoc",
 "pair": "AUDJPY",
@@ -837,38 +864,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPAUD_1793952000_pbo",
-"pair": "GBPAUD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.95023,
-"sl": 1.947301,
-"r": -1.0,
-"opened": "06 Nov 13:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 20,
+"all_n": 21,
 "all_net": -1.57,
 "all_win": 8,
-"today_net": 0,
+"today_net": 0.0,
 "engine": {
-"last_scan": "10:47",
-"age_min": 7,
+"last_scan": "11:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 05:15 UTC · new 1 · events 0 · open 7"
+"summary": "run 2026-11-09 05:30 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4920.15",
-"equity": "4950.25",
-"floating": "30.10",
-"positions": "7",
+"balance": "4909.90",
+"equity": "4970.47",
+"floating": "60.57",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -877,6 +891,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.2,
 "github_runs": [
+{
+"t": "2026-11-09T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-09T02:30:16Z",
 "ok": "success",
@@ -894,11 +913,6 @@
 },
 {
 "t": "2026-11-08T20:23:35Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-08T19:04:51Z",
 "ok": "success",
 "ev": "schedule"
 }
