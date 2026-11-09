@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-09 06:06 IST",
+"updated": "2026-11-09 07:12 IST",
 "date": "2026-11-09",
 "followers": 49,
-"media_count": 96,
+"media_count": 97,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17923646430451740",
+"cap": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)\n1️⃣ 7:00 AM IST — China CPI (umeed ~0.8%) + PPI (~5.2%, 4 saal ka high)\n2️⃣ New Zealand election: result abhi adhura, final count 27 Nov — NZD volatile\n3️⃣ Brent pichhle hafte -17%, 2020 ke baad sabse badi girawat (~$97.6)\n4️⃣ Gold $4,000 ke upar (~$4,071), kal US CPI\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #goldprice #crudeoil #spidertrades",
+"cap1": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)",
+"time": "2026-11-09 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "17923646430451740",
+"cap": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)\n1️⃣ 7:00 AM IST — China CPI (umeed ~0.8%) + PPI (~5.2%, 4 saal ka high)\n2️⃣ New Zealand election: result abhi adhura, final count 27 Nov — NZD volatile\n3️⃣ Brent pichhle hafte -17%, 2020 ke baad sabse badi girawat (~$97.6)\n4️⃣ Gold $4,000 ke upar (~$4,071), kal US CPI\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #goldprice #crudeoil #spidertrades",
+"cap1": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)",
+"time": "2026-11-09 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18149389597575950",
 "cap": "Galat lot size = account khatam 💥 Same trade, gold $20 ulta: 0.01 lot −$20, 1.00 lot −$2,000.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#lotsize #riskmanagement #xauusd #forexhindi #tradingeducation",
 "cap1": "Galat lot size = account khatam 💥 Same trade, gold $20 ulta: 0.01 lot ",
@@ -85,7 +112,7 @@
 "link": "https://www.instagram.com/reel/Dfe3j4kDwB6/",
 "likes": 0,
 "comments": 0,
-"views": 143,
+"views": 144,
 "reach": 124,
 "saved": 0,
 "shares": 0
@@ -156,7 +183,7 @@
 "likes": 0,
 "comments": 0,
 "views": 7,
-"reach": 5,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -467,25 +494,25 @@
 "reach": 108,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18121234811324661",
-"cap": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak add ya cut hota hai. Grid/martingale jaise lambe trades me dhyaan rakho. Symbol specification check karo. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#swap #forexhindi #tradingeducation #xauusd #riskmanagement",
-"cap1": "Swap: raat bhar trade rakhne ka kiraya 🌙 Rollover pe interest ka farak",
-"time": "2026-11-05 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfW7ee3F2k4/",
-"likes": 0,
-"comments": 0,
-"views": 14,
-"reach": 10,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "BCHUSD_1794186900_dpoc",
+"pair": "BCHUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 238.5,
+"sl": 242.145,
+"r": null,
+"opened": "09 Nov 07:00",
+"state": "open",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.56 USD = -1.00R"
+}
+],
 "closed_today": [],
 "closed_recent": [
 {
@@ -689,16 +716,16 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "06:01",
-"age_min": 4,
+"last_scan": "07:06",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-09 00:30 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-09 01:35 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4944.71",
-"equity": "4944.71",
+"balance": "4920.15",
+"equity": "4920.15",
 "floating": "0.00",
 "positions": "0",
 "ea_enabled": "1",
@@ -709,6 +736,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.3,
 "github_runs": [
+{
+"t": "2026-11-09T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-08T20:59:13Z",
 "ok": "success",
@@ -728,11 +760,6 @@
 "t": "2026-11-08T18:14:19Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-08T17:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
