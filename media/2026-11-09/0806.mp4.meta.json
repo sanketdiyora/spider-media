@@ -1,0 +1,42 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-09/0806.mp4",
+ "dur": 43.53,
+ "music": "lofi/135.mp3",
+ "chars": 539,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GBPJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    211.56743600000001,
+    211.578
+   ],
+   "sl": 211.3139,
+   "entry": 211.578,
+   "rr": 1.0,
+   "tp1": 211.8421,
+   "tp2": null
+  },
+  {
+   "pair": "EURCAD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    1.57357,
+    1.5736291999999998
+   ],
+   "sl": 1.57505,
+   "entry": 1.57357,
+   "rr": 3.0,
+   "tp1": 1.57209,
+   "tp2": 1.569131
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_76f0e794",
+ "crops": [
+  "/home/claude/ig/setup/w_76f0e794/tg_0.jpg",
+  "/home/claude/ig/setup/w_76f0e794/tg_1.jpg"
+ ]
+}
