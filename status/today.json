@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 14:08 IST",
+"updated": "2026-11-09 14:21 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -650,8 +650,8 @@
 "r": null,
 "opened": "09 Nov 12:15",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.66 USD = -1.00R"
 },
 {
 "id": "GBPCAD_1794211800_lbo",
@@ -949,18 +949,18 @@
 "all_win": 12,
 "today_net": 2.57,
 "engine": {
-"last_scan": "14:06",
-"age_min": 2,
+"last_scan": "14:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 08:35 UTC · new 0 · events 1 · open 5"
+"summary": "run 2026-11-09 08:45 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4960.14",
-"equity": "4937.68",
-"floating": "-22.46",
-"positions": "7",
+"balance": "4935.48",
+"equity": "4927.21",
+"floating": "-8.27",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
