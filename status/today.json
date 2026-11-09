@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 14:37 IST",
+"updated": "2026-11-09 14:52 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -663,8 +663,21 @@
 "r": null,
 "opened": "09 Nov 13:45",
 "state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 0.57 USD = 0.02R"
+},
+{
+"id": "NAS100_1794214800_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 26957.99,
+"sl": 27049.25,
+"r": null,
+"opened": "09 Nov 14:45",
+"state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @1.88859 SL 1.88657 (scanner SL) entry 1.88799 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
+"mt5_reason": "OPEN SELL 0.50 lots @27006.95 SL 27049.25 (scanner SL) entry 26957.99 basis: bar not found, 0  risk 0.43%"
 }
 ],
 "closed_today": [
@@ -949,17 +962,17 @@
 "all_win": 12,
 "today_net": 2.57,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-09 09:00 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 09:15 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4935.48",
-"equity": "4913.16",
-"floating": "-22.32",
+"balance": "4931.45",
+"equity": "4946.07",
+"floating": "14.62",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
