@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 15:36 IST",
+"updated": "2026-11-09 15:51 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -654,17 +654,17 @@
 "mt5_reason": "DONE pnl -24.66 USD = -1.00R"
 },
 {
-"id": "NAS100_1794214800_dpoc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 26957.99,
-"sl": 27049.25,
+"id": "GBPUSD_1794218400_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.34189,
+"sl": 1.340396,
 "r": null,
-"opened": "09 Nov 14:45",
+"opened": "09 Nov 15:45",
 "state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -21.28 USD = -1.01R"
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.14 lots @1.34205 SL 1.34040 (scanner SL) entry 1.34189 basis: bar not found, 0 split TP1/TP2 risk 0.47%"
 }
 ],
 "closed_today": [
@@ -758,9 +758,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 0.57 USD = 0.02R"
+},
+{
+"id": "NAS100_1794214800_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 26957.99,
+"sl": 27049.25,
+"r": -1.0,
+"opened": "09 Nov 14:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -21.28 USD = -1.01R"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1794214800_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 26957.99,
+"sl": 27049.25,
+"r": -1.0,
+"opened": "09 Nov 14:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -21.28 USD = -1.01R"
+},
 {
 "id": "GBPCAD_1794211800_lbo",
 "pair": "GBPCAD",
@@ -942,38 +968,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "XAUUSD_1793932200_pbo",
-"pair": "GOLD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 4061.475,
-"sl": 4098.744,
-"r": -0.11,
-"opened": "06 Nov 08:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 27,
-"all_net": 1.5,
+"all_n": 28,
+"all_net": 0.5,
 "all_win": 13,
-"today_net": 3.07,
+"today_net": 2.07,
 "engine": {
-"last_scan": "15:31",
+"last_scan": "15:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 10:00 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 10:15 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4910.17",
-"equity": "4902.15",
-"floating": "-8.02",
-"positions": "4",
+"equity": "4900.42",
+"floating": "-9.75",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
