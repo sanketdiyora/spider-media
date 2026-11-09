@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 10:06 IST",
+"updated": "2026-11-09 10:23 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 99,
@@ -605,6 +605,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "BTCUSD_1794198600_dpoc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 74815.2,
+"sl": 75281.7,
+"r": null,
+"opened": "09 Nov 10:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.06 lots @74928.28 SL 75281.70 (scanner SL) entry 74815.20 basis: bar not found, 0  risk 0.43%"
 }
 ],
 "closed_today": [],
@@ -810,18 +823,18 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "10:01",
-"age_min": 4,
+"last_scan": "10:21",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-09 04:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 04:50 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4920.15",
-"equity": "4924.78",
-"floating": "4.63",
-"positions": "5",
+"equity": "4933.48",
+"floating": "13.33",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
