@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 05:32 IST",
+"updated": "2026-11-09 06:06 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 96,
@@ -689,10 +689,10 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "02:56",
-"age_min": 3036,
+"last_scan": "06:01",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-06 21:25 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-09 00:30 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
