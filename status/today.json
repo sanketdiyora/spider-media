@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 18:24 IST",
+"updated": "2026-11-09 18:40 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 104,
@@ -665,6 +665,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.14 lots @1.34205 SL 1.34040 (scanner SL) entry 1.34189 basis: bar not found, 0 split TP1/TP2 risk 0.47%"
+},
+{
+"id": "BTCUSD_1794228300_poc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "poc",
+"entry": 74805.0,
+"sl": 74929.3,
+"r": null,
+"opened": "09 Nov 18:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
 }
 ],
 "closed_today": [
@@ -988,17 +1001,17 @@
 "all_win": 13,
 "today_net": 1.07,
 "engine": {
-"last_scan": "18:21",
-"age_min": 2,
+"last_scan": "18:36",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-09 12:50 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-09 13:05 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4887.46",
-"equity": "4861.58",
-"floating": "-25.88",
+"equity": "4866.30",
+"floating": "-21.16",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
