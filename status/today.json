@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 20:46 IST",
+"updated": "2026-11-09 20:51 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 106,
@@ -677,7 +677,7 @@
 "opened": "09 Nov 19:45",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.14 lots @211.950 SL 211.680 (scanner SL) entry 211.899 basis -0.004 (M1)  risk 0.49%"
+"mt5_reason": "SL 211.997"
 }
 ],
 "closed_today": [
@@ -1040,17 +1040,17 @@
 "all_win": 14,
 "today_net": 0.84,
 "engine": {
-"last_scan": "20:36",
-"age_min": 10,
+"last_scan": "20:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 15:05 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-09 15:15 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4864.50",
-"equity": "4858.81",
-"floating": "-5.69",
+"equity": "4853.71",
+"floating": "-10.79",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
