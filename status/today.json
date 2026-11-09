@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 11:41 IST",
+"updated": "2026-11-09 11:54 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 101,
@@ -584,7 +584,7 @@
 "sl": 242.145,
 "r": null,
 "opened": "09 Nov 07:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.56 USD = -1.00R"
 },
@@ -597,7 +597,7 @@
 "sl": 1.335784,
 "r": null,
 "opened": "09 Nov 07:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.17 lots @1.33721 SL 1.33578 (scanner SL) entry 1.33708 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
 },
@@ -871,18 +871,18 @@
 "all_win": 9,
 "today_net": 0.64,
 "engine": {
-"last_scan": "11:36",
-"age_min": 4,
+"last_scan": "11:52",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-09 06:05 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 06:20 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4929.65",
-"equity": "4945.99",
-"floating": "16.34",
-"positions": "5",
+"balance": "4939.01",
+"equity": "4950.22",
+"floating": "11.21",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
