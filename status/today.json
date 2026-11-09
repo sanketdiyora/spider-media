@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 07:40 IST",
+"updated": "2026-11-09 07:54 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 98,
@@ -545,6 +545,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.17 lots @1.33721 SL 1.33578 (scanner SL) entry 1.33708 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "GBPJPY_1794189600_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 211.578,
+"sl": 211.3139,
+"r": null,
+"opened": "09 Nov 07:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.12 lots @211.614 SL 211.314 (scanner SL) entry 211.578 basis: bar not found, 0  risk 0.46%"
 }
 ],
 "closed_today": [],
@@ -750,18 +763,18 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "07:32",
-"age_min": 8,
+"last_scan": "07:51",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-09 02:00 UTC · new 1 · events 0 · open 2"
+"summary": "run 2026-11-09 02:20 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4920.15",
-"equity": "4919.13",
-"floating": "-1.02",
-"positions": "2",
+"equity": "4918.06",
+"floating": "-2.09",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
