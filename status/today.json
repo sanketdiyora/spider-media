@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 19:54 IST",
+"updated": "2026-11-09 20:21 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 105,
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfgOawXDvWc/",
 "likes": 0,
 "comments": 0,
-"views": 39,
-"reach": 33,
+"views": 42,
+"reach": 34,
 "saved": 0,
 "shares": 0
 }
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 42,
+"views": 43,
 "reach": 36,
 "saved": 0,
 "shares": 0
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/DfgldH4F99x/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 2,
+"views": 3,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -124,9 +124,9 @@
 "link": "https://www.instagram.com/reel/DfgsYellHbt/",
 "likes": 1,
 "comments": 0,
-"views": 118,
-"reach": 102,
-"saved": 0,
+"views": 120,
+"reach": 103,
+"saved": 1,
 "shares": 0
 }
 },
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 1,
 "comments": 0,
-"views": 101,
-"reach": 76,
+"views": 120,
+"reach": 91,
 "saved": 0,
 "shares": 0
 }
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 31,
+"reach": 14,
 "saved": 0,
 "shares": 0
 }
@@ -212,8 +212,8 @@
 "link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 31,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -240,8 +240,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 1,
 "comments": 0,
-"views": 101,
-"reach": 76,
+"views": 120,
+"reach": 91,
 "saved": 0,
 "shares": 0
 },
@@ -254,9 +254,9 @@
 "link": "https://www.instagram.com/reel/DfgsYellHbt/",
 "likes": 1,
 "comments": 0,
-"views": 118,
-"reach": 102,
-"saved": 0,
+"views": 120,
+"reach": 103,
+"saved": 1,
 "shares": 0
 },
 {
@@ -268,8 +268,8 @@
 "link": "https://www.instagram.com/p/DfgldH4F99x/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 2,
+"views": 3,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -296,7 +296,7 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 42,
+"views": 43,
 "reach": 36,
 "saved": 0,
 "shares": 0
@@ -310,8 +310,8 @@
 "link": "https://www.instagram.com/reel/DfgOawXDvWc/",
 "likes": 0,
 "comments": 0,
-"views": 39,
-"reach": 33,
+"views": 42,
+"reach": 34,
 "saved": 0,
 "shares": 0
 },
@@ -380,7 +380,7 @@
 "link": "https://www.instagram.com/reel/DfeRzsggZ6Z/",
 "likes": 2,
 "comments": 3,
-"views": 147,
+"views": 148,
 "reach": 106,
 "saved": 4,
 "shares": 4
@@ -641,19 +641,6 @@
 "mt5_reason": "same currency limit"
 },
 {
-"id": "SOLUSD_1794206400_lbo",
-"pair": "SOLUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 85.754,
-"sl": 87.119,
-"r": null,
-"opened": "09 Nov 12:15",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.66 USD = -1.00R"
-},
-{
 "id": "GBPUSD_1794218400_pbo",
 "pair": "GBPUSD",
 "dir": "BUY",
@@ -665,19 +652,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.14 lots @1.34205 SL 1.34040 (scanner SL) entry 1.34189 basis: bar not found, 0 split TP1/TP2 risk 0.47%"
-},
-{
-"id": "BTCUSD_1794228300_poc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "poc",
-"entry": 74805.0,
-"sl": 74929.3,
-"r": null,
-"opened": "09 Nov 18:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
 },
 {
 "id": "GBPJPY_1794232800_dpoc",
@@ -823,9 +797,61 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -22.96 USD = -1.00R"
+},
+{
+"id": "BTCUSD_1794228300_poc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "poc",
+"entry": 74805.0,
+"sl": 74929.3,
+"r": 1.77,
+"opened": "09 Nov 18:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
+},
+{
+"id": "SOLUSD_1794206400_lbo",
+"pair": "SOLUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 85.754,
+"sl": 87.119,
+"r": -1.0,
+"opened": "09 Nov 12:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.66 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "SOLUSD_1794206400_lbo",
+"pair": "SOLUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 85.754,
+"sl": 87.119,
+"r": -1.0,
+"opened": "09 Nov 12:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.66 USD = -1.00R"
+},
+{
+"id": "BTCUSD_1794228300_poc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "poc",
+"entry": 74805.0,
+"sl": 74929.3,
+"r": 1.77,
+"opened": "09 Nov 18:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
+},
 {
 "id": "JPN225_1794204900_pbo",
 "pair": "JPN225",
@@ -994,50 +1020,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDUSD_1793983500_dpoc",
-"pair": "AUDUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.68733,
-"sl": 0.689505,
-"r": 0.46,
-"opened": "06 Nov 22:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "AUDUSD_1793941200_pbo",
-"pair": "AUDUSD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.68931,
-"sl": 0.690885,
-"r": 1.45,
-"opened": "06 Nov 10:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 30,
-"all_net": -1.5,
-"all_win": 13,
-"today_net": 0.07,
+"all_n": 32,
+"all_net": -0.73,
+"all_win": 14,
+"today_net": 0.84,
 "engine": {
-"last_scan": "19:51",
-"age_min": 3,
+"last_scan": "20:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 14:20 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 14:45 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4864.50",
-"equity": "4854.55",
-"floating": "-9.95",
+"equity": "4855.02",
+"floating": "-9.48",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
