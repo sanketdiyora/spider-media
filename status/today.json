@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 15:06 IST",
+"updated": "2026-11-09 15:36 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 5,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 38,
+"views": 39,
 "reach": 33,
 "saved": 0,
 "shares": 0
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfgkn99gKyS/",
 "likes": 1,
 "comments": 0,
-"views": 84,
-"reach": 72,
+"views": 87,
+"reach": 76,
 "saved": 0,
 "shares": 0
 }
@@ -125,7 +125,7 @@
 "likes": 1,
 "comments": 0,
 "views": 116,
-"reach": 100,
+"reach": 101,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 0,
 "comments": 0,
-"views": 17,
-"reach": 5,
+"views": 45,
+"reach": 34,
 "saved": 0,
 "shares": 0
 }
@@ -186,8 +186,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 0,
 "comments": 0,
-"views": 17,
-"reach": 5,
+"views": 45,
+"reach": 34,
 "saved": 0,
 "shares": 0
 },
@@ -201,7 +201,7 @@
 "likes": 1,
 "comments": 0,
 "views": 116,
-"reach": 100,
+"reach": 101,
 "saved": 0,
 "shares": 0
 },
@@ -228,8 +228,8 @@
 "link": "https://www.instagram.com/reel/Dfgkn99gKyS/",
 "likes": 1,
 "comments": 0,
-"views": 84,
-"reach": 72,
+"views": 87,
+"reach": 76,
 "saved": 0,
 "shares": 0
 },
@@ -242,7 +242,7 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 38,
+"views": 39,
 "reach": 33,
 "saved": 0,
 "shares": 0
@@ -270,8 +270,8 @@
 "link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 5,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -663,8 +663,8 @@
 "r": null,
 "opened": "09 Nov 14:45",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.50 lots @27006.95 SL 27049.25 (scanner SL) entry 26957.99 basis: bar not found, 0  risk 0.43%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -21.28 USD = -1.01R"
 }
 ],
 "closed_today": [
@@ -962,18 +962,18 @@
 "all_win": 13,
 "today_net": 3.07,
 "engine": {
-"last_scan": "15:01",
-"age_min": 4,
+"last_scan": "15:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 09:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 10:00 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4931.45",
-"equity": "4932.88",
-"floating": "1.43",
-"positions": "5",
+"balance": "4910.17",
+"equity": "4902.15",
+"floating": "-8.02",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -982,6 +982,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.2,
 "github_runs": [
+{
+"t": "2026-11-09T09:39:29Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-09T08:00:24Z",
 "ok": "success",
@@ -999,11 +1004,6 @@
 },
 {
 "t": "2026-11-09T05:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-09T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
