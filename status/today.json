@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 13:45 IST",
+"updated": "2026-11-09 13:53 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -624,8 +624,8 @@
 "r": null,
 "opened": "09 Nov 08:00",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.24 lots @1.57361 SL 1.57505 (scanner SL) entry 1.57357 basis: bar not found, 0 split TP1/TP2 risk 0.50%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.44 USD = -1.00R"
 },
 {
 "id": "GBPJPY_1794191400_pbo",
@@ -678,6 +678,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "FILLED"
+},
+{
+"id": "GBPCAD_1794211800_lbo",
+"pair": "GBPCAD",
+"dir": "BUY",
+"model": "lbo",
+"entry": 1.887988,
+"sl": 1.886567,
+"r": null,
+"opened": "09 Nov 13:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @1.88859 SL 1.88657 (scanner SL) entry 1.88799 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -936,17 +949,17 @@
 "all_win": 11,
 "today_net": 1.57,
 "engine": {
-"last_scan": "13:36",
-"age_min": 9,
+"last_scan": "13:52",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-09 08:05 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-09 08:20 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4946.14",
-"equity": "4961.95",
-"floating": "15.81",
+"balance": "4921.70",
+"equity": "4945.96",
+"floating": "24.26",
 "positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
