@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 17:39 IST",
+"updated": "2026-11-09 18:06 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 104,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 41,
-"reach": 34,
+"views": 42,
+"reach": 35,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfgkn99gKyS/",
 "likes": 1,
 "comments": 0,
-"views": 94,
-"reach": 81,
+"views": 99,
+"reach": 85,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 0,
 "comments": 0,
-"views": 70,
-"reach": 60,
+"views": 85,
+"reach": 70,
 "saved": 0,
 "shares": 0
 }
@@ -213,8 +213,8 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 0,
 "comments": 0,
-"views": 70,
-"reach": 60,
+"views": 85,
+"reach": 70,
 "saved": 0,
 "shares": 0
 },
@@ -255,8 +255,8 @@
 "link": "https://www.instagram.com/reel/Dfgkn99gKyS/",
 "likes": 1,
 "comments": 0,
-"views": 94,
-"reach": 81,
+"views": 99,
+"reach": 85,
 "saved": 0,
 "shares": 0
 },
@@ -269,8 +269,8 @@
 "link": "https://www.instagram.com/reel/DfgRsWoisT8/",
 "likes": 0,
 "comments": 0,
-"views": 41,
-"reach": 34,
+"views": 42,
+"reach": 35,
 "saved": 0,
 "shares": 0
 },
@@ -650,8 +650,8 @@
 "r": null,
 "opened": "09 Nov 12:05",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -22.71 USD = -1.00R"
 },
 {
 "id": "SOLUSD_1794206400_lbo",
@@ -988,18 +988,18 @@
 "all_win": 13,
 "today_net": 2.07,
 "engine": {
-"last_scan": "17:36",
-"age_min": 2,
+"last_scan": "18:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 12:05 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 12:30 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4910.17",
-"equity": "4878.20",
-"floating": "-31.97",
-"positions": "6",
+"balance": "4887.46",
+"equity": "4868.86",
+"floating": "-18.60",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
