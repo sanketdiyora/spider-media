@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 12:11 IST",
+"updated": "2026-11-09 12:23 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 102,
@@ -623,7 +623,7 @@
 "sl": 211.3139,
 "r": null,
 "opened": "09 Nov 07:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 211.708"
 },
@@ -665,6 +665,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 6.00 lots @58822.98 SL 59427.38 (scanner SL) entry 58765.48 basis 74.98 split TP1/TP2 risk 0.46%"
+},
+{
+"id": "BTCUSD_1794205800_lbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 74144.1,
+"sl": 74901.0,
+"r": null,
+"opened": "09 Nov 12:05",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
+},
+{
+"id": "SOLUSD_1794206400_lbo",
+"pair": "SOLUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 85.754,
+"sl": 87.119,
+"r": null,
+"opened": "09 Nov 12:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
 }
 ],
 "closed_today": [
@@ -897,18 +923,18 @@
 "all_win": 9,
 "today_net": 0.64,
 "engine": {
-"last_scan": "12:01",
-"age_min": 10,
+"last_scan": "12:21",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-09 06:30 UTC · new 1 · events 0 · open 6"
+"summary": "run 2026-11-09 06:50 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4939.01",
-"equity": "4950.09",
-"floating": "11.08",
-"positions": "6",
+"equity": "4928.09",
+"floating": "-10.92",
+"positions": "10",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
