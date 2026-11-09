@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 13:53 IST",
+"updated": "2026-11-09 14:08 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 103,
@@ -602,32 +602,6 @@
 "scanner": {
 "open": [
 {
-"id": "GBPUSD_1794188700_pbo",
-"pair": "GBPUSD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.33708,
-"sl": 1.335784,
-"r": null,
-"opened": "09 Nov 07:30",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @1.33721 SL 1.33578 (scanner SL) entry 1.33708 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
-},
-{
-"id": "EURCAD_1794190500_pbo",
-"pair": "EURCAD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 1.57357,
-"sl": 1.57505,
-"r": null,
-"opened": "09 Nov 08:00",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.44 USD = -1.00R"
-},
-{
 "id": "GBPJPY_1794191400_pbo",
 "pair": "GBPJPY",
 "dir": "BUY",
@@ -636,7 +610,7 @@
 "sl": 211.4013,
 "r": null,
 "opened": "09 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -688,7 +662,7 @@
 "sl": 1.886567,
 "r": null,
 "opened": "09 Nov 13:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.17 lots @1.88859 SL 1.88657 (scanner SL) entry 1.88799 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
 }
@@ -745,9 +719,61 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 7.13 USD = 0.31R"
+},
+{
+"id": "GBPUSD_1794188700_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.33708,
+"sl": 1.335784,
+"r": 2.0,
+"opened": "09 Nov 07:30",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 43.20 USD = 1.78R"
+},
+{
+"id": "EURCAD_1794190500_pbo",
+"pair": "EURCAD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 1.57357,
+"sl": 1.57505,
+"r": -1.0,
+"opened": "09 Nov 08:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.44 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURCAD_1794190500_pbo",
+"pair": "EURCAD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 1.57357,
+"sl": 1.57505,
+"r": -1.0,
+"opened": "09 Nov 08:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.44 USD = -1.00R"
+},
+{
+"id": "GBPUSD_1794188700_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.33708,
+"sl": 1.335784,
+"r": 2.0,
+"opened": "09 Nov 07:30",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 43.20 USD = 1.78R"
+},
 {
 "id": "GBPJPY_1794189600_dpoc",
 "pair": "GBPJPY",
@@ -916,51 +942,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "USDJPY_1793975400_dpoc",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 158.433,
-"sl": 158.2285,
-"r": -1.0,
-"opened": "06 Nov 20:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "NZDCAD_1793961000_pbo",
-"pair": "NZDCAD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.77964,
-"sl": 0.781265,
-"r": -1.0,
-"opened": "06 Nov 16:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 24,
-"all_net": -0.0,
-"all_win": 11,
-"today_net": 1.57,
+"all_n": 26,
+"all_net": 1.0,
+"all_win": 12,
+"today_net": 2.57,
 "engine": {
-"last_scan": "13:52",
-"age_min": 1,
+"last_scan": "14:06",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-09 08:20 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-09 08:35 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4921.70",
-"equity": "4945.96",
-"floating": "24.26",
-"positions": "9",
+"balance": "4960.14",
+"equity": "4937.68",
+"floating": "-22.46",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
