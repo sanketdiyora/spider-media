@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 19:40 IST",
+"updated": "2026-11-09 19:54 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 105,
@@ -678,6 +678,19 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
+},
+{
+"id": "GBPJPY_1794232800_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 211.903,
+"sl": 211.684,
+"r": null,
+"opened": "09 Nov 19:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.14 lots @211.950 SL 211.680 (scanner SL) entry 211.899 basis -0.004 (M1)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -1014,18 +1027,18 @@
 "all_win": 13,
 "today_net": 0.07,
 "engine": {
-"last_scan": "19:36",
-"age_min": 4,
+"last_scan": "19:51",
+"age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-09 14:05 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-09 14:20 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4864.50",
-"equity": "4856.38",
-"floating": "-8.12",
-"positions": "2",
+"equity": "4854.55",
+"floating": "-9.95",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
