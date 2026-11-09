@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-09 18:40 IST",
+"updated": "2026-11-09 19:12 IST",
 "date": "2026-11-09",
 "followers": 49,
-"media_count": 104,
+"media_count": 105,
 "slots": [
 {
 "slot": "0700",
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfgOawXDvWc/",
 "likes": 0,
 "comments": 0,
-"views": 36,
-"reach": 31,
+"views": 39,
+"reach": 33,
 "saved": 0,
 "shares": 0
 }
@@ -62,7 +62,7 @@
 "likes": 0,
 "comments": 0,
 "views": 42,
-"reach": 35,
+"reach": 36,
 "saved": 0,
 "shares": 0
 }
@@ -143,10 +143,10 @@
 "time": "2026-11-09 13:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 85,
-"reach": 70,
+"views": 101,
+"reach": 76,
 "saved": 0,
 "shares": 0
 }
@@ -177,8 +177,21 @@
 "name": "ASPIRE reel",
 "type": "reel",
 "title": "10 shots or 1 shot? 🎯",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17914112313484921",
+"cap": "10 shots or 1 shot? 🎯\nEvery trade has a cost: spread, fees, slippage. If each costs 0.1 R, 10 trades a day burns 1 R. One good trade burns 0.1 R. Over a month: −22 R vs −2.2 R.\nExample math: 0.1 R cost per trade, 22 trading days. Not a promise of profit.\nWait for your shot. Take it once. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#overtrading #tradingpsychology #riskmanagement #forextrader #spidertrades",
+"cap1": "10 shots or 1 shot? 🎯",
+"time": "2026-11-09 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -190,6 +203,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "17914112313484921",
+"cap": "10 shots or 1 shot? 🎯\nEvery trade has a cost: spread, fees, slippage. If each costs 0.1 R, 10 trades a day burns 1 R. One good trade burns 0.1 R. Over a month: −22 R vs −2.2 R.\nExample math: 0.1 R cost per trade, 22 trading days. Not a promise of profit.\nWait for your shot. Take it once. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#overtrading #tradingpsychology #riskmanagement #forextrader #spidertrades",
+"cap1": "10 shots or 1 shot? 🎯",
+"time": "2026-11-09 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "17915552904492928",
 "cap": "Support & Resistance 📏 Keemat baar-baar wahi se kyun palat-ti hai? Zones, role flip aur 3 tips. Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#supportandresistance #forexhindi #tradingeducation #priceaction #xauusd",
@@ -211,10 +238,10 @@
 "time": "2026-11-09 13:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 85,
-"reach": 70,
+"views": 101,
+"reach": 76,
 "saved": 0,
 "shares": 0
 },
@@ -270,7 +297,7 @@
 "likes": 0,
 "comments": 0,
 "views": 42,
-"reach": 35,
+"reach": 36,
 "saved": 0,
 "shares": 0
 },
@@ -283,8 +310,8 @@
 "link": "https://www.instagram.com/reel/DfgOawXDvWc/",
 "likes": 0,
 "comments": 0,
-"views": 36,
-"reach": 31,
+"views": 39,
+"reach": 33,
 "saved": 0,
 "shares": 0
 },
@@ -595,20 +622,6 @@
 "reach": 114,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "17916566922536164",
-"cap": "Plan tumhe bachata hai. Mood tumhe bechta hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Plan tumhe bachata hai. Mood tumhe bechta hai. 🕷️",
-"time": "2026-11-06 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfY96ucANOZ/",
-"likes": 2,
-"comments": 0,
-"views": 113,
-"reach": 104,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -675,7 +688,7 @@
 "sl": 74929.3,
 "r": null,
 "opened": "09 Nov 18:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -0.24R room (basis too big (M1), 0)"
 }
@@ -1001,17 +1014,17 @@
 "all_win": 13,
 "today_net": 1.07,
 "engine": {
-"last_scan": "18:36",
-"age_min": 4,
+"last_scan": "19:01",
+"age_min": 10,
 "rc": 0,
-"summary": "run 2026-11-09 13:05 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-09 13:30 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4887.46",
-"equity": "4866.30",
-"floating": "-21.16",
+"equity": "4860.80",
+"floating": "-26.66",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1021,6 +1034,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.2,
 "github_runs": [
+{
+"t": "2026-11-09T13:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-09T11:30:17Z",
 "ok": "success",
@@ -1040,11 +1058,6 @@
 "t": "2026-11-09T07:44:05Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-09T06:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
