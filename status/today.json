@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-09 07:12 IST",
+"updated": "2026-11-09 07:40 IST",
 "date": "2026-11-09",
 "followers": 49,
-"media_count": 97,
+"media_count": 98,
 "slots": [
 {
 "slot": "0700",
@@ -17,6 +17,27 @@
 "time": "2026-11-09 07:01",
 "type": "CAROUSEL",
 "link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
+"likes": 0,
+"comments": 0,
+"views": 2,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
+},
+{
+"slot": "0736",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇",
+"status": "POSTED",
+"post": {
+"id": "18347320768284091",
+"cap": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇\nBCHUSD SELL — entry 238.5000 · SL 242.1450 · TP1 234.8550 · phir trailing (SL entry pe)\nGBPUSD BUY — entry 1.3371 · SL 1.3358 · TP1 1.3384 · TP2 1.3410 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇",
+"time": "2026-11-09 07:40",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfgOawXDvWc/",
 "likes": 0,
 "comments": 0,
 "views": 0,
@@ -76,6 +97,20 @@
 ],
 "recent_posts": [
 {
+"id": "18347320768284091",
+"cap": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇\nBCHUSD SELL — entry 238.5000 · SL 242.1450 · TP1 234.8550 · phir trailing (SL entry pe)\nGBPUSD BUY — entry 1.3371 · SL 1.3358 · TP1 1.3384 · TP2 1.3410 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Live scanner ne abhi 2 setup pakde (Mon 9 Nov) 👇",
+"time": "2026-11-09 07:40",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfgOawXDvWc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17923646430451740",
 "cap": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)\n1️⃣ 7:00 AM IST — China CPI (umeed ~0.8%) + PPI (~5.2%, 4 saal ka high)\n2️⃣ New Zealand election: result abhi adhura, final count 27 Nov — NZD volatile\n3️⃣ Brent pichhle hafte -17%, 2020 ke baad sabse badi girawat (~$97.6)\n4️⃣ Gold $4,000 ke upar (~$4,071), kal US CPI\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #goldprice #crudeoil #spidertrades",
 "cap1": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)",
@@ -84,7 +119,7 @@
 "link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 2,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -480,20 +515,6 @@
 "reach": 260,
 "saved": 3,
 "shares": 1
-},
-{
-"id": "18159500629444395",
-"cap": "A crack is not the end. 🏺\nLose 2%, and you need only +2.04% to get back. Lose 10%: +11.1%. Lose 50%: +100%.\nThat is why risk is everything. Keep losses small and every crack becomes gold.\nMath: recovery needed = loss ÷ (1 − loss). Example only.\nStay patient. Stay disciplined. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #tradingpsychology #forextrader #drawdown #spidertrades",
-"cap1": "A crack is not the end. 🏺",
-"time": "2026-11-05 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfXJLyYE4P3/",
-"likes": 1,
-"comments": 0,
-"views": 120,
-"reach": 108,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -511,6 +532,19 @@
 "state": "open",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.56 USD = -1.00R"
+},
+{
+"id": "GBPUSD_1794188700_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.33708,
+"sl": 1.335784,
+"r": null,
+"opened": "09 Nov 07:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @1.33721 SL 1.33578 (scanner SL) entry 1.33708 basis: bar not found, 0 split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [],
@@ -716,25 +750,25 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "07:06",
-"age_min": 6,
+"last_scan": "07:32",
+"age_min": 8,
 "rc": 0,
-"summary": "run 2026-11-09 01:35 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-09 02:00 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4920.15",
-"equity": "4920.15",
-"floating": "0.00",
-"positions": "0",
+"equity": "4919.13",
+"floating": "-1.02",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 42274,
+"voice_chars_month": 42867,
 "voice_limit": 30000,
-"disk_free_gb": 23.3,
+"disk_free_gb": 23.2,
 "github_runs": [
 {
 "t": "2026-11-09T01:30:16Z",
