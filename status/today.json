@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09 08:08 IST",
+"updated": "2026-11-09 08:21 IST",
 "date": "2026-11-09",
 "followers": 49,
 "media_count": 99,
@@ -592,6 +592,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.24 lots @1.57361 SL 1.57505 (scanner SL) entry 1.57357 basis: bar not found, 0 split TP1/TP2 risk 0.50%"
+},
+{
+"id": "GBPJPY_1794191400_pbo",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 211.646,
+"sl": 211.4013,
+"r": null,
+"opened": "09 Nov 08:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [],
@@ -797,17 +810,17 @@
 "all_win": 8,
 "today_net": 0,
 "engine": {
-"last_scan": "08:01",
-"age_min": 7,
+"last_scan": "08:17",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-09 02:30 UTC · new 1 · events 0 · open 4"
+"summary": "run 2026-11-09 02:45 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4920.15",
-"equity": "4918.23",
-"floating": "-1.92",
+"equity": "4933.07",
+"floating": "12.92",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
