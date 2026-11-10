@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 09:51 IST",
+"updated": "2026-11-10 10:36 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 110,
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 2,
+"views": 3,
 "reach": 1,
 "saved": 0,
 "shares": 0
@@ -40,10 +40,10 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 20,
-"reach": 14,
+"views": 32,
+"reach": 26,
 "saved": 1,
-"shares": 0
+"shares": 4
 }
 },
 {
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 20,
+"reach": 11,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 9,
+"reach": 4,
 "saved": 0,
 "shares": 0
 }
@@ -147,8 +147,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 9,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -161,8 +161,8 @@
 "link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 20,
+"reach": 11,
 "saved": 0,
 "shares": 0
 },
@@ -175,10 +175,10 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 20,
-"reach": 14,
+"views": 32,
+"reach": 26,
 "saved": 1,
-"shares": 0
+"shares": 4
 },
 {
 "id": "18119336050792215",
@@ -189,7 +189,7 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 2,
+"views": 3,
 "reach": 1,
 "saved": 0,
 "shares": 0
@@ -204,7 +204,7 @@
 "likes": 0,
 "comments": 0,
 "views": 113,
-"reach": 89,
+"reach": 92,
 "saved": 0,
 "shares": 1
 },
@@ -218,7 +218,7 @@
 "likes": 2,
 "comments": 0,
 "views": 142,
-"reach": 123,
+"reach": 124,
 "saved": 0,
 "shares": 0
 },
@@ -610,19 +610,6 @@
 "sl": 1.343394,
 "r": null,
 "opened": "10 Nov 08:15",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "GBPAUD_1794277800_pbo",
-"pair": "GBPAUD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.94231,
-"sl": 1.941049,
-"r": null,
-"opened": "10 Nov 08:15",
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -637,21 +624,8 @@
 "r": null,
 "opened": "10 Nov 08:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 60422.98"
-},
-{
-"id": "US500_1794280500_pbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "pbo",
-"entry": 7556.33,
-"sl": 7565.21,
-"r": null,
-"opened": "10 Nov 09:00",
-"state": "risk-free",
 "mt5": "closed",
-"mt5_reason": "DONE pnl 8.26 USD = 0.35R"
+"mt5_reason": "DONE pnl 18.45 USD = 0.79R"
 },
 {
 "id": "NAS100_1794280500_pbo",
@@ -662,6 +636,19 @@
 "sl": 27942.22,
 "r": null,
 "opened": "10 Nov 09:00",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "UK100_1794285900_dpoc",
+"pair": "UK100",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 10841.4,
+"sl": 10830.46,
+"r": null,
+"opened": "10 Nov 10:30",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -706,9 +693,61 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
+},
+{
+"id": "US500_1794280500_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7556.33,
+"sl": 7565.21,
+"r": 0.5,
+"opened": "10 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.26 USD = 0.35R"
+},
+{
+"id": "GBPAUD_1794277800_pbo",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.94231,
+"sl": 1.941049,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPAUD_1794277800_pbo",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.94231,
+"sl": 1.941049,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794280500_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7556.33,
+"sl": 7565.21,
+"r": 0.5,
+"opened": "10 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.26 USD = 0.35R"
+},
 {
 "id": "GBPJPY_1794191400_pbo",
 "pair": "GBPJPY",
@@ -877,51 +916,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPJPY_1794189600_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 211.578,
-"sl": 211.3139,
-"r": 0.51,
-"opened": "09 Nov 07:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "BCHUSD_1794186900_dpoc",
-"pair": "BCHUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 238.5,
-"sl": 242.145,
-"r": 0.42,
-"opened": "09 Nov 07:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 37,
-"all_net": 0.5,
-"all_win": 17,
-"today_net": 1.79,
+"all_n": 39,
+"all_net": 1.5,
+"all_win": 19,
+"today_net": 2.79,
 "engine": {
-"last_scan": "09:46",
-"age_min": 4,
+"last_scan": "10:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 04:15 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-10 05:00 UTC · new 1 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4869.55",
-"equity": "4881.77",
-"floating": "12.22",
-"positions": "6",
+"balance": "4871.83",
+"equity": "4867.01",
+"floating": "-4.82",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
