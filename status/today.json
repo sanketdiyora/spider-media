@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 09:36 IST",
+"updated": "2026-11-10 09:51 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 110,
@@ -650,8 +650,8 @@
 "r": null,
 "opened": "10 Nov 09:00",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 7560.61"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.26 USD = 0.35R"
 },
 {
 "id": "NAS100_1794280500_pbo",
@@ -910,18 +910,18 @@
 "all_win": 17,
 "today_net": 1.79,
 "engine": {
-"last_scan": "09:31",
-"age_min": 5,
+"last_scan": "09:46",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-10 04:00 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-10 04:15 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4870.75",
-"equity": "4885.97",
-"floating": "15.22",
-"positions": "7",
+"balance": "4869.55",
+"equity": "4881.77",
+"floating": "12.22",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
