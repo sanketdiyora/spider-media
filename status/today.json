@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-10 07:10 IST",
+"updated": "2026-11-10 07:24 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 107,
+"media_count": 108,
 "slots": [
 {
 "slot": "0700",
@@ -17,6 +17,27 @@
 "time": "2026-11-10 07:00",
 "type": "CAROUSEL",
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
+},
+{
+"slot": "0720",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇",
+"status": "POSTED",
+"post": {
+"id": "18139560118724998",
+"cap": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇\nSILVER SELL — entry 53.29 · SL 53.69 · TP1 52.89 · TP2 52.09 · RR 1:3.0\nGBPJPY BUY — entry 212.44 · SL 212.22 · TP1 212.65 · TP2 213.07 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇",
+"time": "2026-11-10 07:23",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
 "views": 0,
@@ -76,6 +97,20 @@
 ],
 "recent_posts": [
 {
+"id": "18139560118724998",
+"cap": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇\nSILVER SELL — entry 53.29 · SL 53.69 · TP1 52.89 · TP2 52.09 · RR 1:3.0\nGBPJPY BUY — entry 212.44 · SL 212.22 · TP1 212.65 · TP2 213.07 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇",
+"time": "2026-11-10 07:23",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfixXZDEgtW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18119336050792215",
 "cap": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)\n1️⃣ 7:00 PM IST — US CPI (October): umeed 3.9%, pichhla 3.7%\n2️⃣ US midterms: Senate Democrats ke paas, dollar pe dabav\n3️⃣ Gold $4,000 ke upar — CPI se pehle range, baad me bada move ka scenario\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #uscpi #goldprice #spidertrades",
 "cap1": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)",
@@ -98,7 +133,7 @@
 "link": "https://www.instagram.com/reel/DfhmrQVDCOP/",
 "likes": 0,
 "comments": 0,
-"views": 79,
+"views": 82,
 "reach": 64,
 "saved": 0,
 "shares": 1
@@ -480,25 +515,38 @@
 "reach": 4,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18436728805176440",
-"cap": "🕷 Live scanner ne abhi 3 setup pakde (Fri 6 Nov) 👇\nUSDJPY BUY — entry 157.94 · SL 157.66 · TP1 158.22 · TP2 158.78 · RR 1:3.0\nEURJPY SELL — entry 176.53 · SL 176.97 · TP1 176.08 · TP2 175.19 · RR 1:3.0\nNZDUSD SELL — entry 0.5556 · SL 0.5567 · TP1 0.5544 · TP2 0.5521 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Live scanner ne abhi 3 setup pakde (Fri 6 Nov) 👇",
-"time": "2026-11-06 13:51",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfZKj7gDJ8X/",
-"likes": 1,
-"comments": 0,
-"views": 109,
-"reach": 94,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "XAGUSD_1794274200_pbo",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "pbo",
+"entry": 53.287,
+"sl": 53.6855,
+"r": null,
+"opened": "10 Nov 07:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.01 lots @53.239 SL 53.697 (scanner SL) entry 53.298 basis 0.011 (M15)  risk 0.47%"
+},
+{
+"id": "GBPJPY_1794274200_pbo",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 212.435,
+"sl": 212.2248,
+"r": null,
+"opened": "10 Nov 07:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @212.439 SL 212.225 (scanner SL) entry 212.435 basis 0.000 (M15) split TP1/TP2 risk 0.48%"
+}
+],
 "closed_today": [
 {
 "id": "XAGUSD_1794241800_dpoc",
@@ -742,23 +790,23 @@
 "all_win": 17,
 "today_net": 1.79,
 "engine": {
-"last_scan": "07:01",
-"age_min": 9,
+"last_scan": "07:16",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-10 01:30 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-10 01:45 UTC · new 2 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4845.12",
-"equity": "4845.12",
-"floating": "0.00",
-"positions": "0",
+"equity": "4851.63",
+"floating": "6.51",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 43943,
+"voice_chars_month": 44482,
 "voice_limit": 30000,
 "disk_free_gb": 23.2,
 "github_runs": [
