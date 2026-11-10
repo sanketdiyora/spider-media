@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-10 19:54 IST",
+"updated": "2026-11-10 20:06 IST",
 "date": "2026-11-10",
-"followers": 50,
+"followers": 49,
 "media_count": 115,
 "slots": [
 {
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 3,
 "comments": 0,
-"views": 125,
-"reach": 98,
+"views": 126,
+"reach": 99,
 "saved": 2,
 "shares": 0
 }
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/DfkBKk9lK-4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 30,
+"reach": 6,
 "saved": 0,
 "shares": 0
 }
@@ -212,8 +212,8 @@
 "link": "https://www.instagram.com/reel/DfkBKk9lK-4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 30,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -254,8 +254,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 3,
 "comments": 0,
-"views": 125,
-"reach": 98,
+"views": 126,
+"reach": 99,
 "saved": 2,
 "shares": 0
 },
@@ -628,19 +628,6 @@
 "scanner": {
 "open": [
 {
-"id": "EURGBP_1794304800_pbo",
-"pair": "EURGBP",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.83569,
-"sl": 0.83656,
-"r": null,
-"opened": "10 Nov 15:45",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 8.71 USD = 0.36R"
-},
-{
 "id": "AUDCHF_1794306600_pbo",
 "pair": "AUDCHF",
 "dir": "SELL",
@@ -652,6 +639,19 @@
 "state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.15 lots @0.56670 SL 0.56797 (scanner SL) entry 0.56669 basis 0.00001 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "GBPCHF_1794320100_dpoc",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.10216,
+"sl": 1.10071,
+"r": null,
+"opened": "10 Nov 20:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.12 lots @1.10234 SL 1.10074 (scanner SL) entry 1.10219 basis 0.00003 (M15)  risk 0.48%"
 }
 ],
 "closed_today": [
@@ -953,9 +953,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 16.11 USD = 0.71R"
+},
+{
+"id": "EURGBP_1794304800_pbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.83569,
+"sl": 0.83656,
+"r": 0.5,
+"opened": "10 Nov 15:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.71 USD = 0.36R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURGBP_1794304800_pbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.83569,
+"sl": 0.83656,
+"r": 0.5,
+"opened": "10 Nov 15:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.71 USD = 0.36R"
+},
 {
 "id": "JPN225_1794291300_pbo",
 "pair": "JPN225",
@@ -1137,38 +1163,25 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -9.48 USD = -0.46R"
-},
-{
-"id": "UK100_1794285900_dpoc",
-"pair": "UK100",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 10841.4,
-"sl": 10830.46,
-"r": 1.27,
-"opened": "10 Nov 10:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 }
 ],
-"all_n": 57,
-"all_net": 6.9,
-"all_win": 32,
-"today_net": 8.19,
+"all_n": 58,
+"all_net": 7.4,
+"all_win": 33,
+"today_net": 8.69,
 "engine": {
-"last_scan": "19:51",
-"age_min": 3,
+"last_scan": "20:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 14:20 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-10 14:30 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4874.35",
-"equity": "4881.74",
-"floating": "7.39",
-"positions": "1",
+"equity": "4884.26",
+"floating": "9.91",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
