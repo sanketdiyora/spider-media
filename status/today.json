@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-10 16:37 IST",
+"updated": "2026-11-10 17:06 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 113,
+"media_count": 114,
 "slots": [
 {
 "slot": "0700",
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 41,
-"reach": 34,
+"views": 43,
+"reach": 36,
 "saved": 1,
 "shares": 4
 }
@@ -83,7 +83,7 @@
 "likes": 1,
 "comments": 0,
 "views": 20,
-"reach": 13,
+"reach": 14,
 "saved": 0,
 "shares": 0
 }
@@ -145,7 +145,7 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 24,
+"views": 25,
 "reach": 22,
 "saved": 1,
 "shares": 0
@@ -156,8 +156,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18089540600301121",
+"cap": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy = phansoge. Pehchaanne ke 3 tareeke.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#trendtrading #rangetrading #forexhindi #tradingeducation #priceaction",
+"cap1": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy ",
+"time": "2026-11-10 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfjzd0OCQLO/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -178,6 +191,20 @@
 ],
 "recent_posts": [
 {
+"id": "18089540600301121",
+"cap": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy = phansoge. Pehchaanne ke 3 tareeke.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#trendtrading #rangetrading #forexhindi #tradingeducation #priceaction",
+"cap1": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy ",
+"time": "2026-11-10 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfjzd0OCQLO/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17868626274676385",
 "cap": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge loss freeze karta hai, khatam nahi.\nAdvanced traders ke liye. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #tradingbot #xauusd #forexhindi",
 "cap1": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge ",
@@ -186,7 +213,7 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 24,
+"views": 25,
 "reach": 22,
 "saved": 1,
 "shares": 0
@@ -229,7 +256,7 @@
 "likes": 1,
 "comments": 0,
 "views": 20,
-"reach": 13,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -256,8 +283,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 41,
-"reach": 34,
+"views": 43,
+"reach": 36,
 "saved": 1,
 "shares": 4
 },
@@ -582,20 +609,6 @@
 "reach": 98,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18122690863979773",
-"cap": "Grid ke liye cent account kyun? 🕸️ Same $100, zyada levels. Par cent me bhi asli paisa aur risk wahi.\nGoldMint SpiderNet: $100 se, cent pe best. DM \"SPIDERNET\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintspidernet #centaccount #gridtrading #xauusd #tradingbot",
-"cap1": "Grid ke liye cent account kyun? 🕸️ Same $100, zyada levels. Par cent m",
-"time": "2026-11-07 11:00",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfbb3PsIPTP/",
-"likes": 0,
-"comments": 0,
-"views": 5,
-"reach": 3,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -650,8 +663,8 @@
 "r": null,
 "opened": "10 Nov 15:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 7565.73"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 14.96 USD = 0.64R"
 },
 {
 "id": "EURGBP_1794304800_pbo",
@@ -1131,18 +1144,18 @@
 "all_win": 29,
 "today_net": 4.69,
 "engine": {
-"last_scan": "16:36",
-"age_min": 1,
+"last_scan": "17:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 11:05 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-10 11:30 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4862.27",
-"equity": "4863.51",
-"floating": "1.24",
-"positions": "7",
+"balance": "4863.37",
+"equity": "4840.21",
+"floating": "-23.16",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1151,6 +1164,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.1,
 "github_runs": [
+{
+"t": "2026-11-10T11:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-10T09:39:37Z",
 "ok": "success",
@@ -1168,11 +1186,6 @@
 },
 {
 "t": "2026-11-10T06:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-10T05:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
