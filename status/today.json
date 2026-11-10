@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 09:10 IST",
+"updated": "2026-11-10 09:21 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 110,
@@ -636,9 +636,9 @@
 "sl": 60582.1,
 "r": null,
 "opened": "10 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 18.00 lots @60462.98 SL 60666.78 (scanner SL) entry 60422.98 basis 84.68 (M15) split TP1/TP2 risk 0.48%"
+"mt5_reason": "SL 60422.98"
 },
 {
 "id": "US500_1794280500_pbo",
@@ -649,9 +649,9 @@
 "sl": 7565.21,
 "r": null,
 "opened": "10 Nov 09:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 2.40 lots @7559.61 SL 7569.49 (scanner SL) entry 7560.61 basis 4.28 (M15) split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 7560.61"
 },
 {
 "id": "NAS100_1794280500_pbo",
@@ -910,18 +910,18 @@
 "all_win": 17,
 "today_net": 1.79,
 "engine": {
-"last_scan": "09:01",
-"age_min": 8,
+"last_scan": "09:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 03:30 UTC · new 2 · events 0 · open 8"
+"summary": "run 2026-11-10 03:45 UTC · new 0 · events 1 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4845.12",
-"equity": "4884.47",
-"floating": "39.35",
-"positions": "9",
+"balance": "4870.75",
+"equity": "4906.77",
+"floating": "36.02",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
