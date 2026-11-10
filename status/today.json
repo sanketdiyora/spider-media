@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 13:06 IST",
+"updated": "2026-11-10 13:22 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 112,
@@ -611,8 +611,8 @@
 "r": null,
 "opened": "10 Nov 07:30",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.34 lots @0.83473 SL 0.83525 (scanner SL) entry 0.83474 basis -0.00003 (M15) split TP1/TP2 risk 0.49%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.34 USD = -0.98R"
 },
 {
 "id": "GBPUSD_1794277800_pbo",
@@ -675,7 +675,7 @@
 "sl": 85.952,
 "r": null,
 "opened": "10 Nov 12:05",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -1040,18 +1040,18 @@
 "all_win": 23,
 "today_net": 4.56,
 "engine": {
-"last_scan": "13:01",
+"last_scan": "13:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 07:30 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-10 07:45 UTC · new 0 · events 1 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4855.48",
-"equity": "4847.37",
-"floating": "-8.11",
-"positions": "7",
+"balance": "4832.14",
+"equity": "4824.32",
+"floating": "-7.82",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
