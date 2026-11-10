@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 05:33 IST",
+"updated": "2026-11-10 05:37 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 106,
@@ -485,7 +485,34 @@
 ],
 "trades": [],
 "scanner": {
-"open": [
+"open": [],
+"closed_today": [
+{
+"id": "XAGUSD_1794241800_dpoc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 52.662,
+"sl": 53.0899,
+"r": -1.0,
+"opened": "09 Nov 22:15",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPUSD_1794241800_dpoc",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.34151,
+"sl": 1.339661,
+"r": 1.08,
+"opened": "09 Nov 22:15",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
 {
 "id": "GBPJPY_1794191400_pbo",
 "pair": "GBPJPY",
@@ -493,8 +520,62 @@
 "model": "pbo",
 "entry": 211.646,
 "sl": 211.4013,
-"r": null,
+"r": 1.71,
 "opened": "09 Nov 08:15",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+}
+],
+"closed_recent": [
+{
+"id": "GBPJPY_1794191400_pbo",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 211.646,
+"sl": 211.4013,
+"r": 1.71,
+"opened": "09 Nov 08:15",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPUSD_1794241800_dpoc",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.34151,
+"sl": 1.339661,
+"r": 1.08,
+"opened": "09 Nov 22:15",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "XAGUSD_1794241800_dpoc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 52.662,
+"sl": 53.0899,
+"r": -1.0,
+"opened": "09 Nov 22:15",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPJPY_1794232800_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 211.903,
+"sl": 211.684,
+"r": 0.44,
+"opened": "09 Nov 19:45",
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
@@ -506,28 +587,12 @@
 "model": "pbo",
 "entry": 1.34189,
 "sl": 1.340396,
-"r": null,
+"r": -1.0,
 "opened": "09 Nov 15:45",
-"state": "open",
+"state": "closed",
 "mt5": null,
 "mt5_reason": null
 },
-{
-"id": "GBPJPY_1794232800_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 211.903,
-"sl": 211.684,
-"r": null,
-"opened": "09 Nov 19:45",
-"state": "open",
-"mt5": null,
-"mt5_reason": null
-}
-],
-"closed_today": [],
-"closed_recent": [
 {
 "id": "SOLUSD_1794206400_lbo",
 "pair": "SOLUSD",
@@ -657,90 +722,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BTCUSD_1794198600_dpoc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 74815.2,
-"sl": 75281.7,
-"r": 0.64,
-"opened": "09 Nov 10:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "XAUUSD_1794200400_poc",
-"pair": "GOLD",
-"dir": "BUY",
-"model": "poc",
-"entry": 4122.635,
-"sl": 4119.804,
-"r": 0.0,
-"opened": "09 Nov 10:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "AUDJPY_1793979900_dpoc",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 108.745,
-"sl": 109.1943,
-"r": -0.07,
-"opened": "06 Nov 21:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURJPY_1793976300_dpoc",
-"pair": "EURJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 176.515,
-"sl": 176.898,
-"r": -0.17,
-"opened": "06 Nov 20:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "NZDUSD_1793952000_pbo",
-"pair": "NZDUSD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.55557,
-"sl": 0.556726,
-"r": 1.16,
-"opened": "06 Nov 13:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 32,
-"all_net": -0.73,
-"all_win": 14,
-"today_net": 0,
+"all_n": 37,
+"all_net": 0.5,
+"all_win": 17,
+"today_net": 1.79,
 "engine": {
-"last_scan": "20:46",
-"age_min": 527,
+"last_scan": "05:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-09 15:15 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-10 00:00 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4864.50",
-"equity": "4853.71",
-"floating": "-10.79",
-"positions": "3",
+"balance": "4845.12",
+"equity": "4845.12",
+"floating": "0.00",
+"positions": "0",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
