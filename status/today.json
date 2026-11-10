@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 16:26 IST",
+"updated": "2026-11-10 16:37 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 113,
@@ -41,7 +41,7 @@
 "likes": 0,
 "comments": 0,
 "views": 41,
-"reach": 33,
+"reach": 34,
 "saved": 1,
 "shares": 4
 }
@@ -62,9 +62,9 @@
 "likes": 0,
 "comments": 0,
 "views": 31,
-"reach": 24,
+"reach": 25,
 "saved": 0,
-"shares": 0
+"shares": 3
 }
 },
 {
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 1,
 "comments": 0,
-"views": 19,
-"reach": 12,
+"views": 20,
+"reach": 13,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 3,
 "comments": 0,
-"views": 124,
-"reach": 97,
+"views": 125,
+"reach": 98,
 "saved": 2,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 22,
-"reach": 20,
+"views": 24,
+"reach": 22,
 "saved": 1,
 "shares": 0
 }
@@ -186,8 +186,8 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 22,
-"reach": 20,
+"views": 24,
+"reach": 22,
 "saved": 1,
 "shares": 0
 },
@@ -200,8 +200,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 3,
 "comments": 0,
-"views": 124,
-"reach": 97,
+"views": 125,
+"reach": 98,
 "saved": 2,
 "shares": 0
 },
@@ -228,8 +228,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 1,
 "comments": 0,
-"views": 19,
-"reach": 12,
+"views": 20,
+"reach": 13,
 "saved": 0,
 "shares": 0
 },
@@ -243,9 +243,9 @@
 "likes": 0,
 "comments": 0,
 "views": 31,
-"reach": 24,
+"reach": 25,
 "saved": 0,
-"shares": 0
+"shares": 3
 },
 {
 "id": "18139560118724998",
@@ -257,7 +257,7 @@
 "likes": 0,
 "comments": 0,
 "views": 41,
-"reach": 33,
+"reach": 34,
 "saved": 1,
 "shares": 4
 },
@@ -284,8 +284,8 @@
 "link": "https://www.instagram.com/reel/DfhmrQVDCOP/",
 "likes": 0,
 "comments": 0,
-"views": 113,
-"reach": 92,
+"views": 114,
+"reach": 93,
 "saved": 0,
 "shares": 1
 },
@@ -1131,17 +1131,17 @@
 "all_win": 29,
 "today_net": 4.69,
 "engine": {
-"last_scan": "16:21",
-"age_min": 5,
+"last_scan": "16:36",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-10 10:50 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-10 11:05 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4862.27",
-"equity": "4861.58",
-"floating": "-0.69",
+"equity": "4863.51",
+"floating": "1.24",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
