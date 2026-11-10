@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-10 11:52 IST",
+"updated": "2026-11-10 12:06 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 111,
+"media_count": 112,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 4,
-"reach": 2,
+"views": 5,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 27,
+"views": 36,
+"reach": 30,
 "saved": 1,
 "shares": 4
 }
@@ -62,7 +62,7 @@
 "likes": 0,
 "comments": 0,
 "views": 28,
-"reach": 20,
+"reach": 24,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 8,
+"views": 16,
+"reach": 9,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/DfjKQkfjY2G/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -114,8 +114,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "FOMO ek signal hai: abhi mat karo. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18148888537576101",
+"cap": "FOMO ek signal hai: abhi mat karo. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "FOMO ek signal hai: abhi mat karo. 🕷️",
+"time": "2026-11-10 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -152,6 +165,20 @@
 ],
 "recent_posts": [
 {
+"id": "18148888537576101",
+"cap": "FOMO ek signal hai: abhi mat karo. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "FOMO ek signal hai: abhi mat karo. 🕷️",
+"time": "2026-11-10 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18179177707444345",
 "cap": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle khud ko check karo.\nBeginner ho to STRIKER se shuru karo. DM \"AEGIS\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #xauusd #tradingbot #algotrading",
 "cap1": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle kh",
@@ -160,8 +187,8 @@
 "link": "https://www.instagram.com/p/DfjKQkfjY2G/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -174,8 +201,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 8,
+"views": 16,
+"reach": 9,
 "saved": 0,
 "shares": 0
 },
@@ -189,7 +216,7 @@
 "likes": 0,
 "comments": 0,
 "views": 28,
-"reach": 20,
+"reach": 24,
 "saved": 0,
 "shares": 0
 },
@@ -202,8 +229,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 27,
+"views": 36,
+"reach": 30,
 "saved": 1,
 "shares": 4
 },
@@ -216,8 +243,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 4,
-"reach": 2,
+"views": 5,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -556,20 +583,6 @@
 "reach": 47,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18133906940509442",
-"cap": "Agle hafte ki 4 badi khabrein (9-13 Nov) 📰\n0️⃣ Pichhla hafta: US jobs +165K (umeed se kaafi zyada), unemployment 4.1%\n1️⃣ Tue 10 Nov, 7:00 PM IST — US CPI (October inflation)\n2️⃣ Wed 11 Nov — Veterans Day: US bond market band, stocks khule\n3️⃣ Fri 13 Nov, 7:00 PM IST — US PPI · UK Q3 GDP bhi isi hafte\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #uscpi #forexhindi #weekahead #spidertrades",
-"cap1": "Agle hafte ki 4 badi khabrein (9-13 Nov) 📰",
-"time": "2026-11-07 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfbAZ96jW-w/",
-"likes": 0,
-"comments": 0,
-"views": 5,
-"reach": 3,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -623,7 +636,7 @@
 "sl": 10830.46,
 "r": null,
 "opened": "10 Nov 10:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -639,6 +652,45 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794291600_lbo",
+"pair": "US500",
+"dir": "BUY",
+"model": "lbo",
+"entry": 7572.0,
+"sl": 7557.37,
+"r": null,
+"opened": "10 Nov 11:55",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
+},
+{
+"id": "JPN225_1794291300_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60513.5,
+"sl": 60768.0,
+"r": null,
+"opened": "10 Nov 12:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 8.00 lots @60402.98 SL 60847.48 (scanner SL) entry 60592.98 basis 79.48 (M15) split TP1/TP2 risk 0.46%"
+},
+{
+"id": "BRENT_1794291900_lbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 91.241,
+"sl": 91.752,
+"r": null,
+"opened": "10 Nov 12:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
 }
 ],
 "closed_today": [
@@ -949,18 +1001,18 @@
 "all_win": 21,
 "today_net": 2.79,
 "engine": {
-"last_scan": "11:51",
-"age_min": 1,
+"last_scan": "12:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 06:20 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-10 06:30 UTC · new 1 · events 2 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4863.33",
-"equity": "4871.09",
-"floating": "7.76",
-"positions": "6",
+"equity": "4865.58",
+"floating": "2.25",
+"positions": "10",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -969,6 +1021,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.1,
 "github_runs": [
+{
+"t": "2026-11-10T06:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-10T05:30:16Z",
 "ok": "success",
@@ -986,11 +1043,6 @@
 },
 {
 "t": "2026-11-10T00:35:05Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-10T00:09:11Z",
 "ok": "success",
 "ev": "schedule"
 }
