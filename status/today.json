@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-10 06:37 IST",
+"updated": "2026-11-10 07:06 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 106,
+"media_count": 107,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18119336050792215",
+"cap": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)\n1️⃣ 7:00 PM IST — US CPI (October): umeed 3.9%, pichhla 3.7%\n2️⃣ US midterms: Senate Democrats ke paas, dollar pe dabav\n3️⃣ Gold $4,000 ke upar — CPI se pehle range, baad me bada move ka scenario\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #uscpi #goldprice #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)",
+"time": "2026-11-10 07:00",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfiuyHkny-z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "18119336050792215",
+"cap": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)\n1️⃣ 7:00 PM IST — US CPI (October): umeed 3.9%, pichhla 3.7%\n2️⃣ US midterms: Senate Democrats ke paas, dollar pe dabav\n3️⃣ Gold $4,000 ke upar — CPI se pehle range, baad me bada move ka scenario\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #uscpi #goldprice #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein 📰 (Tue 10 Nov)",
+"time": "2026-11-10 07:00",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfiuyHkny-z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18025381637927436",
 "cap": "Support aur resistance 30 second me 📉📈 Toota resistance = naya support. Aur ye line nahi, zone hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#supportandresistance #priceaction #forexhindi #tradingeducation #xauusd",
 "cap1": "Support aur resistance 30 second me 📉📈 Toota resistance = naya support",
@@ -71,7 +98,7 @@
 "link": "https://www.instagram.com/reel/DfhmrQVDCOP/",
 "likes": 0,
 "comments": 0,
-"views": 76,
+"views": 79,
 "reach": 64,
 "saved": 0,
 "shares": 1
@@ -85,8 +112,8 @@
 "link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
 "likes": 2,
 "comments": 0,
-"views": 139,
-"reach": 120,
+"views": 140,
+"reach": 122,
 "saved": 0,
 "shares": 0
 },
@@ -467,20 +494,6 @@
 "reach": 94,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18054040502603717",
-"cap": "ML filter: trade skip kab karta hai? 🧠 Score kam = skip. Kam trades, better trades ki koshish. Guarantee nahi.\nDM \"ORION\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#machinelearning #goldmintorion #algotrading #tradingbot #xauusd",
-"cap1": "ML filter: trade skip kab karta hai? 🧠 Score kam = skip. Kam trades, b",
-"time": "2026-11-06 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfZIPaTAtWD/",
-"likes": 0,
-"comments": 0,
-"views": 122,
-"reach": 105,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -729,10 +742,10 @@
 "all_win": 17,
 "today_net": 1.79,
 "engine": {
-"last_scan": "06:36",
-"age_min": 1,
+"last_scan": "07:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 01:05 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-10 01:30 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -750,6 +763,11 @@
 "disk_free_gb": 23.2,
 "github_runs": [
 {
+"t": "2026-11-10T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-10T00:35:05Z",
 "ok": "success",
 "ev": "schedule"
@@ -766,11 +784,6 @@
 },
 {
 "t": "2026-11-09T22:53:22Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-09T22:13:20Z",
 "ok": "success",
 "ev": "schedule"
 }
