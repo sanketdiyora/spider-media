@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 11:10 IST",
+"updated": "2026-11-10 11:39 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 111,
@@ -615,19 +615,6 @@
 "mt5_reason": "same currency limit"
 },
 {
-"id": "NAS100_1794280500_pbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "pbo",
-"entry": 27852.52,
-"sl": 27942.22,
-"r": null,
-"opened": "10 Nov 09:00",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "UK100_1794285900_dpoc",
 "pair": "UK100",
 "dir": "BUY",
@@ -745,9 +732,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -8.50 USD = -0.37R"
+},
+{
+"id": "NAS100_1794280500_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 27852.52,
+"sl": 27942.22,
+"r": -1.0,
+"opened": "10 Nov 09:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1794280500_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 27852.52,
+"sl": 27942.22,
+"r": -1.0,
+"opened": "10 Nov 09:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "XAGUSD_1794274200_pbo",
 "pair": "SILVER",
@@ -929,37 +942,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPCAD_1794211800_lbo",
-"pair": "GBPCAD",
-"dir": "BUY",
-"model": "lbo",
-"entry": 1.887988,
-"sl": 1.886567,
-"r": 0.5,
-"opened": "09 Nov 13:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 41,
-"all_net": 2.5,
+"all_n": 42,
+"all_net": 1.5,
 "all_win": 21,
-"today_net": 3.79,
+"today_net": 2.79,
 "engine": {
-"last_scan": "11:01",
-"age_min": 9,
+"last_scan": "11:36",
+"age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-10 05:30 UTC · new 1 · events 0 · open 6"
+"summary": "run 2026-11-10 06:05 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4863.33",
-"equity": "4859.51",
-"floating": "-3.82",
+"equity": "4864.16",
+"floating": "0.83",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
