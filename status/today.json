@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 14:06 IST",
+"updated": "2026-11-10 14:37 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 113,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 4,
+"views": 6,
+"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -40,7 +40,7 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 38,
+"views": 39,
 "reach": 32,
 "saved": 1,
 "shares": 4
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/p/DfjKQkfjY2G/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 1,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -122,11 +122,11 @@
 "time": "2026-11-10 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 58,
-"reach": 42,
-"saved": 1,
+"views": 93,
+"reach": 63,
+"saved": 2,
 "shares": 0
 }
 },
@@ -145,9 +145,9 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 17,
+"reach": 17,
+"saved": 1,
 "shares": 0
 }
 },
@@ -186,9 +186,9 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 17,
+"reach": 17,
+"saved": 1,
 "shares": 0
 },
 {
@@ -198,11 +198,11 @@
 "time": "2026-11-10 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 58,
-"reach": 42,
-"saved": 1,
+"views": 93,
+"reach": 63,
+"saved": 2,
 "shares": 0
 },
 {
@@ -214,8 +214,8 @@
 "link": "https://www.instagram.com/p/DfjKQkfjY2G/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 1,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -256,7 +256,7 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 38,
+"views": 39,
 "reach": 32,
 "saved": 1,
 "shares": 4
@@ -270,8 +270,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 4,
+"views": 6,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -298,8 +298,8 @@
 "link": "https://www.instagram.com/reel/DfhcXX0DhwA/",
 "likes": 2,
 "comments": 0,
-"views": 145,
-"reach": 126,
+"views": 146,
+"reach": 127,
 "saved": 0,
 "shares": 0
 },
@@ -327,7 +327,7 @@
 "likes": 1,
 "comments": 0,
 "views": 127,
-"reach": 98,
+"reach": 99,
 "saved": 0,
 "shares": 0
 },
@@ -341,7 +341,7 @@
 "likes": 1,
 "comments": 0,
 "views": 123,
-"reach": 103,
+"reach": 104,
 "saved": 1,
 "shares": 0
 },
@@ -424,8 +424,8 @@
 "link": "https://www.instagram.com/reel/DffB3tdDY5Z/",
 "likes": 0,
 "comments": 0,
-"views": 34,
-"reach": 30,
+"views": 35,
+"reach": 31,
 "saved": 0,
 "shares": 0
 },
@@ -452,8 +452,8 @@
 "link": "https://www.instagram.com/p/Dfep3ftATJi/",
 "likes": 0,
 "comments": 0,
-"views": 10,
-"reach": 4,
+"views": 12,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -480,8 +480,8 @@
 "link": "https://www.instagram.com/reel/DfeHfQPmPMs/",
 "likes": 4,
 "comments": 0,
-"views": 120,
-"reach": 105,
+"views": 122,
+"reach": 106,
 "saved": 1,
 "shares": 0
 },
@@ -602,19 +602,6 @@
 "scanner": {
 "open": [
 {
-"id": "GBPJPY_1794274200_pbo",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "pbo",
-"entry": 212.435,
-"sl": 212.2248,
-"r": null,
-"opened": "10 Nov 07:15",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @212.439 SL 212.225 (scanner SL) entry 212.435 basis 0.000 (M15) split TP1/TP2 risk 0.48%"
-},
-{
 "id": "GBPUSD_1794277800_pbo",
 "pair": "GBPUSD",
 "dir": "BUY",
@@ -637,8 +624,8 @@
 "r": null,
 "opened": "10 Nov 11:55",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.40 USD = -1.00R"
 },
 {
 "id": "JPN225_1794291300_pbo",
@@ -691,6 +678,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 2.60 lots @7572.23 SL 7581.19 (scanner SL) entry 7565.35 basis 4.04 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "GBPJPY_1794300300_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 212.502,
+"sl": 212.3743,
+"r": null,
+"opened": "10 Nov 14:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: 0.29R room (basis -0.001 (M15))"
+},
+{
+"id": "EURNZD_1794300300_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99242,
+"sl": 1.990446,
+"r": null,
+"opened": "10 Nov 14:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.14 lots @1.99341 SL 1.99046 (scanner SL) entry 1.99243 basis 0.00001 (M1)  risk 0.48%"
 }
 ],
 "closed_today": [
@@ -862,9 +875,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "GBPJPY_1794274200_pbo",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 212.435,
+"sl": 212.2248,
+"r": 0.5,
+"opened": "10 Nov 07:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 1.02 USD = 0.04R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPJPY_1794274200_pbo",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 212.435,
+"sl": 212.2248,
+"r": 0.5,
+"opened": "10 Nov 07:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 1.02 USD = 0.04R"
+},
 {
 "id": "GBPJPY_1794287700_dpoc",
 "pair": "GBPJPY",
@@ -1046,38 +1085,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPUSD_1794218400_pbo",
-"pair": "GBPUSD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.34189,
-"sl": 1.340396,
-"r": -1.0,
-"opened": "09 Nov 15:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 47,
-"all_net": 3.4,
-"all_win": 25,
-"today_net": 4.69,
+"all_n": 48,
+"all_net": 3.9,
+"all_win": 26,
+"today_net": 5.19,
 "engine": {
-"last_scan": "14:01",
+"last_scan": "14:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 08:30 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-10 09:00 UTC · new 2 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4832.14",
-"equity": "4835.13",
-"floating": "2.99",
-"positions": "7",
+"balance": "4809.76",
+"equity": "4846.91",
+"floating": "37.15",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
