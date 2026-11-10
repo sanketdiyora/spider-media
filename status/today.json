@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-10 10:36 IST",
+"updated": "2026-11-10 11:06 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 110,
+"media_count": 111,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 4,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 32,
-"reach": 26,
+"views": 33,
+"reach": 27,
 "saved": 1,
 "shares": 4
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
 "likes": 0,
 "comments": 0,
-"views": 20,
-"reach": 11,
+"views": 28,
+"reach": 20,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 9,
-"reach": 4,
+"views": 13,
+"reach": 8,
 "saved": 0,
 "shares": 0
 }
@@ -93,8 +93,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle kh",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18179177707444345",
+"cap": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle khud ko check karo.\nBeginner ho to STRIKER se shuru karo. DM \"AEGIS\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle kh",
+"time": "2026-11-10 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfjKQkfjY2G/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -139,6 +152,20 @@
 ],
 "recent_posts": [
 {
+"id": "18179177707444345",
+"cap": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle khud ko check karo.\nBeginner ho to STRIKER se shuru karo. DM \"AEGIS\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint AEGIS: kab use karein, kab nahi 🛡️ Advanced bot hai. Pehle kh",
+"time": "2026-11-10 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfjKQkfjY2G/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18136268806673966",
 "cap": "🕷 Live scanner ne abhi 3 setup pakde (Tue 10 Nov) 👇\nJPN225 SELL — entry 60338.3000 · SL 60582.1000 · TP1 60094.5000 · TP2 59606.8000 · RR 1:3.0\nUS500 SELL — entry 7556.3300 · SL 7565.2100 · TP1 7547.4500 · TP2 7529.6800 · RR 1:3.0\nNAS100 SELL — entry 27852.5200 · SL 27942.2200 · TP1 27762.8300 · TP2 27583.4300 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "🕷 Live scanner ne abhi 3 setup pakde (Tue 10 Nov) 👇",
@@ -147,8 +174,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 0,
 "comments": 0,
-"views": 9,
-"reach": 4,
+"views": 13,
+"reach": 8,
 "saved": 0,
 "shares": 0
 },
@@ -161,8 +188,8 @@
 "link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
 "likes": 0,
 "comments": 0,
-"views": 20,
-"reach": 11,
+"views": 28,
+"reach": 20,
 "saved": 0,
 "shares": 0
 },
@@ -175,8 +202,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 32,
-"reach": 26,
+"views": 33,
+"reach": 27,
 "saved": 1,
 "shares": 4
 },
@@ -189,8 +216,8 @@
 "link": "https://www.instagram.com/p/DfiuyHkny-z/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 4,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -231,7 +258,7 @@
 "link": "https://www.instagram.com/p/DfhOqjYl6Hj/",
 "likes": 0,
 "comments": 0,
-"views": 4,
+"views": 5,
 "reach": 3,
 "saved": 0,
 "shares": 0
@@ -273,7 +300,7 @@
 "link": "https://www.instagram.com/p/DfgldH4F99x/",
 "likes": 0,
 "comments": 0,
-"views": 4,
+"views": 5,
 "reach": 4,
 "saved": 0,
 "shares": 0
@@ -543,38 +570,11 @@
 "reach": 3,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18001443497819953",
-"cap": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono taraf spike. News filter ON ya lot chhota.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #xauusd #tradingbot #nfp #forexhindi",
-"cap1": "News day: EA kab band karein? 📰 Spread kai guna, slippage zyada, dono ",
-"time": "2026-11-06 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfZ4WXhFHg1/",
-"likes": 2,
-"comments": 0,
-"views": 119,
-"reach": 103,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
 "open": [
-{
-"id": "XAGUSD_1794274200_pbo",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "pbo",
-"entry": 53.287,
-"sl": 53.6855,
-"r": null,
-"opened": "10 Nov 07:15",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.01 lots @53.239 SL 53.697 (scanner SL) entry 53.298 basis 0.011 (M15)  risk 0.47%"
-},
 {
 "id": "GBPJPY_1794274200_pbo",
 "pair": "GBPJPY",
@@ -615,19 +615,6 @@
 "mt5_reason": "same currency limit"
 },
 {
-"id": "JPN225_1794277800_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 60338.3,
-"sl": 60582.1,
-"r": null,
-"opened": "10 Nov 08:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 18.45 USD = 0.79R"
-},
-{
 "id": "NAS100_1794280500_pbo",
 "pair": "NAS100",
 "dir": "SELL",
@@ -649,6 +636,19 @@
 "sl": 10830.46,
 "r": null,
 "opened": "10 Nov 10:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "GBPJPY_1794287700_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 212.435,
+"sl": 212.2734,
+"r": null,
+"opened": "10 Nov 11:00",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -719,9 +719,61 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "JPN225_1794277800_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60338.3,
+"sl": 60582.1,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 18.45 USD = 0.79R"
+},
+{
+"id": "XAGUSD_1794274200_pbo",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "pbo",
+"entry": 53.287,
+"sl": 53.6855,
+"r": 0.5,
+"opened": "10 Nov 07:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -8.50 USD = -0.37R"
 }
 ],
 "closed_recent": [
+{
+"id": "XAGUSD_1794274200_pbo",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "pbo",
+"entry": 53.287,
+"sl": 53.6855,
+"r": 0.5,
+"opened": "10 Nov 07:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -8.50 USD = -0.37R"
+},
+{
+"id": "JPN225_1794277800_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60338.3,
+"sl": 60582.1,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 18.45 USD = 0.79R"
+},
 {
 "id": "GBPAUD_1794277800_pbo",
 "pair": "GBPAUD",
@@ -890,51 +942,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURCAD_1794190500_pbo",
-"pair": "EURCAD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 1.57357,
-"sl": 1.57505,
-"r": -1.0,
-"opened": "09 Nov 08:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPUSD_1794188700_pbo",
-"pair": "GBPUSD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.33708,
-"sl": 1.335784,
-"r": 2.0,
-"opened": "09 Nov 07:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 39,
-"all_net": 1.5,
-"all_win": 19,
-"today_net": 2.79,
+"all_n": 41,
+"all_net": 2.5,
+"all_win": 21,
+"today_net": 3.79,
 "engine": {
-"last_scan": "10:31",
+"last_scan": "11:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 05:00 UTC · new 1 · events 1 · open 7"
+"summary": "run 2026-11-10 05:30 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4871.83",
-"equity": "4867.01",
-"floating": "-4.82",
-"positions": "5",
+"balance": "4863.33",
+"equity": "4859.51",
+"floating": "-3.82",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -943,6 +969,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.1,
 "github_runs": [
+{
+"t": "2026-11-10T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-10T02:30:17Z",
 "ok": "success",
@@ -960,11 +991,6 @@
 },
 {
 "t": "2026-11-10T00:09:11Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-09T23:33:04Z",
 "ok": "success",
 "ev": "schedule"
 }
