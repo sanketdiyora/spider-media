@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-10 13:22 IST",
+"updated": "2026-11-10 13:37 IST",
 "date": "2026-11-10",
 "followers": 50,
-"media_count": 112,
+"media_count": 113,
 "slots": [
 {
 "slot": "0700",
@@ -41,7 +41,7 @@
 "likes": 0,
 "comments": 0,
 "views": 38,
-"reach": 31,
+"reach": 32,
 "saved": 1,
 "shares": 4
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 0,
 "comments": 0,
-"views": 45,
-"reach": 28,
+"views": 58,
+"reach": 42,
 "saved": 1,
 "shares": 0
 }
@@ -135,8 +135,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17868626274676385",
+"cap": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge loss freeze karta hai, khatam nahi.\nAdvanced traders ke liye. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #tradingbot #xauusd #forexhindi",
+"cap1": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge ",
+"time": "2026-11-10 13:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -165,6 +178,20 @@
 ],
 "recent_posts": [
 {
+"id": "17868626274676385",
+"cap": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge loss freeze karta hai, khatam nahi.\nAdvanced traders ke liye. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #tradingbot #xauusd #forexhindi",
+"cap1": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge ",
+"time": "2026-11-10 13:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18148888537576101",
 "cap": "FOMO ek signal hai: abhi mat karo. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "FOMO ek signal hai: abhi mat karo. 🕷️",
@@ -173,8 +200,8 @@
 "link": "https://www.instagram.com/reel/DfjRLYuDRxK/",
 "likes": 0,
 "comments": 0,
-"views": 45,
-"reach": 28,
+"views": 58,
+"reach": 42,
 "saved": 1,
 "shares": 0
 },
@@ -230,7 +257,7 @@
 "likes": 0,
 "comments": 0,
 "views": 38,
-"reach": 31,
+"reach": 32,
 "saved": 1,
 "shares": 4
 },
@@ -299,7 +326,7 @@
 "link": "https://www.instagram.com/reel/Dfg2sWEEyA3/",
 "likes": 1,
 "comments": 0,
-"views": 126,
+"views": 127,
 "reach": 98,
 "saved": 0,
 "shares": 0
@@ -313,7 +340,7 @@
 "link": "https://www.instagram.com/reel/DfgsYellHbt/",
 "likes": 1,
 "comments": 0,
-"views": 120,
+"views": 123,
 "reach": 103,
 "saved": 1,
 "shares": 0
@@ -569,20 +596,6 @@
 "reach": 3,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18123330838948236",
-"cap": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇\nIs hafte 19 trades: 7 jeete, 12 haare, net -3.4R. Neeche 2 best aur 2 loss 👇\nUSDJPY BUY — TP1 hit, baaki din ke end pe close (+1.5R)\nAUDUSD SELL — TP1 hit, baaki din ke end pe close (+1.4R)\nGBPAUD BUY — SL hit (-1.0R)\nGBPNZD SELL — SL hit (-1.0R)\nHar trade, har loss Telegram pe live post hua tha. Hum loss chhupate nahi.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingjournal #weeklyreview #priceaction #spidertrades",
-"cap1": "🕷 WEEKLY REVIEW (Sat 7 Nov) — live scanner, sirf asli result 👇",
-"time": "2026-11-07 08:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfbHOwznNdS/",
-"likes": 0,
-"comments": 0,
-"views": 62,
-"reach": 47,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -600,19 +613,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.17 lots @212.439 SL 212.225 (scanner SL) entry 212.435 basis 0.000 (M15) split TP1/TP2 risk 0.48%"
-},
-{
-"id": "EURGBP_1794275100_pbo",
-"pair": "EURGBP",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.83477,
-"sl": 0.835279,
-"r": null,
-"opened": "10 Nov 07:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.34 USD = -0.98R"
 },
 {
 "id": "GBPUSD_1794277800_pbo",
@@ -636,7 +636,7 @@
 "sl": 212.2734,
 "r": null,
 "opened": "10 Nov 11:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -667,19 +667,6 @@
 "mt5_reason": "SL 60592.98"
 },
 {
-"id": "WTI_1794292200_lbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "lbo",
-"entry": 85.438,
-"sl": 85.952,
-"r": null,
-"opened": "10 Nov 12:05",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "XAGUSD_1794292200_pbo",
 "pair": "SILVER",
 "dir": "SELL",
@@ -704,6 +691,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794296700_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7561.31,
+"sl": 7577.15,
+"r": null,
+"opened": "10 Nov 13:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 2.60 lots @7572.23 SL 7581.19 (scanner SL) entry 7565.35 basis 4.04 (M15) split TP1/TP2 risk 0.48%"
 }
 ],
 "closed_today": [
@@ -836,9 +836,61 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -9.48 USD = -0.46R"
+},
+{
+"id": "EURGBP_1794275100_pbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.83477,
+"sl": 0.835279,
+"r": -1.0,
+"opened": "10 Nov 07:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.34 USD = -0.98R"
+},
+{
+"id": "WTI_1794292200_lbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 85.438,
+"sl": 85.952,
+"r": 0.5,
+"opened": "10 Nov 12:05",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "WTI_1794292200_lbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 85.438,
+"sl": 85.952,
+"r": 0.5,
+"opened": "10 Nov 12:05",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "EURGBP_1794275100_pbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.83477,
+"sl": 0.835279,
+"r": -1.0,
+"opened": "10 Nov 07:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.34 USD = -0.98R"
+},
 {
 "id": "BRENT_1794291900_lbo",
 "pair": "BRENT OIL",
@@ -1007,51 +1059,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BTCUSD_1794228300_poc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "poc",
-"entry": 74805.0,
-"sl": 74929.3,
-"r": 1.77,
-"opened": "09 Nov 18:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "JPN225_1794204900_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 58690.5,
-"sl": 59352.4,
-"r": -1.0,
-"opened": "09 Nov 12:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 44,
-"all_net": 3.27,
-"all_win": 23,
-"today_net": 4.56,
+"all_n": 46,
+"all_net": 2.77,
+"all_win": 24,
+"today_net": 4.06,
 "engine": {
-"last_scan": "13:16",
-"age_min": 5,
+"last_scan": "13:36",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-10 07:45 UTC · new 0 · events 1 · open 9"
+"summary": "run 2026-11-10 08:05 UTC · new 0 · events 1 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4832.14",
-"equity": "4824.32",
-"floating": "-7.82",
-"positions": "5",
+"equity": "4836.86",
+"floating": "4.72",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1060,6 +1086,16 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.1,
 "github_runs": [
+{
+"t": "2026-11-10T08:06:15Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-10T08:00:23Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-10T06:30:16Z",
 "ok": "success",
@@ -1074,16 +1110,6 @@
 "t": "2026-11-10T02:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-10T01:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-10T00:35:05Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
