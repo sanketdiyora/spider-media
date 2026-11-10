@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 12:23 IST",
+"updated": "2026-11-10 12:37 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 112,
@@ -667,19 +667,6 @@
 "mt5_reason": "SL 60592.98"
 },
 {
-"id": "BRENT_1794291900_lbo",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "lbo",
-"entry": 91.241,
-"sl": 91.752,
-"r": null,
-"opened": "10 Nov 12:00",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "FILLED"
-},
-{
 "id": "WTI_1794292200_lbo",
 "pair": "WTI OIL",
 "dir": "SELL",
@@ -701,6 +688,19 @@
 "sl": 53.5122,
 "r": null,
 "opened": "10 Nov 12:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "NAS100_1794293100_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 27881.75,
+"sl": 27951.51,
+"r": null,
+"opened": "10 Nov 12:30",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -823,9 +823,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "BRENT_1794291900_lbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 91.241,
+"sl": 91.752,
+"r": 0.5,
+"opened": "10 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -9.48 USD = -0.46R"
 }
 ],
 "closed_recent": [
+{
+"id": "BRENT_1794291900_lbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 91.241,
+"sl": 91.752,
+"r": 0.5,
+"opened": "10 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -9.48 USD = -0.46R"
+},
 {
 "id": "UK100_1794285900_dpoc",
 "pair": "UK100",
@@ -1007,38 +1033,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BTCUSD_1794205800_lbo",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 74144.1,
-"sl": 74901.0,
-"r": -1.0,
-"opened": "09 Nov 12:05",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 43,
-"all_net": 2.77,
-"all_win": 22,
-"today_net": 4.06,
+"all_n": 44,
+"all_net": 3.27,
+"all_win": 23,
+"today_net": 4.56,
 "engine": {
-"last_scan": "12:21",
+"last_scan": "12:36",
 "age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-10 06:50 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-10 07:05 UTC · new 0 · events 1 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4864.96",
-"equity": "4864.93",
-"floating": "-0.03",
-"positions": "9",
+"balance": "4855.48",
+"equity": "4839.58",
+"floating": "-15.90",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
