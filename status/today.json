@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 19:39 IST",
+"updated": "2026-11-10 19:54 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 115,
@@ -637,8 +637,8 @@
 "r": null,
 "opened": "10 Nov 15:45",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.19 lots @0.83561 SL 0.83655 (scanner SL) entry 0.83568 basis -0.00001 (M15) split TP1/TP2 risk 0.49%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.71 USD = 0.36R"
 },
 {
 "id": "AUDCHF_1794306600_pbo",
@@ -1157,18 +1157,18 @@
 "all_win": 32,
 "today_net": 8.19,
 "engine": {
-"last_scan": "19:36",
+"last_scan": "19:51",
 "age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-10 14:05 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-10 14:20 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4875.29",
-"equity": "4885.08",
-"floating": "9.79",
-"positions": "2",
+"balance": "4874.35",
+"equity": "4881.74",
+"floating": "7.39",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
