@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 19:12 IST",
+"updated": "2026-11-10 19:23 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 115,
@@ -628,58 +628,6 @@
 "scanner": {
 "open": [
 {
-"id": "JPN225_1794291300_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 60513.5,
-"sl": 60768.0,
-"r": null,
-"opened": "10 Nov 12:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 16.11 USD = 0.71R"
-},
-{
-"id": "XAGUSD_1794292200_pbo",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "pbo",
-"entry": 53.058,
-"sl": 53.5122,
-"r": null,
-"opened": "10 Nov 12:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "EURNZD_1794300300_dpoc",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.99242,
-"sl": 1.990446,
-"r": null,
-"opened": "10 Nov 14:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.10 USD = -0.99R"
-},
-{
-"id": "US500_1794303000_pbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "pbo",
-"entry": 7561.58,
-"sl": 7573.18,
-"r": null,
-"opened": "10 Nov 15:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 14.96 USD = 0.64R"
-},
-{
 "id": "EURGBP_1794304800_pbo",
 "pair": "EURGBP",
 "dir": "SELL",
@@ -688,7 +636,7 @@
 "sl": 0.83656,
 "r": null,
 "opened": "10 Nov 15:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.19 lots @0.83561 SL 0.83655 (scanner SL) entry 0.83568 basis -0.00001 (M15) split TP1/TP2 risk 0.49%"
 },
@@ -701,7 +649,7 @@
 "sl": 0.567955,
 "r": null,
 "opened": "10 Nov 16:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.15 lots @0.56670 SL 0.56797 (scanner SL) entry 0.56669 basis 0.00001 (M15) split TP1/TP2 risk 0.48%"
 }
@@ -953,9 +901,113 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "XAGUSD_1794292200_pbo",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "pbo",
+"entry": 53.058,
+"sl": 53.5122,
+"r": 2.0,
+"opened": "10 Nov 12:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794303000_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7561.58,
+"sl": 7573.18,
+"r": 0.5,
+"opened": "10 Nov 15:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 14.96 USD = 0.64R"
+},
+{
+"id": "EURNZD_1794300300_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99242,
+"sl": 1.990446,
+"r": -1.0,
+"opened": "10 Nov 14:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.10 USD = -0.99R"
+},
+{
+"id": "JPN225_1794291300_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60513.5,
+"sl": 60768.0,
+"r": 2.0,
+"opened": "10 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 16.11 USD = 0.71R"
 }
 ],
 "closed_recent": [
+{
+"id": "JPN225_1794291300_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60513.5,
+"sl": 60768.0,
+"r": 2.0,
+"opened": "10 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 16.11 USD = 0.71R"
+},
+{
+"id": "EURNZD_1794300300_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99242,
+"sl": 1.990446,
+"r": -1.0,
+"opened": "10 Nov 14:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.10 USD = -0.99R"
+},
+{
+"id": "US500_1794303000_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7561.58,
+"sl": 7573.18,
+"r": 0.5,
+"opened": "10 Nov 15:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 14.96 USD = 0.64R"
+},
+{
+"id": "XAGUSD_1794292200_pbo",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "pbo",
+"entry": 53.058,
+"sl": 53.5122,
+"r": 2.0,
+"opened": "10 Nov 12:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "NAS100_1794293100_pbo",
 "pair": "NAS100",
@@ -1098,77 +1150,25 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
-},
-{
-"id": "NAS100_1794280500_pbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "pbo",
-"entry": 27852.52,
-"sl": 27942.22,
-"r": -1.0,
-"opened": "10 Nov 09:00",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "XAGUSD_1794274200_pbo",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "pbo",
-"entry": 53.287,
-"sl": 53.6855,
-"r": 0.5,
-"opened": "10 Nov 07:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -8.50 USD = -0.37R"
-},
-{
-"id": "JPN225_1794277800_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 60338.3,
-"sl": 60582.1,
-"r": 0.5,
-"opened": "10 Nov 08:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 18.45 USD = 0.79R"
-},
-{
-"id": "GBPAUD_1794277800_pbo",
-"pair": "GBPAUD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.94231,
-"sl": 1.941049,
-"r": 0.5,
-"opened": "10 Nov 08:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 }
 ],
-"all_n": 53,
-"all_net": 3.4,
-"all_win": 29,
-"today_net": 4.69,
+"all_n": 57,
+"all_net": 6.9,
+"all_win": 32,
+"today_net": 8.19,
 "engine": {
-"last_scan": "19:01",
-"age_min": 11,
+"last_scan": "19:21",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-10 13:30 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-10 13:50 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4864.40",
-"equity": "4891.78",
-"floating": "27.38",
-"positions": "3",
+"balance": "4875.29",
+"equity": "4892.45",
+"floating": "17.16",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
