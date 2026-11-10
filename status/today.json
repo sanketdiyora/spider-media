@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 14:37 IST",
+"updated": "2026-11-10 14:51 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 113,
@@ -602,32 +602,6 @@
 "scanner": {
 "open": [
 {
-"id": "GBPUSD_1794277800_pbo",
-"pair": "GBPUSD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.34408,
-"sl": 1.343394,
-"r": null,
-"opened": "10 Nov 08:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "US500_1794291600_lbo",
-"pair": "US500",
-"dir": "BUY",
-"model": "lbo",
-"entry": 7572.0,
-"sl": 7557.37,
-"r": null,
-"opened": "10 Nov 11:55",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.40 USD = -1.00R"
-},
-{
 "id": "JPN225_1794291300_pbo",
 "pair": "JPN225",
 "dir": "SELL",
@@ -649,7 +623,7 @@
 "sl": 53.5122,
 "r": null,
 "opened": "10 Nov 12:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -662,7 +636,7 @@
 "sl": 27951.51,
 "r": null,
 "opened": "10 Nov 12:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -675,22 +649,9 @@
 "sl": 7577.15,
 "r": null,
 "opened": "10 Nov 13:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 2.60 lots @7572.23 SL 7581.19 (scanner SL) entry 7565.35 basis 4.04 (M15) split TP1/TP2 risk 0.48%"
-},
-{
-"id": "GBPJPY_1794300300_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 212.502,
-"sl": 212.3743,
-"r": null,
-"opened": "10 Nov 14:30",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "stop too close after spread: 0.29R room (basis -0.001 (M15))"
+"mt5_reason": "SL 7565.35"
 },
 {
 "id": "EURNZD_1794300300_dpoc",
@@ -888,9 +849,87 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 1.02 USD = 0.04R"
+},
+{
+"id": "GBPUSD_1794277800_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.34408,
+"sl": 1.343394,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794291600_lbo",
+"pair": "US500",
+"dir": "BUY",
+"model": "lbo",
+"entry": 7572.0,
+"sl": 7557.37,
+"r": -1.0,
+"opened": "10 Nov 11:55",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.40 USD = -1.00R"
+},
+{
+"id": "GBPJPY_1794300300_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 212.502,
+"sl": 212.3743,
+"r": -1.0,
+"opened": "10 Nov 14:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: 0.29R room (basis -0.001 (M15))"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPJPY_1794300300_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 212.502,
+"sl": 212.3743,
+"r": -1.0,
+"opened": "10 Nov 14:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: 0.29R room (basis -0.001 (M15))"
+},
+{
+"id": "US500_1794291600_lbo",
+"pair": "US500",
+"dir": "BUY",
+"model": "lbo",
+"entry": 7572.0,
+"sl": 7557.37,
+"r": -1.0,
+"opened": "10 Nov 11:55",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.40 USD = -1.00R"
+},
+{
+"id": "GBPUSD_1794277800_pbo",
+"pair": "GBPUSD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.34408,
+"sl": 1.343394,
+"r": 0.5,
+"opened": "10 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "GBPJPY_1794274200_pbo",
 "pair": "GBPJPY",
@@ -1046,64 +1085,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPUSD_1794241800_dpoc",
-"pair": "GBPUSD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.34151,
-"sl": 1.339661,
-"r": 1.08,
-"opened": "09 Nov 22:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "XAGUSD_1794241800_dpoc",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 52.662,
-"sl": 53.0899,
-"r": -1.0,
-"opened": "09 Nov 22:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPJPY_1794232800_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 211.903,
-"sl": 211.684,
-"r": 0.44,
-"opened": "09 Nov 19:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 48,
-"all_net": 3.9,
-"all_win": 26,
-"today_net": 5.19,
+"all_n": 51,
+"all_net": 2.4,
+"all_win": 27,
+"today_net": 3.69,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-10 09:00 UTC · new 2 · events 0 · open 8"
+"summary": "run 2026-11-10 09:15 UTC · new 0 · events 2 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4809.76",
-"equity": "4846.91",
-"floating": "37.15",
-"positions": "4",
+"balance": "4839.14",
+"equity": "4859.15",
+"floating": "20.01",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
