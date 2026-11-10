@@ -1,0 +1,57 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-10/0906.mp4",
+ "dur": 78.8,
+ "music": "lofi/282.mp3",
+ "chars": 1004,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "JPN225",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    60338.3,
+    60348.052
+   ],
+   "sl": 60582.1,
+   "entry": 60338.3,
+   "rr": 3.0,
+   "tp1": 60094.5,
+   "tp2": 59606.8
+  },
+  {
+   "pair": "US500",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    7556.33,
+    7556.6852
+   ],
+   "sl": 7565.21,
+   "entry": 7556.33,
+   "rr": 3.0,
+   "tp1": 7547.45,
+   "tp2": 7529.68
+  },
+  {
+   "pair": "NAS100",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    27852.52,
+    27856.108
+   ],
+   "sl": 27942.22,
+   "entry": 27852.52,
+   "rr": 3.0,
+   "tp1": 27762.83,
+   "tp2": 27583.43
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_c569aaf0",
+ "crops": [
+  "/home/claude/ig/setup/w_c569aaf0/tg_0.jpg",
+  "/home/claude/ig/setup/w_c569aaf0/tg_1.jpg",
+  "/home/claude/ig/setup/w_c569aaf0/tg_2.jpg"
+ ]
+}
