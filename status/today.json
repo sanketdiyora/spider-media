@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10 15:37 IST",
+"updated": "2026-11-10 15:51 IST",
 "date": "2026-11-10",
 "followers": 50,
 "media_count": 113,
@@ -652,6 +652,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 2.20 lots @7566.73 SL 7577.33 (scanner SL) entry 7565.73 basis 4.15 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "EURGBP_1794304800_pbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.83569,
+"sl": 0.83656,
+"r": null,
+"opened": "10 Nov 15:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.19 lots @0.83561 SL 0.83655 (scanner SL) entry 0.83568 basis -0.00001 (M15) split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -1105,18 +1118,18 @@
 "all_win": 29,
 "today_net": 4.69,
 "engine": {
-"last_scan": "15:32",
-"age_min": 5,
+"last_scan": "15:46",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-10 10:00 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-10 10:15 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4848.41",
-"equity": "4854.67",
-"floating": "6.26",
-"positions": "4",
+"equity": "4854.93",
+"floating": "6.52",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
