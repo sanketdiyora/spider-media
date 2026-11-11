@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 12:21 IST",
+"updated": "2026-11-11 12:37 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 122,
@@ -612,7 +612,7 @@
 "opened": "11 Nov 09:45",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.34 lots @109.227 SL 109.337 (scanner SL) entry 109.252 basis -0.005 (M15) split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 109.252"
 },
 {
 "id": "EURNZD_1794375900_pbo",
@@ -649,7 +649,7 @@
 "sl": 1.334774,
 "r": null,
 "opened": "11 Nov 11:50",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "FILLED"
 },
@@ -663,8 +663,8 @@
 "r": null,
 "opened": "11 Nov 11:50",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -21.84 USD = -1.00R"
 },
 {
 "id": "JPN225_1794377700_pbo",
@@ -923,18 +923,18 @@
 "all_win": 35,
 "today_net": -1.55,
 "engine": {
-"last_scan": "12:16",
-"age_min": 5,
+"last_scan": "12:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-11 06:45 UTC · new 0 · events 1 · open 8"
+"summary": "run 2026-11-11 07:00 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4810.76",
-"equity": "4801.81",
-"floating": "-8.95",
-"positions": "12",
+"balance": "4795.56",
+"equity": "4818.00",
+"floating": "22.44",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
