@@ -1,0 +1,17 @@
+name: YouTube upload
+on:
+  push:
+    paths: ['yt/queue/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: yt-upload
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload queued reels
+        env:
+          YT_CLIENT_JSON: ${{ secrets.YT_CLIENT_JSON }}
+        run: python3 yt/process_queue.py

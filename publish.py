@@ -43,6 +43,7 @@ def tg(it,date,slot,link):
         else: print('TG: fail',r)
     except Exception as e: print('TG: error',e)
 TRIAL_DEFAULT='SS_PERFORMANCE'
+YT_ITEM=None
 def marker(date,slot): return os.path.join(os.path.dirname(os.path.abspath(__file__)),'posted',f'{date}_{slot}.json')
 def mark(date,slot,mid,link,trial):
     # posted marker in the repo: trial reels may not show in the /media list, so the caption guard alone could repost them
@@ -50,7 +51,14 @@ def mark(date,slot,mid,link,trial):
         f=marker(date,slot); os.makedirs(os.path.dirname(f),exist_ok=True)
         json.dump({'id':mid,'permalink':link,'trial':trial,'utc':int(time.time())},open(f,'w'))
         d=os.path.dirname(f); g=['git','-C',d]
-        subprocess.run(g+['add',f],timeout=60); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm',f'posted {date} {slot}'],timeout=60)
+        files=[f]
+        try:     # YouTube Shorts queue (reels only, from yt/config.json 'start' date); uploaded by yt/process_queue.py in Actions
+            cfg=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'yt','config.json')))
+            if YT_ITEM and YT_ITEM['type']=='reel' and cfg.get('enabled') and date>=cfg.get('start','9999'):
+                q=os.path.join(os.path.dirname(os.path.abspath(__file__)),'yt','queue',f'{date}_{slot}.json'); os.makedirs(os.path.dirname(q),exist_ok=True)
+                json.dump({'date':date,'slot':slot,'media':YT_ITEM['media'][0],'caption':YT_ITEM['caption'],'ig':link},open(q,'w'),ensure_ascii=False); files.append(q); print('YT: queued',q)
+        except Exception as e: print('YT queue warn',e)
+        subprocess.run(g+['add']+files,timeout=60); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm',f'posted {date} {slot}'],timeout=60)
         for _ in range(3):
             if subprocess.run(g+['push','-q'],timeout=120).returncode==0: break
             subprocess.run(g+['pull','-q','--rebase'],timeout=120)
@@ -62,7 +70,8 @@ def main():
     sched=json.loads(urllib.request.urlopen(SCHED+f'?t={int(time.time())}',timeout=60).read())
     items=[s for s in sched if s['date']==date and s['slot']==slot]
     if not items: print(f'NOTHING scheduled for {date} {slot}'); return 0
-    it=items[0]; cap=it['caption']
+    global YT_ITEM
+    it=items[0]; cap=it['caption']; YT_ITEM=it
     if it['type']=='reel' and 'trial' not in it: it['trial']=TRIAL_DEFAULT     # Sanket 7 Nov 12:27: every reel from now = trial reel ("trial": false in schedule = normal reel)
     print(date,slot,it['type'],len(it['media']),'files')
     if dry:

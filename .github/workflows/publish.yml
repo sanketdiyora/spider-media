@@ -50,3 +50,8 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
         run: python3 publish.py "${{ steps.s.outputs.slot }}"
+      - name: YouTube Shorts (queued reels)
+        if: steps.w.outputs.skip != 'true'
+        env:
+          YT_CLIENT_JSON: ${{ secrets.YT_CLIENT_JSON }}
+        run: git pull -q --rebase || true; python3 yt/process_queue.py
