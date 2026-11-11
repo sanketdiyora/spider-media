@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 16:09 IST",
+"updated": "2026-11-11 16:54 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 123,
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 6,
+"views": 18,
+"reach": 8,
 "saved": 0,
 "shares": 2
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfl1WCdEXqp/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 29,
+"views": 36,
+"reach": 30,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 1,
 "comments": 0,
-"views": 41,
-"reach": 28,
+"views": 53,
+"reach": 45,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 11,
+"views": 15,
+"reach": 13,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 0,
 "comments": 0,
-"views": 8,
-"reach": 8,
+"views": 14,
+"reach": 13,
 "saved": 0,
 "shares": 0
 }
@@ -186,8 +186,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 0,
 "comments": 0,
-"views": 8,
-"reach": 8,
+"views": 14,
+"reach": 13,
 "saved": 0,
 "shares": 0
 },
@@ -200,8 +200,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 11,
+"views": 15,
+"reach": 13,
 "saved": 0,
 "shares": 0
 },
@@ -214,8 +214,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 1,
 "comments": 0,
-"views": 41,
-"reach": 28,
+"views": 53,
+"reach": 45,
 "saved": 0,
 "shares": 0
 },
@@ -228,8 +228,8 @@
 "link": "https://www.instagram.com/reel/Dfl1WCdEXqp/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 29,
+"views": 36,
+"reach": 30,
 "saved": 0,
 "shares": 0
 },
@@ -256,8 +256,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 6,
+"views": 18,
+"reach": 8,
 "saved": 0,
 "shares": 2
 },
@@ -758,9 +758,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 41.40 USD = 1.75R"
+},
+{
+"id": "EURNZD_1794393000_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99317,
+"sl": 1.991446,
+"r": -1.0,
+"opened": "11 Nov 16:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.00 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURNZD_1794393000_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99317,
+"sl": 1.991446,
+"r": -1.0,
+"opened": "11 Nov 16:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.00 USD = -1.00R"
+},
 {
 "id": "EURNZD_1794375900_pbo",
 "pair": "EURNZD",
@@ -942,37 +968,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURNZD_1794300300_dpoc",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.99242,
-"sl": 1.990446,
-"r": -1.0,
-"opened": "10 Nov 14:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 70,
-"all_net": 10.13,
+"all_n": 71,
+"all_net": 9.13,
 "all_win": 40,
-"today_net": 1.95,
+"today_net": 0.95,
 "engine": {
-"last_scan": "16:06",
+"last_scan": "16:51",
 "age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-11 10:35 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-11 11:20 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4851.93",
-"equity": "4852.28",
-"floating": "0.35",
+"balance": "4827.93",
+"equity": "4833.38",
+"floating": "5.45",
 "positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
