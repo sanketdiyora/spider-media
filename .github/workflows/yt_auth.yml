@@ -1,0 +1,22 @@
+name: YouTube auth
+on:
+  push:
+    paths: ['yt/auth_request.txt']
+permissions:
+  contents: write
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Auth step
+        env:
+          YT_CLIENT_JSON: ${{ secrets.YT_CLIENT_JSON }}
+        run: |
+          REQ=$(tr -d ' \r\n' < yt/auth_request.txt)
+          if [ "$REQ" = "url" ]; then python3 yt/yt.py url; exit 0; fi
+          if [ "$REQ" = "check" ]; then python3 yt/yt.py check; exit 0; fi
+          python3 yt/yt.py exchange "$REQ"
+          echo url > yt/auth_request.txt
+          git config user.name spider-bot; git config user.email bot@users.noreply.github.com
+          git add yt/token.enc yt/auth_request.txt && git commit -m "yt token saved [skip ci]" && git push
