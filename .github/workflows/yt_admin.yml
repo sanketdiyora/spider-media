@@ -1,0 +1,16 @@
+name: YouTube admin ops
+on:
+  push:
+    paths: ['yt/admin/*.json']
+permissions:
+  contents: write
+concurrency: yt-upload
+jobs:
+  admin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run ops
+        env:
+          YT_CLIENT_JSON: ${{ secrets.YT_CLIENT_JSON }}
+        run: python3 yt/process_admin.py

@@ -1,0 +1,31 @@
+{
+ "playlist_key": "orderflow",
+ "ops": [
+  [
+   "playlist",
+   "Order Flow Series — Zero se seekho (Hindi)",
+   "SPIDER ki Order Flow Series: 24 episodes me zero se Order Flow seekho. Candle ke andar ki kahani, Volume Profile, VWAP, Footprint, Delta, CVD — animation aur examples ke saath, Hindi + English.\n\nFor educational purposes only. This is not financial advice."
+  ],
+  [
+   "plitem",
+   "$PL",
+   "k2cNi_kMYMo"
+  ],
+  [
+   "caption",
+   "k2cNi_kMYMo",
+   "en",
+   "English",
+   "yt/long/ep01/orderflow_ep01_en.srt"
+  ],
+  [
+   "thumb",
+   "k2cNi_kMYMo",
+   "yt/long/ep01/thumb.jpg"
+  ],
+  [
+   "vstatus",
+   "k2cNi_kMYMo"
+  ]
+ ]
+}

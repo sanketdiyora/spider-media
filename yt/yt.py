@@ -81,3 +81,27 @@ elif cmd == 'uploadlong':
             data=open(sys.argv[5],'rb').read(), method='POST', headers={'Authorization':'Bearer '+at,'Content-Type':'image/jpeg'})
         try: urllib.request.urlopen(th, timeout=120).read(); print('THUMB_OK')
         except urllib.error.HTTPError as e: print('THUMB_FAILED HTTP %s %s' % (e.code, e.read()[:300].decode('utf8','replace')))
+
+def api(method, url, body=None, ctype='application/json; charset=UTF-8', raw=None):
+    at = access()
+    req = urllib.request.Request(url, data=raw if raw is not None else (json.dumps(body).encode() if body is not None else None), method=method, headers={'Authorization':'Bearer '+at,'Content-Type':ctype})
+    try: return json.loads(urllib.request.urlopen(req, timeout=180).read() or b'{}')
+    except urllib.error.HTTPError as e: sys.exit('HTTP %s %s' % (e.code, e.read()[:400].decode('utf8','replace')))
+if cmd == 'playlist':     # playlist TITLE DESC -> PLAYLIST <id>
+    j = api('POST','https://www.googleapis.com/youtube/v3/playlists?part=snippet,status',{'snippet':{'title':sys.argv[2],'description':sys.argv[3],'defaultLanguage':'hi'},'status':{'privacyStatus':'public'}})
+    print('PLAYLIST', j['id'])
+elif cmd == 'plitem':     # plitem PLAYLIST VIDEO
+    j = api('POST','https://www.googleapis.com/youtube/v3/playlistItems?part=snippet',{'snippet':{'playlistId':sys.argv[2],'resourceId':{'kind':'youtube#video','videoId':sys.argv[3]}}})
+    print('PLITEM_OK', j.get('id','')[:12])
+elif cmd == 'caption':    # caption VIDEO LANG NAME FILE.srt
+    b = 'spiderbound7f3a'; meta = json.dumps({'snippet':{'videoId':sys.argv[2],'language':sys.argv[3],'name':sys.argv[4],'isDraft':False}})
+    raw = ('--%s\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n%s\r\n--%s\r\nContent-Type: application/octet-stream\r\n\r\n' % (b, meta, b)).encode() + open(sys.argv[5],'rb').read() + ('\r\n--%s--\r\n' % b).encode()
+    j = api('POST','https://www.googleapis.com/upload/youtube/v3/captions?uploadType=multipart&part=snippet', ctype='multipart/related; boundary=' + b, raw=raw)
+    print('CAPTION_OK', j.get('id','')[:12])
+elif cmd == 'thumb':      # thumb VIDEO FILE.jpg
+    api('POST','https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=' + sys.argv[2] + '&uploadType=media', ctype='image/jpeg', raw=open(sys.argv[3],'rb').read())
+    print('THUMB_OK')
+elif cmd == 'vstatus':    # vstatus VIDEO
+    at = access(); req = urllib.request.Request('https://www.googleapis.com/youtube/v3/videos?part=status,snippet,statistics&id=' + sys.argv[2], headers={'Authorization':'Bearer '+at})
+    j = json.loads(urllib.request.urlopen(req, timeout=60).read()); i = j['items'][0]
+    print('VSTATUS', i['status'].get('privacyStatus'), i['status'].get('uploadStatus'), i.get('statistics',{}).get('viewCount'))
