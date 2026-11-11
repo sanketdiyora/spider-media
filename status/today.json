@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 19:38 IST",
+"updated": "2026-11-11 19:56 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 125,
@@ -639,19 +639,6 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
-},
-{
-"id": "EURUSD_1794399300_dpoc",
-"pair": "EURUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.11371,
-"sl": 1.11442,
-"r": null,
-"opened": "11 Nov 18:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 89.18 USD = 3.77R"
 }
 ],
 "closed_today": [
@@ -810,9 +797,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 39.67 USD = 1.71R"
+},
+{
+"id": "EURUSD_1794399300_dpoc",
+"pair": "EURUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 1.11371,
+"sl": 1.11442,
+"r": 5.39,
+"opened": "11 Nov 18:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 89.18 USD = 3.77R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURUSD_1794399300_dpoc",
+"pair": "EURUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 1.11371,
+"sl": 1.11442,
+"r": 5.39,
+"opened": "11 Nov 18:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 89.18 USD = 3.77R"
+},
 {
 "id": "USDCAD_1794388500_dpoc",
 "pair": "USDCAD",
@@ -994,30 +1007,17 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDCHF_1794306600_pbo",
-"pair": "AUDCHF",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.56668,
-"sl": 0.567955,
-"r": 0.5,
-"opened": "10 Nov 16:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 73,
-"all_net": 13.56,
-"all_win": 42,
-"today_net": 5.38,
+"all_n": 74,
+"all_net": 18.95,
+"all_win": 43,
+"today_net": 10.77,
 "engine": {
-"last_scan": "19:37",
-"age_min": 2,
+"last_scan": "19:46",
+"age_min": 10,
 "rc": 0,
-"summary": "run 2026-11-11 14:05 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-11 14:15 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
@@ -1032,7 +1032,7 @@
 },
 "voice_chars_month": 67045,
 "voice_limit": 30000,
-"disk_free_gb": 20.3,
+"disk_free_gb": 20.1,
 "github_runs": [
 {
 "t": "2026-11-11T13:52:49Z",
