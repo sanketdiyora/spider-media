@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 09:36 IST",
+"updated": "2026-11-11 09:52 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 117,
@@ -511,6 +511,19 @@
 "state": "open",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.58 USD = -1.01R"
+},
+{
+"id": "AUDJPY_1794369600_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.257,
+"sl": 109.3418,
+"r": null,
+"opened": "11 Nov 09:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.34 lots @109.227 SL 109.337 (scanner SL) entry 109.252 basis -0.005 (M15) split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -730,18 +743,18 @@
 "all_win": 35,
 "today_net": -0.55,
 "engine": {
-"last_scan": "09:31",
+"last_scan": "09:47",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 04:00 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-11 04:15 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4834.42",
-"equity": "4834.42",
-"floating": "0.00",
-"positions": "0",
+"equity": "4835.92",
+"floating": "1.50",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
