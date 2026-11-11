@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-11 16:54 IST",
+"updated": "2026-11-11 17:06 IST",
 "date": "2026-11-11",
 "followers": 49,
-"media_count": 123,
+"media_count": 124,
 "slots": [
 {
 "slot": "0700",
@@ -104,7 +104,7 @@
 "likes": 1,
 "comments": 0,
 "views": 53,
-"reach": 45,
+"reach": 48,
 "saved": 0,
 "shares": 0
 }
@@ -124,7 +124,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 15,
+"views": 16,
 "reach": 13,
 "saved": 0,
 "shares": 0
@@ -156,8 +156,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada ta",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18141631699625118",
+"cap": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada target kam hit hota hai.\nSave kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #riskmanagement #forexhindi #tradingeducation #xauusd",
+"cap1": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada ta",
+"time": "2026-11-11 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfmYQ4mkdQd/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -177,6 +190,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18141631699625118",
+"cap": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada target kam hit hota hai.\nSave kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #riskmanagement #forexhindi #tradingeducation #xauusd",
+"cap1": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada ta",
+"time": "2026-11-11 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfmYQ4mkdQd/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18431329219151567",
 "cap": "Martingale se darr lagta hai? GoldMint STRIKER ⚡ Har entry pe hard SL, profit pe trailing, lot nahi badhta.\n$100 se. DM \"STRIKER\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintstriker #tradingbot #xauusd #scalping #forexhindi",
@@ -200,7 +227,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 15,
+"views": 16,
 "reach": 13,
 "saved": 0,
 "shares": 0
@@ -215,7 +242,7 @@
 "likes": 1,
 "comments": 0,
 "views": 53,
-"reach": 45,
+"reach": 48,
 "saved": 0,
 "shares": 0
 },
@@ -580,20 +607,6 @@
 "comments": 0,
 "views": 145,
 "reach": 125,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "17912371011585515",
-"cap": "Lot size formula (gold) 🧮 Lot = (Balance × Risk%) ÷ (SL $ × 100). Examples ke saath. Save kar lo.\nApna lot calculate karwana hai? DM \"LOT\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#lotsize #xauusd #riskmanagement #forexhindi #tradingeducation",
-"cap1": "Lot size formula (gold) 🧮 Lot = (Balance × Risk%) ÷ (SL $ × 100). Exam",
-"time": "2026-11-08 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfep3ftATJi/",
-"likes": 0,
-"comments": 0,
-"views": 12,
-"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -975,17 +988,17 @@
 "all_win": 40,
 "today_net": 0.95,
 "engine": {
-"last_scan": "16:51",
-"age_min": 3,
+"last_scan": "17:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 11:20 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-11 11:30 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4827.93",
-"equity": "4833.38",
-"floating": "5.45",
+"equity": "4838.65",
+"floating": "10.72",
 "positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -995,6 +1008,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 21.8,
 "github_runs": [
+{
+"t": "2026-11-11T11:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-11T09:15:41Z",
 "ok": "success",
@@ -1012,11 +1030,6 @@
 },
 {
 "t": "2026-11-11T06:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-11T05:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
