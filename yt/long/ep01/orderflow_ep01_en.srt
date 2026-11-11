@@ -1,0 +1,256 @@
+1
+00:00:05,000 --> 00:00:09,518
+This candle is green. But did buyers really win inside it?
+
+2
+00:00:09,969 --> 00:00:16,160
+A candle tells us only four things: open, high, low and close.
+
+3
+00:00:16,610 --> 00:00:23,036
+But what happened inside, who bought how much and who sold how much, stays hidden.
+
+4
+00:00:23,485 --> 00:00:29,207
+Now look inside. At the top levels, sellers sold far more than buyers bought.
+
+5
+00:00:29,656 --> 00:00:34,908
+Reading this is Order Flow. And from today we learn it from zero.
+
+6
+00:00:35,908 --> 00:00:39,617
+Hello, this is the SPIDER Order Flow series.
+
+7
+00:00:40,067 --> 00:00:50,830
+The series has 24 episodes in 5 parts: basics, volume tools, real Order Flow, big-player footprints, and practical trading.
+
+8
+00:00:51,280 --> 00:01:00,031
+Today has three questions. What does a candle hide? Why does price move? And what is Order Flow?
+
+9
+00:01:00,481 --> 00:01:04,685
+No prior knowledge needed. Just watch carefully.
+
+10
+00:01:05,686 --> 00:01:11,329
+First, how a candle is formed. Say this is five minutes of price.
+
+11
+00:01:11,779 --> 00:01:17,735
+Price went up, came down, went up again. The whole path is zig-zag.
+
+12
+00:01:18,184 --> 00:01:22,704
+The candle squeezes this whole path into just four numbers.
+
+13
+00:01:23,154 --> 00:01:29,684
+Where it started, the highest point, the lowest point, and where it closed.
+
+14
+00:01:30,134 --> 00:01:35,202
+The whole path in between is gone. That is the candle's biggest weakness.
+
+15
+00:01:36,202 --> 00:01:39,755
+See the result. These are three different paths.
+
+16
+00:01:40,205 --> 00:01:50,654
+In the first, price climbed straight up. In the second it fell first, then rallied hard. In the third it went up and tired at the end.
+
+17
+00:01:51,104 --> 00:01:54,657
+But all three make exactly the same candle.
+
+18
+00:01:55,107 --> 00:02:01,454
+On the chart you see the same green candle in all three, though the story inside is completely different.
+
+19
+00:02:01,904 --> 00:02:06,737
+So deciding from the candle alone is deciding on half the information.
+
+20
+00:02:07,737 --> 00:02:11,368
+Second question. Why does price go up?
+
+21
+00:02:11,818 --> 00:02:16,572
+Most people say: because there were more buyers. That is wrong.
+
+22
+00:02:17,022 --> 00:02:23,631
+Every trade has one buyer and one seller. Whatever was bought was exactly what was sold.
+
+23
+00:02:24,081 --> 00:02:28,130
+So buying and selling are always equal.
+
+24
+00:02:28,579 --> 00:02:32,629
+So what makes the difference? Urgency.
+
+25
+00:02:33,629 --> 00:02:40,864
+Think of a vegetable market. A shopkeeper sits with potatoes priced at 20 rupees. He is waiting.
+
+26
+00:02:41,315 --> 00:02:46,382
+This is the patient trader. In market language, a limit order.
+
+27
+00:02:46,833 --> 00:02:53,102
+Now a customer arrives who needs potatoes right now. He buys at whatever the price is.
+
+28
+00:02:53,552 --> 00:02:57,601
+This is the aggressive trader. A market order.
+
+29
+00:02:58,051 --> 00:03:06,174
+If many such urgent customers come, the stock at 20 is gone. The next stock is at 21, then 22.
+
+30
+00:03:06,625 --> 00:03:12,738
+Price moved up. There were not more buyers; the buyers were just in more of a hurry.
+
+31
+00:03:13,188 --> 00:03:19,144
+Price is always moved by whoever is in a hurry. This is the foundation of the whole series.
+
+32
+00:03:20,144 --> 00:03:22,834
+Now the definition of Order Flow is easy.
+
+33
+00:03:23,284 --> 00:03:31,799
+Order Flow means seeing how much traded at which price, and who was urgent: buyers or sellers.
+
+34
+00:03:32,250 --> 00:03:39,878
+Each level of the candle has two numbers: urgent sellers on one side, urgent buyers on the other.
+
+35
+00:03:40,328 --> 00:03:43,489
+Reading these numbers is reading Order Flow.
+
+36
+00:03:44,489 --> 00:03:47,493
+So a candle chart hides three things from us.
+
+37
+00:03:47,942 --> 00:03:53,742
+One: at which price most trading happened. Where the real fight was.
+
+38
+00:03:54,192 --> 00:03:59,912
+Two: who was aggressive. Were buyers urgent, or sellers.
+
+39
+00:04:00,363 --> 00:04:06,894
+Three: who is trapped. Who bought or sold at the wrong place and now sits in loss.
+
+40
+00:04:07,344 --> 00:04:10,739
+All three show up clearly in Order Flow.
+
+41
+00:04:11,739 --> 00:04:15,136
+Let us see an example. This is the same green candle.
+
+42
+00:04:15,585 --> 00:04:20,261
+On the chart it looks strong. Most people would think of buying here.
+
+43
+00:04:20,711 --> 00:04:27,869
+But look inside. At the lower and middle levels buyers were urgent, which is why price rose.
+
+44
+00:04:28,319 --> 00:04:36,443
+But at the top the picture flipped. Sellers began selling hard there, and the buyers' urgency ran out.
+
+45
+00:04:36,893 --> 00:04:41,412
+After such a candle, price coming down is one possible scenario.
+
+46
+00:04:41,862 --> 00:04:48,132
+The candle said buyers won. Order Flow showed sellers had taken over at the top.
+
+47
+00:04:49,132 --> 00:04:53,181
+One important thing. Order Flow is not magic.
+
+48
+00:04:53,631 --> 00:04:58,542
+It gives no guarantee. It is not a buy-sell indicator either.
+
+49
+00:04:58,992 --> 00:05:05,522
+It is just a clearer way to see the market, like clean glasses instead of foggy ones.
+
+50
+00:05:05,972 --> 00:05:09,838
+The decision and the risk management still remain yours.
+
+51
+00:05:10,838 --> 00:05:17,369
+One more honest point. Spot forex and gold have no single central exchange.
+
+52
+00:05:17,819 --> 00:05:24,245
+So there is no real volume there, only tick volume: how many times price ticked.
+
+53
+00:05:24,695 --> 00:05:30,964
+Real Order Flow data comes from the futures market, like gold futures and currency futures.
+
+54
+00:05:31,414 --> 00:05:36,561
+How to use it, we will cover in detail in episode 6.
+
+55
+00:05:37,561 --> 00:05:40,800
+In this series we will learn five major tools.
+
+56
+00:05:41,250 --> 00:05:50,654
+Volume Profile, VWAP, Footprint chart, Delta, and Cumulative Delta, or CVD.
+
+57
+00:05:51,104 --> 00:05:56,093
+Each tool one by one, with animation and examples.
+
+58
+00:05:57,093 --> 00:05:58,896
+Let us recap today.
+
+59
+00:05:59,346 --> 00:06:04,988
+One: a candle shows only four numbers and hides the story inside.
+
+60
+00:06:05,438 --> 00:06:12,439
+Two: buying and selling are always equal. Price is moved by whoever is urgent.
+
+61
+00:06:12,889 --> 00:06:19,968
+Three: Order Flow is reading how much traded at each price, and who was urgent.
+
+62
+00:06:20,968 --> 00:06:26,767
+Next episode: how the market really works, like an auction.
+
+63
+00:06:27,217 --> 00:06:32,468
+If this was useful, subscribe so you do not miss the next episode.
+
+64
+00:06:32,918 --> 00:06:39,031
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

@@ -4,6 +4,7 @@ Refresh token is stored ENCRYPTED in yt/token.enc (repo is public) with key = sh
   python3 yt/yt.py url            -> print consent URL (client_id is not secret)
   python3 yt/yt.py exchange CODE  -> exchange code, write yt/token.enc, print channel title
   python3 yt/yt.py upload FILE TITLE DESC_FILE -> upload a Short, print video id
+  python3 yt/yt.py uploadlong FILE TITLE DESC_FILE [THUMB.jpg] -> upload a long-form video (+ thumbnail, non-fatal)
 """
 import json, os, sys, hashlib, base64, subprocess, urllib.request, urllib.parse
 D = os.path.dirname(os.path.abspath(__file__))
@@ -60,3 +61,23 @@ elif cmd == 'upload':
     try: j = json.loads(urllib.request.urlopen(up, timeout=600).read())
     except urllib.error.HTTPError as e: sys.exit('upload HTTP %s %s' % (e.code, e.read()[:400]))
     print('YT_UPLOADED', j['id'], j.get('status',{}).get('privacyStatus'))
+elif cmd == 'uploadlong':
+    f, title, desc = sys.argv[2], sys.argv[3][:100], open(sys.argv[4]).read()[:4900]
+    at = access()
+    meta = {'snippet':{'title':title,'description':desc,'categoryId':'27','defaultLanguage':'hi','defaultAudioLanguage':'hi',
+            'tags':['order flow','orderflow','order flow hindi','trading hindi','forex hindi','volume profile','footprint chart','price action','spider trades']},
+            'status':{'privacyStatus':'public','selfDeclaredMadeForKids':False}}
+    req = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status',
+        data=json.dumps(meta).encode(), headers={'Authorization':'Bearer '+at,'Content-Type':'application/json; charset=UTF-8',
+        'X-Upload-Content-Type':'video/mp4','X-Upload-Content-Length':str(os.path.getsize(f))})
+    try: loc = urllib.request.urlopen(req, timeout=60).headers['Location']
+    except urllib.error.HTTPError as e: sys.exit('init HTTP %s %s' % (e.code, e.read()[:400]))
+    up = urllib.request.Request(loc, data=open(f,'rb').read(), method='PUT', headers={'Content-Type':'video/mp4'})
+    try: j = json.loads(urllib.request.urlopen(up, timeout=900).read())
+    except urllib.error.HTTPError as e: sys.exit('upload HTTP %s %s' % (e.code, e.read()[:400]))
+    print('YT_UPLOADED', j['id'], j.get('status',{}).get('privacyStatus'))
+    if len(sys.argv) > 5 and os.path.exists(sys.argv[5]):
+        th = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=' + j['id'] + '&uploadType=media',
+            data=open(sys.argv[5],'rb').read(), method='POST', headers={'Authorization':'Bearer '+at,'Content-Type':'image/jpeg'})
+        try: urllib.request.urlopen(th, timeout=120).read(); print('THUMB_OK')
+        except urllib.error.HTTPError as e: print('THUMB_FAILED HTTP %s %s' % (e.code, e.read()[:300].decode('utf8','replace')))

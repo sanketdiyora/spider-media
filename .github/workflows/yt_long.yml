@@ -1,0 +1,16 @@
+name: YouTube long-form upload
+on:
+  push:
+    paths: ['yt/long/*.json']
+permissions:
+  contents: write
+concurrency: yt-upload
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload long-form videos
+        env:
+          YT_CLIENT_JSON: ${{ secrets.YT_CLIENT_JSON }}
+        run: python3 yt/process_long.py

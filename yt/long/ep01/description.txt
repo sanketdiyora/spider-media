@@ -1,0 +1,36 @@
+Candle green hai, lekin kya andar sach me buyers jeete? Is episode me zero se samjho ki Order Flow kya hota hai aur candle chart hamse kya chhupata hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 1 hai (24 episodes, Hindi + English). Koi purana knowledge nahi chahiye.
+
+Is episode me:
+• Candle sirf 4 number kyun dikhati hai
+• Ek hi candle ke peeche 3 alag kahaniyan
+• Price asal me kaun hilata hai: jaldi wala (market order) vs intezaar wala (limit order)
+• Order Flow ki aasaan definition
+• Forex aur gold me tick volume ka sach
+
+Chapters:
+0:00 Intro
+0:35 Is series me kya hai
+1:05 Candle kaise banti hai
+1:36 Ek candle, teen kahaniyan
+2:07 Price hilta kyun hai
+2:33 Jaldi wala vs intezaar wala
+3:20 Order Flow ki definition
+3:44 Candle kya chhupati hai
+4:11 Example
+4:49 Order Flow kya nahi hai
+5:10 Forex aur gold ka sach
+5:37 Kaunse tools seekhenge
+5:57 Recap
+6:20 Agla episode
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+Agla episode: Market kaise chalta hai — Auction.
+English subtitles available (CC on karo).
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.
+
+#OrderFlow #TradingHindi #ForexHindi #VolumeProfile #SpiderTrades
