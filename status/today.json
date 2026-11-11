@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 15:37 IST",
+"updated": "2026-11-11 16:09 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 123,
@@ -615,19 +615,6 @@
 "mt5_reason": "DONE pnl -23.58 USD = -1.01R"
 },
 {
-"id": "EURNZD_1794375900_pbo",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.98994,
-"sl": 1.988553,
-"r": null,
-"opened": "11 Nov 11:30",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 41.40 USD = 1.75R"
-},
-{
 "id": "USDCAD_1794378600_lbo",
 "pair": "USDCAD",
 "dir": "BUY",
@@ -758,9 +745,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 40.91 USD = 1.72R"
+},
+{
+"id": "EURNZD_1794375900_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.98994,
+"sl": 1.988553,
+"r": 2.0,
+"opened": "11 Nov 11:30",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 41.40 USD = 1.75R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURNZD_1794375900_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.98994,
+"sl": 1.988553,
+"r": 2.0,
+"opened": "11 Nov 11:30",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 41.40 USD = 1.75R"
+},
 {
 "id": "GBPNZD_1794376800_pbo",
 "pair": "GBPNZD",
@@ -942,45 +955,32 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "US500_1794303000_pbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "pbo",
-"entry": 7561.58,
-"sl": 7573.18,
-"r": 0.5,
-"opened": "10 Nov 15:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 69,
-"all_net": 8.13,
-"all_win": 39,
-"today_net": -0.05,
+"all_n": 70,
+"all_net": 10.13,
+"all_win": 40,
+"today_net": 1.95,
 "engine": {
-"last_scan": "15:31",
-"age_min": 6,
+"last_scan": "16:06",
+"age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-11 10:00 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-11 10:35 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4851.93",
-"equity": "4847.36",
-"floating": "-4.57",
+"equity": "4852.28",
+"floating": "0.35",
 "positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 58121,
+"voice_chars_month": 62295,
 "voice_limit": 30000,
-"disk_free_gb": 22.1,
+"disk_free_gb": 21.8,
 "github_runs": [
 {
 "t": "2026-11-11T09:15:41Z",
