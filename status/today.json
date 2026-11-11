@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-11 05:33 IST",
+"updated": "2026-11-11 07:12 IST",
 "date": "2026-11-11",
 "followers": 49,
-"media_count": 116,
+"media_count": 117,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Aaj ki 3 badi khabrein 📰 (Wed 11 Nov)",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18132747025867954",
+"cap": "Aaj ki 3 badi khabrein 📰 (Wed 11 Nov)\n1️⃣ US CPI (Oct) garam: headline +0.4% (umeed 0.3%), core +0.3% — December Fed hike ki charcha\n2️⃣ Aaj US Veterans Day: bond market band, stocks khule — kam liquidity ka scenario\n3️⃣ Kal (Thu) 12:30 PM IST — UK Q3 GDP, GBP pe nazar\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #uscpi #ukgdp #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein 📰 (Wed 11 Nov)",
+"time": "2026-11-11 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DflTlA3l3Wl/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1100",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "18132747025867954",
+"cap": "Aaj ki 3 badi khabrein 📰 (Wed 11 Nov)\n1️⃣ US CPI (Oct) garam: headline +0.4% (umeed 0.3%), core +0.3% — December Fed hike ki charcha\n2️⃣ Aaj US Veterans Day: bond market band, stocks khule — kam liquidity ka scenario\n3️⃣ Kal (Thu) 12:30 PM IST — UK Q3 GDP, GBP pe nazar\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #uscpi #ukgdp #spidertrades",
+"cap1": "Aaj ki 3 badi khabrein 📰 (Wed 11 Nov)",
+"time": "2026-11-11 07:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DflTlA3l3Wl/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18161878591515480",
 "cap": "Trend vs Range 30 second me 📊 Bot chuno market mood ke hisaab se.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#trendtrading #rangetrading #forexhindi #tradingbot #tradingeducation",
 "cap1": "Trend vs Range 30 second me 📊 Bot chuno market mood ke hisaab se.",
@@ -71,8 +98,8 @@
 "link": "https://www.instagram.com/reel/DfkLePWgvm6/",
 "likes": 2,
 "comments": 0,
-"views": 122,
-"reach": 107,
+"views": 123,
+"reach": 108,
 "saved": 1,
 "shares": 0
 },
@@ -113,8 +140,8 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 49,
-"reach": 45,
+"views": 50,
+"reach": 46,
 "saved": 2,
 "shares": 0
 },
@@ -155,8 +182,8 @@
 "link": "https://www.instagram.com/reel/Dfi9dl1gOVI/",
 "likes": 1,
 "comments": 0,
-"views": 47,
-"reach": 33,
+"views": 51,
+"reach": 35,
 "saved": 1,
 "shares": 0
 },
@@ -169,8 +196,8 @@
 "link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
 "likes": 0,
 "comments": 0,
-"views": 46,
-"reach": 37,
+"views": 51,
+"reach": 40,
 "saved": 0,
 "shares": 3
 },
@@ -183,8 +210,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 64,
-"reach": 52,
+"views": 68,
+"reach": 56,
 "saved": 2,
 "shares": 4
 },
@@ -467,25 +494,67 @@
 "reach": 8,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18104553287565990",
-"cap": "Prop firm me EA: kya banned? 🚫 HFT, latency arbitrage, accounts ke beech hedge/copy... aur bahut kuch limited.\nRules har firm ke alag: pehle padho, phir chalao.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#propfirm #expertadvisor #fundedtrader #tradingbot #forexhindi",
-"cap1": "Prop firm me EA: kya banned? 🚫 HFT, latency arbitrage, accounts ke bee",
-"time": "2026-11-07 17:00",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfcFESWlH81/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 3,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
 "open": [
+{
+"id": "EURUSD_1794358800_pbo",
+"pair": "EURUSD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 1.11612,
+"sl": 1.117125,
+"r": null,
+"opened": "11 Nov 06:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.23 lots @1.11606 SL 1.11708 (scanner SL) entry 1.11607 basis -0.00005 (M1) split TP1/TP2 risk 0.48%"
+}
+],
+"closed_today": [
+{
+"id": "JPN225_1794339000_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 59888.5,
+"sl": 60056.9,
+"r": -0.55,
+"opened": "11 Nov 01:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -12.70 USD = -0.54R"
+}
+],
+"closed_recent": [
+{
+"id": "JPN225_1794339000_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 59888.5,
+"sl": 60056.9,
+"r": -0.55,
+"opened": "11 Nov 01:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -12.70 USD = -0.54R"
+},
+{
+"id": "XAUUSD_1794324600_dpoc",
+"pair": "GOLD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 4045.518,
+"sl": 4062.441,
+"r": 1.28,
+"opened": "10 Nov 21:15",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
 {
 "id": "GBPCHF_1794320100_dpoc",
 "pair": "GBPCHF",
@@ -493,15 +562,12 @@
 "model": "dpoc",
 "entry": 1.10216,
 "sl": 1.10071,
-"r": null,
+"r": -1.0,
 "opened": "10 Nov 20:00",
-"state": "open",
+"state": "closed",
 "mt5": null,
 "mt5_reason": null
-}
-],
-"closed_today": [],
-"closed_recent": [
+},
 {
 "id": "AUDCHF_1794306600_pbo",
 "pair": "AUDCHF",
@@ -657,64 +723,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPJPY_1794287700_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 212.435,
-"sl": 212.2734,
-"r": 0.63,
-"opened": "10 Nov 11:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "WTI_1794292200_lbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "lbo",
-"entry": 85.438,
-"sl": 85.952,
-"r": 0.5,
-"opened": "10 Nov 12:05",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURGBP_1794275100_pbo",
-"pair": "EURGBP",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.83477,
-"sl": 0.835279,
-"r": -1.0,
-"opened": "10 Nov 07:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 59,
-"all_net": 7.9,
-"all_win": 34,
-"today_net": 0,
+"all_n": 62,
+"all_net": 7.63,
+"all_win": 35,
+"today_net": -0.55,
 "engine": {
-"last_scan": "20:46",
-"age_min": 527,
+"last_scan": "07:06",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-10 15:15 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-11 01:35 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4874.45",
-"equity": "4872.85",
-"floating": "-1.60",
-"positions": "1",
+"balance": "4858.00",
+"equity": "4844.31",
+"floating": "-13.69",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -723,6 +750,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 23.1,
 "github_runs": [
+{
+"t": "2026-11-11T01:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-10T22:12:25Z",
 "ok": "success",
@@ -740,11 +772,6 @@
 },
 {
 "t": "2026-11-10T20:17:05Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-10T19:36:46Z",
 "ok": "success",
 "ev": "schedule"
 }
