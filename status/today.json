@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 12:11 IST",
+"updated": "2026-11-11 12:21 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 122,
@@ -597,7 +597,7 @@
 "sl": 1.117125,
 "r": null,
 "opened": "11 Nov 06:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.58 USD = -1.01R"
 },
@@ -678,6 +678,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 22.00 lots @61335.48 SL 61503.28 (scanner SL) entry 61372.98 basis 85.48 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "USDCAD_1794378600_lbo",
+"pair": "USDCAD",
+"dir": "BUY",
+"model": "lbo",
+"entry": 1.42098,
+"sl": 1.419293,
+"r": null,
+"opened": "11 Nov 12:05",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -910,17 +923,17 @@
 "all_win": 35,
 "today_net": -1.55,
 "engine": {
-"last_scan": "12:01",
-"age_min": 10,
+"last_scan": "12:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 06:30 UTC · new 1 · events 0 · open 7"
+"summary": "run 2026-11-11 06:45 UTC · new 0 · events 1 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4810.76",
-"equity": "4824.98",
-"floating": "14.22",
+"equity": "4801.81",
+"floating": "-8.95",
 "positions": "12",
 "ea_enabled": "1",
 "algo_trading": "1"
