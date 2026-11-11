@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 07:37 IST",
+"updated": "2026-11-11 08:06 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 117,
@@ -730,10 +730,10 @@
 "all_win": 35,
 "today_net": -0.55,
 "engine": {
-"last_scan": "07:36",
-"age_min": 1,
+"last_scan": "08:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 02:05 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-11 02:30 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
@@ -751,6 +751,11 @@
 "disk_free_gb": 23.1,
 "github_runs": [
 {
+"t": "2026-11-11T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-11T01:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -767,11 +772,6 @@
 },
 {
 "t": "2026-11-10T20:58:50Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-10T20:17:05Z",
 "ok": "success",
 "ev": "schedule"
 }
