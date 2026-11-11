@@ -1,1 +1,7 @@
-{"enabled": true, "start": "2026-11-16"}
+{
+ "enabled": true,
+ "start": "2026-11-16",
+ "playlists": {
+  "orderflow": "PLO3cG4bjC7SM"
+ }
+}
