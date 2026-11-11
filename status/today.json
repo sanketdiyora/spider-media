@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 09:52 IST",
+"updated": "2026-11-11 10:06 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 117,
@@ -98,8 +98,8 @@
 "link": "https://www.instagram.com/reel/DfkLePWgvm6/",
 "likes": 2,
 "comments": 0,
-"views": 124,
-"reach": 110,
+"views": 125,
+"reach": 111,
 "saved": 1,
 "shares": 0
 },
@@ -140,8 +140,8 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 50,
-"reach": 46,
+"views": 54,
+"reach": 50,
 "saved": 2,
 "shares": 0
 },
@@ -210,8 +210,8 @@
 "link": "https://www.instagram.com/reel/DfixXZDEgtW/",
 "likes": 0,
 "comments": 0,
-"views": 70,
-"reach": 59,
+"views": 71,
+"reach": 60,
 "saved": 2,
 "shares": 4
 },
@@ -743,17 +743,17 @@
 "all_win": 35,
 "today_net": -0.55,
 "engine": {
-"last_scan": "09:47",
+"last_scan": "10:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 04:15 UTC · new 1 · events 0 · open 2"
+"summary": "run 2026-11-11 04:30 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4834.42",
-"equity": "4835.92",
-"floating": "1.50",
+"equity": "4839.98",
+"floating": "5.56",
 "positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
