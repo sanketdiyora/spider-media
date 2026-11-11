@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 12:57 IST",
+"updated": "2026-11-11 13:06 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 122,
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 1,
+"views": 6,
+"reach": 4,
 "saved": 0,
 "shares": 2
 }
@@ -82,7 +82,7 @@
 "link": "https://www.instagram.com/reel/Dfl1WCdEXqp/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 4,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 8,
+"reach": 6,
 "saved": 0,
 "shares": 0
 }
@@ -124,7 +124,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -173,7 +173,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 8,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -201,7 +201,7 @@
 "link": "https://www.instagram.com/reel/Dfl1WCdEXqp/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 4,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -229,8 +229,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 1,
+"views": 6,
+"reach": 4,
 "saved": 0,
 "shares": 2
 },
@@ -285,7 +285,7 @@
 "link": "https://www.instagram.com/p/Dfjzd0OCQLO/",
 "likes": 0,
 "comments": 0,
-"views": 14,
+"views": 15,
 "reach": 3,
 "saved": 0,
 "shares": 0
@@ -299,8 +299,8 @@
 "link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
 "likes": 1,
 "comments": 0,
-"views": 56,
-"reach": 50,
+"views": 58,
+"reach": 53,
 "saved": 2,
 "shares": 0
 },
@@ -602,19 +602,6 @@
 "mt5_reason": "DONE pnl -23.58 USD = -1.01R"
 },
 {
-"id": "AUDJPY_1794369600_pbo",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 109.257,
-"sl": 109.3418,
-"r": null,
-"opened": "11 Nov 09:45",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 4.18 USD = 0.18R"
-},
-{
 "id": "EURNZD_1794375900_pbo",
 "pair": "EURNZD",
 "dir": "BUY",
@@ -719,9 +706,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -21.84 USD = -1.00R"
+},
+{
+"id": "AUDJPY_1794369600_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.257,
+"sl": 109.3418,
+"r": 0.5,
+"opened": "11 Nov 09:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.18 USD = 0.18R"
 }
 ],
 "closed_recent": [
+{
+"id": "AUDJPY_1794369600_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.257,
+"sl": 109.3418,
+"r": 0.5,
+"opened": "11 Nov 09:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.18 USD = 0.18R"
+},
 {
 "id": "NAS100_1794377700_lbo",
 "pair": "NAS100",
@@ -903,38 +916,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPJPY_1794300300_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 212.502,
-"sl": 212.3743,
-"r": -1.0,
-"opened": "10 Nov 14:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 65,
-"all_net": 6.13,
-"all_win": 36,
-"today_net": -2.05,
+"all_n": 66,
+"all_net": 6.63,
+"all_win": 37,
+"today_net": -1.55,
 "engine": {
-"last_scan": "12:51",
-"age_min": 6,
+"last_scan": "13:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-11 07:20 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-11 07:30 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4805.35",
-"equity": "4824.00",
-"floating": "18.65",
-"positions": "4",
+"balance": "4815.15",
+"equity": "4847.68",
+"floating": "32.53",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -943,6 +943,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 22.4,
 "github_runs": [
+{
+"t": "2026-11-11T07:35:57Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-11T06:30:15Z",
 "ok": "success",
@@ -962,11 +967,6 @@
 "t": "2026-11-11T01:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-10T22:12:25Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
