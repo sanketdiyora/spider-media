@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 15:09 IST",
+"updated": "2026-11-11 15:26 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 123,
@@ -637,8 +637,8 @@
 "r": null,
 "opened": "11 Nov 11:45",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.25 lots @2.37923 SL 2.37753 (scanner SL) entry 2.37905 basis 0.00015 (M15) split TP1/TP2 risk 0.50%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 40.91 USD = 1.72R"
 },
 {
 "id": "USDCAD_1794378600_lbo",
@@ -962,25 +962,25 @@
 "all_win": 38,
 "today_net": -2.05,
 "engine": {
-"last_scan": "15:06",
-"age_min": 3,
+"last_scan": "15:21",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-11 09:35 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-11 09:50 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4788.43",
-"equity": "4832.98",
-"floating": "44.55",
-"positions": "3",
+"balance": "4820.33",
+"equity": "4844.94",
+"floating": "24.61",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 49634,
+"voice_chars_month": 54094,
 "voice_limit": 30000,
-"disk_free_gb": 22.3,
+"disk_free_gb": 22.0,
 "github_runs": [
 {
 "t": "2026-11-11T09:15:41Z",
