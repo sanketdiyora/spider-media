@@ -1,0 +1,42 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-11/1036.mp4",
+ "dur": 50.83,
+ "music": "cinematic/188.mp3",
+ "chars": 644,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "AUDJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    109.257,
+    109.26039200000001
+   ],
+   "sl": 109.3418,
+   "entry": 109.257,
+   "rr": 3.0,
+   "tp1": 109.1722,
+   "tp2": 109.0026
+  },
+  {
+   "pair": "JPN225",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    61187.5,
+    61193.608
+   ],
+   "sl": 61340.2,
+   "entry": 61187.5,
+   "rr": 3.0,
+   "tp1": 61034.8,
+   "tp2": 60729.3
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_4b9514c9",
+ "crops": [
+  "/home/claude/ig/setup/w_4b9514c9/tg_0.jpg",
+  "/home/claude/ig/setup/w_4b9514c9/tg_1.jpg"
+ ]
+}
