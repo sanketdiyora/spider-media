@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 19:56 IST",
+"updated": "2026-11-11 20:08 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 125,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 4,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 1,
 "comments": 0,
-"views": 55,
-"reach": 50,
+"views": 58,
+"reach": 52,
 "saved": 0,
 "shares": 0
 }
@@ -124,7 +124,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 30,
+"views": 33,
 "reach": 17,
 "saved": 0,
 "shares": 0
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 17,
-"reach": 14,
+"views": 22,
+"reach": 18,
 "saved": 0,
 "shares": 0
 }
@@ -240,8 +240,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 17,
-"reach": 14,
+"views": 22,
+"reach": 18,
 "saved": 0,
 "shares": 0
 },
@@ -254,7 +254,7 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 30,
+"views": 33,
 "reach": 17,
 "saved": 0,
 "shares": 0
@@ -268,8 +268,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 1,
 "comments": 0,
-"views": 55,
-"reach": 50,
+"views": 58,
+"reach": 52,
 "saved": 0,
 "shares": 0
 },
@@ -324,8 +324,8 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 3,
-"reach": 1,
+"views": 4,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -338,8 +338,8 @@
 "link": "https://www.instagram.com/reel/DfkLePWgvm6/",
 "likes": 2,
 "comments": 0,
-"views": 126,
-"reach": 112,
+"views": 127,
+"reach": 113,
 "saved": 1,
 "shares": 0
 },
@@ -639,6 +639,19 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "AUDCAD_1794406500_dpoc",
+"pair": "AUDCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.97593,
+"sl": 0.977119,
+"r": null,
+"opened": "11 Nov 20:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.26 lots @0.97579 SL 0.97713 (scanner SL) entry 0.97594 basis 0.00001 (M1)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -1014,18 +1027,18 @@
 "all_win": 43,
 "today_net": 10.77,
 "engine": {
-"last_scan": "19:46",
-"age_min": 10,
+"last_scan": "20:06",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-11 14:15 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-11 14:35 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4956.78",
-"equity": "4956.78",
-"floating": "0.00",
-"positions": "0",
+"equity": "4961.52",
+"floating": "4.74",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
