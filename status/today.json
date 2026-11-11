@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-11 20:50 IST",
+"updated": "2026-11-11 23:04 IST",
 "date": "2026-11-11",
 "followers": 49,
-"media_count": 126,
+"media_count": 127,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 2,
+"views": 9,
+"reach": 4,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 12,
+"views": 26,
+"reach": 14,
 "saved": 0,
 "shares": 2
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/p/DflvDw2j2CQ/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -83,7 +83,7 @@
 "likes": 0,
 "comments": 0,
 "views": 36,
-"reach": 30,
+"reach": 31,
 "saved": 0,
 "shares": 0
 }
@@ -101,11 +101,11 @@
 "time": "2026-11-11 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
-"likes": 1,
+"likes": 4,
 "comments": 0,
-"views": 59,
-"reach": 52,
-"saved": 0,
+"views": 73,
+"reach": 66,
+"saved": 1,
 "shares": 0
 }
 },
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 18,
+"views": 35,
+"reach": 19,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 22,
-"reach": 18,
+"views": 26,
+"reach": 21,
 "saved": 0,
 "shares": 0
 }
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 6,
+"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -208,7 +208,28 @@
 "link": "https://www.instagram.com/reel/DfmwRziDWle/",
 "likes": 0,
 "comments": 0,
-"views": 1,
+"views": 100,
+"reach": 63,
+"saved": 1,
+"shares": 0
+}
+},
+{
+"slot": "2310",
+"name": "reel",
+"type": "reel",
+"title": "Candle GREEN hai... par kya BUYERS jeete? 🕯️",
+"status": "POSTED",
+"post": {
+"id": "18078810674443578",
+"cap": "Candle GREEN hai... par kya BUYERS jeete? 🕯️\n\nCandle sirf 4 number dikhati hai: open, high, low, close. Andar kisne kitna kharida aur kisne kitna becha, wo chhupa rehta hai. Wahi kahani padhna = Order Flow.\n\nOrder Flow Series, Episode 1 — poora episode SPIDER YouTube channel pe (zero se, Hindi me).\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
+"cap1": "Candle GREEN hai... par kya BUYERS jeete? 🕯️",
+"time": "2026-11-11 23:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfnBnc8mucY/",
+"likes": 0,
+"comments": 0,
+"views": 0,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -216,6 +237,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18078810674443578",
+"cap": "Candle GREEN hai... par kya BUYERS jeete? 🕯️\n\nCandle sirf 4 number dikhati hai: open, high, low, close. Andar kisne kitna kharida aur kisne kitna becha, wo chhupa rehta hai. Wahi kahani padhna = Order Flow.\n\nOrder Flow Series, Episode 1 — poora episode SPIDER YouTube channel pe (zero se, Hindi me).\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
+"cap1": "Candle GREEN hai... par kya BUYERS jeete? 🕯️",
+"time": "2026-11-11 23:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfnBnc8mucY/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18093052406236948",
 "cap": "50% win rate, phir bhi profit? 🤔 Risk:Reward ka math, 10 trades ke example ke saath.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #winrate #forexhindi #tradingeducation #riskmanagement",
@@ -225,9 +260,9 @@
 "link": "https://www.instagram.com/reel/DfmwRziDWle/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
-"saved": 0,
+"views": 100,
+"reach": 63,
+"saved": 1,
 "shares": 0
 },
 {
@@ -239,8 +274,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 6,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -267,8 +302,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 22,
-"reach": 18,
+"views": 26,
+"reach": 21,
 "saved": 0,
 "shares": 0
 },
@@ -281,8 +316,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 18,
+"views": 35,
+"reach": 19,
 "saved": 0,
 "shares": 0
 },
@@ -293,11 +328,11 @@
 "time": "2026-11-11 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
-"likes": 1,
+"likes": 4,
 "comments": 0,
-"views": 59,
-"reach": 52,
-"saved": 0,
+"views": 73,
+"reach": 66,
+"saved": 1,
 "shares": 0
 },
 {
@@ -310,7 +345,7 @@
 "likes": 0,
 "comments": 0,
 "views": 36,
-"reach": 30,
+"reach": 31,
 "saved": 0,
 "shares": 0
 },
@@ -323,8 +358,8 @@
 "link": "https://www.instagram.com/p/DflvDw2j2CQ/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -337,8 +372,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 12,
+"views": 26,
+"reach": 14,
 "saved": 0,
 "shares": 2
 },
@@ -351,8 +386,8 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 2,
+"views": 9,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -366,7 +401,7 @@
 "likes": 2,
 "comments": 0,
 "views": 127,
-"reach": 113,
+"reach": 114,
 "saved": 1,
 "shares": 0
 },
@@ -619,20 +654,6 @@
 "comments": 0,
 "views": 45,
 "reach": 38,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "17923646430451740",
-"cap": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)\n1️⃣ 7:00 AM IST — China CPI (umeed ~0.8%) + PPI (~5.2%, 4 saal ka high)\n2️⃣ New Zealand election: result abhi adhura, final count 27 Nov — NZD volatile\n3️⃣ Brent pichhle hafte -17%, 2020 ke baad sabse badi girawat (~$97.6)\n4️⃣ Gold $4,000 ke upar (~$4,071), kal US CPI\nScenario samjho, call nahi. Plan aur risk apna.\nAur trades ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexnews #forexhindi #goldprice #crudeoil #spidertrades",
-"cap1": "Aaj ki 4 badi khabrein 📰 (Mon 9 Nov)",
-"time": "2026-11-09 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfgJ_yJjzI4/",
-"likes": 0,
-"comments": 0,
-"views": 5,
-"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -1054,7 +1075,7 @@
 "today_net": 10.77,
 "engine": {
 "last_scan": "20:46",
-"age_min": 4,
+"age_min": 138,
 "rc": 0,
 "summary": "run 2026-11-11 15:15 UTC · new 0 · events 0 · open 3"
 },
@@ -1071,8 +1092,18 @@
 },
 "voice_chars_month": 67045,
 "voice_limit": 30000,
-"disk_free_gb": 20.1,
+"disk_free_gb": 20.0,
 "github_runs": [
+{
+"t": "2026-11-11T17:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-11T15:34:01Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-11T15:00:24Z",
 "ok": "success",
@@ -1085,16 +1116,6 @@
 },
 {
 "t": "2026-11-11T13:52:49Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-11T13:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-11T12:39:42Z",
 "ok": "success",
 "ev": "schedule"
 }
