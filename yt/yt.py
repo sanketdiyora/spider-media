@@ -13,7 +13,7 @@ c = json.loads(os.environ['YT_CLIENT_JSON']); c = c.get('installed') or c.get('w
 CID, CS = c['client_id'], c['client_secret']
 KEY = hashlib.sha256(('spider-yt|' + CS).encode()).hexdigest()
 REDIR = 'http://localhost'
-SCOPE = 'https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly'
+SCOPE = 'https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube.force-ssl'
 
 def post(url, data, headers=None):
     req = urllib.request.Request(url, data=urllib.parse.urlencode(data).encode(), headers=headers or {})
