@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11 17:06 IST",
+"updated": "2026-11-11 17:11 IST",
 "date": "2026-11-11",
 "followers": 49,
 "media_count": 124,
@@ -989,7 +989,7 @@
 "today_net": 0.95,
 "engine": {
 "last_scan": "17:01",
-"age_min": 5,
+"age_min": 10,
 "rc": 0,
 "summary": "run 2026-11-11 11:30 UTC · new 0 · events 0 · open 3"
 },
