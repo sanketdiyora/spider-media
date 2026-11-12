@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 12:11 IST",
+"updated": "2026-11-12 12:22 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 131,
@@ -636,6 +636,45 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "EURNZD_1794465000_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99493,
+"sl": 1.992782,
+"r": null,
+"opened": "12 Nov 12:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.18 lots @1.99527 SL 1.99283 (scanner SL) entry 1.99498 basis 0.00005 (M15) split TP1/TP2 risk 0.49%"
+},
+{
+"id": "WTI_1794465600_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 86.365,
+"sl": 85.671,
+"r": null,
+"opened": "12 Nov 12:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "USDJPY_1794465600_lbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 159.8586,
+"sl": 159.6078,
+"r": null,
+"opened": "12 Nov 12:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
 }
 ],
 "closed_today": [
@@ -894,18 +933,18 @@
 "all_win": 46,
 "today_net": 1.27,
 "engine": {
-"last_scan": "12:01",
-"age_min": 10,
+"last_scan": "12:16",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 06:30 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-12 06:45 UTC · new 1 · events 2 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4959.04",
-"equity": "4977.09",
-"floating": "18.05",
-"positions": "6",
+"equity": "4972.88",
+"floating": "13.84",
+"positions": "10",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
