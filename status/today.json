@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 05:37 IST",
+"updated": "2026-11-12 06:07 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 127,
@@ -477,7 +477,34 @@
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "AUDJPY_1794442500_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.184,
+"sl": 109.4023,
+"r": null,
+"opened": "12 Nov 06:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.17 lots @109.191 SL 109.418 (scanner SL) entry 109.180 basis -0.004 (M1) +SLbuf 0.020 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "AUDCHF_1794442500_pbo",
+"pair": "AUDCHF",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.56934,
+"sl": 0.570498,
+"r": null,
+"opened": "12 Nov 06:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.14 lots @0.56926 SL 0.57065 (scanner SL) entry 0.56935 basis 0.00001 (M15) +SLbuf 0.00014 split TP1/TP2 risk 0.47%"
+}
+],
 "closed_today": [
 {
 "id": "USDCAD_1794378600_lbo",
@@ -708,18 +735,18 @@
 "all_win": 45,
 "today_net": 1.77,
 "engine": {
-"last_scan": "05:36",
-"age_min": 1,
+"last_scan": "06:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-12 00:05 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-12 00:30 UTC · new 2 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4955.92",
-"equity": "4955.92",
-"floating": "0.00",
-"positions": "0",
+"equity": "4956.30",
+"floating": "0.38",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
