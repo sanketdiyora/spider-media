@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 07:51 IST",
+"updated": "2026-11-12 08:52 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 128,
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/p/Dfn4ZvkIIV2/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -84,7 +84,7 @@
 "link": "https://www.instagram.com/p/Dfn4ZvkIIV2/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -98,8 +98,8 @@
 "link": "https://www.instagram.com/reel/DfnBnc8mucY/",
 "likes": 2,
 "comments": 0,
-"views": 116,
-"reach": 98,
+"views": 120,
+"reach": 101,
 "saved": 0,
 "shares": 0
 },
@@ -126,8 +126,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 11,
+"views": 16,
+"reach": 13,
 "saved": 0,
 "shares": 0
 },
@@ -154,8 +154,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 36,
-"reach": 28,
+"views": 39,
+"reach": 30,
 "saved": 0,
 "shares": 0
 },
@@ -168,8 +168,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 47,
-"reach": 27,
+"views": 49,
+"reach": 30,
 "saved": 0,
 "shares": 0
 },
@@ -224,8 +224,8 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 50,
-"reach": 30,
+"views": 51,
+"reach": 32,
 "saved": 0,
 "shares": 2
 },
@@ -537,6 +537,32 @@
 "state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 86.349"
+},
+{
+"id": "US500_1794452400_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7595.38,
+"sl": 7607.78,
+"r": null,
+"opened": "12 Nov 08:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 1.90 lots @7601.96 SL 7614.70 (scanner SL) entry 7601.70 basis 6.32 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "NAS100_1794452400_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 28186.3,
+"sl": 28273.51,
+"r": null,
+"opened": "12 Nov 08:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -782,18 +808,18 @@
 "all_win": 45,
 "today_net": 0.77,
 "engine": {
-"last_scan": "07:46",
+"last_scan": "08:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-12 02:15 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-12 03:15 UTC · new 2 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4939.62",
-"equity": "4910.57",
-"floating": "-29.05",
-"positions": "5",
+"equity": "4923.23",
+"floating": "-16.39",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -802,6 +828,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 22.1,
 "github_runs": [
+{
+"t": "2026-11-12T02:30:14Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-12T01:30:15Z",
 "ok": "success",
@@ -819,11 +850,6 @@
 },
 {
 "t": "2026-11-11T21:30:42Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-11T20:01:30Z",
 "ok": "success",
 "ev": "schedule"
 }
