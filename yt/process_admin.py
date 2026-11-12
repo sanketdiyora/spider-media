@@ -18,4 +18,4 @@ if ch:
     subprocess.run(g+['add','-A','yt/done','yt/config.json']); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm','yt admin done [skip ci]'])
     for _ in range(3):
         if subprocess.run(g+['push','-q']).returncode==0: break
-        subprocess.run(g+['pull','-q','--rebase'])
+        subprocess.run(g+['pull','-q','--rebase','--autostash'])
