@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 19:52 IST",
+"updated": "2026-11-12 20:07 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 136,
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 24,
+"views": 25,
 "reach": 17,
 "saved": 0,
 "shares": 0
@@ -124,7 +124,7 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 150,
+"views": 153,
 "reach": 134,
 "saved": 0,
 "shares": 0
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 12,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -187,8 +187,8 @@
 "link": "https://www.instagram.com/reel/DfpKv4vlTBu/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -212,8 +212,8 @@
 "link": "https://www.instagram.com/reel/DfpKv4vlTBu/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -226,8 +226,8 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 12,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -268,7 +268,7 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 150,
+"views": 153,
 "reach": 134,
 "saved": 0,
 "shares": 0
@@ -296,7 +296,7 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 24,
+"views": 25,
 "reach": 17,
 "saved": 0,
 "shares": 0
@@ -338,8 +338,8 @@
 "link": "https://www.instagram.com/reel/DfnBnc8mucY/",
 "likes": 2,
 "comments": 0,
-"views": 124,
-"reach": 104,
+"views": 125,
+"reach": 105,
 "saved": 0,
 "shares": 0
 },
@@ -1170,17 +1170,17 @@
 "all_win": 53,
 "today_net": -1.17,
 "engine": {
-"last_scan": "19:46",
+"last_scan": "20:01",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 14:15 UTC · new 3 · events 0 · open 7"
+"summary": "run 2026-11-12 14:30 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4899.21",
-"equity": "4907.04",
-"floating": "7.83",
+"equity": "4922.99",
+"floating": "23.78",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
