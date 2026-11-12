@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 17:39 IST",
+"updated": "2026-11-12 17:53 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 134,
@@ -672,14 +672,14 @@
 "mt5_reason": "OPEN BUY 0.16 lots @159.734 SL 159.502 (scanner SL) entry 159.713 basis -0.007 (M15)  risk 0.47%"
 },
 {
-"id": "NAS100_1794483900_pbo",
-"pair": "NAS100",
+"id": "XAUUSD_1794484800_dpoc",
+"pair": "GOLD",
 "dir": "SELL",
-"model": "pbo",
-"entry": 28122.15,
-"sl": 28204.98,
+"model": "dpoc",
+"entry": 3943.555,
+"sl": 3956.379,
 "r": null,
-"opened": "12 Nov 17:30",
+"opened": "12 Nov 17:45",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -867,9 +867,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.81 USD = -0.99R"
+},
+{
+"id": "NAS100_1794483900_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 28122.15,
+"sl": 28204.98,
+"r": -1.0,
+"opened": "12 Nov 17:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1794483900_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 28122.15,
+"sl": 28204.98,
+"r": -1.0,
+"opened": "12 Nov 17:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "USDJPY_1794475800_dpoc",
 "pair": "USDJPY",
@@ -1051,37 +1077,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NAS100_1794408300_poc",
-"pair": "NAS100",
-"dir": "BUY",
-"model": "poc",
-"entry": 28190.39,
-"sl": 28114.77,
-"r": 0.64,
-"opened": "11 Nov 20:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 89,
-"all_net": 21.33,
+"all_n": 90,
+"all_net": 20.33,
 "all_win": 52,
-"today_net": 1.74,
+"today_net": 0.74,
 "engine": {
-"last_scan": "17:36",
-"age_min": 3,
+"last_scan": "17:46",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-12 12:05 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-12 12:15 UTC · new 1 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4913.73",
-"equity": "4922.66",
-"floating": "8.93",
+"equity": "4918.66",
+"floating": "4.93",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
