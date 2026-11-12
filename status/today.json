@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 15:22 IST",
+"updated": "2026-11-12 15:37 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 133,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 18,
-"reach": 11,
+"views": 20,
+"reach": 14,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 118,
-"reach": 98,
+"views": 121,
+"reach": 102,
 "saved": 0,
 "shares": 0
 }
@@ -103,9 +103,9 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 0,
 "comments": 0,
-"views": 52,
-"reach": 26,
-"saved": 1,
+"views": 90,
+"reach": 68,
+"saved": 2,
 "shares": 0
 }
 },
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 128,
-"reach": 77,
+"views": 135,
+"reach": 120,
 "saved": 0,
 "shares": 0
 }
@@ -165,9 +165,9 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 0,
 "comments": 0,
-"views": 52,
-"reach": 26,
-"saved": 1,
+"views": 90,
+"reach": 68,
+"saved": 2,
 "shares": 0
 },
 {
@@ -179,8 +179,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 128,
-"reach": 77,
+"views": 135,
+"reach": 120,
 "saved": 0,
 "shares": 0
 },
@@ -193,8 +193,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 118,
-"reach": 98,
+"views": 121,
+"reach": 102,
 "saved": 0,
 "shares": 0
 },
@@ -207,8 +207,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 18,
-"reach": 11,
+"views": 20,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -277,8 +277,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 20,
-"reach": 16,
+"views": 22,
+"reach": 17,
 "saved": 0,
 "shares": 0
 },
@@ -631,6 +631,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.25 lots @159.728 SL 159.575 (scanner SL) entry 159.700 basis -0.007 (M15)  risk 0.49%"
+},
+{
+"id": "GBPJPY_1794476700_dpoc",
+"pair": "GBPJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 211.953,
+"sl": 211.7238,
+"r": null,
+"opened": "12 Nov 15:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -1006,17 +1019,17 @@
 "all_win": 52,
 "today_net": 2.74,
 "engine": {
-"last_scan": "15:16",
+"last_scan": "15:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 09:45 UTC · new 1 · events 0 · open 4"
+"summary": "run 2026-11-12 10:00 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4937.54",
-"equity": "4944.24",
-"floating": "6.70",
+"equity": "4943.65",
+"floating": "6.11",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
