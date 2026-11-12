@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 17:53 IST",
+"updated": "2026-11-12 18:24 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 134,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 22,
-"reach": 16,
+"views": 24,
+"reach": 17,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 121,
-"reach": 102,
+"views": 122,
+"reach": 104,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 1,
 "comments": 0,
-"views": 110,
-"reach": 94,
+"views": 111,
+"reach": 95,
 "saved": 3,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 149,
-"reach": 128,
+"views": 150,
+"reach": 134,
 "saved": 0,
 "shares": 0
 }
@@ -192,8 +192,8 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 1,
 "comments": 0,
-"views": 110,
-"reach": 94,
+"views": 111,
+"reach": 95,
 "saved": 3,
 "shares": 0
 },
@@ -206,8 +206,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 149,
-"reach": 128,
+"views": 150,
+"reach": 134,
 "saved": 0,
 "shares": 0
 },
@@ -220,8 +220,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 121,
-"reach": 102,
+"views": 122,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -234,8 +234,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 22,
-"reach": 16,
+"views": 24,
+"reach": 17,
 "saved": 0,
 "shares": 0
 },
@@ -276,8 +276,8 @@
 "link": "https://www.instagram.com/reel/DfnBnc8mucY/",
 "likes": 2,
 "comments": 0,
-"views": 123,
-"reach": 103,
+"views": 124,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -360,8 +360,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 8,
 "comments": 0,
-"views": 108,
-"reach": 97,
+"views": 109,
+"reach": 98,
 "saved": 1,
 "shares": 0
 },
@@ -654,9 +654,9 @@
 "sl": 0.830886,
 "r": null,
 "opened": "12 Nov 17:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.18 lots @0.83198 SL 0.83085 (scanner SL) entry 0.83186 basis -0.00004 (M1) split TP1/TP2 risk 0.50%"
+"mt5_reason": "SL 0.83186"
 },
 {
 "id": "USDJPY_1794483000_dpoc",
@@ -680,6 +680,19 @@
 "sl": 3956.379,
 "r": null,
 "opened": "12 Nov 17:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1794486600_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 85.735,
+"sl": 86.195,
+"r": null,
+"opened": "12 Nov 18:15",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -1084,18 +1097,18 @@
 "all_win": 52,
 "today_net": 0.74,
 "engine": {
-"last_scan": "17:46",
-"age_min": 7,
+"last_scan": "18:22",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-12 12:15 UTC · new 1 · events 1 · open 7"
+"summary": "run 2026-11-12 12:50 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4913.73",
-"equity": "4918.66",
-"floating": "4.93",
-"positions": "7",
+"balance": "4923.46",
+"equity": "4929.49",
+"floating": "6.03",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
