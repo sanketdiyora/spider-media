@@ -1,0 +1,336 @@
+1
+00:00:05,000 --> 00:00:10,486
+Look at this chart. Most of the time, price wanders inside a small range.
+
+2
+00:00:10,936 --> 00:00:14,174
+And then suddenly, it runs off in one direction.
+
+3
+00:00:14,625 --> 00:00:18,177
+Then at a new place, it starts wandering again.
+
+4
+00:00:18,628 --> 00:00:22,990
+Why does this happen? Because the market is really an auction.
+
+5
+00:00:23,439 --> 00:00:26,601
+Today we understand how this auction works.
+
+6
+00:00:27,601 --> 00:00:32,512
+Hello, this is episode two of the SPIDER Order Flow series.
+
+7
+00:00:32,961 --> 00:00:37,951
+Last time we learned: price is moved by whoever is in a hurry.
+
+8
+00:00:38,401 --> 00:00:47,152
+Three questions today. How does the market work? What is a fair price? And why does price sometimes rest and sometimes run?
+
+9
+00:00:48,152 --> 00:00:52,907
+First, picture a simple auction. An old painting is for sale.
+
+10
+00:00:53,357 --> 00:00:57,719
+The auctioneer calls: 100 rupees. Someone raises a hand.
+
+11
+00:00:58,169 --> 00:01:03,655
+So he raises the bid: 110, 120, 130.
+
+12
+00:01:04,105 --> 00:01:08,075
+As long as hands keep going up, the bid keeps rising.
+
+13
+00:01:08,524 --> 00:01:12,809
+At 150, no hand went up. The bidding stopped.
+
+14
+00:01:13,259 --> 00:01:17,857
+So price rises for as long as it keeps finding buyers.
+
+15
+00:01:18,857 --> 00:01:22,645
+The market is an auction too, but with one difference.
+
+16
+00:01:23,095 --> 00:01:27,457
+Here, buyers and sellers are both bidding at the same time.
+
+17
+00:01:27,907 --> 00:01:33,705
+Price goes up to find sellers. To ask: who will sell at this price?
+
+18
+00:01:34,155 --> 00:01:39,067
+And it goes down to find buyers. Who will buy at this price?
+
+19
+00:01:39,517 --> 00:01:42,913
+Where the other side shows up, a trade happens.
+
+20
+00:01:43,363 --> 00:01:48,118
+So every price move is really a question the market is asking.
+
+21
+00:01:49,118 --> 00:01:53,637
+Say price went up, and there sellers began selling hard.
+
+22
+00:01:54,086 --> 00:01:59,571
+Answer received: buyers are scarce this high. Price comes back.
+
+23
+00:02:00,021 --> 00:02:03,809
+Now price went down, and there buyers rushed in.
+
+24
+00:02:04,259 --> 00:02:09,668
+Answer again: sellers are scarce this low. Price goes back up.
+
+25
+00:02:10,118 --> 00:02:14,323
+Through this up-and-down testing, the market finds the right price.
+
+26
+00:02:15,323 --> 00:02:18,641
+Now the most important word: fair price.
+
+27
+00:02:19,091 --> 00:02:24,341
+A fair price is one that both buyer and seller find acceptable.
+
+28
+00:02:24,791 --> 00:02:28,840
+At such a price, both sides trade comfortably.
+
+29
+00:02:29,290 --> 00:02:32,765
+That is why the most trading happens at the fair price.
+
+30
+00:02:33,215 --> 00:02:40,137
+Count how much traded at each price, out to the side like this. The middle grows the thickest.
+
+31
+00:02:40,587 --> 00:02:48,398
+This thick zone is called value. Its full tool, Volume Profile, comes in episode 7.
+
+32
+00:02:49,398 --> 00:02:53,839
+Now think the other way. What if price goes far above value?
+
+33
+00:02:54,289 --> 00:02:58,494
+Buyers feel: too expensive. They stop.
+
+34
+00:02:58,944 --> 00:03:02,810
+And sellers feel: great price, sell.
+
+35
+00:03:03,260 --> 00:03:09,373
+This is an unfair price. Little trades here, and price does not stay long.
+
+36
+00:03:09,823 --> 00:03:16,013
+Same below. If it is too cheap, sellers stop and buyers buy.
+
+37
+00:03:16,464 --> 00:03:23,308
+That is why long tails form at the extremes, and price returns toward value quickly.
+
+38
+00:03:24,308 --> 00:03:29,061
+Let us go to the market. At 6 in the morning, a truck of tomatoes arrives.
+
+39
+00:03:29,512 --> 00:03:32,438
+The first price is 40 rupees a kilo.
+
+40
+00:03:32,888 --> 00:03:38,296
+Hotel buyers are in a hurry and start buying. The price goes up to 44.
+
+41
+00:03:38,745 --> 00:03:44,623
+At 44, ordinary customers stop. Too expensive. The price drops back to 42.
+
+42
+00:03:45,073 --> 00:03:51,107
+By afternoon, most deals happened between 40 and 42. That is the value for the day.
+
+43
+00:03:51,557 --> 00:03:57,043
+Now it is evening. The shopkeeper has stock left, and it will spoil by tomorrow.
+
+44
+00:03:57,493 --> 00:04:04,102
+Now the seller is in a hurry. He drops the price: 36, 34, 32.
+
+45
+00:04:04,552 --> 00:04:10,821
+At 32 new customers arrive and the stock sells. Price went down and found buyers.
+
+46
+00:04:11,821 --> 00:04:17,777
+When buyers and sellers both agree on a price, that state is called balance.
+
+47
+00:04:18,227 --> 00:04:23,791
+In balance, price wanders inside a range. On the chart it looks sideways.
+
+48
+00:04:24,241 --> 00:04:29,570
+At the top edge, buyers find it expensive, so price returns down.
+
+49
+00:04:30,020 --> 00:04:35,349
+At the bottom edge, sellers find it cheap, so price returns up.
+
+50
+00:04:35,799 --> 00:04:39,927
+In the middle, at value, the most trading happens.
+
+51
+00:04:40,377 --> 00:04:43,694
+The market spends most of its time in this balance.
+
+52
+00:04:44,694 --> 00:04:49,840
+Now say big news arrives. Suddenly one side is in a big hurry.
+
+53
+00:04:50,290 --> 00:04:58,179
+The old fair price is not fair anymore. Buyers look for sellers at the old price, but find none.
+
+54
+00:04:58,629 --> 00:05:02,913
+So price has to move up, searching for new sellers.
+
+55
+00:05:03,363 --> 00:05:08,431
+This state is called imbalance. On the chart it looks like a trend.
+
+56
+00:05:08,881 --> 00:05:15,647
+In imbalance price moves fast, because the prices along the way are unfair, and nobody wants to stop there.
+
+57
+00:05:16,097 --> 00:05:22,131
+Then at a new price both sides agree again. A new balance forms.
+
+58
+00:05:23,131 --> 00:05:25,639
+So this is the full cycle of the market.
+
+59
+00:05:26,089 --> 00:05:31,340
+Balance, then imbalance, then a new balance, then imbalance.
+
+60
+00:05:31,790 --> 00:05:36,544
+Like breathing in and out. Rest, then move.
+
+61
+00:05:36,994 --> 00:05:41,043
+The chart we saw at the start was just this cycle.
+
+62
+00:05:41,493 --> 00:05:46,561
+Once you get this, you start seeing on the chart which state the market is in now.
+
+63
+00:05:47,561 --> 00:05:52,237
+One question remains. Why does price spend so much time at value?
+
+64
+00:05:52,687 --> 00:05:58,799
+Because both sides are present at value. At every price someone wants to deal.
+
+65
+00:05:59,249 --> 00:06:05,048
+So trades happen slowly and calmly. Price has no need to run anywhere.
+
+66
+00:06:05,498 --> 00:06:11,611
+But at unfair prices one side is missing. There price has to move on quickly.
+
+67
+00:06:12,061 --> 00:06:18,670
+That is why the chart shows many candles near value, and only a few at unfair prices.
+
+68
+00:06:19,670 --> 00:06:25,704
+Now something useful. When price leaves balance, only two things can happen.
+
+69
+00:06:26,154 --> 00:06:33,704
+One: price goes outside, spends time there, and trading builds up. This is called acceptance.
+
+70
+00:06:34,154 --> 00:06:39,874
+Acceptance means the market accepted the new price. A new balance is forming.
+
+71
+00:06:40,324 --> 00:06:48,031
+Two: price goes outside, finds no partners, and comes back inside quickly. This is called rejection.
+
+72
+00:06:48,481 --> 00:06:54,828
+Rejection means the outside price was unfair. The old balance is still alive.
+
+73
+00:06:55,278 --> 00:07:00,686
+Deeper versions of this, like the failed auction, come in episode 20.
+
+74
+00:07:01,686 --> 00:07:04,455
+So where does Order Flow fit in?
+
+75
+00:07:04,905 --> 00:07:12,297
+The auction tells us what the market is searching for. Order Flow tells us who was in a hurry during the search.
+
+76
+00:07:12,747 --> 00:07:19,095
+Whether buyers are tiring at the edge or pushing harder shows up in Order Flow tools.
+
+77
+00:07:19,545 --> 00:07:22,863
+All of this in the coming episodes, one by one.
+
+78
+00:07:23,863 --> 00:07:25,665
+Let us recap today.
+
+79
+00:07:26,115 --> 00:07:35,101
+One: the market is an auction. Price goes up to find sellers and down to find buyers.
+
+80
+00:07:35,551 --> 00:07:44,067
+Two: the fair price gets the most trading and the most time. At unfair prices, price does not stay.
+
+81
+00:07:44,517 --> 00:07:53,503
+Three: balance means sideways, imbalance means trend. The market cycles between the two.
+
+82
+00:07:54,503 --> 00:08:04,299
+Next episode: Bid, Ask, Spread and order types. What market, limit and stop orders really do.
+
+83
+00:08:04,749 --> 00:08:10,470
+If this was useful, subscribe, and save this series playlist.
+
+84
+00:08:10,920 --> 00:08:17,033
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
