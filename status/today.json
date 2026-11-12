@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 10:37 IST",
+"updated": "2026-11-12 10:52 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 128,
@@ -549,7 +549,7 @@
 "opened": "12 Nov 08:45",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 1.90 lots @7601.96 SL 7614.70 (scanner SL) entry 7601.70 basis 6.32 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 7602.30"
 },
 {
 "id": "NAS100_1794452400_pbo",
@@ -560,7 +560,7 @@
 "sl": 28273.51,
 "r": null,
 "opened": "12 Nov 08:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -847,18 +847,18 @@
 "all_win": 45,
 "today_net": 0.77,
 "engine": {
-"last_scan": "10:31",
-"age_min": 6,
+"last_scan": "10:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-12 05:00 UTC · new 1 · events 0 · open 8"
+"summary": "run 2026-11-12 05:15 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4939.62",
-"equity": "4951.18",
-"floating": "11.56",
-"positions": "9",
+"balance": "4950.79",
+"equity": "4981.43",
+"floating": "30.64",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
