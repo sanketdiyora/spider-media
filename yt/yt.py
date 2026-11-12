@@ -93,6 +93,14 @@ if cmd == 'playlist':     # playlist TITLE DESC -> PLAYLIST <id>
 elif cmd == 'plitem':     # plitem PLAYLIST VIDEO
     j = api('POST','https://www.googleapis.com/youtube/v3/playlistItems?part=snippet',{'snippet':{'playlistId':sys.argv[2],'resourceId':{'kind':'youtube#video','videoId':sys.argv[3]}}})
     print('PLITEM_OK', j.get('id','')[:12])
+elif cmd == 'plremove':   # plremove PLAYLIST VIDEO -> remove that video from the playlist
+    j = api('GET','https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=' + sys.argv[2])
+    ids = [i['id'] for i in j.get('items',[]) if i['snippet']['resourceId'].get('videoId') == sys.argv[3]]
+    for i in ids: api('DELETE','https://www.googleapis.com/youtube/v3/playlistItems?id=' + i)
+    print('PLREMOVE_OK', sys.argv[3], len(ids))
+elif cmd == 'pllist':     # pllist PLAYLIST -> video ids in order
+    j = api('GET','https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=' + sys.argv[2])
+    print('PLLIST', ' '.join(i['snippet']['resourceId'].get('videoId','') for i in j.get('items',[])))
 elif cmd == 'caption':    # caption VIDEO LANG NAME FILE.srt
     b = 'spiderbound7f3a'; meta = json.dumps({'snippet':{'videoId':sys.argv[2],'language':sys.argv[3],'name':sys.argv[4],'isDraft':False}})
     raw = ('--%s\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n%s\r\n--%s\r\nContent-Type: application/octet-stream\r\n\r\n' % (b, meta, b)).encode() + open(sys.argv[5],'rb').read() + ('\r\n--%s--\r\n' % b).encode()
