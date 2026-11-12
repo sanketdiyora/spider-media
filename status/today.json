@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 14:07 IST",
+"updated": "2026-11-12 14:37 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 133,
@@ -20,7 +20,7 @@
 "likes": 0,
 "comments": 0,
 "views": 6,
-"reach": 1,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 14,
-"reach": 9,
+"views": 18,
+"reach": 11,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 65,
-"reach": 45,
+"views": 118,
+"reach": 98,
 "saved": 0,
 "shares": 0
 }
@@ -103,9 +103,9 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 52,
+"reach": 26,
+"saved": 1,
 "shares": 0
 }
 },
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 0,
+"views": 128,
+"reach": 77,
 "saved": 0,
 "shares": 0
 }
@@ -165,9 +165,9 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 52,
+"reach": 26,
+"saved": 1,
 "shares": 0
 },
 {
@@ -179,8 +179,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 2,
-"reach": 0,
+"views": 128,
+"reach": 77,
 "saved": 0,
 "shares": 0
 },
@@ -193,8 +193,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 1,
 "comments": 0,
-"views": 65,
-"reach": 45,
+"views": 118,
+"reach": 98,
 "saved": 0,
 "shares": 0
 },
@@ -207,8 +207,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 14,
-"reach": 9,
+"views": 18,
+"reach": 11,
 "saved": 0,
 "shares": 0
 },
@@ -236,7 +236,7 @@
 "likes": 0,
 "comments": 0,
 "views": 6,
-"reach": 1,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -277,8 +277,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 18,
-"reach": 14,
+"views": 20,
+"reach": 16,
 "saved": 0,
 "shares": 0
 },
@@ -646,19 +646,6 @@
 "mt5_reason": "SL 61367.03"
 },
 {
-"id": "AUDJPY_1794457800_pbo",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 109.271,
-"sl": 109.4241,
-"r": null,
-"opened": "12 Nov 10:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "EURNZD_1794465000_pbo",
 "pair": "EURNZD",
 "dir": "BUY",
@@ -683,19 +670,6 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
-},
-{
-"id": "USDJPY_1794465600_lbo",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "lbo",
-"entry": 159.8586,
-"sl": 159.6078,
-"r": null,
-"opened": "12 Nov 12:15",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
 },
 {
 "id": "US500_1794466800_dpoc",
@@ -789,9 +763,61 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -20.37 USD = -0.86R"
+},
+{
+"id": "USDJPY_1794465600_lbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 159.8586,
+"sl": 159.6078,
+"r": -1.0,
+"opened": "12 Nov 12:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -17.29 USD = -0.73R"
+},
+{
+"id": "AUDJPY_1794457800_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.271,
+"sl": 109.4241,
+"r": 2.0,
+"opened": "12 Nov 10:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "AUDJPY_1794457800_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.271,
+"sl": 109.4241,
+"r": 2.0,
+"opened": "12 Nov 10:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "USDJPY_1794465600_lbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 159.8586,
+"sl": 159.6078,
+"r": -1.0,
+"opened": "12 Nov 12:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -17.29 USD = -0.73R"
+},
 {
 "id": "GBPCAD_1794466800_lbo",
 "pair": "GBPCAD",
@@ -960,51 +986,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "JPN225_1794384000_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61332.4,
-"sl": 61466.8,
-"r": -1.0,
-"opened": "11 Nov 13:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "JPN225_1794377700_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61287.5,
-"sl": 61417.8,
-"r": 0.5,
-"opened": "11 Nov 12:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 81,
-"all_net": 20.33,
-"all_win": 47,
-"today_net": 0.74,
+"all_n": 83,
+"all_net": 21.33,
+"all_win": 48,
+"today_net": 1.74,
 "engine": {
-"last_scan": "14:01",
+"last_scan": "14:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 08:30 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-12 09:00 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4956.87",
-"equity": "4984.43",
-"floating": "27.56",
-"positions": "8",
+"balance": "4939.58",
+"equity": "4971.68",
+"floating": "32.10",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
