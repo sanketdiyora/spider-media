@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 14:37 IST",
+"updated": "2026-11-12 15:07 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 133,
@@ -616,8 +616,8 @@
 "r": null,
 "opened": "12 Nov 08:45",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 7602.30"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.58 USD = 0.44R"
 },
 {
 "id": "NAS100_1794452400_pbo",
@@ -644,45 +644,6 @@
 "state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 61367.03"
-},
-{
-"id": "EURNZD_1794465000_pbo",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.99493,
-"sl": 1.992782,
-"r": null,
-"opened": "12 Nov 12:15",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 1.99498"
-},
-{
-"id": "WTI_1794465600_lbo",
-"pair": "WTI OIL",
-"dir": "BUY",
-"model": "lbo",
-"entry": 86.365,
-"sl": 85.671,
-"r": null,
-"opened": "12 Nov 12:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "US500_1794466800_dpoc",
-"pair": "US500",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 7582.12,
-"sl": 7591.62,
-"r": null,
-"opened": "12 Nov 12:45",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -789,9 +750,87 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1794465600_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 86.365,
+"sl": 85.671,
+"r": 0.5,
+"opened": "12 Nov 12:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794466800_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7582.12,
+"sl": 7591.62,
+"r": -1.0,
+"opened": "12 Nov 12:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "EURNZD_1794465000_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99493,
+"sl": 1.992782,
+"r": 0.5,
+"opened": "12 Nov 12:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.84 USD = 0.32R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURNZD_1794465000_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99493,
+"sl": 1.992782,
+"r": 0.5,
+"opened": "12 Nov 12:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.84 USD = 0.32R"
+},
+{
+"id": "US500_1794466800_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7582.12,
+"sl": 7591.62,
+"r": -1.0,
+"opened": "12 Nov 12:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1794465600_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 86.365,
+"sl": 85.671,
+"r": 0.5,
+"opened": "12 Nov 12:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "AUDJPY_1794457800_pbo",
 "pair": "AUDJPY",
@@ -947,64 +986,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURNZD_1794393000_dpoc",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.99317,
-"sl": 1.991446,
-"r": -1.0,
-"opened": "11 Nov 16:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURNZD_1794375900_pbo",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.98994,
-"sl": 1.988553,
-"r": 2.0,
-"opened": "11 Nov 11:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPNZD_1794376800_pbo",
-"pair": "GBPNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 2.3789,
-"sl": 2.377378,
-"r": 2.0,
-"opened": "11 Nov 11:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 83,
+"all_n": 86,
 "all_net": 21.33,
-"all_win": 48,
+"all_win": 50,
 "today_net": 1.74,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "15:01",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 09:00 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-12 09:30 UTC · new 0 · events 2 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4939.58",
-"equity": "4971.68",
-"floating": "32.10",
-"positions": "6",
+"balance": "4937.54",
+"equity": "4947.11",
+"floating": "9.57",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
