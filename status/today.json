@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 19:38 IST",
+"updated": "2026-11-12 19:52 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 136,
@@ -678,6 +678,45 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.16 lots @159.734 SL 159.502 (scanner SL) entry 159.713 basis -0.007 (M15)  risk 0.47%"
+},
+{
+"id": "AUDUSD_1794492000_dpoc",
+"pair": "AUDUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.68231,
+"sl": 0.683145,
+"r": null,
+"opened": "12 Nov 19:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "GBPAUD_1794492000_dpoc",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.94401,
+"sl": 1.941343,
+"r": null,
+"opened": "12 Nov 19:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.12 lots @1.94429 SL 1.94136 (scanner SL) entry 1.94403 basis 0.00002 (M1)  risk 0.49%"
+},
+{
+"id": "EURNZD_1794492000_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.9947,
+"sl": 1.992694,
+"r": null,
+"opened": "12 Nov 19:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.23 lots @1.99455 SL 1.99267 (scanner SL) entry 1.99468 basis -0.00002 (M15)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -1131,18 +1170,18 @@
 "all_win": 53,
 "today_net": -1.17,
 "engine": {
-"last_scan": "19:36",
-"age_min": 2,
+"last_scan": "19:46",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 14:05 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-12 14:15 UTC · new 3 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4899.21",
-"equity": "4926.31",
-"floating": "27.10",
-"positions": "4",
+"equity": "4907.04",
+"floating": "7.83",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
