@@ -1,0 +1,57 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-12/1105.mp4",
+ "dur": 36.78,
+ "music": "electronic/107.mp3",
+ "chars": 442,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "AUDJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    109.184,
+    109.19273199999999
+   ],
+   "sl": 109.4023,
+   "entry": 109.184,
+   "rr": 3.0,
+   "tp1": 108.9657,
+   "tp2": 108.5291
+  },
+  {
+   "pair": "NAS100",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    28186.3,
+    28189.788399999998
+   ],
+   "sl": 28273.51,
+   "entry": 28186.3,
+   "rr": 3.0,
+   "tp1": 28099.09,
+   "tp2": 27924.66
+  },
+  {
+   "pair": "WTI OIL",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    86.116,
+    86.13336
+   ],
+   "sl": 86.55,
+   "entry": 86.116,
+   "rr": 3.0,
+   "tp1": 85.682,
+   "tp2": 84.813
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_0fb8e0ac",
+ "crops": [
+  "/home/claude/ig/setup/w_0fb8e0ac/tg_0.jpg",
+  "/home/claude/ig/setup/w_0fb8e0ac/tg_1.jpg",
+  "/home/claude/ig/setup/w_0fb8e0ac/tg_2.jpg"
+ ]
+}
