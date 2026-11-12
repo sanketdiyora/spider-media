@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 06:23 IST",
+"updated": "2026-11-12 06:42 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 127,
@@ -141,8 +141,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 43,
-"reach": 26,
+"views": 46,
+"reach": 27,
 "saved": 0,
 "shares": 0
 },
@@ -197,7 +197,7 @@
 "link": "https://www.instagram.com/reel/DflskuWgErL/",
 "likes": 0,
 "comments": 0,
-"views": 47,
+"views": 50,
 "reach": 30,
 "saved": 0,
 "shares": 2
@@ -211,7 +211,7 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 9,
+"views": 10,
 "reach": 4,
 "saved": 0,
 "shares": 0
@@ -511,6 +511,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.14 lots @0.56926 SL 0.57065 (scanner SL) entry 0.56935 basis 0.00001 (M15) +SLbuf 0.00014 split TP1/TP2 risk 0.47%"
+},
+{
+"id": "CADJPY_1794443400_pbo",
+"pair": "CADJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 112.026,
+"sl": 112.174,
+"r": null,
+"opened": "12 Nov 06:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.25 lots @112.034 SL 112.189 (scanner SL) entry 112.024 basis -0.002 (M15) +SLbuf 0.017 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "WTI_1794443400_pbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 86.116,
+"sl": 86.55,
+"r": null,
+"opened": "12 Nov 06:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.04 lots @86.246 SL 86.783 (scanner SL) entry 86.298 basis 0.182 (M15) +SLbuf 0.051 split TP1/TP2 risk 0.43%"
 }
 ],
 "closed_today": [
@@ -743,18 +769,18 @@
 "all_win": 45,
 "today_net": 1.77,
 "engine": {
-"last_scan": "06:01",
-"age_min": 21,
+"last_scan": "06:36",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 00:30 UTC · new 2 · events 0 · open 2"
+"summary": "run 2026-11-12 01:05 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4955.92",
-"equity": "4956.30",
-"floating": "0.38",
-"positions": "4",
+"equity": "4966.30",
+"floating": "10.38",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
