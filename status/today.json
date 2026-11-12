@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-12 11:53 IST",
+"updated": "2026-11-12 12:11 IST",
 "date": "2026-11-12",
 "followers": 50,
-"media_count": 130,
+"media_count": 131,
 "slots": [
 {
 "slot": "0700",
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 5,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -72,8 +72,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17940496011124578",
+"cap": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️",
+"time": "2026-11-12 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfoasXQDRB_/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -110,6 +123,20 @@
 ],
 "recent_posts": [
 {
+"id": "17940496011124578",
+"cap": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️",
+"time": "2026-11-12 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfoasXQDRB_/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17931905475177123",
 "cap": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇\nAaj: 1 trade band · 0 jeete · 1 haare · net -1.0R · 8 live\nAUDJPY SELL — band, -1.0R (SL hit)\nNAS100 SELL — abhi chal raha hai, +1.3R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
@@ -118,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 5,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -216,7 +243,7 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 43,
+"views": 45,
 "reach": 33,
 "saved": 0,
 "shares": 0
@@ -230,8 +257,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 50,
-"reach": 32,
+"views": 54,
+"reach": 35,
 "saved": 0,
 "shares": 0
 },
@@ -245,7 +272,7 @@
 "likes": 8,
 "comments": 0,
 "views": 108,
-"reach": 96,
+"reach": 97,
 "saved": 1,
 "shares": 0
 },
@@ -258,7 +285,7 @@
 "link": "https://www.instagram.com/reel/Dfl1WCdEXqp/",
 "likes": 0,
 "comments": 0,
-"views": 39,
+"views": 40,
 "reach": 32,
 "saved": 0,
 "shares": 0
@@ -513,20 +540,6 @@
 "views": 123,
 "reach": 105,
 "saved": 1,
-"shares": 0
-},
-{
-"id": "18639579049023536",
-"cap": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), % based cycle, aur apna exit system (secret).\nSafety: equity guard, news filter, STOP NEW. DM \"TITAN\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldminttitan #martingale #xauusd #tradingbot #algotrading",
-"cap1": "GoldMint TITAN ka cycle: entry se exit tak 🏛️ Direction (EMA + MACD), ",
-"time": "2026-11-09 11:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfgldH4F99x/",
-"likes": 0,
-"comments": 0,
-"views": 5,
-"reach": 4,
-"saved": 0,
 "shares": 0
 }
 ],
@@ -881,17 +894,17 @@
 "all_win": 46,
 "today_net": 1.27,
 "engine": {
-"last_scan": "11:51",
-"age_min": 2,
+"last_scan": "12:01",
+"age_min": 10,
 "rc": 0,
-"summary": "run 2026-11-12 06:20 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-12 06:30 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4959.04",
-"equity": "4975.19",
-"floating": "16.15",
+"equity": "4977.09",
+"floating": "18.05",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -901,6 +914,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 22.1,
 "github_runs": [
+{
+"t": "2026-11-12T06:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-12T05:30:15Z",
 "ok": "success",
@@ -918,11 +936,6 @@
 },
 {
 "t": "2026-11-11T23:22:28Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-11T22:37:02Z",
 "ok": "success",
 "ev": "schedule"
 }
