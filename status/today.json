@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 07:37 IST",
+"updated": "2026-11-12 07:51 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 128,
@@ -500,19 +500,6 @@
 "scanner": {
 "open": [
 {
-"id": "AUDJPY_1794442500_pbo",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 109.184,
-"sl": 109.4023,
-"r": null,
-"opened": "12 Nov 06:00",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.94 USD = -0.99R"
-},
-{
 "id": "AUDCHF_1794442500_pbo",
 "pair": "AUDCHF",
 "dir": "SELL",
@@ -578,9 +565,35 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
+},
+{
+"id": "AUDJPY_1794442500_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.184,
+"sl": 109.4023,
+"r": -1.0,
+"opened": "12 Nov 06:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.94 USD = -0.99R"
 }
 ],
 "closed_recent": [
+{
+"id": "AUDJPY_1794442500_pbo",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 109.184,
+"sl": 109.4023,
+"r": -1.0,
+"opened": "12 Nov 06:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.94 USD = -0.99R"
+},
 {
 "id": "AUDCAD_1794406500_dpoc",
 "pair": "AUDCAD",
@@ -762,37 +775,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "JPN225_1794372300_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61187.5,
-"sl": 61340.2,
-"r": -1.0,
-"opened": "11 Nov 10:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 77,
-"all_net": 21.36,
+"all_n": 78,
+"all_net": 20.36,
 "all_win": 45,
-"today_net": 1.77,
+"today_net": 0.77,
 "engine": {
-"last_scan": "07:32",
+"last_scan": "07:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-12 02:00 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-12 02:15 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4939.62",
-"equity": "4911.31",
-"floating": "-28.31",
+"equity": "4910.57",
+"floating": "-29.05",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
