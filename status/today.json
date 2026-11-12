@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 12:56 IST",
+"updated": "2026-11-12 13:11 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 131,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 1,
+"views": 10,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 44,
+"reach": 22,
 "saved": 0,
 "shares": 0
 }
@@ -131,8 +131,8 @@
 "link": "https://www.instagram.com/reel/DfoasXQDRB_/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 44,
+"reach": 22,
 "saved": 0,
 "shares": 0
 },
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 5,
-"reach": 1,
+"views": 10,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -243,8 +243,8 @@
 "link": "https://www.instagram.com/reel/DfmAMLGm86d/",
 "likes": 1,
 "comments": 0,
-"views": 45,
-"reach": 33,
+"views": 46,
+"reach": 34,
 "saved": 0,
 "shares": 0
 },
@@ -286,7 +286,7 @@
 "likes": 0,
 "comments": 0,
 "views": 40,
-"reach": 32,
+"reach": 33,
 "saved": 0,
 "shares": 0
 },
@@ -555,7 +555,7 @@
 "sl": 0.570498,
 "r": null,
 "opened": "12 Nov 06:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.14 lots @0.56926 SL 0.57065 (scanner SL) entry 0.56935 basis 0.00001 (M15) +SLbuf 0.00014 split TP1/TP2 risk 0.47%"
 },
@@ -633,7 +633,7 @@
 "sl": 1.992782,
 "r": null,
 "opened": "12 Nov 12:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.18 lots @1.99527 SL 1.99283 (scanner SL) entry 1.99498 basis 0.00005 (M15) split TP1/TP2 risk 0.49%"
 },
@@ -959,25 +959,25 @@
 "all_win": 47,
 "today_net": 1.74,
 "engine": {
-"last_scan": "12:51",
-"age_min": 5,
+"last_scan": "13:07",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-12 07:20 UTC · new 0 · events 0 · open 11"
+"summary": "run 2026-11-12 07:35 UTC · new 0 · events 0 · open 11"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4959.04",
-"equity": "4987.60",
-"floating": "28.56",
+"equity": "4964.09",
+"floating": "5.05",
 "positions": "12",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 67487,
+"voice_chars_month": 72809,
 "voice_limit": 30000,
-"disk_free_gb": 22.1,
+"disk_free_gb": 21.9,
 "github_runs": [
 {
 "t": "2026-11-12T06:30:15Z",
