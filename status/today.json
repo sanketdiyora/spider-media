@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12 10:24 IST",
+"updated": "2026-11-12 10:37 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 128,
@@ -589,6 +589,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "BTCUSD_1794458700_dpoc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 73620.2,
+"sl": 73838.6,
+"r": null,
+"opened": "12 Nov 10:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -834,17 +847,17 @@
 "all_win": 45,
 "today_net": 0.77,
 "engine": {
-"last_scan": "10:21",
-"age_min": 3,
+"last_scan": "10:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-12 04:50 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-12 05:00 UTC · new 1 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4939.62",
-"equity": "4962.15",
-"floating": "22.53",
+"equity": "4951.18",
+"floating": "11.56",
 "positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
