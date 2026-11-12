@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-12/1838.mp4",
+ "dur": 41.72,
+ "music": "electronic/143.mp3",
+ "chars": 471,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "AUDJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    109.271,
+    109.277124
+   ],
+   "sl": 109.4241,
+   "entry": 109.271,
+   "rr": 3.0,
+   "tp1": 109.1179,
+   "tp2": 108.8116
+  },
+  {
+   "pair": "GBPJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    211.94383200000001,
+    211.953
+   ],
+   "sl": 211.7238,
+   "entry": 211.953,
+   "rr": 1.0,
+   "tp1": 212.1822,
+   "tp2": null
+  },
+  {
+   "pair": "JPN225",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    61290.5,
+    61311.652
+   ],
+   "sl": 61819.3,
+   "entry": 61290.5,
+   "rr": 3.0,
+   "tp1": 60761.8,
+   "tp2": 59704.3
+  },
+  {
+   "pair": "AUDCHF",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.56934,
+    0.56938632
+   ],
+   "sl": 0.570498,
+   "entry": 0.56934,
+   "rr": 3.0,
+   "tp1": 0.568182,
+   "tp2": 0.565865
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_55dce5b0",
+ "crops": [
+  "/home/claude/ig/setup/w_55dce5b0/tg_0.jpg",
+  "/home/claude/ig/setup/w_55dce5b0/tg_1.jpg",
+  "/home/claude/ig/setup/w_55dce5b0/tg_2.jpg",
+  "/home/claude/ig/setup/w_55dce5b0/tg_3.jpg"
+ ]
+}
