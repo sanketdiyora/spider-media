@@ -1,9 +1,17 @@
 {
-"updated": "2026-11-12 06:07 IST",
+"updated": "2026-11-12 06:23 IST",
 "date": "2026-11-12",
 "followers": 50,
 "media_count": 127,
 "slots": [
+{
+"slot": "0700",
+"name": "News carousel",
+"type": "carousel",
+"title": "Aaj ki 3 badi khabrein jo market hila sakti hain 👇",
+"status": "PENDING",
+"post": null
+},
 {
 "slot": "1100",
 "name": "BOT post",
@@ -736,7 +744,7 @@
 "today_net": 1.77,
 "engine": {
 "last_scan": "06:01",
-"age_min": 5,
+"age_min": 21,
 "rc": 0,
 "summary": "run 2026-11-12 00:30 UTC · new 2 · events 0 · open 2"
 },
@@ -753,7 +761,7 @@
 },
 "voice_chars_month": 67045,
 "voice_limit": 30000,
-"disk_free_gb": 20.0,
+"disk_free_gb": 22.1,
 "github_runs": [
 {
 "t": "2026-11-11T23:22:28Z",
