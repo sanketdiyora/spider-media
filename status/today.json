@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 07:52 IST",
+"updated": "2026-11-13 08:06 IST",
 "date": "2026-11-13",
 "followers": 51,
 "media_count": 140,
@@ -100,7 +100,7 @@
 "comments": 0,
 "views": 141,
 "reach": 111,
-"saved": 5,
+"saved": 4,
 "shares": 1
 },
 {
@@ -126,7 +126,7 @@
 "link": "https://www.instagram.com/reel/DfpVD1dCrkD/",
 "likes": 0,
 "comments": 0,
-"views": 110,
+"views": 112,
 "reach": 97,
 "saved": 2,
 "shares": 0
@@ -154,8 +154,8 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 1,
 "comments": 0,
-"views": 67,
-"reach": 53,
+"views": 71,
+"reach": 55,
 "saved": 0,
 "shares": 0
 },
@@ -781,10 +781,10 @@
 "all_win": 61,
 "today_net": -0.43,
 "engine": {
-"last_scan": "07:46",
-"age_min": 6,
+"last_scan": "08:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-13 02:15 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-13 02:30 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -802,6 +802,11 @@
 "disk_free_gb": 21.6,
 "github_runs": [
 {
+"t": "2026-11-13T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-13T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -818,11 +823,6 @@
 },
 {
 "t": "2026-11-12T21:34:13Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-12T20:40:02Z",
 "ok": "success",
 "ev": "schedule"
 }
