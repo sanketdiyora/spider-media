@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-13 11:52 IST",
+"updated": "2026-11-13 12:07 IST",
 "date": "2026-11-13",
 "followers": 50,
-"media_count": 144,
+"media_count": 145,
 "slots": [
 {
 "slot": "0700",
@@ -38,11 +38,11 @@
 "time": "2026-11-13 09:57",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfqxTjyDWT5/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 25,
-"reach": 20,
-"saved": 1,
+"views": 48,
+"reach": 32,
+"saved": 2,
 "shares": 0
 }
 },
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 5,
+"views": 19,
+"reach": 14,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 26,
+"reach": 11,
 "saved": 0,
 "shares": 0
 }
@@ -114,8 +114,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18474391474187552",
+"cap": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️",
+"time": "2026-11-13 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfq_fHAFbYN/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -152,6 +165,20 @@
 ],
 "recent_posts": [
 {
+"id": "18474391474187552",
+"cap": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️",
+"time": "2026-11-13 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfq_fHAFbYN/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18037952327664624",
 "cap": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇\nAaj: 3 trade band · 1 jeete · 2 haare · net -1.7R · 3 live\nGBPAUD BUY — band, -1.0R (SL hit)\nUK100 BUY — band, +0.3R (trailing stop pe profit me band)\nJPN225 SELL — abhi chal raha hai, +1.2R (risk-free 🔒)\nGBPAUD BUY — abhi chal raha hai, +0.6R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇",
@@ -160,8 +187,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 26,
+"reach": 11,
 "saved": 0,
 "shares": 0
 },
@@ -188,8 +215,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 5,
+"views": 19,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -200,11 +227,11 @@
 "time": "2026-11-13 09:57",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfqxTjyDWT5/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 25,
-"reach": 20,
-"saved": 1,
+"views": 48,
+"reach": 32,
+"saved": 2,
 "shares": 0
 },
 {
@@ -286,8 +313,8 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 1,
 "comments": 0,
-"views": 85,
-"reach": 63,
+"views": 91,
+"reach": 66,
 "saved": 0,
 "shares": 0
 },
@@ -556,20 +583,6 @@
 "reach": 115,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "17968448391195903",
-"cap": "Same losing streak. Two traders. Who survives? 🎮\nAfter 10 losses in a row: 2% risk keeps 81.7%. 10% risk keeps 34.9%. After 20: 66.8% vs 12.2%.\nSmall risk keeps you in the game.\nExample math: each loss is a fixed % of the remaining balance. Not a promise of profit.\nStay in the game. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskmanagement #positionsizing #tradingpsychology #forextrader #spidertrades",
-"cap1": "Same losing streak. Two traders. Who survives? 🎮",
-"time": "2026-11-10 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfkBKk9lK-4/",
-"likes": 2,
-"comments": 0,
-"views": 124,
-"reach": 106,
-"saved": 0,
-"shares": 1
 }
 ],
 "trades": [],
@@ -597,9 +610,9 @@
 "sl": 1.942128,
 "r": null,
 "opened": "13 Nov 09:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.13 lots @1.94488 SL 1.94210 (scanner SL) entry 1.94451 basis -0.00003 (M15) split TP1/TP2 risk 0.50%"
+"mt5_reason": "SL 1.94451"
 },
 {
 "id": "US500_1794543300_pbo",
@@ -613,6 +626,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 1.00 lots @7603.96 SL 7627.47 (scanner SL) entry 7605.45 basis 6.12 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.47%"
+},
+{
+"id": "EURCHF_1794550500_lbo",
+"pair": "EURCHF",
+"dir": "BUY",
+"model": "lbo",
+"entry": 0.924495,
+"sl": 0.92383,
+"r": null,
+"opened": "13 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 0.00018 = 0.27R of the scanner risk (basis -0.00011 (M15))"
 }
 ],
 "closed_today": [
@@ -897,18 +923,18 @@
 "all_win": 61,
 "today_net": -0.43,
 "engine": {
-"last_scan": "11:47",
+"last_scan": "12:02",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-13 06:15 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-13 06:30 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4966.08",
-"equity": "4998.11",
-"floating": "32.03",
-"positions": "5",
+"balance": "4974.40",
+"equity": "5017.22",
+"floating": "42.82",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -917,6 +943,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 19.7,
 "github_runs": [
+{
+"t": "2026-11-13T06:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-13T05:30:16Z",
 "ok": "success",
@@ -934,11 +965,6 @@
 },
 {
 "t": "2026-11-12T22:37:51Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-12T22:11:54Z",
 "ok": "success",
 "ev": "schedule"
 }
