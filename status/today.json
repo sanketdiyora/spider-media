@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-13 10:37 IST",
+"updated": "2026-11-13 11:11 IST",
 "date": "2026-11-13",
 "followers": 50,
-"media_count": 142,
+"media_count": 144,
 "slots": [
 {
 "slot": "0700",
@@ -40,9 +40,9 @@
 "link": "https://www.instagram.com/reel/DfqxTjyDWT5/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 2,
-"saved": 0,
+"views": 25,
+"reach": 20,
+"saved": 1,
 "shares": 0
 }
 },
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 11,
+"reach": 5,
 "saved": 0,
 "shares": 0
 }
@@ -72,8 +72,42 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18037778936664626",
+"cap": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equity protection, time filter, alerts.\nRisk medium-high, cent + VPS best. DM \"SPIDERNET\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintspidernet #gridtrading #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equ",
+"time": "2026-11-13 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfq4qW7l056/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
+},
+{
+"slot": "1106",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇",
+"status": "POSTED",
+"post": {
+"id": "18037952327664624",
+"cap": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇\nAaj: 3 trade band · 1 jeete · 2 haare · net -1.7R · 3 live\nGBPAUD BUY — band, -1.0R (SL hit)\nUK100 BUY — band, +0.3R (trailing stop pe profit me band)\nJPN225 SELL — abhi chal raha hai, +1.2R (risk-free 🔒)\nGBPAUD BUY — abhi chal raha hai, +0.6R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇",
+"time": "2026-11-13 11:10",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -118,6 +152,34 @@
 ],
 "recent_posts": [
 {
+"id": "18037952327664624",
+"cap": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇\nAaj: 3 trade band · 1 jeete · 2 haare · net -1.7R · 3 live\nGBPAUD BUY — band, -1.0R (SL hit)\nUK100 BUY — band, +0.3R (trailing stop pe profit me band)\nJPN225 SELL — abhi chal raha hai, +1.2R (risk-free 🔒)\nGBPAUD BUY — abhi chal raha hai, +0.6R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Fri 13 Nov) 👇",
+"time": "2026-11-13 11:10",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
+"id": "18037778936664626",
+"cap": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equity protection, time filter, alerts.\nRisk medium-high, cent + VPS best. DM \"SPIDERNET\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintspidernet #gridtrading #xauusd #tradingbot #algotrading",
+"cap1": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equ",
+"time": "2026-11-13 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfq4qW7l056/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18112051904461213",
 "cap": "Ek hi trade, teen order — aur teeno ki alag keemat. 💸\n\nMarket order: turant andar, keemat = spread. Limit order: apna bhaav, par trade chhoot sakta hai. Stop order: breakout pe andar, par keemat = slippage. Koi order free nahi hota, sawaal bas itna hai ki tum kaunsi keemat chunte ho.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #stoploss #spidertrades",
 "cap1": "Ek hi trade, teen order — aur teeno ki alag keemat. 💸",
@@ -126,8 +188,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 11,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -140,9 +202,9 @@
 "link": "https://www.instagram.com/reel/DfqxTjyDWT5/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 2,
-"saved": 0,
+"views": 25,
+"reach": 20,
+"saved": 1,
 "shares": 0
 },
 {
@@ -169,7 +231,7 @@
 "likes": 1,
 "comments": 0,
 "views": 142,
-"reach": 111,
+"reach": 112,
 "saved": 4,
 "shares": 1
 },
@@ -224,7 +286,7 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 1,
 "comments": 0,
-"views": 82,
+"views": 85,
 "reach": 63,
 "saved": 0,
 "shares": 0
@@ -267,7 +329,7 @@
 "likes": 0,
 "comments": 0,
 "views": 165,
-"reach": 146,
+"reach": 147,
 "saved": 0,
 "shares": 0
 },
@@ -294,8 +356,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 35,
-"reach": 23,
+"views": 37,
+"reach": 25,
 "saved": 0,
 "shares": 0
 },
@@ -508,34 +570,6 @@
 "reach": 106,
 "saved": 0,
 "shares": 1
-},
-{
-"id": "18089540600301121",
-"cap": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy = phansoge. Pehchaanne ke 3 tareeke.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#trendtrading #rangetrading #forexhindi #tradingeducation #priceaction",
-"cap1": "Trend ya Range? 🌊 Market ke sirf 2 mood. Galat mood me galat strategy ",
-"time": "2026-11-10 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfjzd0OCQLO/",
-"likes": 0,
-"comments": 0,
-"views": 16,
-"reach": 4,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "17868626274676385",
-"cap": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge loss freeze karta hai, khatam nahi.\nAdvanced traders ke liye. DM \"AEGIS\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintaegis #hedging #tradingbot #xauusd #forexhindi",
-"cap1": "GoldMint AEGIS: 3 layer ki dhaal 🛡️ Primary, Secondary, Shield. Hedge ",
-"time": "2026-11-10 13:32",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfjbhBhEyHc/",
-"likes": 1,
-"comments": 0,
-"views": 59,
-"reach": 54,
-"saved": 2,
-"shares": 0
 }
 ],
 "trades": [],
@@ -863,26 +897,31 @@
 "all_win": 61,
 "today_net": -0.43,
 "engine": {
-"last_scan": "10:32",
+"last_scan": "11:06",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-13 05:00 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-13 05:35 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4966.08",
-"equity": "4976.65",
-"floating": "10.57",
+"equity": "4983.00",
+"floating": "16.92",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 77962,
+"voice_chars_month": 78460,
 "voice_limit": 30000,
-"disk_free_gb": 19.8,
+"disk_free_gb": 19.7,
 "github_runs": [
+{
+"t": "2026-11-13T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-13T02:30:16Z",
 "ok": "success",
@@ -900,11 +939,6 @@
 },
 {
 "t": "2026-11-12T22:11:54Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-12T21:34:13Z",
 "ok": "success",
 "ev": "schedule"
 }
