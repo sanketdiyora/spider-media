@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 09:07 IST",
+"updated": "2026-11-13 09:37 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 140,
@@ -508,9 +508,9 @@
 "sl": 61944.5,
 "r": null,
 "opened": "13 Nov 09:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 8.00 lots @61592.98 SL 62037.23 (scanner SL) entry 61682.98 basis 73.68 (M15) +SLbuf 19.05 split TP1/TP2 risk 0.45%"
+"mt5_reason": "SL 61702.03"
 }
 ],
 "closed_today": [
@@ -795,18 +795,18 @@
 "all_win": 61,
 "today_net": -0.43,
 "engine": {
-"last_scan": "09:01",
+"last_scan": "09:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-13 03:30 UTC · new 1 · events 0 · open 1"
+"summary": "run 2026-11-13 04:00 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4959.95",
-"equity": "4966.50",
-"floating": "6.55",
-"positions": "2",
+"balance": "4966.08",
+"equity": "4970.86",
+"floating": "4.78",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
