@@ -1,221 +1,95 @@
 {
-"updated": "2026-11-12 21:25 IST",
-"date": "2026-11-12",
-"followers": 50,
-"media_count": 137,
+"updated": "2026-11-13 05:33 IST",
+"date": "2026-11-13",
+"followers": 51,
+"media_count": 139,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "carousel",
 "title": "Aaj ki 3 badi khabrein jo market hila sakti hain 👇",
-"status": "POSTED",
-"post": {
-"id": "17911261506569346",
-"cap": "Aaj ki 3 badi khabrein jo market hila sakti hain 👇\n\n1) UK GDP (Q3) — aaj 12:30 PM IST. Kam aayi to GBP pe dabav ka scenario.\n2) US Jobless Claims — aaj 7:00 PM IST (umeed 195K). Garam CPI ke baad job data pe nazar.\n3) US PPI (Oct) — kal 7:00 PM IST. Garam aaya to Dec Fed hike ki charcha tez ho sakti hai.\n\nScenario samjho, call nahi. Trade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingnews #xauusd #gbpusd #spidertrades",
-"cap1": "Aaj ki 3 badi khabrein jo market hila sakti hain 👇",
-"time": "2026-11-12 07:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfn4ZvkIIV2/",
-"likes": 0,
-"comments": 0,
-"views": 6,
-"reach": 3,
-"saved": 0,
-"shares": 0
-}
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1100",
 "name": "BOT post",
 "type": "carousel",
-"title": "GoldMint ORION ka ek din 🌌 Spread check → engines → ML score → trade y",
-"status": "POSTED",
-"post": {
-"id": "17960766891258562",
-"cap": "GoldMint ORION ka ek din 🌌 Spread check → engines → ML score → trade ya skip → daily loss guard → journal.\nLIVE test chal raha hai. DM \"ORION\".\nFree: hamare partner broker pe account kholke milta hai.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #machinelearning #algotrading #xauusd #tradingbot",
-"cap1": "GoldMint ORION ka ek din 🌌 Spread check → engines → ML score → trade y",
-"time": "2026-11-12 11:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfoT3OsF1cW/",
-"likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
-},
-{
-"slot": "1105",
-"name": "reel",
-"type": "reel",
-"title": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"status": "POSTED",
-"post": {
-"id": "17931905475177123",
-"cap": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇\nAaj: 1 trade band · 0 jeete · 1 haare · net -1.0R · 8 live\nAUDJPY SELL — band, -1.0R (SL hit)\nNAS100 SELL — abhi chal raha hai, +1.3R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"time": "2026-11-12 11:08",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
-"likes": 0,
-"comments": 0,
-"views": 25,
-"reach": 17,
-"saved": 0,
-"shares": 0
-}
+"title": "GoldMint SpiderNet ke safety switches 🕸️ Hedge lock, cycle target, equ",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1200",
 "name": "Motivation reel",
 "type": "reel",
-"title": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️",
-"status": "POSTED",
-"post": {
-"id": "17940496011124578",
-"cap": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Kitna kamaya, ye mat poocho. Kitna bacha, ye poocho. 🕷️",
-"time": "2026-11-12 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfoasXQDRB_/",
-"likes": 1,
-"comments": 0,
-"views": 122,
-"reach": 104,
-"saved": 0,
-"shares": 0
-}
+"title": "Chhota lot, bada sabr. Yahi lambi race hai. 🕷️",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1330",
 "name": "BOT reel",
 "type": "reel",
-"title": "Ek strategy pe sab daav? ORION aisa nahi karta 🌌 30+ engines, ML filte",
-"status": "POSTED",
-"post": {
-"id": "18131553532697978",
-"cap": "Ek strategy pe sab daav? ORION aisa nahi karta 🌌 30+ engines, ML filter, daily loss guard.\nLive test chal raha hai. DM \"ORION\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #tradingbot #machinelearning #xauusd #forexhindi",
-"cap1": "Ek strategy pe sab daav? ORION aisa nahi karta 🌌 30+ engines, ML filte",
-"time": "2026-11-12 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
-"likes": 1,
-"comments": 0,
-"views": 112,
-"reach": 96,
-"saved": 3,
-"shares": 0
-}
-},
-{
-"slot": "1345",
-"name": "reel",
-"type": "reel",
-"title": "Price kyun badhta hai? Buyers zyada NAHI the... 🥔",
-"status": "POSTED",
-"post": {
-"id": "18033871826919443",
-"cap": "Price kyun badhta hai? Buyers zyada NAHI the... 🥔\n\nSabzi mandi ka simple example: jab jaldi wale grahak aate hain, ₹20 wala maal khatam, phir ₹21, phir ₹22. Buyers zyada nahi the, bas zyada JALDI me the. Price ko hamesha wahi hilata hai jo jaldi me hai.\n\nOrder Flow Series, Episode 1 — poora episode SPIDER YouTube channel pe (zero se, Hindi me). Episode 2 bhi aa gaya!\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
-"cap1": "Price kyun badhta hai? Buyers zyada NAHI the... 🥔",
-"time": "2026-11-12 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfok9hGErAK/",
-"likes": 0,
-"comments": 0,
-"views": 153,
-"reach": 134,
-"saved": 0,
-"shares": 0
-}
+"title": "Gold upar ho ya neeche, jaala dono taraf 🕸️ GoldMint SpiderNet: buy le",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1700",
 "name": "KNOW post",
 "type": "carousel",
-"title": "Kaunsa timeframe? ⏱️ M1 se D1 tak. Scalping, intraday, swing ke liye k",
-"status": "POSTED",
-"post": {
-"id": "18119663495082640",
-"cap": "Kaunsa timeframe? ⏱️ M1 se D1 tak. Scalping, intraday, swing ke liye kaunsa, aur bot ke liye ek rule.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#timeframe #forexhindi #tradingeducation #scalping #xauusd",
-"cap1": "Kaunsa timeframe? ⏱️ M1 se D1 tak. Scalping, intraday, swing ke liye k",
-"time": "2026-11-12 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfo9CNPlG4a/",
-"likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
-},
-{
-"slot": "1838",
-"name": "reel",
-"type": "reel",
-"title": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"status": "POSTED",
-"post": {
-"id": "18148523794573061",
-"cap": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇\nAaj: 14 trade band · 7 jeete · 7 haare · net -2.0R · 7 live\nAUDJPY SELL — band, +2.0R (TP2 hit)\nGBPJPY BUY — band, -1.0R (SL hit)\nJPN225 SELL — abhi chal raha hai, +1.0R (risk-free 🔒)\nAUDCHF SELL — abhi chal raha hai, +1.0R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"time": "2026-11-12 18:40",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
-"likes": 0,
-"comments": 0,
-"views": 23,
-"reach": 15,
-"saved": 0,
-"shares": 0
-}
+"title": "Ek candle, 4 baatein 🕯️ Open, close, high, low. Body, wick aur lambi w",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1900",
 "name": "ASPIRE reel",
 "type": "reel",
-"title": "Every small account has a summit. ⛰️",
-"status": "POSTED",
-"post": {
-"id": "18079661609453732",
-"cap": "Every small account has a summit. ⛰️\nStart with $500. Camp 1: 12 right trades. Camp 2: 24. Camp 3: 39. Summit: 52 right trades. A storm (a wrong trade) will come, and you keep climbing.\nHypothetical math: $500 start, +6% per right trade (2% risk, 1:3 RR), one −2% loss. Not a promise of profit.\nCamp by camp. Trade by trade. Follow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#smallaccount #tradingmotivation #compounding #forextrader #spidertrades",
-"cap1": "Every small account has a summit. ⛰️",
-"time": "2026-11-12 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpKv4vlTBu/",
-"likes": 1,
-"comments": 0,
-"views": 9,
-"reach": 4,
-"saved": 1,
-"shares": 0
-}
+"title": "30 days. 4 rules. No excuses. 🔥",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "2030",
 "name": "KNOW reel",
 "type": "reel",
-"title": "M1 vs H1: same ghanta, alag tasveer 🔍 Bot ko wahi timeframe do jis pe ",
-"status": "POSTED",
-"post": {
-"id": "18117090563167153",
-"cap": "M1 vs H1: same ghanta, alag tasveer 🔍 Bot ko wahi timeframe do jis pe woh test hua.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#timeframe #forexhindi #tradingbot #tradingeducation #mt5",
-"cap1": "M1 vs H1: same ghanta, alag tasveer 🔍 Bot ko wahi timeframe do jis pe ",
-"time": "2026-11-12 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpVD1dCrkD/",
-"likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
+"title": "Ek candle 4 baatein batati hai 🕯️ Lambi wick = keemat gayi, tik nahi p",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
+{
+"id": "18116361758617109",
+"cap": "Green candle dekha aur socha buyers jeet gaye? Ruko. 🕯️\n\nTeen bilkul alag kahaniyan ek jaisi green candle bana sakti hain: seedha upar, pehle gira phir chadha, ya upar jaakar thak gaya. Candle sirf nateeja dikhati hai, raasta nahi. Order Flow raasta dikhata hai.\n\nOrder Flow Series, Episode 1 — poora episode SPIDER YouTube channel pe. Episode 2 bhi aa gaya!\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
+"cap1": "Green candle dekha aur socha buyers jeet gaye? Ruko. 🕯️",
+"time": "2026-11-12 23:46",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfprXvxGd6t/",
+"likes": 1,
+"comments": 0,
+"views": 138,
+"reach": 110,
+"saved": 5,
+"shares": 1
+},
+{
+"id": "18416808217094980",
+"cap": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅\n\nSubah hotel wale jaldi me the, bhaav upar gaya. Shaam ko dukandar ko maal bechna tha, bhaav neeche gaya aur naye grahak mil gaye. Market bhi aise hi kaam karta hai: price upar jaata hai sellers dhoondhne, neeche jaata hai buyers dhoondhne.\n\nOrder Flow Series, Episode 2 (Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
+"cap1": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅",
+"time": "2026-11-12 23:12",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfpnilGj6Zn/",
+"likes": 1,
+"comments": 0,
+"views": 135,
+"reach": 116,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18117090563167153",
 "cap": "M1 vs H1: same ghanta, alag tasveer 🔍 Bot ko wahi timeframe do jis pe woh test hua.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#timeframe #forexhindi #tradingbot #tradingeducation #mt5",
@@ -225,9 +99,9 @@
 "link": "https://www.instagram.com/reel/DfpVD1dCrkD/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 109,
+"reach": 96,
+"saved": 2,
 "shares": 0
 },
 {
@@ -239,8 +113,8 @@
 "link": "https://www.instagram.com/reel/DfpKv4vlTBu/",
 "likes": 1,
 "comments": 0,
-"views": 9,
-"reach": 4,
+"views": 17,
+"reach": 15,
 "saved": 1,
 "shares": 0
 },
@@ -251,10 +125,10 @@
 "time": "2026-11-12 18:40",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 23,
-"reach": 15,
+"views": 67,
+"reach": 53,
 "saved": 0,
 "shares": 0
 },
@@ -281,8 +155,8 @@
 "link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
 "likes": 1,
 "comments": 0,
-"views": 112,
-"reach": 96,
+"views": 114,
+"reach": 98,
 "saved": 3,
 "shares": 0
 },
@@ -295,8 +169,8 @@
 "link": "https://www.instagram.com/reel/Dfok9hGErAK/",
 "likes": 0,
 "comments": 0,
-"views": 153,
-"reach": 134,
+"views": 162,
+"reach": 143,
 "saved": 0,
 "shares": 0
 },
@@ -323,8 +197,8 @@
 "link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
 "likes": 0,
 "comments": 0,
-"views": 25,
-"reach": 17,
+"views": 27,
+"reach": 19,
 "saved": 0,
 "shares": 0
 },
@@ -351,8 +225,8 @@
 "link": "https://www.instagram.com/p/Dfn4ZvkIIV2/",
 "likes": 0,
 "comments": 0,
-"views": 6,
-"reach": 3,
+"views": 8,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -365,8 +239,8 @@
 "link": "https://www.instagram.com/reel/DfnBnc8mucY/",
 "likes": 2,
 "comments": 0,
-"views": 125,
-"reach": 105,
+"views": 130,
+"reach": 109,
 "saved": 0,
 "shares": 0
 },
@@ -379,8 +253,8 @@
 "link": "https://www.instagram.com/reel/DfmwRziDWle/",
 "likes": 1,
 "comments": 0,
-"views": 117,
-"reach": 107,
+"views": 118,
+"reach": 108,
 "saved": 1,
 "shares": 0
 },
@@ -393,8 +267,8 @@
 "link": "https://www.instagram.com/reel/Dfml9X4jvjS/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 20,
+"views": 25,
+"reach": 21,
 "saved": 0,
 "shares": 0
 },
@@ -407,8 +281,8 @@
 "link": "https://www.instagram.com/p/DfmYQ4mkdQd/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -435,8 +309,8 @@
 "link": "https://www.instagram.com/reel/Dfl28HUFL9C/",
 "likes": 0,
 "comments": 0,
-"views": 54,
-"reach": 35,
+"views": 56,
+"reach": 36,
 "saved": 0,
 "shares": 0
 },
@@ -449,8 +323,8 @@
 "link": "https://www.instagram.com/reel/Dfl14GcnGGG/",
 "likes": 8,
 "comments": 0,
-"views": 109,
-"reach": 98,
+"views": 110,
+"reach": 99,
 "saved": 1,
 "shares": 0
 },
@@ -505,8 +379,8 @@
 "link": "https://www.instagram.com/p/DflTlA3l3Wl/",
 "likes": 0,
 "comments": 0,
-"views": 10,
-"reach": 4,
+"views": 11,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -607,34 +481,6 @@
 "reach": 39,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18091962890252197",
-"cap": "🕷 Live scanner ne abhi 3 setup pakde (Tue 10 Nov) 👇\nEURGBP SELL — entry 0.8348 · SL 0.8353 · TP1 0.8343 · TP2 0.8332 · RR 1:3.0\nGBPUSD BUY — entry 1.3441 · SL 1.3434 · TP1 1.3448 · TP2 1.3461 · RR 1:3.0\nGBPAUD BUY — entry 1.9423 · SL 1.9410 · TP1 1.9436 · TP2 1.9461 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Live scanner ne abhi 3 setup pakde (Tue 10 Nov) 👇",
-"time": "2026-11-10 08:24",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfi4RaGDg1F/",
-"likes": 0,
-"comments": 0,
-"views": 51,
-"reach": 40,
-"saved": 0,
-"shares": 3
-},
-{
-"id": "18139560118724998",
-"cap": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇\nSILVER SELL — entry 53.29 · SL 53.69 · TP1 52.89 · TP2 52.09 · RR 1:3.0\nGBPJPY BUY — entry 212.44 · SL 212.22 · TP1 212.65 · TP2 213.07 · RR 1:3.0\nLive update har 15 min Telegram pe — TP1, risk-free, close sab wahan.\nAur trades ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Live scanner ne abhi 2 setup pakde (Tue 10 Nov) 👇",
-"time": "2026-11-10 07:23",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfixXZDEgtW/",
-"likes": 0,
-"comments": 0,
-"views": 71,
-"reach": 60,
-"saved": 2,
-"shares": 4
 }
 ],
 "trades": [],
@@ -650,8 +496,8 @@
 "r": null,
 "opened": "12 Nov 06:00",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 0.56949"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "JPN225_1794455100_pbo",
@@ -663,8 +509,8 @@
 "r": null,
 "opened": "12 Nov 09:30",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 61367.03"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "GBPAUD_1794492000_dpoc",
@@ -676,8 +522,8 @@
 "r": null,
 "opened": "12 Nov 19:45",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.12 lots @1.94429 SL 1.94136 (scanner SL) entry 1.94403 basis 0.00002 (M1)  risk 0.49%"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "EURNZD_1794492000_dpoc",
@@ -689,8 +535,8 @@
 "r": null,
 "opened": "12 Nov 19:45",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.23 lots @1.99455 SL 1.99267 (scanner SL) entry 1.99468 basis -0.00002 (M15)  risk 0.49%"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "US500_1794496500_poc",
@@ -702,298 +548,11 @@
 "r": null,
 "opened": "12 Nov 21:00",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 1.80 lots @7603.28 SL 7589.81 (scanner SL) entry 7603.43 basis 7.07 (M15)  risk 0.49%"
-}
-],
-"closed_today": [
-{
-"id": "USDCAD_1794378600_lbo",
-"pair": "USDCAD",
-"dir": "BUY",
-"model": "lbo",
-"entry": 1.42098,
-"sl": 1.419293,
-"r": 1.75,
-"opened": "11 Nov 12:05",
-"state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDCAD_1794406500_dpoc",
-"pair": "AUDCAD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.97593,
-"sl": 0.977119,
-"r": 0.02,
-"opened": "11 Nov 20:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "AUDJPY_1794442500_pbo",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 109.184,
-"sl": 109.4023,
-"r": -1.0,
-"opened": "12 Nov 06:00",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.94 USD = -0.99R"
-},
-{
-"id": "WTI_1794443400_pbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 86.116,
-"sl": 86.55,
-"r": 0.5,
-"opened": "12 Nov 06:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 5.58 USD = 0.26R"
-},
-{
-"id": "BTCUSD_1794458700_dpoc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 73620.2,
-"sl": 73838.6,
-"r": 0.47,
-"opened": "12 Nov 10:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "GBPCAD_1794466800_lbo",
-"pair": "GBPCAD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 1.889286,
-"sl": 1.891215,
-"r": -1.0,
-"opened": "12 Nov 12:35",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -20.37 USD = -0.86R"
-},
-{
-"id": "USDJPY_1794465600_lbo",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "lbo",
-"entry": 159.8586,
-"sl": 159.6078,
-"r": -1.0,
-"opened": "12 Nov 12:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -17.29 USD = -0.73R"
-},
-{
-"id": "AUDJPY_1794457800_pbo",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 109.271,
-"sl": 109.4241,
-"r": 2.0,
-"opened": "12 Nov 10:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "WTI_1794465600_lbo",
-"pair": "WTI OIL",
-"dir": "BUY",
-"model": "lbo",
-"entry": 86.365,
-"sl": 85.671,
-"r": 0.5,
-"opened": "12 Nov 12:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "US500_1794466800_dpoc",
-"pair": "US500",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 7582.12,
-"sl": 7591.62,
-"r": -1.0,
-"opened": "12 Nov 12:45",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "EURNZD_1794465000_pbo",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.99493,
-"sl": 1.992782,
-"r": 0.5,
-"opened": "12 Nov 12:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 7.84 USD = 0.32R"
-},
-{
-"id": "US500_1794452400_pbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "pbo",
-"entry": 7595.38,
-"sl": 7607.78,
-"r": 0.5,
-"opened": "12 Nov 08:45",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 10.58 USD = 0.44R"
-},
-{
-"id": "NAS100_1794452400_pbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "pbo",
-"entry": 28186.3,
-"sl": 28273.51,
-"r": 0.5,
-"opened": "12 Nov 08:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "USDJPY_1794475800_dpoc",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 159.707,
-"sl": 159.5823,
-"r": -1.0,
-"opened": "12 Nov 15:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.81 USD = -0.99R"
-},
-{
-"id": "NAS100_1794483900_pbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "pbo",
-"entry": 28122.15,
-"sl": 28204.98,
-"r": -1.0,
-"opened": "12 Nov 17:30",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "GBPJPY_1794476700_dpoc",
-"pair": "GBPJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 211.953,
-"sl": 211.7238,
-"r": -1.0,
-"opened": "12 Nov 15:30",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "WTI_1794486600_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 85.735,
-"sl": 86.195,
-"r": -1.0,
-"opened": "12 Nov 18:15",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "XAUUSD_1794484800_dpoc",
-"pair": "GOLD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 3943.555,
-"sl": 3956.379,
-"r": 1.09,
-"opened": "12 Nov 17:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "CADJPY_1794443400_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 112.026,
-"sl": 112.174,
-"r": -1.0,
-"opened": "12 Nov 06:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.25 USD = -1.00R"
-},
-{
-"id": "USDCHF_1794482100_pbo",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "pbo",
-"entry": 0.8319,
-"sl": 0.830886,
-"r": 2.0,
-"opened": "12 Nov 17:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 41.31 USD = 1.69R"
-},
-{
-"id": "AUDUSD_1794492000_dpoc",
-"pair": "AUDUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.68231,
-"sl": 0.683145,
-"r": 2.4,
-"opened": "12 Nov 19:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "USDJPY_1794483000_dpoc",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 159.72,
-"sl": 159.5087,
-"r": 0.85,
-"opened": "12 Nov 17:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 14.91 USD = 0.64R"
 }
 ],
+"closed_today": [],
 "closed_recent": [
 {
 "id": "USDJPY_1794483000_dpoc",
@@ -1005,8 +564,8 @@
 "r": 0.85,
 "opened": "12 Nov 17:15",
 "state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 14.91 USD = 0.64R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "AUDUSD_1794492000_dpoc",
@@ -1018,8 +577,8 @@
 "r": 2.4,
 "opened": "12 Nov 19:45",
 "state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "USDCHF_1794482100_pbo",
@@ -1031,8 +590,8 @@
 "r": 2.0,
 "opened": "12 Nov 17:00",
 "state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 41.31 USD = 1.69R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "CADJPY_1794443400_pbo",
@@ -1044,8 +603,8 @@
 "r": -1.0,
 "opened": "12 Nov 06:15",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.25 USD = -1.00R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "XAUUSD_1794484800_dpoc",
@@ -1057,8 +616,8 @@
 "r": 1.09,
 "opened": "12 Nov 17:45",
 "state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "WTI_1794486600_dpoc",
@@ -1070,8 +629,8 @@
 "r": -1.0,
 "opened": "12 Nov 18:15",
 "state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "GBPJPY_1794476700_dpoc",
@@ -1083,8 +642,8 @@
 "r": -1.0,
 "opened": "12 Nov 15:30",
 "state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "NAS100_1794483900_pbo",
@@ -1096,8 +655,8 @@
 "r": -1.0,
 "opened": "12 Nov 17:30",
 "state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "USDJPY_1794475800_dpoc",
@@ -1109,8 +668,8 @@
 "r": -1.0,
 "opened": "12 Nov 15:15",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -23.81 USD = -0.99R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "NAS100_1794452400_pbo",
@@ -1122,8 +681,8 @@
 "r": 0.5,
 "opened": "12 Nov 08:45",
 "state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "US500_1794452400_pbo",
@@ -1135,8 +694,8 @@
 "r": 0.5,
 "opened": "12 Nov 08:45",
 "state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 10.58 USD = 0.44R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "EURNZD_1794465000_pbo",
@@ -1148,8 +707,8 @@
 "r": 0.5,
 "opened": "12 Nov 12:15",
 "state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 7.84 USD = 0.32R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "US500_1794466800_dpoc",
@@ -1161,8 +720,8 @@
 "r": -1.0,
 "opened": "12 Nov 12:45",
 "state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "WTI_1794465600_lbo",
@@ -1174,8 +733,8 @@
 "r": 0.5,
 "opened": "12 Nov 12:15",
 "state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "AUDJPY_1794457800_pbo",
@@ -1187,17 +746,17 @@
 "r": 2.0,
 "opened": "12 Nov 10:15",
 "state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5": null,
+"mt5_reason": null
 }
 ],
 "all_n": 97,
 "all_net": 23.67,
 "all_win": 56,
-"today_net": 4.08,
+"today_net": 0,
 "engine": {
 "last_scan": "21:21",
-"age_min": 4,
+"age_min": 492,
 "rc": 0,
 "summary": "run 2026-11-12 15:50 UTC · new 0 · events 0 · open 5"
 },
@@ -1214,32 +773,32 @@
 },
 "voice_chars_month": 73280,
 "voice_limit": 30000,
-"disk_free_gb": 20.1,
+"disk_free_gb": 21.6,
 "github_runs": [
 {
-"t": "2026-11-12T15:33:49Z",
+"t": "2026-11-12T22:37:51Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-12T15:00:25Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-12T14:54:39Z",
+"t": "2026-11-12T22:11:54Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-12T13:42:37Z",
+"t": "2026-11-12T21:34:13Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-12T13:30:16Z",
+"t": "2026-11-12T20:40:02Z",
 "ok": "success",
-"ev": "workflow_dispatch"
+"ev": "schedule"
+},
+{
+"t": "2026-11-12T19:48:14Z",
+"ok": "success",
+"ev": "schedule"
 }
 ]
 }
