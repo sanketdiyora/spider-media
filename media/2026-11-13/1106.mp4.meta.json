@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-13/1106.mp4",
+ "dur": 41.65,
+ "music": "tense/464.mp3",
+ "chars": 498,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GBPAUD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.94474044,
+    1.94482
+   ],
+   "sl": 1.942831,
+   "entry": 1.94482,
+   "rr": 3.0,
+   "tp1": 1.946809,
+   "tp2": 1.950787
+  },
+  {
+   "pair": "UK100",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    10851.0496,
+    10851.29
+   ],
+   "sl": 10845.28,
+   "entry": 10851.29,
+   "rr": 1.0,
+   "tp1": 10857.3,
+   "tp2": null
+  },
+  {
+   "pair": "JPN225",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    61609.3,
+    61622.708000000006
+   ],
+   "sl": 61944.5,
+   "entry": 61609.3,
+   "rr": 3.0,
+   "tp1": 61274.1,
+   "tp2": 60603.6
+  },
+  {
+   "pair": "GBPAUD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.9444435199999999,
+    1.94454
+   ],
+   "sl": 1.942128,
+   "entry": 1.94454,
+   "rr": 3.0,
+   "tp1": 1.946952,
+   "tp2": 1.951777
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_019f2376",
+ "crops": [
+  "/home/claude/ig/setup/w_019f2376/tg_0.jpg",
+  "/home/claude/ig/setup/w_019f2376/tg_1.jpg",
+  "/home/claude/ig/setup/w_019f2376/tg_2.jpg",
+  "/home/claude/ig/setup/w_019f2376/tg_3.jpg"
+ ]
+}
