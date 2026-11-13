@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 14:22 IST",
+"updated": "2026-11-13 14:37 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 146,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 28,
-"reach": 20,
+"views": 37,
+"reach": 26,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 71,
-"reach": 52,
+"views": 78,
+"reach": 61,
 "saved": 0,
 "shares": 0
 }
@@ -214,8 +214,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 71,
-"reach": 52,
+"views": 78,
+"reach": 61,
 "saved": 0,
 "shares": 0
 },
@@ -242,8 +242,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 28,
-"reach": 20,
+"views": 37,
+"reach": 26,
 "saved": 0,
 "shares": 0
 },
@@ -285,7 +285,7 @@
 "likes": 1,
 "comments": 0,
 "views": 143,
-"reach": 112,
+"reach": 113,
 "saved": 4,
 "shares": 1
 },
@@ -340,8 +340,8 @@
 "link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
 "likes": 1,
 "comments": 0,
-"views": 96,
-"reach": 68,
+"views": 105,
+"reach": 73,
 "saved": 0,
 "shares": 0
 },
@@ -641,19 +641,6 @@
 "mt5_reason": "OPEN SELL 1.00 lots @7603.96 SL 7627.47 (scanner SL) entry 7605.45 basis 6.12 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.47%"
 },
 {
-"id": "XAGUSD_1794555900_poc",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "poc",
-"entry": 50.006,
-"sl": 50.1318,
-"r": null,
-"opened": "13 Nov 13:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "JPN225_1794555900_dpoc",
 "pair": "JPN225",
 "dir": "SELL",
@@ -663,8 +650,8 @@
 "r": null,
 "opened": "13 Nov 13:30",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 61200.85"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 3.95 USD = 0.17R"
 },
 {
 "id": "GBPCAD_1794557700_pbo",
@@ -810,9 +797,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "XAGUSD_1794555900_poc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "poc",
+"entry": 50.006,
+"sl": 50.1318,
+"r": 0.48,
+"opened": "13 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "XAGUSD_1794555900_poc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "poc",
+"entry": 50.006,
+"sl": 50.1318,
+"r": 0.48,
+"opened": "13 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "US500_1794555900_dpoc",
 "pair": "US500",
@@ -994,38 +1007,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "USDCHF_1794482100_pbo",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "pbo",
-"entry": 0.8319,
-"sl": 0.830886,
-"r": 2.0,
-"opened": "12 Nov 17:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 109,
-"all_net": 24.61,
-"all_win": 62,
-"today_net": -0.72,
+"all_n": 110,
+"all_net": 25.09,
+"all_win": 63,
+"today_net": -0.24,
 "engine": {
-"last_scan": "14:17",
-"age_min": 6,
+"last_scan": "14:32",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-13 08:45 UTC · new 1 · events 1 · open 8"
+"summary": "run 2026-11-13 09:00 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4974.40",
-"equity": "5031.36",
-"floating": "56.96",
-"positions": "10",
+"balance": "4978.35",
+"equity": "4989.62",
+"floating": "11.27",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
