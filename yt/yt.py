@@ -109,6 +109,10 @@ elif cmd == 'caption':    # caption VIDEO LANG NAME FILE.srt
 elif cmd == 'thumb':      # thumb VIDEO FILE.jpg
     api('POST','https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=' + sys.argv[2] + '&uploadType=media', ctype='image/jpeg', raw=open(sys.argv[3],'rb').read())
     print('THUMB_OK')
+elif cmd == 'vprivate':   # vprivate VIDEO  (hide a duplicate, reversible)
+    at = access(); body = json.dumps({'id': sys.argv[2], 'status': {'privacyStatus': 'private'}}).encode()
+    req = urllib.request.Request('https://www.googleapis.com/youtube/v3/videos?part=status', data=body, method='PUT', headers={'Authorization':'Bearer '+at, 'Content-Type':'application/json'})
+    j = json.loads(urllib.request.urlopen(req, timeout=60).read()); print('VPRIVATE_OK', j['id'], j['status'].get('privacyStatus'))
 elif cmd == 'vstatus':    # vstatus VIDEO
     at = access(); req = urllib.request.Request('https://www.googleapis.com/youtube/v3/videos?part=status,snippet,statistics&id=' + sys.argv[2], headers={'Authorization':'Bearer '+at})
     j = json.loads(urllib.request.urlopen(req, timeout=60).read()); i = j['items'][0]

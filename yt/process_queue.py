@@ -22,5 +22,5 @@ if changed:
     g=['git','-C',R]
     subprocess.run(g+['add','-A','yt']); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm','yt uploaded [skip ci]'])
     for _ in range(3):
-        if subprocess.run(g+['push','-q']).returncode==0: break
-        subprocess.run(g+['pull','-q','--rebase','--autostash'])
+        if subprocess.run(g+['push','-q','origin','HEAD:main']).returncode==0: break
+        subprocess.run(g+['pull','-q','--rebase','--autostash','origin','main'])
