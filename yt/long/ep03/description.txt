@@ -1,0 +1,43 @@
+Chart pe price 100 tha, Buy dabaya, aur trade 102 pe khula? Stop loss 95 pe tha, aur trade 94 pe band hua? Ye broker ki chori nahi, market ka niyam hai. Is episode me zero se samjho Bid, Ask, Spread aur order ke types.
+
+Ye SPIDER ki Order Flow Series ka Episode 3 hai (24 episodes, Hindi + English). Pichhle episodes nahi dekhe? Playlist me shuru se dekho.
+
+Is episode me:
+• Bid aur Ask kya hain (airport ki paise badalne wali dukaan se samjho)
+• Spread: har trade ki pehli keemat, aur spread kab chauda hota hai
+• Market order vs Limit order vs Stop order: speed ya price?
+• Stop loss asal me ek stop order kyun hai
+• Slippage kyun hoti hai, aur khabar ke time zyada kyun
+• Ek hi trade, teeno order se: har order ki ek keemat
+• Market orders price hilate hain, limit orders unhe rokte hain
+
+Chapters:
+0:00 Intro
+0:26 Pichhla episode
+0:49 Paise badalne ki dukaan
+1:19 Bid aur Ask
+1:53 Spread
+2:21 Spread kab badhta hai
+2:50 Order kya hai
+3:09 Market order
+3:31 Limit order
+3:55 Stop order
+4:36 Slippage
+5:06 Ek trade, teen order
+5:45 Jaldi wale aur intezaar wale
+6:10 Order Flow se rishta
+6:29 Recap
+6:56 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1: https://youtu.be/k2cNi_kMYMo
+Episode 2: https://youtu.be/3MAcGFXck4U
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+Agla episode: Order Book (DOM) aur Liquidity.
+English subtitles available (CC on karo).
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.
+
+#OrderFlow #TradingHindi #BidAsk #Spread #SpiderTrades

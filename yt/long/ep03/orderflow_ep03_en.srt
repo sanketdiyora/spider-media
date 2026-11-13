@@ -1,0 +1,280 @@
+1
+00:00:05,000 --> 00:00:08,709
+The chart showed 100. You pressed Buy.
+
+2
+00:00:09,158 --> 00:00:12,947
+But the trade opened at 102. Where did those 2 go?
+
+3
+00:00:13,397 --> 00:00:18,387
+Then you set a stop loss at 95, and the trade closed at 94.
+
+4
+00:00:18,837 --> 00:00:22,703
+This is not the broker cheating. It is how the market works.
+
+5
+00:00:23,153 --> 00:00:25,033
+Today we learn those rules.
+
+6
+00:00:26,033 --> 00:00:30,787
+Hello, this is episode three of the SPIDER Order Flow series.
+
+7
+00:00:31,238 --> 00:00:38,395
+Last time we learned: the market is an auction where buyers and sellers both bid.
+
+8
+00:00:38,845 --> 00:00:48,720
+Three questions today. What are Bid and Ask? Why is there a spread? And what do market, limit and stop orders really do?
+
+9
+00:00:49,720 --> 00:00:54,552
+Ever seen a currency exchange counter at an airport? There is a board there.
+
+10
+00:00:55,002 --> 00:01:00,410
+We buy: 83 rupees. We sell: 85 rupees.
+
+11
+00:01:00,860 --> 00:01:04,726
+If you want a dollar, the counter sells it to you at 85.
+
+12
+00:01:05,176 --> 00:01:09,303
+If you want to sell a dollar, the counter buys it from you at 83.
+
+13
+00:01:09,753 --> 00:01:14,586
+One dollar, two prices. The 2 rupees in between are the counter's income.
+
+14
+00:01:15,036 --> 00:01:18,744
+The market also always has exactly two prices like this.
+
+15
+00:01:19,744 --> 00:01:26,431
+The first price is the Bid: the highest price someone is ready to buy at right now.
+
+16
+00:01:26,881 --> 00:01:34,039
+The second price is the Ask: the lowest price someone is ready to sell at right now.
+
+17
+00:01:34,490 --> 00:01:37,416
+The Ask is always above the Bid.
+
+18
+00:01:37,866 --> 00:01:43,978
+Buy right now and you pay the Ask. Sell right now and you get the Bid.
+
+19
+00:01:44,428 --> 00:01:52,134
+And most charts show the Bid. That is why the chart said 100 and the trade opened at 102.
+
+20
+00:01:53,134 --> 00:01:57,104
+The gap between Bid and Ask is called the Spread.
+
+21
+00:01:57,554 --> 00:02:00,794
+Every trade starts with the loss of this spread.
+
+22
+00:02:01,244 --> 00:02:08,637
+You bought at 102; sell that same moment and you get 100. A loss of 2 from the start.
+
+23
+00:02:09,086 --> 00:02:13,841
+Price must first cross this spread before you are in profit.
+
+24
+00:02:14,291 --> 00:02:20,090
+That is why many tiny trades get expensive. You pay the spread every time.
+
+25
+00:02:21,090 --> 00:02:24,016
+The spread is not always the same.
+
+26
+00:02:24,466 --> 00:02:30,656
+When the market is crowded, like London and New York hours, the spread is thin.
+
+27
+00:02:31,107 --> 00:02:36,906
+When few people are around, like late night or holidays, the spread widens.
+
+28
+00:02:37,356 --> 00:02:43,781
+And right before big news, everyone steps back, so the spread suddenly jumps.
+
+29
+00:02:44,232 --> 00:02:49,875
+So the spread is a thermometer of the crowd. Thin spread, busy market.
+
+30
+00:02:50,875 --> 00:02:55,629
+Now orders. An order is simply an instruction you give your broker.
+
+31
+00:02:56,079 --> 00:03:01,147
+Every order answers one question: do you want speed, or price?
+
+32
+00:03:01,597 --> 00:03:08,676
+You cannot have both. That is where the three order types come from: market, limit and stop.
+
+33
+00:03:09,676 --> 00:03:14,352
+A market order says: I want it now, whatever the price.
+
+34
+00:03:14,802 --> 00:03:20,287
+A buy market order fills straight at the Ask. A sell fills straight at the Bid.
+
+35
+00:03:20,738 --> 00:03:26,144
+This order never waits. It deals instantly with whoever is sitting there.
+
+36
+00:03:26,595 --> 00:03:30,226
+Speed is guaranteed. The price is not.
+
+37
+00:03:31,226 --> 00:03:35,510
+A limit order says: at my price, or not at all.
+
+38
+00:03:35,960 --> 00:03:41,524
+A buy limit sits below the current price. A sell limit sits above.
+
+39
+00:03:41,974 --> 00:03:47,225
+It stands in a queue and waits for price to come to it.
+
+40
+00:03:47,674 --> 00:03:54,989
+The price is guaranteed. The fill is not. Price can touch it and turn, before your turn in the queue.
+
+41
+00:03:55,989 --> 00:04:01,317
+A stop order says: when price reaches here, turn me into a market order.
+
+42
+00:04:01,768 --> 00:04:08,769
+A buy stop goes above, a sell stop below. Your stop loss is really a stop order too.
+
+43
+00:04:09,219 --> 00:04:17,108
+Until price arrives, it sleeps. The moment price comes, it wakes up and runs as a market order.
+
+44
+00:04:17,558 --> 00:04:24,872
+And a market order has no fixed price. That is why the stop was at 95 and filled at 94.
+
+45
+00:04:25,322 --> 00:04:35,353
+Remember: where many stops sit together, price often runs fast. The full story in episode 17.
+
+46
+00:04:36,353 --> 00:04:42,388
+The gap between the price you asked for and the price you got is called slippage.
+
+47
+00:04:42,838 --> 00:04:47,357
+Why does it happen? Because only a limited amount is waiting at each price.
+
+48
+00:04:47,807 --> 00:04:53,292
+Say only 10 lots are for sale at 102, and you want 30.
+
+49
+00:04:53,742 --> 00:05:00,351
+So you get 10 at 102, the next 10 at 103, and the rest at 104.
+
+50
+00:05:00,801 --> 00:05:05,556
+During news, there is even less waiting, so slippage is bigger.
+
+51
+00:05:06,556 --> 00:05:13,792
+Now one trade, three ways. Bid 100, Ask 102. You want to buy.
+
+52
+00:05:14,242 --> 00:05:19,492
+Market order: in instantly at 102. The cost you paid: the spread.
+
+53
+00:05:19,942 --> 00:05:29,111
+Limit order at 98: price came down to 99 and ran up. Never filled. The cost: a missed trade.
+
+54
+00:05:29,561 --> 00:05:38,391
+Stop order at 110: the breakout came, the order woke up, but filled at 112. The cost: slippage.
+
+55
+00:05:38,841 --> 00:05:44,797
+All three have a cost. The only question is which cost you choose.
+
+56
+00:05:45,797 --> 00:05:52,797
+Now the most important part. A limit order puts supply in the market. It is the one who waits.
+
+57
+00:05:53,247 --> 00:05:57,453
+A market order takes that supply. It is the one in a hurry.
+
+58
+00:05:57,903 --> 00:06:02,501
+Remember episode one? Price is moved by whoever is in a hurry.
+
+59
+00:06:02,951 --> 00:06:09,220
+So market orders move price. And limit orders become walls in their way.
+
+60
+00:06:10,220 --> 00:06:13,381
+Order Flow is really about watching this fight.
+
+61
+00:06:13,831 --> 00:06:19,317
+Who is in a hurry, buyers or sellers? How big are their market orders?
+
+62
+00:06:19,767 --> 00:06:22,614
+And how many limit orders are standing to stop them?
+
+63
+00:06:23,064 --> 00:06:28,471
+Every tool ahead, delta or footprint, shows exactly this count.
+
+64
+00:06:29,471 --> 00:06:31,039
+So, today's summary.
+
+65
+00:06:31,489 --> 00:06:39,116
+You sell at the Bid and buy at the Ask. The gap is the spread, every trade's first cost.
+
+66
+00:06:39,566 --> 00:06:47,769
+Market order: speed guaranteed. Limit order: price guaranteed. Stop order: a market order at a trigger.
+
+67
+00:06:48,219 --> 00:06:55,220
+Market orders move price, limit orders stop them. Order Flow is this fight.
+
+68
+00:06:56,220 --> 00:07:04,814
+Next episode: the Order Book and Liquidity. How much is waiting at each price, and how market orders eat it.
+
+69
+00:07:05,264 --> 00:07:10,097
+If this was useful, subscribe and save the playlist.
+
+70
+00:07:10,547 --> 00:07:16,659
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
