@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 16:22 IST",
+"updated": "2026-11-13 16:38 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 146,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/p/DfqdLaNDi-r/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 42,
-"reach": 34,
+"views": 56,
+"reach": 43,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 79,
-"reach": 61,
+"views": 80,
+"reach": 63,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DfrJy3Fj9s5/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 1,
+"views": 2,
+"reach": 3,
 "saved": 0,
 "shares": 0
 }
@@ -186,8 +186,8 @@
 "link": "https://www.instagram.com/reel/DfrJy3Fj9s5/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 1,
+"views": 2,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -214,8 +214,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 79,
-"reach": 61,
+"views": 80,
+"reach": 63,
 "saved": 0,
 "shares": 0
 },
@@ -242,8 +242,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 0,
 "comments": 0,
-"views": 42,
-"reach": 34,
+"views": 56,
+"reach": 43,
 "saved": 0,
 "shares": 0
 },
@@ -270,8 +270,8 @@
 "link": "https://www.instagram.com/p/DfqdLaNDi-r/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 2,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -326,8 +326,8 @@
 "link": "https://www.instagram.com/reel/DfpKv4vlTBu/",
 "likes": 1,
 "comments": 0,
-"views": 19,
-"reach": 17,
+"views": 20,
+"reach": 18,
 "saved": 1,
 "shares": 0
 },
@@ -665,6 +665,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.32 lots @0.78927 SL 0.79036 (scanner SL) entry 0.78929 basis 0.00002 (M15) +SLbuf 0.00017  risk 0.49%"
+},
+{
+"id": "GBPUSD_1794566700_lbo",
+"pair": "GBPUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 1.322084,
+"sl": 1.323511,
+"r": null,
+"opened": "13 Nov 16:20",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.16 lots @1.32204 SL 1.32353 (scanner SL) entry 1.32195 basis -0.00013 (M1) +SLbuf 0.00015 split TP1/TP2 risk 0.48%"
 }
 ],
 "closed_today": [
@@ -1027,18 +1040,18 @@
 "all_win": 65,
 "today_net": 0.04,
 "engine": {
-"last_scan": "16:16",
-"age_min": 5,
+"last_scan": "16:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-13 10:45 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-13 11:00 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4954.81",
-"equity": "4979.87",
-"floating": "25.06",
-"positions": "6",
+"equity": "4967.92",
+"floating": "13.11",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
