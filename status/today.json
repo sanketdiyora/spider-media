@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 07:11 IST",
+"updated": "2026-11-13 07:37 IST",
 "date": "2026-11-13",
 "followers": 51,
 "media_count": 140,
@@ -508,7 +508,7 @@
 "sl": 10845.28,
 "r": null,
 "opened": "13 Nov 06:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 2.52 = 0.42R of the scanner risk (basis 9.48 (M15))"
 }
@@ -782,10 +782,10 @@
 "all_win": 60,
 "today_net": -0.75,
 "engine": {
-"last_scan": "07:01",
-"age_min": 10,
+"last_scan": "07:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-13 01:30 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-13 02:00 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
