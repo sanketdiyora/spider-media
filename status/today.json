@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 12:12 IST",
+"updated": "2026-11-13 12:38 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 145,
@@ -626,19 +626,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 1.00 lots @7603.96 SL 7627.47 (scanner SL) entry 7605.45 basis 6.12 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.47%"
-},
-{
-"id": "EURCHF_1794550500_lbo",
-"pair": "EURCHF",
-"dir": "BUY",
-"model": "lbo",
-"entry": 0.924495,
-"sl": 0.92383,
-"r": null,
-"opened": "13 Nov 11:50",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "spread too wide: 0.00018 = 0.27R of the scanner risk (basis -0.00011 (M15))"
 }
 ],
 "closed_today": [
@@ -719,9 +706,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 2.52 = 0.42R of the scanner risk (basis 9.48 (M15))"
+},
+{
+"id": "EURCHF_1794550500_lbo",
+"pair": "EURCHF",
+"dir": "BUY",
+"model": "lbo",
+"entry": 0.924495,
+"sl": 0.92383,
+"r": -1.0,
+"opened": "13 Nov 11:50",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 0.00018 = 0.27R of the scanner risk (basis -0.00011 (M15))"
 }
 ],
 "closed_recent": [
+{
+"id": "EURCHF_1794550500_lbo",
+"pair": "EURCHF",
+"dir": "BUY",
+"model": "lbo",
+"entry": 0.924495,
+"sl": 0.92383,
+"r": -1.0,
+"opened": "13 Nov 11:50",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 0.00018 = 0.27R of the scanner risk (basis -0.00011 (M15))"
+},
 {
 "id": "UK100_1794531600_poc",
 "pair": "UK100",
@@ -903,37 +916,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "XAUUSD_1794484800_dpoc",
-"pair": "GOLD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 3943.555,
-"sl": 3956.379,
-"r": 1.09,
-"opened": "12 Nov 17:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 107,
-"all_net": 24.9,
+"all_n": 108,
+"all_net": 23.9,
 "all_win": 61,
-"today_net": -0.43,
+"today_net": -1.43,
 "engine": {
-"last_scan": "12:02",
-"age_min": 10,
+"last_scan": "12:36",
+"age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-13 06:30 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-13 07:05 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4974.40",
-"equity": "5017.22",
-"floating": "42.82",
+"equity": "4994.57",
+"floating": "20.17",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
