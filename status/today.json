@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 15:38 IST",
+"updated": "2026-11-13 15:58 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 146,
@@ -641,19 +641,6 @@
 "mt5_reason": "OPEN BUY 0.22 lots @1.88698 SL 1.88537 (scanner SL) entry 1.88698 basis 0.00001 (M15) split TP1/TP2 risk 0.50%"
 },
 {
-"id": "NAS100_1794558600_lbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "lbo",
-"entry": 28165.12,
-"sl": 28274.92,
-"r": null,
-"opened": "13 Nov 14:05",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "FILLED"
-},
-{
 "id": "AUDUSD_1794558600_dpoc",
 "pair": "AUDUSD",
 "dir": "SELL",
@@ -823,9 +810,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -1.22 USD = -0.05R"
+},
+{
+"id": "NAS100_1794558600_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 28165.12,
+"sl": 28274.92,
+"r": -1.0,
+"opened": "13 Nov 14:05",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -22.32 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1794558600_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 28165.12,
+"sl": 28274.92,
+"r": -1.0,
+"opened": "13 Nov 14:05",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -22.32 USD = -1.00R"
+},
 {
 "id": "US500_1794543300_pbo",
 "pair": "US500",
@@ -1007,38 +1020,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "JPN225_1794455100_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61290.5,
-"sl": 61819.3,
-"r": 0.5,
-"opened": "12 Nov 09:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 112,
-"all_net": 26.37,
+"all_n": 113,
+"all_net": 25.37,
 "all_win": 65,
-"today_net": 1.04,
+"today_net": 0.04,
 "engine": {
-"last_scan": "15:36",
+"last_scan": "15:56",
 "age_min": 2,
 "rc": 0,
-"summary": "run 2026-11-13 10:05 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-13 10:25 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4977.13",
-"equity": "4962.06",
-"floating": "-15.07",
-"positions": "8",
+"balance": "4954.81",
+"equity": "4958.89",
+"floating": "4.08",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
