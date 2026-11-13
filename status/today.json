@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 07:37 IST",
+"updated": "2026-11-13 07:52 IST",
 "date": "2026-11-13",
 "followers": 51,
 "media_count": 140,
@@ -498,21 +498,7 @@
 ],
 "trades": [],
 "scanner": {
-"open": [
-{
-"id": "UK100_1794531600_poc",
-"pair": "UK100",
-"dir": "BUY",
-"model": "poc",
-"entry": 10851.29,
-"sl": 10845.28,
-"r": null,
-"opened": "13 Nov 06:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "spread too wide: 2.52 = 0.42R of the scanner risk (basis 9.48 (M15))"
-}
-],
+"open": [],
 "closed_today": [
 {
 "id": "UK100_1794507300_poc",
@@ -578,9 +564,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.35 USD = -1.00R"
+},
+{
+"id": "UK100_1794531600_poc",
+"pair": "UK100",
+"dir": "BUY",
+"model": "poc",
+"entry": 10851.29,
+"sl": 10845.28,
+"r": 0.32,
+"opened": "13 Nov 06:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 2.52 = 0.42R of the scanner risk (basis 9.48 (M15))"
 }
 ],
 "closed_recent": [
+{
+"id": "UK100_1794531600_poc",
+"pair": "UK100",
+"dir": "BUY",
+"model": "poc",
+"entry": 10851.29,
+"sl": 10845.28,
+"r": 0.32,
+"opened": "13 Nov 06:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 2.52 = 0.42R of the scanner risk (basis 9.48 (M15))"
+},
 {
 "id": "GBPAUD_1794528900_pbo",
 "pair": "GBPAUD",
@@ -762,30 +774,17 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "WTI_1794486600_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 85.735,
-"sl": 86.195,
-"r": -1.0,
-"opened": "12 Nov 18:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 106,
-"all_net": 24.58,
-"all_win": 60,
-"today_net": -0.75,
+"all_n": 107,
+"all_net": 24.9,
+"all_win": 61,
+"today_net": -0.43,
 "engine": {
-"last_scan": "07:31",
-"age_min": 5,
+"last_scan": "07:46",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-13 02:00 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-13 02:15 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
