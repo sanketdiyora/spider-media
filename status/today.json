@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13 14:07 IST",
+"updated": "2026-11-13 14:22 IST",
 "date": "2026-11-13",
 "followers": 50,
 "media_count": 146,
@@ -636,7 +636,7 @@
 "sl": 7620.75,
 "r": null,
 "opened": "13 Nov 10:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 1.00 lots @7603.96 SL 7627.47 (scanner SL) entry 7605.45 basis 6.12 (M15) +SLbuf 0.60 split TP1/TP2 risk 0.47%"
 },
@@ -647,19 +647,6 @@
 "model": "poc",
 "entry": 50.006,
 "sl": 50.1318,
-"r": null,
-"opened": "13 Nov 13:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "US500_1794555900_dpoc",
-"pair": "US500",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 7591.32,
-"sl": 7600.78,
 "r": null,
 "opened": "13 Nov 13:30",
 "state": "risk-free",
@@ -691,6 +678,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.22 lots @1.88698 SL 1.88537 (scanner SL) entry 1.88698 basis 0.00001 (M15) split TP1/TP2 risk 0.50%"
+},
+{
+"id": "NAS100_1794558600_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 28165.12,
+"sl": 28274.92,
+"r": null,
+"opened": "13 Nov 14:05",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "FILLED"
+},
+{
+"id": "AUDUSD_1794558600_dpoc",
+"pair": "AUDUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.67934,
+"sl": 0.680246,
+"r": null,
+"opened": "13 Nov 14:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.31 lots @0.67959 SL 0.68038 (scanner SL) entry 0.67931 basis -0.00003 (M15) +SLbuf 0.00016  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -784,9 +797,35 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 0.00018 = 0.27R of the scanner risk (basis -0.00011 (M15))"
+},
+{
+"id": "US500_1794555900_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7591.32,
+"sl": 7600.78,
+"r": 0.71,
+"opened": "13 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "US500_1794555900_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7591.32,
+"sl": 7600.78,
+"r": 0.71,
+"opened": "13 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "EURCHF_1794550500_lbo",
 "pair": "EURCHF",
@@ -968,38 +1007,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CADJPY_1794443400_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 112.026,
-"sl": 112.174,
-"r": -1.0,
-"opened": "12 Nov 06:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 108,
-"all_net": 23.9,
-"all_win": 61,
-"today_net": -1.43,
+"all_n": 109,
+"all_net": 24.61,
+"all_win": 62,
+"today_net": -0.72,
 "engine": {
-"last_scan": "14:01",
+"last_scan": "14:17",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-13 08:30 UTC · new 1 · events 0 · open 7"
+"summary": "run 2026-11-13 08:45 UTC · new 1 · events 1 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4974.40",
-"equity": "5016.00",
-"floating": "41.60",
-"positions": "9",
+"equity": "5031.36",
+"floating": "56.96",
+"positions": "10",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
