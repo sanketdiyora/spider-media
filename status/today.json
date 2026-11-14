@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-14 19:11 IST",
+"updated": "2026-11-14 20:41 IST",
 "date": "2026-11-14",
 "followers": 51,
-"media_count": 159,
+"media_count": 160,
 "slots": [
 {
 "slot": "0025",
@@ -17,11 +17,11 @@
 "time": "2026-11-14 00:18",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
-"likes": 15,
+"likes": 19,
 "comments": 0,
-"views": 947,
-"reach": 747,
-"saved": 5,
+"views": 1065,
+"reach": 836,
+"saved": 6,
 "shares": 7
 }
 },
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DftTFxpirg5/",
 "likes": 4,
 "comments": 0,
-"views": 211,
-"reach": 166,
+"views": 216,
+"reach": 172,
 "saved": 4,
 "shares": 2
 }
@@ -104,7 +104,7 @@
 "likes": 0,
 "comments": 1,
 "views": 3,
-"reach": 1,
+"reach": 2,
 "saved": 0,
 "shares": 0
 }
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Dft8XBOE-lY/",
 "likes": 0,
 "comments": 0,
-"views": 86,
-"reach": 79,
+"views": 100,
+"reach": 91,
 "saved": 0,
 "shares": 0
 }
@@ -188,7 +188,7 @@
 "likes": 0,
 "comments": 0,
 "views": 1,
-"reach": 0,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -206,12 +206,12 @@
 "time": "2026-11-14 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfuUWYujW_x/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 127,
+"reach": 104,
 "saved": 0,
-"shares": 0
+"shares": 2
 }
 },
 {
@@ -219,11 +219,38 @@
 "name": "KNOW reel",
 "type": "reel",
 "title": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halc",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17971875189212581",
+"cap": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halchal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingsessions #xauusd #forexhindi #goldtrading #tradingeducation",
+"cap1": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halc",
+"time": "2026-11-14 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfueqimmW1f/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "17971875189212581",
+"cap": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halchal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingsessions #xauusd #forexhindi #goldtrading #tradingeducation",
+"cap1": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halc",
+"time": "2026-11-14 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfueqimmW1f/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18399031762200159",
 "cap": "Only 40% winners and still profitable? ⚖️\n10 trades: 4 wins at +3R, 6 losses at −1R = +6R (+12% at 2% risk per R). The same 40% win rate at 1:1 risk:reward loses −2R.\nRisk:reward beats win rate. Win less, win bigger.\nExample math only. Not a promise of profit.\nFollow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #tradingpsychology #winrate #forextrader #spidertrades",
@@ -231,12 +258,12 @@
 "time": "2026-11-14 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfuUWYujW_x/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 127,
+"reach": 104,
 "saved": 0,
-"shares": 0
+"shares": 2
 },
 {
 "id": "18142734127724149",
@@ -248,7 +275,7 @@
 "likes": 0,
 "comments": 0,
 "views": 1,
-"reach": 0,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -261,8 +288,8 @@
 "link": "https://www.instagram.com/reel/Dft8XBOE-lY/",
 "likes": 0,
 "comments": 0,
-"views": 86,
-"reach": 79,
+"views": 100,
+"reach": 91,
 "saved": 0,
 "shares": 0
 },
@@ -304,7 +331,7 @@
 "likes": 0,
 "comments": 1,
 "views": 3,
-"reach": 1,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -317,8 +344,8 @@
 "link": "https://www.instagram.com/reel/DftTFxpirg5/",
 "likes": 4,
 "comments": 0,
-"views": 211,
-"reach": 166,
+"views": 216,
+"reach": 172,
 "saved": 4,
 "shares": 2
 },
@@ -357,11 +384,11 @@
 "time": "2026-11-14 00:18",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
-"likes": 15,
+"likes": 19,
 "comments": 0,
-"views": 947,
-"reach": 747,
-"saved": 5,
+"views": 1065,
+"reach": 836,
+"saved": 6,
 "shares": 7
 },
 {
@@ -471,7 +498,7 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 1,
 "comments": 0,
-"views": 110,
+"views": 111,
 "reach": 92,
 "saved": 1,
 "shares": 0
@@ -500,7 +527,7 @@
 "likes": 0,
 "comments": 0,
 "views": 11,
-"reach": 3,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -627,20 +654,6 @@
 "comments": 0,
 "views": 124,
 "reach": 105,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "17931905475177123",
-"cap": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇\nAaj: 1 trade band · 0 jeete · 1 haare · net -1.0R · 8 live\nAUDJPY SELL — band, -1.0R (SL hit)\nNAS100 SELL — abhi chal raha hai, +1.3R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"time": "2026-11-12 11:08",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfoUoKTHKrw/",
-"likes": 0,
-"comments": 0,
-"views": 38,
-"reach": 26,
 "saved": 0,
 "shares": 0
 }
@@ -879,7 +892,7 @@
 "today_net": -0.46,
 "engine": {
 "last_scan": "02:56",
-"age_min": 975,
+"age_min": 1064,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -899,6 +912,16 @@
 "disk_free_gb": 15.7,
 "github_runs": [
 {
+"t": "2026-11-14T15:00:23Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-14T14:26:07Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-14T13:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -910,16 +933,6 @@
 },
 {
 "t": "2026-11-14T12:05:33Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-14T11:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-14T08:53:58Z",
 "ok": "success",
 "ev": "schedule"
 }
