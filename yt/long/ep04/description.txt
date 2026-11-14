@@ -1,0 +1,47 @@
+Ek hi size ka buy order: ek din price bas 1 point hilta hai, dusre din 5 point uchhal jata hai. Kyun? Jawaab chart pe nahi, Order Book me hai. Is episode me zero se samjho Order Book (DOM), Liquidity, aur market order book ko kaise "khata" hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 4 hai (24 episodes, Hindi + English). Pichhle episodes nahi dekhe? Playlist me shuru se dekho.
+
+Is episode me:
+• Order book kya hai (mandi ki parchiyon se samjho)
+• Order book ki seedhi: upar Ask, neeche Bid, aur DOM ka matlab
+• Book me kya nahi dikhta: market order aur stop order
+• Liquidity kya hai: gehra talaab vs chhichhla gaddha
+• Moti book vs patli book
+• Market order book ko kaise khata hai, aur price asal me kaise hilta hai
+• Bada limit order (deewar) price ko kyun rokta hai
+• Book badalti rehti hai: khabar ke time spread aur slippage kyun badhte hain
+• Spoofing aur iceberg: book jhooth bhi bol sakti hai
+• Forex aur gold spot me central order book kyun nahi hoti
+
+Chapters:
+0:00 Intro
+0:27 Pichhla episode
+0:49 Mandi ki parchiyan
+1:24 Order book ki seedhi
+1:57 Book me kya nahi dikhta
+2:20 Liquidity
+2:49 Moti aur patli book
+3:10 Market order book ko khata hai
+3:48 Wahi order, alag asar
+4:15 Deewar
+4:43 Book badalti rehti hai
+5:07 Book jhooth bhi bolti hai
+5:41 Forex aur gold ka sach
+6:04 Order Flow se rishta
+6:26 Recap
+6:52 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1: https://youtu.be/k2cNi_kMYMo
+Episode 2: https://youtu.be/3MAcGFXck4U
+Episode 3: https://youtu.be/k85NV5xBEWY
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+Agla episode: Aggressive vs Passive: price ko asal me kaun hilata hai.
+English subtitles available (CC on karo).
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.
+
+#OrderFlow #TradingHindi #OrderBook #Liquidity #SpiderTrades

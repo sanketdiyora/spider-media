@@ -1,0 +1,288 @@
+1
+00:00:05,000 --> 00:00:09,049
+Price is at 100. You send a buy order for 30 lots.
+
+2
+00:00:09,498 --> 00:00:12,268
+One day, price moved just 1 point.
+
+3
+00:00:12,718 --> 00:00:17,080
+Another day, the same order, and price jumped 5 points.
+
+4
+00:00:17,530 --> 00:00:21,317
+Same order, same size. So why a different effect?
+
+5
+00:00:21,768 --> 00:00:26,209
+The answer is not on the chart. It is in the order book.
+
+6
+00:00:27,209 --> 00:00:31,963
+Hello, this is episode four of the SPIDER Order Flow series.
+
+7
+00:00:32,412 --> 00:00:39,963
+Last time we learned: limit orders put supply in the market, and market orders take it.
+
+8
+00:00:40,413 --> 00:00:48,119
+Three questions today. What is the order book? What is liquidity? And how does a market order eat the book?
+
+9
+00:00:49,119 --> 00:00:55,310
+Back to the vegetable market. Every seller has written his price and quantity on a slip.
+
+10
+00:00:55,760 --> 00:01:05,477
+One says: 5 kilos at 102. Another: 8 kilos at 103. A third: 20 kilos at 104.
+
+11
+00:01:05,926 --> 00:01:12,196
+Buyers have put up slips too. Want 6 kilos at 100. Want 10 kilos at 99.
+
+12
+00:01:12,646 --> 00:01:17,009
+No deal has happened yet. All of them are just waiting.
+
+13
+00:01:17,458 --> 00:01:20,384
+Now write all these slips on a single board.
+
+14
+00:01:20,835 --> 00:01:23,526
+That board is called the order book.
+
+15
+00:01:24,526 --> 00:01:29,122
+The order book is like a ladder. Every rung is a price.
+
+16
+00:01:29,573 --> 00:01:34,014
+On top are the sellers' limit orders. These are the Asks.
+
+17
+00:01:34,464 --> 00:01:38,747
+Below are the buyers' limit orders. These are the Bids.
+
+18
+00:01:39,198 --> 00:01:43,247
+Next to every price is how much is waiting there.
+
+19
+00:01:43,696 --> 00:01:51,167
+The lowest Ask and the highest Bid are the same two prices we saw in the last episode.
+
+20
+00:01:51,618 --> 00:01:56,294
+This ladder is also called the DOM, the Depth of Market.
+
+21
+00:01:57,294 --> 00:02:03,015
+Note: the book shows only limit orders. The ones who wait.
+
+22
+00:02:03,464 --> 00:02:09,499
+A market order never sits in the book. It arrives, takes, and leaves.
+
+23
+00:02:09,949 --> 00:02:14,076
+Stop orders do not show in the book either. They are still asleep.
+
+24
+00:02:14,525 --> 00:02:19,777
+So the book is not the full picture. It is only a list of those who wait.
+
+25
+00:02:20,777 --> 00:02:24,643
+Now today's most important word: liquidity.
+
+26
+00:02:25,093 --> 00:02:32,016
+Liquidity means: how much is waiting nearby, so you can trade without moving the price.
+
+27
+00:02:32,466 --> 00:02:38,656
+Think of it as water. Throw a stone in a deep pond and you get a small ripple.
+
+28
+00:02:39,107 --> 00:02:43,704
+Throw the same stone in a shallow puddle and all the water splashes out.
+
+29
+00:02:44,154 --> 00:02:48,987
+In the market, the water is limit orders. And the stone is a market order.
+
+30
+00:02:49,987 --> 00:02:55,054
+A book with a lot waiting at every price is called a thick book.
+
+31
+00:02:55,504 --> 00:02:59,553
+In a thick book, even a big order cannot move price much.
+
+32
+00:03:00,003 --> 00:03:04,679
+A book with only a little at each price is a thin book.
+
+33
+00:03:05,129 --> 00:03:09,805
+In a thin book, even a small order pushes price through several levels.
+
+34
+00:03:10,805 --> 00:03:16,918
+Now watch how a market order eats the book. A buy market order arrives: 30 lots.
+
+35
+00:03:17,368 --> 00:03:23,010
+10 lots were waiting at 102. All eaten. That price is empty.
+
+36
+00:03:23,460 --> 00:03:26,620
+There were 10 at 103 too. Gone as well.
+
+37
+00:03:27,071 --> 00:03:32,714
+The last 10 lots came from 104. There were 20 there, now 10 remain.
+
+38
+00:03:33,164 --> 00:03:40,400
+Now the cheapest seller is at 104. So the Ask went straight from 102 to 104.
+
+39
+00:03:40,850 --> 00:03:47,275
+Nobody pushed the price. The supply in its path simply got eaten. That is how price moves.
+
+40
+00:03:48,275 --> 00:03:57,366
+Back to the opening question. The same 30 lot order, but this time the book is thick. 50 lots are waiting at 102 alone.
+
+41
+00:03:57,816 --> 00:04:01,864
+The whole order filled at 102. The Ask did not move at all.
+
+42
+00:04:02,315 --> 00:04:05,946
+And in the thin book, the same order ate through three prices.
+
+43
+00:04:06,396 --> 00:04:14,102
+The order was the same. Only the book was different. That is why the same size order sometimes moves price and sometimes does not.
+
+44
+00:04:15,102 --> 00:04:21,868
+Now imagine a very large limit order sitting at one price. 500 lots at 105.
+
+45
+00:04:22,318 --> 00:04:26,994
+Market orders come and eat, but this supply just does not run out.
+
+46
+00:04:27,444 --> 00:04:33,165
+Price arrives there and stalls. On a chart this spot looks like resistance.
+
+47
+00:04:33,615 --> 00:04:38,761
+But if this wall gets fully eaten, the supply behind it is often thin.
+
+48
+00:04:39,211 --> 00:04:42,607
+And then price moves ahead quickly.
+
+49
+00:04:43,607 --> 00:04:47,578
+One more thing. The order book is not a photo, it is a video.
+
+50
+00:04:48,028 --> 00:04:53,017
+Limit orders can be placed at any time, and removed at any time.
+
+51
+00:04:53,467 --> 00:04:59,188
+Before big news, people pull their orders. The book suddenly gets thin.
+
+52
+00:04:59,638 --> 00:05:06,482
+That is why spreads widen and slippage grows around news. This is the root of both.
+
+53
+00:05:07,482 --> 00:05:09,990
+And the book can lie, too.
+
+54
+00:05:10,440 --> 00:05:17,205
+Sometimes a big order is placed only for show. As price gets close, it disappears.
+
+55
+00:05:17,655 --> 00:05:22,566
+This is called spoofing, and it is illegal in most markets.
+
+56
+00:05:23,016 --> 00:05:31,767
+The reverse happens too. Big players hide their real size and show only a little at a time. This is called an iceberg.
+
+57
+00:05:32,217 --> 00:05:40,498
+The full story of both is in episode 18. For now just remember: what the book shows is not a promise.
+
+58
+00:05:41,498 --> 00:05:48,107
+An honest note. In spot forex and gold there is no single central order book.
+
+59
+00:05:48,557 --> 00:05:55,323
+The depth you see on your broker's platform is only that broker's, not the whole market's.
+
+60
+00:05:55,773 --> 00:05:59,900
+A full book is found on a futures exchange, like the CME.
+
+61
+00:06:00,350 --> 00:06:03,668
+We will cover this fully in episode 6.
+
+62
+00:06:04,668 --> 00:06:07,437
+So what is the book's role in Order Flow?
+
+63
+00:06:07,887 --> 00:06:12,406
+The book tells you what people want to do. That is intention.
+
+64
+00:06:12,856 --> 00:06:17,532
+And completed trades tell you what really happened. That is action.
+
+65
+00:06:17,982 --> 00:06:25,218
+Order Flow watches both together. Market orders hit a wall: did the wall break, or did it hold?
+
+66
+00:06:26,218 --> 00:06:27,785
+So, today's summary.
+
+67
+00:06:28,235 --> 00:06:35,236
+The order book is a ladder of waiting limit orders. Asks on top, Bids below.
+
+68
+00:06:35,686 --> 00:06:43,000
+Liquidity means the supply waiting nearby. Price moves less in a thick book, more in a thin one.
+
+69
+00:06:43,450 --> 00:06:51,156
+Market orders eat the book, and that is what moves price. But the book also changes, and it can lie.
+
+70
+00:06:52,156 --> 00:06:59,967
+Next episode: Aggressive and Passive traders. Who really moves price, and who stops it.
+
+71
+00:07:00,417 --> 00:07:05,250
+If this was useful, subscribe and save the playlist.
+
+72
+00:07:05,700 --> 00:07:11,812
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
