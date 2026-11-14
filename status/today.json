@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-14 08:11 IST",
+"updated": "2026-11-14 11:11 IST",
 "date": "2026-11-14",
-"followers": 50,
-"media_count": 152,
+"followers": 51,
+"media_count": 154,
 "slots": [
 {
 "slot": "0025",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 2,
 "comments": 0,
-"views": 182,
-"reach": 153,
+"views": 248,
+"reach": 207,
 "saved": 1,
 "shares": 3
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-14 08:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftI0uhDf_e/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 102,
+"reach": 82,
 "saved": 0,
 "shares": 0
 }
@@ -72,16 +72,42 @@
 "name": "reel",
 "type": "reel",
 "title": "Har trade thode loss se shuru hota hai. Kyun? 📉",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18131951779879159",
+"cap": "Har trade thode loss se shuru hota hai. Kyun? 📉\n\nBid aur Ask ke beech ki doori = Spread. 102 pe kharida aur usi pal becho to milenge 100. Price ko pehle spread paar karna hai, tab jaakar profit. Aur spread hamesha ek jaisa nahi: London/New York me patla, raat me ya badi khabar se pehle chauda.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #spread #spidertrades",
+"cap1": "Har trade thode loss se shuru hota hai. Kyun? 📉",
+"time": "2026-11-14 09:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DftTFxpirg5/",
+"likes": 2,
+"comments": 0,
+"views": 146,
+"reach": 110,
+"saved": 2,
+"shares": 0
+}
 },
 {
 "slot": "1100",
 "name": "BOT post",
 "type": "carousel",
 "title": "Free bot: step by step 🧭 DM → partner broker → account → bot + setup. ",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18145895809612258",
+"cap": "Free bot: step by step 🧭 DM → partner broker → account → bot + setup. Bot fee, subscription, profit share: zero.\nNormal spread/commission har broker jaisa. DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#freebot #tradingbot #mt5 #forexhindi #xauusd",
+"cap1": "Free bot: step by step 🧭 DM → partner broker → account → bot + setup. ",
+"time": "2026-11-14 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DftdeszDZHT/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -134,16 +160,44 @@
 ],
 "recent_posts": [
 {
+"id": "18145895809612258",
+"cap": "Free bot: step by step 🧭 DM → partner broker → account → bot + setup. Bot fee, subscription, profit share: zero.\nNormal spread/commission har broker jaisa. DM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#freebot #tradingbot #mt5 #forexhindi #xauusd",
+"cap1": "Free bot: step by step 🧭 DM → partner broker → account → bot + setup. ",
+"time": "2026-11-14 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DftdeszDZHT/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
+"id": "18131951779879159",
+"cap": "Har trade thode loss se shuru hota hai. Kyun? 📉\n\nBid aur Ask ke beech ki doori = Spread. 102 pe kharida aur usi pal becho to milenge 100. Price ko pehle spread paar karna hai, tab jaakar profit. Aur spread hamesha ek jaisa nahi: London/New York me patla, raat me ya badi khabar se pehle chauda.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #spread #spidertrades",
+"cap1": "Har trade thode loss se shuru hota hai. Kyun? 📉",
+"time": "2026-11-14 09:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DftTFxpirg5/",
+"likes": 2,
+"comments": 0,
+"views": 146,
+"reach": 110,
+"saved": 2,
+"shares": 0
+},
+{
 "id": "17913316659303426",
 "cap": "🕷 WEEKLY REVIEW (Sat 14 Nov) — live scanner, sirf asli result 👇\nIs hafte (9-13 Nov) 106 trades: 64 jeete, 39 haare, 3 breakeven, net +27.5R. Neeche 2 bade winner aur 2 loss 👇\nEURUSD SELL — TP1 hit, baaki trailing stop se close (+5.4R)\nUSDCAD BUY — TP1 hit, baaki trailing stop se close (+2.4R)\nBTCUSD SELL — SL hit (-1.0R)\nUSDJPY BUY — SL hit (-1.0R)\nHar trade, har loss Telegram pe live post hua tha. Hum loss chhupate nahi.\nYe sirf scenario hain, trade call nahi. Risk aur plan apna.\nAisi aur jaankari ke liye SPIDER ko follow karein 🕷️ (Telegram link in bio)\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingjournal #weeklyreview #priceaction #spidertrades",
 "cap1": "🕷 WEEKLY REVIEW (Sat 14 Nov) — live scanner, sirf asli result 👇",
 "time": "2026-11-14 08:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftI0uhDf_e/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 102,
+"reach": 82,
 "saved": 0,
 "shares": 0
 },
@@ -170,8 +224,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 2,
 "comments": 0,
-"views": 182,
-"reach": 153,
+"views": 248,
+"reach": 207,
 "saved": 1,
 "shares": 3
 },
@@ -184,8 +238,8 @@
 "link": "https://www.instagram.com/reel/Dfr53kBnzv9/",
 "likes": 1,
 "comments": 0,
-"views": 114,
-"reach": 98,
+"views": 117,
+"reach": 100,
 "saved": 1,
 "shares": 0
 },
@@ -198,8 +252,8 @@
 "link": "https://www.instagram.com/reel/DfrvjviFQiz/",
 "likes": 1,
 "comments": 0,
-"views": 72,
-"reach": 59,
+"views": 88,
+"reach": 75,
 "saved": 1,
 "shares": 0
 },
@@ -226,8 +280,8 @@
 "link": "https://www.instagram.com/reel/DfrJy3Fj9s5/",
 "likes": 0,
 "comments": 0,
-"views": 18,
-"reach": 14,
+"views": 26,
+"reach": 21,
 "saved": 0,
 "shares": 0
 },
@@ -240,8 +294,8 @@
 "link": "https://www.instagram.com/reel/Dfq_fHAFbYN/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -254,8 +308,8 @@
 "link": "https://www.instagram.com/reel/Dfq5nRND0_z/",
 "likes": 0,
 "comments": 0,
-"views": 85,
-"reach": 68,
+"views": 86,
+"reach": 69,
 "saved": 0,
 "shares": 0
 },
@@ -282,8 +336,8 @@
 "link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
 "likes": 1,
 "comments": 0,
-"views": 109,
-"reach": 90,
+"views": 110,
+"reach": 91,
 "saved": 1,
 "shares": 0
 },
@@ -394,8 +448,8 @@
 "link": "https://www.instagram.com/p/Dfo9CNPlG4a/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 1,
+"views": 3,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -464,8 +518,8 @@
 "link": "https://www.instagram.com/p/DfoT3OsF1cW/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 1,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -522,34 +576,6 @@
 "comments": 0,
 "views": 25,
 "reach": 21,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "18141631699625118",
-"cap": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada target kam hit hota hai.\nSave kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #riskmanagement #forexhindi #tradingeducation #xauusd",
-"cap1": "Risk : Reward ⚖️ 1:2 pe sirf 33% jeetna kaafi (breakeven). Par bada ta",
-"time": "2026-11-11 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfmYQ4mkdQd/",
-"likes": 0,
-"comments": 0,
-"views": 2,
-"reach": 2,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "18431329219151567",
-"cap": "Martingale se darr lagta hai? GoldMint STRIKER ⚡ Har entry pe hard SL, profit pe trailing, lot nahi badhta.\n$100 se. DM \"STRIKER\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintstriker #tradingbot #xauusd #scalping #forexhindi",
-"cap1": "Martingale se darr lagta hai? GoldMint STRIKER ⚡ Har entry pe hard SL,",
-"time": "2026-11-11 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfmAMLGm86d/",
-"likes": 1,
-"comments": 0,
-"views": 47,
-"reach": 36,
 "saved": 0,
 "shares": 0
 }
@@ -788,7 +814,7 @@
 "today_net": -0.46,
 "engine": {
 "last_scan": "02:56",
-"age_min": 314,
+"age_min": 494,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -805,8 +831,13 @@
 },
 "voice_chars_month": 84175,
 "voice_limit": 30000,
-"disk_free_gb": 20.9,
+"disk_free_gb": 20.8,
 "github_runs": [
+{
+"t": "2026-11-14T05:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-14T02:30:16Z",
 "ok": "success",
@@ -824,11 +855,6 @@
 },
 {
 "t": "2026-11-13T21:54:59Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-13T20:57:59Z",
 "ok": "success",
 "ev": "schedule"
 }
