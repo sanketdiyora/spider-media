@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-14 12:11 IST",
+"updated": "2026-11-14 13:41 IST",
 "date": "2026-11-14",
-"followers": 52,
-"media_count": 155,
+"followers": 53,
+"media_count": 156,
 "slots": [
 {
 "slot": "0025",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 2,
 "comments": 0,
-"views": 278,
-"reach": 235,
+"views": 318,
+"reach": 263,
 "saved": 2,
 "shares": 3
 }
@@ -61,10 +61,10 @@
 "link": "https://www.instagram.com/reel/DftI0uhDf_e/",
 "likes": 3,
 "comments": 0,
-"views": 106,
-"reach": 96,
+"views": 108,
+"reach": 99,
 "saved": 0,
-"shares": 0
+"shares": 2
 }
 },
 {
@@ -80,10 +80,10 @@
 "time": "2026-11-14 09:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftTFxpirg5/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 155,
-"reach": 124,
+"views": 186,
+"reach": 148,
 "saved": 3,
 "shares": 2
 }
@@ -102,9 +102,9 @@
 "type": "CAROUSEL",
 "link": "https://www.instagram.com/p/DftdeszDZHT/",
 "likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
+"comments": 1,
+"views": 3,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -122,10 +122,10 @@
 "time": "2026-11-14 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftkSYqCqgk/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 70,
+"reach": 54,
 "saved": 0,
 "shares": 0
 }
@@ -135,8 +135,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse b",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18063530504797542",
+"cap": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse bot fee nahi. Risk tumhara.\nDM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#freebot #tradingbot #ibpartner #forexhindi #mt5",
+"cap1": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse b",
+"time": "2026-11-14 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DftungKoKGn/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1530",
@@ -173,16 +186,30 @@
 ],
 "recent_posts": [
 {
+"id": "18063530504797542",
+"cap": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse bot fee nahi. Risk tumhara.\nDM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#freebot #tradingbot #ibpartner #forexhindi #mt5",
+"cap1": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse b",
+"time": "2026-11-14 13:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DftungKoKGn/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18129543898906795",
 "cap": "Stop loss kamzori nahi. Ye tumhari seatbelt hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "Stop loss kamzori nahi. Ye tumhari seatbelt hai. 🕷️",
 "time": "2026-11-14 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftkSYqCqgk/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 70,
+"reach": 54,
 "saved": 0,
 "shares": 0
 },
@@ -194,9 +221,9 @@
 "type": "CAROUSEL",
 "link": "https://www.instagram.com/p/DftdeszDZHT/",
 "likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
+"comments": 1,
+"views": 3,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -207,10 +234,10 @@
 "time": "2026-11-14 09:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DftTFxpirg5/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 155,
-"reach": 124,
+"views": 186,
+"reach": 148,
 "saved": 3,
 "shares": 2
 },
@@ -223,10 +250,10 @@
 "link": "https://www.instagram.com/reel/DftI0uhDf_e/",
 "likes": 3,
 "comments": 0,
-"views": 106,
-"reach": 96,
+"views": 108,
+"reach": 99,
 "saved": 0,
-"shares": 0
+"shares": 2
 },
 {
 "id": "17896086972436069",
@@ -251,8 +278,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 2,
 "comments": 0,
-"views": 278,
-"reach": 235,
+"views": 318,
+"reach": 263,
 "saved": 2,
 "shares": 3
 },
@@ -266,7 +293,7 @@
 "likes": 1,
 "comments": 0,
 "views": 118,
-"reach": 100,
+"reach": 101,
 "saved": 1,
 "shares": 0
 },
@@ -277,10 +304,10 @@
 "time": "2026-11-13 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfrvjviFQiz/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 96,
-"reach": 77,
+"views": 118,
+"reach": 99,
 "saved": 1,
 "shares": 0
 },
@@ -307,10 +334,10 @@
 "link": "https://www.instagram.com/reel/DfrJy3Fj9s5/",
 "likes": 0,
 "comments": 0,
-"views": 29,
-"reach": 24,
+"views": 44,
+"reach": 33,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "18474391474187552",
@@ -391,8 +418,8 @@
 "link": "https://www.instagram.com/p/DfqdLaNDi-r/",
 "likes": 0,
 "comments": 0,
-"views": 6,
-"reach": 2,
+"views": 11,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -576,20 +603,6 @@
 "views": 130,
 "reach": 109,
 "saved": 0,
-"shares": 0
-},
-{
-"id": "18093052406236948",
-"cap": "50% win rate, phir bhi profit? 🤔 Risk:Reward ka math, 10 trades ke example ke saath.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #winrate #forexhindi #tradingeducation #riskmanagement",
-"cap1": "50% win rate, phir bhi profit? 🤔 Risk:Reward ka math, 10 trades ke exa",
-"time": "2026-11-11 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfmwRziDWle/",
-"likes": 1,
-"comments": 0,
-"views": 118,
-"reach": 108,
-"saved": 1,
 "shares": 0
 }
 ],
@@ -827,7 +840,7 @@
 "today_net": -0.46,
 "engine": {
 "last_scan": "02:56",
-"age_min": 554,
+"age_min": 644,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -842,10 +855,20 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 84175,
+"voice_chars_month": 89234,
 "voice_limit": 30000,
-"disk_free_gb": 20.8,
+"disk_free_gb": 18.8,
 "github_runs": [
+{
+"t": "2026-11-14T08:00:22Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-14T07:27:33Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-14T06:30:16Z",
 "ok": "success",
@@ -860,16 +883,6 @@
 "t": "2026-11-14T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-14T01:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-13T22:25:16Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
