@@ -1,0 +1,300 @@
+1
+00:00:05,000 --> 00:00:07,038
+A very big volume came in.
+
+2
+00:00:07,488 --> 00:00:09,838
+Buyers pushed with everything they had.
+
+3
+00:00:10,289 --> 00:00:13,293
+Yet price did not go up a single point.
+
+4
+00:00:13,743 --> 00:00:16,329
+Instead, a little later it fell.
+
+5
+00:00:16,779 --> 00:00:20,984
+So much effort, and zero result? How?
+
+6
+00:00:21,433 --> 00:00:25,222
+To understand it, you need to know two kinds of traders.
+
+7
+00:00:26,222 --> 00:00:31,055
+Hello, this is episode five of the SPIDER Order Flow series.
+
+8
+00:00:31,505 --> 00:00:38,976
+Last time we saw: market orders eat what sits in the book, and that is what moves price.
+
+9
+00:00:39,426 --> 00:00:49,953
+Three questions today. Who are aggressive and passive traders? Who moves price and who stops it? And what is effort versus result?
+
+10
+00:00:50,953 --> 00:00:53,304
+In the market there are two kinds of people.
+
+11
+00:00:53,754 --> 00:00:59,162
+The first buyer is in a hurry. He wants it now, at whatever the going price is.
+
+12
+00:00:59,612 --> 00:01:03,896
+This is the aggressive trader. His tool is the market order.
+
+13
+00:01:04,346 --> 00:01:10,771
+The second man sits at his stall. He has written his price and is waiting.
+
+14
+00:01:11,222 --> 00:01:15,271
+This is the passive trader. His tool is the limit order.
+
+15
+00:01:15,720 --> 00:01:20,710
+The aggressive one gets filled instantly, but pays the cost of the spread.
+
+16
+00:01:21,160 --> 00:01:26,646
+The passive one gets a better price, but there is no guarantee the trade will happen.
+
+17
+00:01:27,646 --> 00:01:33,759
+They have other names too. The aggressive one is a taker, because he takes from the book.
+
+18
+00:01:34,208 --> 00:01:39,538
+The passive one is a maker, because he makes the market by placing orders in the book.
+
+19
+00:01:39,988 --> 00:01:46,518
+Whatever the name, the idea is the same: one takes, the other places.
+
+20
+00:01:47,518 --> 00:01:51,071
+Now the real question: who moves the price?
+
+21
+00:01:51,521 --> 00:01:56,928
+A passive order cannot move price by itself. It just sits where it is.
+
+22
+00:01:57,378 --> 00:02:03,256
+No matter how much sits in the book, until someone takes it, price stays put.
+
+23
+00:02:03,705 --> 00:02:09,270
+Price moves only when an aggressive order arrives and eats what is in its path.
+
+24
+00:02:09,720 --> 00:02:13,926
+So rule one: the aggressive trader moves the price.
+
+25
+00:02:14,926 --> 00:02:18,477
+But the aggressive side does not decide everything alone.
+
+26
+00:02:18,928 --> 00:02:24,805
+How much passive supply sits in front of it decides how far price will move.
+
+27
+00:02:25,256 --> 00:02:30,245
+If little is in the way, even a small push carries price far.
+
+28
+00:02:30,695 --> 00:02:36,808
+If a very large passive order is in the way, price stalls there even after a full push.
+
+29
+00:02:37,257 --> 00:02:45,303
+So rule two: aggressive pushes, passive stops. Price is the result of their fight.
+
+30
+00:02:46,303 --> 00:02:48,890
+This fight can end in three ways.
+
+31
+00:02:49,340 --> 00:02:56,654
+One: aggressive buyers were stronger. Passive sellers were few. Price broke higher.
+
+32
+00:02:57,103 --> 00:03:07,553
+Two: aggressive buyers came, but passive sellers absorbed all of it. Price stalled. This is called absorption, and it gets its own episode later.
+
+33
+00:03:08,003 --> 00:03:14,924
+Three: aggressive buyers got tired, the push ran out. Price came back down.
+
+34
+00:03:15,375 --> 00:03:20,521
+On a chart all three look different, but the question is the same: who was stronger.
+
+35
+00:03:21,521 --> 00:03:24,447
+Let us clear up one big misunderstanding here.
+
+36
+00:03:24,897 --> 00:03:29,416
+People say: price went up because there were more buyers.
+
+37
+00:03:29,866 --> 00:03:37,259
+But every trade has one buyer and one seller. The amount bought and sold is always equal.
+
+38
+00:03:37,709 --> 00:03:43,977
+The difference is who was in a hurry. Who crossed the spread and accepted the other side's price.
+
+39
+00:03:44,428 --> 00:03:51,429
+Price went up because buyers were more aggressive. Not more buyers, more aggressive buyers.
+
+40
+00:03:52,429 --> 00:03:59,273
+Now today's most useful idea: effort versus result.
+
+41
+00:03:59,722 --> 00:04:04,974
+Effort means how hard the push was. That is, how much aggressive volume came in.
+
+42
+00:04:05,424 --> 00:04:10,492
+Result means the outcome. That is, how far price actually moved.
+
+43
+00:04:10,942 --> 00:04:15,382
+Look at both together, and you see the market's real story.
+
+44
+00:04:16,382 --> 00:04:18,107
+Three situations are possible.
+
+45
+00:04:18,557 --> 00:04:26,916
+First: big effort, big result. This is a healthy move. What you see is what is happening.
+
+46
+00:04:27,366 --> 00:04:35,333
+Second: small effort, but a big result. It means there was nothing in the way. The book was thin.
+
+47
+00:04:35,783 --> 00:04:42,392
+Third: very big effort, but a small result. This is the most important signal.
+
+48
+00:04:42,842 --> 00:04:48,641
+It means a large passive player is sitting on the other side, absorbing all the effort.
+
+49
+00:04:49,091 --> 00:04:54,499
+Price can reverse from such a spot, because those who pushed get trapped.
+
+50
+00:04:55,499 --> 00:05:01,219
+Now recall the opening picture. Very big volume, but price did not move.
+
+51
+00:05:01,669 --> 00:05:09,480
+That was the third situation. Aggressive buyers pushed hard, but a large passive seller kept supplying all of it.
+
+52
+00:05:09,930 --> 00:05:14,684
+When the buyers ran out of push, nobody was left to take price higher.
+
+53
+00:05:15,134 --> 00:05:20,463
+And the buyers trapped at the top had to exit. That is why price fell.
+
+54
+00:05:21,463 --> 00:05:27,994
+A common question: so is passive always smart, and aggressive always wrong?
+
+55
+00:05:28,444 --> 00:05:32,153
+No. Big players use both ways.
+
+56
+00:05:32,603 --> 00:05:36,966
+When they need to fill a large size quietly, they go passive.
+
+57
+00:05:37,416 --> 00:05:43,685
+And when there is urgency, like around news or a breakout, the same players turn aggressive.
+
+58
+00:05:44,135 --> 00:05:50,822
+Remember, a stop order also becomes a market order once triggered. So it is aggressive too.
+
+59
+00:05:51,822 --> 00:05:55,950
+Now the question is, how do you see all this on a chart?
+
+60
+00:05:56,400 --> 00:06:00,684
+On a plain candle chart, aggressive and passive are not shown separately.
+
+61
+00:06:01,134 --> 00:06:08,370
+There are special tools for this: footprint, delta and CVD. We will learn them in Module 3.
+
+62
+00:06:08,820 --> 00:06:15,429
+For now, just change how you think. At every candle ask: who pushed, and what was the result?
+
+63
+00:06:16,429 --> 00:06:21,261
+That completes Module 1. Time for a short quiz.
+
+64
+00:06:21,711 --> 00:06:31,194
+Question 1. Price broke above the range on very big volume, but the candle was small and price came back inside. What happened?
+
+65
+00:06:31,644 --> 00:06:41,440
+Answer: passive sellers absorbed the aggressive buyers. Big effort, small result. And the market rejected the higher price.
+
+66
+00:06:41,890 --> 00:06:47,140
+Question 2. Why does the spread widen right before big news?
+
+67
+00:06:47,590 --> 00:06:56,185
+Answer: passive traders pull their limit orders. The book gets thin, so Bid and Ask move apart.
+
+68
+00:06:56,635 --> 00:07:00,344
+Got both right? Then you have Module 1 down.
+
+69
+00:07:01,344 --> 00:07:02,911
+So, today's summary.
+
+70
+00:07:03,361 --> 00:07:10,597
+The aggressive trader takes with market orders. The passive trader places with limit orders.
+
+71
+00:07:11,047 --> 00:07:17,735
+Aggressive pushes price, passive stops it. Price is the result of their fight.
+
+72
+00:07:18,185 --> 00:07:25,264
+Watch effort and result together. Big effort with a small result means someone is absorbing on the other side.
+
+73
+00:07:26,264 --> 00:07:35,903
+Module 2 starts next episode: the volume tools. First topic, Volume vs Tick Volume: the truth about forex and gold.
+
+74
+00:07:36,353 --> 00:07:41,186
+If this was useful, subscribe and save the playlist.
+
+75
+00:07:41,636 --> 00:07:47,748
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
