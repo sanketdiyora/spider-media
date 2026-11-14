@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-14/0800.mp4",
+ "dur": 43.91,
+ "music": "cinematic/677.mp3",
+ "chars": 512,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "EURUSD",
+   "dir": "SELL",
+   "style": "scanner",
+   "zone": [
+    1.11371,
+    1.11371
+   ],
+   "sl": 1.11442,
+   "entry": 1.11371,
+   "rr": 3.0,
+   "tp1": 1.113,
+   "tp2": 1.111581
+  },
+  {
+   "pair": "USDCAD",
+   "dir": "BUY",
+   "style": "scanner",
+   "zone": [
+    1.42162,
+    1.42162
+   ],
+   "sl": 1.420554,
+   "entry": 1.42162,
+   "rr": 3.0,
+   "tp1": 1.422686,
+   "tp2": 1.424818
+  },
+  {
+   "pair": "BTCUSD",
+   "dir": "SELL",
+   "style": "scanner",
+   "zone": [
+    74144.1,
+    74144.1
+   ],
+   "sl": 74901.0,
+   "entry": 74144.1,
+   "rr": 2.5,
+   "tp1": 73387.3,
+   "tp2": 72252.0
+  },
+  {
+   "pair": "USDJPY",
+   "dir": "BUY",
+   "style": "scanner",
+   "zone": [
+    159.927,
+    159.927
+   ],
+   "sl": 159.822,
+   "entry": 159.927,
+   "rr": 3.0,
+   "tp1": 160.032,
+   "tp2": 160.243
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_42e9a720",
+ "crops": [
+  "/home/claude/ig/setup/w_42e9a720/tg_0.jpg",
+  "/home/claude/ig/setup/w_42e9a720/tg_1.jpg",
+  "/home/claude/ig/setup/w_42e9a720/tg_2.jpg",
+  "/home/claude/ig/setup/w_42e9a720/tg_3.jpg"
+ ]
+}
