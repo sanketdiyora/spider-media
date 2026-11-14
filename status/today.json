@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14 17:12 IST",
+"updated": "2026-11-14 17:43 IST",
 "date": "2026-11-14",
 "followers": 54,
 "media_count": 158,
@@ -866,7 +866,7 @@
 "today_net": -0.46,
 "engine": {
 "last_scan": "02:56",
-"age_min": 855,
+"age_min": 887,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -881,10 +881,15 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 89234,
+"voice_chars_month": 97243,
 "voice_limit": 30000,
-"disk_free_gb": 18.8,
+"disk_free_gb": 15.7,
 "github_runs": [
+{
+"t": "2026-11-14T12:05:33Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-14T11:30:16Z",
 "ok": "success",
@@ -904,11 +909,6 @@
 "t": "2026-11-14T07:27:33Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-14T06:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
