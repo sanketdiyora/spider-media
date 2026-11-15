@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-15 13:41 IST",
+"updated": "2026-11-15 17:11 IST",
 "date": "2026-11-15",
-"followers": 57,
-"media_count": 164,
+"followers": 59,
+"media_count": 165,
 "slots": [
 {
 "slot": "0700",
@@ -17,10 +17,10 @@
 "time": "2026-11-15 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
-"likes": 6,
+"likes": 7,
 "comments": 0,
-"views": 444,
-"reach": 374,
+"views": 470,
+"reach": 396,
 "saved": 1,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-15 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 78,
-"reach": 50,
+"views": 114,
+"reach": 95,
 "saved": 0,
 "shares": 0
 }
@@ -80,11 +80,11 @@
 "time": "2026-11-15 13:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 1,
-"reach": 0,
-"saved": 0,
+"views": 113,
+"reach": 93,
+"saved": 3,
 "shares": 0
 }
 },
@@ -93,8 +93,21 @@
 "name": "KNOW post",
 "type": "carousel",
 "title": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, sig",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18180748948450182",
+"cap": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, signs aur hal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingpsychology #revengetrading #forexhindi #tradingeducation #riskmanagement",
+"cap1": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, sig",
+"time": "2026-11-15 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfwrdj7lIUR/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -115,17 +128,31 @@
 ],
 "recent_posts": [
 {
+"id": "18180748948450182",
+"cap": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, signs aur hal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingpsychology #revengetrading #forexhindi #tradingeducation #riskmanagement",
+"cap1": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, sig",
+"time": "2026-11-15 17:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/Dfwrdj7lIUR/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17903335995386984",
 "cap": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop, VPS, news plan.\nAgle hafte: asli results. Follow karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #riskmanagement #forexhindi #mt5 #algotrading",
 "cap1": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop",
 "time": "2026-11-15 13:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
-"likes": 0,
+"likes": 3,
 "comments": 0,
-"views": 1,
-"reach": 0,
-"saved": 0,
+"views": 113,
+"reach": 93,
+"saved": 3,
 "shares": 0
 },
 {
@@ -135,10 +162,10 @@
 "time": "2026-11-15 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 78,
-"reach": 50,
+"views": 114,
+"reach": 95,
 "saved": 0,
 "shares": 0
 },
@@ -163,10 +190,10 @@
 "time": "2026-11-15 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
-"likes": 6,
+"likes": 7,
 "comments": 0,
-"views": 444,
-"reach": 374,
+"views": 470,
+"reach": 396,
 "saved": 1,
 "shares": 0
 },
@@ -177,10 +204,10 @@
 "time": "2026-11-14 20:31",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfueqimmW1f/",
-"likes": 6,
+"likes": 7,
 "comments": 0,
-"views": 267,
-"reach": 215,
+"views": 301,
+"reach": 243,
 "saved": 2,
 "shares": 2
 },
@@ -319,8 +346,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 23,
 "comments": 0,
-"views": 1221,
-"reach": 993,
+"views": 1223,
+"reach": 995,
 "saved": 7,
 "shares": 7
 },
@@ -518,20 +545,6 @@
 "views": 20,
 "reach": 18,
 "saved": 1,
-"shares": 0
-},
-{
-"id": "18148523794573061",
-"cap": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇\nAaj: 14 trade band · 7 jeete · 7 haare · net -2.0R · 7 live\nAUDJPY SELL — band, +2.0R (TP2 hit)\nGBPJPY BUY — band, -1.0R (SL hit)\nJPN225 SELL — abhi chal raha hai, +1.0R (risk-free 🔒)\nAUDCHF SELL — abhi chal raha hai, +1.0R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 12 Nov) 👇",
-"time": "2026-11-12 18:40",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpIZE9EuQn/",
-"likes": 1,
-"comments": 0,
-"views": 109,
-"reach": 75,
-"saved": 0,
 "shares": 0
 }
 ],
@@ -742,7 +755,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 2084,
+"age_min": 2294,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -762,6 +775,21 @@
 "disk_free_gb": 13.4,
 "github_runs": [
 {
+"t": "2026-11-15T11:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-15T10:40:42Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-15T09:13:37Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
 "t": "2026-11-15T08:00:22Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -770,21 +798,6 @@
 "t": "2026-11-15T07:39:42Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-15T06:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-15T05:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-15T02:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
