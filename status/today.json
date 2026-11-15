@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-15 07:11 IST",
+"updated": "2026-11-15 11:11 IST",
 "date": "2026-11-15",
-"followers": 53,
-"media_count": 161,
+"followers": 57,
+"media_count": 162,
 "slots": [
 {
 "slot": "0700",
@@ -17,11 +17,11 @@
 "time": "2026-11-15 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
-"likes": 0,
+"likes": 6,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 427,
+"reach": 356,
+"saved": 1,
 "shares": 0
 }
 },
@@ -30,8 +30,21 @@
 "name": "BOT post",
 "type": "carousel",
 "title": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screen",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18578198749078659",
+"cap": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screenshots, dashboards. Har number pe tag: BACKTEST / PAPER / LIVE.\nLoss bhi dikhayenge. Kaunsa bot pehle dekhna hai? Comment karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #backtesting #xauusd #algotrading",
+"cap1": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screen",
+"time": "2026-11-15 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfwCRvYl4tj/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1200",
@@ -76,17 +89,31 @@
 ],
 "recent_posts": [
 {
+"id": "18578198749078659",
+"cap": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screenshots, dashboards. Har number pe tag: BACKTEST / PAPER / LIVE.\nLoss bhi dikhayenge. Kaunsa bot pehle dekhna hai? Comment karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #backtesting #xauusd #algotrading",
+"cap1": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screen",
+"time": "2026-11-15 11:01",
+"type": "CAROUSEL",
+"link": "https://www.instagram.com/p/DfwCRvYl4tj/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18109561658342681",
 "cap": "Stop 95 pe lagaya, fill 94 pe mila? 😳\n\nStop order trigger hote hi market order ban jata hai. Aur market order ko jo bhaav saamne mile, wahi milta hai. Jis bhaav pe maanga aur jis pe mila, us farq ko slippage kehte hain. Tez market aur khabar ke time ye zyada hota hai.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #slippage #spidertrades",
 "cap1": "Stop 95 pe lagaya, fill 94 pe mila? 😳",
 "time": "2026-11-15 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
-"likes": 0,
+"likes": 6,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 427,
+"reach": 356,
+"saved": 1,
 "shares": 0
 },
 {
@@ -98,10 +125,10 @@
 "link": "https://www.instagram.com/reel/DfueqimmW1f/",
 "likes": 6,
 "comments": 0,
-"views": 203,
-"reach": 167,
-"saved": 0,
-"shares": 1
+"views": 238,
+"reach": 193,
+"saved": 1,
+"shares": 2
 },
 {
 "id": "18399031762200159",
@@ -140,8 +167,8 @@
 "link": "https://www.instagram.com/reel/Dft8XBOE-lY/",
 "likes": 0,
 "comments": 0,
-"views": 106,
-"reach": 99,
+"views": 109,
+"reach": 100,
 "saved": 0,
 "shares": 0
 },
@@ -154,8 +181,8 @@
 "link": "https://www.instagram.com/reel/DftungKoKGn/",
 "likes": 0,
 "comments": 0,
-"views": 27,
-"reach": 22,
+"views": 28,
+"reach": 24,
 "saved": 0,
 "shares": 0
 },
@@ -169,7 +196,7 @@
 "likes": 3,
 "comments": 0,
 "views": 117,
-"reach": 97,
+"reach": 98,
 "saved": 0,
 "shares": 0
 },
@@ -196,9 +223,9 @@
 "link": "https://www.instagram.com/reel/DftTFxpirg5/",
 "likes": 4,
 "comments": 0,
-"views": 255,
-"reach": 200,
-"saved": 6,
+"views": 294,
+"reach": 230,
+"saved": 8,
 "shares": 3
 },
 {
@@ -238,8 +265,8 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 23,
 "comments": 0,
-"views": 1215,
-"reach": 992,
+"views": 1221,
+"reach": 993,
 "saved": 7,
 "shares": 7
 },
@@ -480,20 +507,6 @@
 "reach": 99,
 "saved": 3,
 "shares": 0
-},
-{
-"id": "18033871826919443",
-"cap": "Price kyun badhta hai? Buyers zyada NAHI the... 🥔\n\nSabzi mandi ka simple example: jab jaldi wale grahak aate hain, ₹20 wala maal khatam, phir ₹21, phir ₹22. Buyers zyada nahi the, bas zyada JALDI me the. Price ko hamesha wahi hilata hai jo jaldi me hai.\n\nOrder Flow Series, Episode 1 — poora episode SPIDER YouTube channel pe (zero se, Hindi me). Episode 2 bhi aa gaya!\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
-"cap1": "Price kyun badhta hai? Buyers zyada NAHI the... 🥔",
-"time": "2026-11-12 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfok9hGErAK/",
-"likes": 0,
-"comments": 0,
-"views": 170,
-"reach": 148,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -703,7 +716,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1695,
+"age_min": 1934,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -718,10 +731,20 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 98032,
+"voice_chars_month": 101319,
 "voice_limit": 30000,
-"disk_free_gb": 15.5,
+"disk_free_gb": 13.6,
 "github_runs": [
+{
+"t": "2026-11-15T05:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-15T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-15T01:30:15Z",
 "ok": "success",
@@ -734,16 +757,6 @@
 },
 {
 "t": "2026-11-14T20:37:41Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-14T19:27:01Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-14T18:39:25Z",
 "ok": "success",
 "ev": "schedule"
 }
