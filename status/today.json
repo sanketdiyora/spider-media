@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-15 12:11 IST",
+"updated": "2026-11-15 13:41 IST",
 "date": "2026-11-15",
 "followers": 57,
-"media_count": 163,
+"media_count": 164,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
 "likes": 6,
 "comments": 0,
-"views": 437,
-"reach": 368,
+"views": 444,
+"reach": 374,
 "saved": 1,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-15 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 78,
+"reach": 50,
 "saved": 0,
 "shares": 0
 }
@@ -72,8 +72,21 @@
 "name": "BOT reel",
 "type": "reel",
 "title": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17903335995386984",
+"cap": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop, VPS, news plan.\nAgle hafte: asli results. Follow karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #riskmanagement #forexhindi #mt5 #algotrading",
+"cap1": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop",
+"time": "2026-11-15 13:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
+"likes": 0,
+"comments": 0,
+"views": 1,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -102,16 +115,30 @@
 ],
 "recent_posts": [
 {
+"id": "17903335995386984",
+"cap": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop, VPS, news plan.\nAgle hafte: asli results. Follow karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #riskmanagement #forexhindi #mt5 #algotrading",
+"cap1": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop",
+"time": "2026-11-15 13:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
+"likes": 0,
+"comments": 0,
+"views": 1,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17890629465688557",
 "cap": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
 "cap1": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️",
 "time": "2026-11-15 12:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 78,
+"reach": 50,
 "saved": 0,
 "shares": 0
 },
@@ -138,8 +165,8 @@
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
 "likes": 6,
 "comments": 0,
-"views": 437,
-"reach": 368,
+"views": 444,
+"reach": 374,
 "saved": 1,
 "shares": 0
 },
@@ -152,9 +179,9 @@
 "link": "https://www.instagram.com/reel/DfueqimmW1f/",
 "likes": 6,
 "comments": 0,
-"views": 249,
-"reach": 202,
-"saved": 1,
+"views": 267,
+"reach": 215,
+"saved": 2,
 "shares": 2
 },
 {
@@ -208,8 +235,8 @@
 "link": "https://www.instagram.com/reel/DftungKoKGn/",
 "likes": 0,
 "comments": 0,
-"views": 29,
-"reach": 25,
+"views": 30,
+"reach": 26,
 "saved": 0,
 "shares": 0
 },
@@ -506,20 +533,6 @@
 "reach": 75,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18119663495082640",
-"cap": "Kaunsa timeframe? ⏱️ M1 se D1 tak. Scalping, intraday, swing ke liye kaunsa, aur bot ke liye ek rule.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#timeframe #forexhindi #tradingeducation #scalping #xauusd",
-"cap1": "Kaunsa timeframe? ⏱️ M1 se D1 tak. Scalping, intraday, swing ke liye k",
-"time": "2026-11-12 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfo9CNPlG4a/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 2,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -729,7 +742,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1994,
+"age_min": 2084,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -744,10 +757,20 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 101319,
+"voice_chars_month": 102016,
 "voice_limit": 30000,
-"disk_free_gb": 13.6,
+"disk_free_gb": 13.4,
 "github_runs": [
+{
+"t": "2026-11-15T08:00:22Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
+"t": "2026-11-15T07:39:42Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-15T06:30:15Z",
 "ok": "success",
@@ -762,16 +785,6 @@
 "t": "2026-11-15T02:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-15T01:30:15Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-14T21:11:14Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
