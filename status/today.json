@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-15 11:11 IST",
+"updated": "2026-11-15 12:11 IST",
 "date": "2026-11-15",
 "followers": 57,
-"media_count": 162,
+"media_count": 163,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
 "likes": 6,
 "comments": 0,
-"views": 427,
-"reach": 356,
+"views": 437,
+"reach": 368,
 "saved": 1,
 "shares": 0
 }
@@ -51,8 +51,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17890629465688557",
+"cap": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️",
+"time": "2026-11-15 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1330",
@@ -89,6 +102,20 @@
 ],
 "recent_posts": [
 {
+"id": "17890629465688557",
+"cap": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
+"cap1": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️",
+"time": "2026-11-15 12:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18578198749078659",
 "cap": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screenshots, dashboards. Har number pe tag: BACKTEST / PAPER / LIVE.\nLoss bhi dikhayenge. Kaunsa bot pehle dekhna hai? Comment karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmint #tradingbot #backtesting #xauusd #algotrading",
 "cap1": "Baatein ho gayi. Agle hafte: asli data 📂 Backtest reports, live screen",
@@ -111,8 +138,8 @@
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
 "likes": 6,
 "comments": 0,
-"views": 427,
-"reach": 356,
+"views": 437,
+"reach": 368,
 "saved": 1,
 "shares": 0
 },
@@ -125,8 +152,8 @@
 "link": "https://www.instagram.com/reel/DfueqimmW1f/",
 "likes": 6,
 "comments": 0,
-"views": 238,
-"reach": 193,
+"views": 249,
+"reach": 202,
 "saved": 1,
 "shares": 2
 },
@@ -181,8 +208,8 @@
 "link": "https://www.instagram.com/reel/DftungKoKGn/",
 "likes": 0,
 "comments": 0,
-"views": 28,
-"reach": 24,
+"views": 29,
+"reach": 25,
 "saved": 0,
 "shares": 0
 },
@@ -210,7 +237,7 @@
 "likes": 0,
 "comments": 1,
 "views": 4,
-"reach": 5,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -493,20 +520,6 @@
 "reach": 2,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18131553532697978",
-"cap": "Ek strategy pe sab daav? ORION aisa nahi karta 🌌 30+ engines, ML filter, daily loss guard.\nLive test chal raha hai. DM \"ORION\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#goldmintorion #tradingbot #machinelearning #xauusd #forexhindi",
-"cap1": "Ek strategy pe sab daav? ORION aisa nahi karta 🌌 30+ engines, ML filte",
-"time": "2026-11-12 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfok-3vDzrV/",
-"likes": 1,
-"comments": 0,
-"views": 117,
-"reach": 99,
-"saved": 3,
-"shares": 0
 }
 ],
 "trades": [],
@@ -716,7 +729,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1934,
+"age_min": 1994,
 "rc": 0,
 "summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -736,6 +749,11 @@
 "disk_free_gb": 13.6,
 "github_runs": [
 {
+"t": "2026-11-15T06:30:15Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-15T05:30:15Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -752,11 +770,6 @@
 },
 {
 "t": "2026-11-14T21:11:14Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-14T20:37:41Z",
 "ok": "success",
 "ev": "schedule"
 }
