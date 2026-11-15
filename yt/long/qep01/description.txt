@@ -1,0 +1,42 @@
+Do trader ek hi chart dekh rahe hain. Ek kehta hai "mujhe lag raha hai", dusra kehta hai "500 me 290 baar aisa hua". Pehla andaaza hai, dusra ginti. Is episode me zero se samjho Quant Trading kya hai, edge kya hota hai, expectancy ka hisaab, aur ek quant system kin 5 hisson se banta hai.
+
+Ye SPIDER ki Quant Trading Series ka Episode 1 hai (Hindi + English subtitles). Koi coding ya bhaari maths nahi chahiye, hum zero se shuru kar rahe hain.
+
+Is episode me:
+• Quant ka matlab: faisla feeling se nahi, data aur rule se
+• Chai wale ki copy: data → pattern → rule
+• Discretionary vs Systematic trading
+• Ek saaf rule kaisa dikhta hai (sirf example, salah nahi)
+• Edge: chhota fayda jo bahut saare trades me dikhta hai
+• Expectancy: 40% win rate ke saath bhi hisaab plus kaise
+• Ek trade nahi, poori series kyun dekhni chahiye
+• Quant system ke 5 hisse: idea, data, backtest, risk, execution
+• Quant trading kya nahi hai: jaadu nahi, guarantee nahi
+• Kya coding zaruri hai?
+
+Chapters:
+0:00 Intro
+0:28 Is series me kya hai
+0:47 Quant ka matlab
+1:06 Chai wale ki ginti
+1:33 Do tarah ki trading
+1:58 Rule kaisa hota hai
+2:21 Edge kya hai
+2:51 Expectancy
+3:18 Bahut saare trade
+3:35 System ke 5 hisse
+4:02 Quant kya nahi hai
+4:21 Coding zaruri hai?
+4:37 Recap
+5:02 Agla episode
+
+Agla episode: Win Rate ka Sach. 90% jeetne wala system bhi account kyun uda sakta hai?
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number aur rule sirf samjhane ke liye example hain.
+
+#quanttrading #algotrading #tradinghindi #backtesting #spidertrades

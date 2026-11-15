@@ -1,0 +1,236 @@
+1
+00:00:05,000 --> 00:00:07,586
+Two traders are looking at the same chart.
+
+2
+00:00:08,036 --> 00:00:12,399
+The first says: I feel price will go up.
+
+3
+00:00:12,849 --> 00:00:19,195
+The second says: this happened 500 times before, and price went up 290 times.
+
+4
+00:00:19,646 --> 00:00:23,277
+The first is a guess. The second is a count.
+
+5
+00:00:23,726 --> 00:00:27,202
+This counting approach is called quant trading.
+
+6
+00:00:28,202 --> 00:00:32,956
+Hello, this is episode one of the SPIDER Quant Trading series.
+
+7
+00:00:33,406 --> 00:00:38,239
+We start from zero. No coding and no heavy maths needed yet.
+
+8
+00:00:38,689 --> 00:00:46,395
+Three questions today. What is quant trading? What is an edge? And what are the parts of a quant system?
+
+9
+00:00:47,395 --> 00:00:52,541
+Quant comes from quantitative. Meaning: counting, numbers.
+
+10
+00:00:52,991 --> 00:00:56,622
+Here decisions come from data, not feelings.
+
+11
+00:00:57,072 --> 00:01:02,140
+The method is simple. First write a rule. Then check it on past data.
+
+12
+00:01:02,590 --> 00:01:05,750
+And only trade when the numbers look right.
+
+13
+00:01:06,750 --> 00:01:12,079
+Think of a tea seller. Every day he notes how many cups he sold.
+
+14
+00:01:12,529 --> 00:01:18,329
+After a few months he sees: 100 cups on a normal day, 150 on a rainy day.
+
+15
+00:01:18,779 --> 00:01:23,297
+So he made a rule: if clouds show up, buy more milk.
+
+16
+00:01:23,747 --> 00:01:27,717
+He looked at data, found a pattern, and made a rule.
+
+17
+00:01:28,167 --> 00:01:32,295
+That is quant thinking. Markets work the same way.
+
+18
+00:01:33,295 --> 00:01:35,333
+There are two kinds of trading.
+
+19
+00:01:35,783 --> 00:01:40,928
+First, discretionary. You look at the chart and decide each time.
+
+20
+00:01:41,378 --> 00:01:47,178
+Second, systematic. The rules are written in advance; you just follow them.
+
+21
+00:01:47,628 --> 00:01:50,868
+Both can make money, and both can lose it.
+
+22
+00:01:51,318 --> 00:01:57,038
+The difference: a systematic approach can be tested first. And mood stays out of it.
+
+23
+00:01:58,038 --> 00:02:01,121
+What does a rule look like? A simple example.
+
+24
+00:02:01,571 --> 00:02:08,650
+If price closes above the 20-day high, buy. Stop 2%, target 4%.
+
+25
+00:02:09,100 --> 00:02:12,418
+A rule should be clear enough for a computer to understand.
+
+26
+00:02:12,868 --> 00:02:20,025
+"Buy when it feels strong" is not a rule. And the one above is only an example, not advice.
+
+27
+00:02:21,025 --> 00:02:24,186
+Now the most important word: edge.
+
+28
+00:02:24,636 --> 00:02:29,965
+An edge is a small advantage that shows up over many trades.
+
+29
+00:02:30,415 --> 00:02:34,620
+Imagine a coin that lands heads 55 times out of 100.
+
+30
+00:02:35,071 --> 00:02:40,477
+One toss tells you nothing. Over 1000 tosses the difference is clear.
+
+31
+00:02:40,928 --> 00:02:50,176
+A casino does not win every hand. But over thousands of hands it stays ahead. A quant thinks like the casino, not the gambler.
+
+32
+00:02:51,176 --> 00:02:53,055
+Now a small calculation.
+
+33
+00:02:53,506 --> 00:02:58,261
+100 trades. 40 wins, 300 rupees each.
+
+34
+00:02:58,710 --> 00:03:01,950
+60 losses, 100 rupees each.
+
+35
+00:03:02,400 --> 00:03:10,367
+Wins 12,000, losses 6,000. Net 6,000. That is an average of 60 rupees per trade.
+
+36
+00:03:10,817 --> 00:03:17,165
+This is called expectancy. The win rate was only 40%, yet the maths is positive.
+
+37
+00:03:18,165 --> 00:03:21,796
+But note this. Anything can happen in 10 trades.
+
+38
+00:03:22,245 --> 00:03:25,954
+Even a good system can have 5 losses in a row.
+
+39
+00:03:26,405 --> 00:03:29,488
+An edge needs many trades to show itself.
+
+40
+00:03:29,938 --> 00:03:34,692
+That is why a quant does not judge one trade. They judge the whole series.
+
+41
+00:03:35,692 --> 00:03:38,852
+A quant system has five parts.
+
+42
+00:03:39,303 --> 00:03:43,273
+One, the idea. A belief about the market.
+
+43
+00:03:43,722 --> 00:03:50,803
+Two, data. Three, the backtest: running the rule on past data.
+
+44
+00:03:51,253 --> 00:03:55,222
+Four, risk. How much to put on one trade.
+
+45
+00:03:55,673 --> 00:04:01,786
+Five, execution. Running the rule without interfering, by hand or with a bot.
+
+46
+00:04:02,786 --> 00:04:07,148
+Now an honest point. Quant trading is not magic.
+
+47
+00:04:07,597 --> 00:04:09,793
+It comes with no guarantee.
+
+48
+00:04:10,243 --> 00:04:15,075
+A backtest can look great and the system can still fail live.
+
+49
+00:04:15,525 --> 00:04:20,854
+And markets keep changing. An edge that exists today can shrink tomorrow.
+
+50
+00:04:21,854 --> 00:04:25,485
+Everyone asks: do I need to know coding?
+
+51
+00:04:25,935 --> 00:04:29,984
+Not at the start. Learn the thinking first, then the tools.
+
+52
+00:04:30,434 --> 00:04:36,782
+In this series we start with a notebook and Excel, and slowly move to code and bots.
+
+53
+00:04:37,782 --> 00:04:39,349
+So, today's summary.
+
+54
+00:04:39,799 --> 00:04:45,207
+Quant trading means decisions from data and rules, not feelings.
+
+55
+00:04:45,657 --> 00:04:52,266
+An edge is a small advantage that shows over many trades. Its number is expectancy.
+
+56
+00:04:52,716 --> 00:05:01,388
+Five parts of a system: idea, data, backtest, risk, execution. And no guarantee anywhere.
+
+57
+00:05:02,388 --> 00:05:09,624
+Next episode: the truth about win rate. Why can a system that wins 90% of the time still blow an account?
+
+58
+00:05:10,074 --> 00:05:15,064
+If this was useful, subscribe and save the playlist.
+
+59
+00:05:15,514 --> 00:05:21,626
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
