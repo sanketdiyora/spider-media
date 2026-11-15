@@ -1,0 +1,50 @@
+MT5 pe gold ya forex chart ke neeche jo volume bar dikhta hai, wo ye nahi batata ki kitna trade hua. Wo sirf ye batata hai ki price kitni baar hila. Is episode me samjho asli volume aur tick volume ka farq, tick volume pe kitna bharosa karein, aur forex/gold ka asli volume kahan milta hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 6 hai (24 episodes, Hindi + English). Isi se Module 2 (Volume ke tools) shuru hota hai. Pichhle episodes nahi dekhe? Playlist me shuru se dekho.
+
+Is episode me:
+• Asli volume kya hai, aur uske liye exchange kyun zaroori hai
+• Spot forex aur gold ka koi ek exchange kyun nahi
+• Tick volume kya hai (price kitni baar badla)
+• Ek tick ke peeche 0.01 lot bhi, 100 lot bhi
+• Tick volume kahan kaam ka hai, aur 3 jagah kahan dhokha deta hai
+• Asli volume futures me: CME, aur Bid/Ask pe hua trade
+• Spot ka futures bhai: XAUUSD → GC, EURUSD → 6E, GBPUSD → 6B, USDJPY → 6J (ulta)
+• Futures pe order flow padho, spot pe trade lo
+• Data kahan dekhein (sirf naam, koi promotion nahi)
+
+Note: is video me jin platforms ke naam hain, unse hamara koi sambandh ya sponsorship nahi hai.
+
+Chapters:
+0:00 Intro
+0:30 Pichhla episode
+0:58 Asli volume
+1:20 Forex ka bazaar
+1:44 Tick volume kya hai
+2:05 Ek tick ke peeche
+2:24 To kya ye bekaar hai
+2:45 Kahan dhokha deta hai
+3:17 Asli volume kahan milega
+3:43 Spot ka futures bhai
+4:09 Baaki markets
+4:21 Futures padho, spot pe trade lo
+4:46 Data kahan dekhein
+5:17 Is series me aage
+5:35 Recap
+5:58 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1: https://youtu.be/k2cNi_kMYMo
+Episode 2: https://youtu.be/3MAcGFXck4U
+Episode 3: https://youtu.be/k85NV5xBEWY
+Episode 4: https://youtu.be/yZYfSop0PUI
+Episode 5: https://youtu.be/hzNmdhwConY
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+Agla episode: Volume Profile: POC, Value Area, HVN aur LVN.
+English subtitles available (CC on karo).
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.
+
+#OrderFlow #TradingHindi #TickVolume #ForexHindi #SpiderTrades
