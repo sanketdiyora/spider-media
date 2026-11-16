@@ -1,12 +1,12 @@
 {
-"updated": "2026-11-16 15:52 IST",
+"updated": "2026-11-16 16:02 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 169,
 "slots": [
 {
 "slot": "0700",
-"name": "News carousel",
+"name": "Order Flow reel",
 "type": "reel",
 "title": "Price asal me hilta kaise hai? 📊",
 "status": "POSTED",
@@ -27,7 +27,7 @@
 },
 {
 "slot": "0800",
-"name": "Short-term setups reel",
+"name": "Motivation reel",
 "type": "reel",
 "title": "Start line pe sab barabar hote hain. Farak lap 20 me dikhta hai.",
 "status": "POSTED",
@@ -48,7 +48,7 @@
 },
 {
 "slot": "1030",
-"name": "reel",
+"name": "YouTube clip reel",
 "type": "reel",
 "title": "Market asal me ek neelaami hai. 🖼️",
 "status": "POSTED",
@@ -69,7 +69,7 @@
 },
 {
 "slot": "1335",
-"name": "reel",
+"name": "Setup reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Mon 16 Nov) 👇",
 "status": "POSTED",
@@ -90,7 +90,7 @@
 },
 {
 "slot": "1500",
-"name": "reel",
+"name": "Riddle reel",
 "type": "reel",
 "title": "SPIDER RIDDLE #1 · Part 1/2 🧩 Dono haare. Kyun?",
 "status": "POSTED",
@@ -111,7 +111,7 @@
 },
 {
 "slot": "1700",
-"name": "KNOW post",
+"name": "YouTube clip reel",
 "type": "reel",
 "title": "Chart pe jo volume dikhta hai, wo asli nahi? 📊",
 "status": "PENDING",
@@ -119,7 +119,7 @@
 },
 {
 "slot": "1900",
-"name": "ASPIRE reel",
+"name": "Aspire reel",
 "type": "reel",
 "title": "The Starting Line — SPIDER ASPIRE",
 "status": "PENDING",
@@ -127,7 +127,7 @@
 },
 {
 "slot": "2030",
-"name": "KNOW reel",
+"name": "Know reel",
 "type": "reel",
 "title": "KNOW #1 📚 Pip Kya Hota Hai?",
 "status": "PENDING",
@@ -1103,7 +1103,7 @@
 "today_net": 1.75,
 "engine": {
 "last_scan": "15:46",
-"age_min": 5,
+"age_min": 15,
 "rc": 0,
 "summary": "run 2026-11-16 10:15 UTC · new 2 · events 0 · open 12"
 },
