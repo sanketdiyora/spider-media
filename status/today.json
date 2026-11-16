@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 18:07 IST",
+"updated": "2026-11-16 18:21 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -599,19 +599,6 @@
 "mt5_reason": "SL 1.95141"
 },
 {
-"id": "JPN225_1794796200_dpoc",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 60145.4,
-"sl": 60869.2,
-"r": null,
-"opened": "16 Nov 08:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "NAS100_1794809700_lbo",
 "pair": "NAS100",
 "dir": "SELL",
@@ -662,19 +649,6 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
-},
-{
-"id": "US500_1794821400_dpoc",
-"pair": "US500",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 7536.62,
-"sl": 7551.38,
-"r": null,
-"opened": "16 Nov 15:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 36.29 USD = 1.55R"
 },
 {
 "id": "WTI_1794822300_pbo",
@@ -950,9 +924,61 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794821400_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7536.62,
+"sl": 7551.38,
+"r": 1.89,
+"opened": "16 Nov 15:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 36.29 USD = 1.55R"
+},
+{
+"id": "JPN225_1794796200_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 60145.4,
+"sl": 60869.2,
+"r": 0.84,
+"opened": "16 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "JPN225_1794796200_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 60145.4,
+"sl": 60869.2,
+"r": 0.84,
+"opened": "16 Nov 08:15",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794821400_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7536.62,
+"sl": 7551.38,
+"r": 1.89,
+"opened": "16 Nov 15:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 36.29 USD = 1.55R"
+},
 {
 "id": "US30_1794823200_pbo",
 "pair": "US30",
@@ -1121,50 +1147,24 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 7.16 USD = 0.33R"
-},
-{
-"id": "AUDJPY_1794796200_dpoc",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 108.119,
-"sl": 108.266,
-"r": 0.68,
-"opened": "16 Nov 08:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 7.50 USD = 0.30R"
-},
-{
-"id": "WTI_1794790800_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 88.215,
-"sl": 88.814,
-"r": 0.58,
-"opened": "16 Nov 06:45",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 9.69 USD = 0.48R"
 }
 ],
-"all_n": 142,
-"all_net": 25.72,
-"all_win": 81,
-"today_net": -0.25,
+"all_n": 144,
+"all_net": 28.45,
+"all_win": 83,
+"today_net": 2.48,
 "engine": {
-"last_scan": "18:01",
+"last_scan": "18:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 12:30 UTC · new 0 · events 1 · open 13"
+"summary": "run 2026-11-16 12:45 UTC · new 0 · events 1 · open 11"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5009.51",
-"equity": "5047.73",
-"floating": "38.22",
+"equity": "5040.35",
+"floating": "30.84",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
