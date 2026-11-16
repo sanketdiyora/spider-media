@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 09:06 IST",
+"updated": "2026-11-16 09:21 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 166,
@@ -521,7 +521,7 @@
 "sl": 112.0626,
 "r": null,
 "opened": "16 Nov 06:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.26 lots @111.928 SL 112.076 (scanner SL) entry 111.914 basis -0.003 (M15) +SLbuf 0.016 split TP1/TP2 risk 0.49%"
 },
@@ -586,9 +586,9 @@
 "sl": 108.266,
 "r": null,
 "opened": "16 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 108.082"
+"mt5_reason": "SL 108.034"
 },
 {
 "id": "GER40_1794796200_pbo",
@@ -912,17 +912,17 @@
 "all_win": 74,
 "today_net": 1.08,
 "engine": {
-"last_scan": "09:01",
+"last_scan": "09:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 03:30 UTC · new 0 · events 0 · open 13"
+"summary": "run 2026-11-16 03:45 UTC · new 0 · events 0 · open 13"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4978.02",
-"equity": "5022.28",
-"floating": "44.26",
+"equity": "5035.93",
+"floating": "57.91",
 "positions": "14",
 "ea_enabled": "1",
 "algo_trading": "1"
