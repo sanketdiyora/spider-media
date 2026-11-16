@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 17:51 IST",
+"updated": "2026-11-16 18:07 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 6,
 "comments": 0,
-"views": 164,
-"reach": 130,
+"views": 169,
+"reach": 136,
 "saved": 3,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 127,
-"reach": 102,
+"views": 129,
+"reach": 103,
 "saved": 1,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 10,
-"reach": 7,
+"views": 13,
+"reach": 8,
 "saved": 0,
 "shares": 0
 }
@@ -101,10 +101,10 @@
 "time": "2026-11-16 15:21",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
-"likes": 2,
+"likes": 4,
 "comments": 0,
-"views": 181,
-"reach": 127,
+"views": 226,
+"reach": 182,
 "saved": 3,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 15,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -157,8 +157,8 @@
 "link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 15,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -169,10 +169,10 @@
 "time": "2026-11-16 15:21",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
-"likes": 2,
+"likes": 4,
 "comments": 0,
-"views": 181,
-"reach": 127,
+"views": 226,
+"reach": 182,
 "saved": 3,
 "shares": 0
 },
@@ -185,8 +185,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 10,
-"reach": 7,
+"views": 13,
+"reach": 8,
 "saved": 0,
 "shares": 0
 },
@@ -213,8 +213,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 127,
-"reach": 102,
+"views": 129,
+"reach": 103,
 "saved": 1,
 "shares": 0
 },
@@ -227,8 +227,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 6,
 "comments": 0,
-"views": 164,
-"reach": 130,
+"views": 169,
+"reach": 136,
 "saved": 3,
 "shares": 0
 },
@@ -255,8 +255,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 94,
-"reach": 79,
+"views": 98,
+"reach": 81,
 "saved": 0,
 "shares": 0
 },
@@ -270,7 +270,7 @@
 "likes": 0,
 "comments": 0,
 "views": 1,
-"reach": 1,
+"reach": 2,
 "saved": 0,
 "shares": 0
 },
@@ -353,8 +353,8 @@
 "link": "https://www.instagram.com/reel/DfuUWYujW_x/",
 "likes": 2,
 "comments": 0,
-"views": 132,
-"reach": 112,
+"views": 133,
+"reach": 113,
 "saved": 0,
 "shares": 2
 },
@@ -607,7 +607,7 @@
 "sl": 60869.2,
 "r": null,
 "opened": "16 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -673,8 +673,8 @@
 "r": null,
 "opened": "16 Nov 15:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 7527.19"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 36.29 USD = 1.55R"
 },
 {
 "id": "WTI_1794822300_pbo",
@@ -688,19 +688,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.02 lots @88.590 SL 89.633 (scanner SL) entry 88.489 basis 0.039 (M15) +SLbuf 0.051 split TP1/TP2 risk 0.42%"
-},
-{
-"id": "US30_1794823200_pbo",
-"pair": "US30",
-"dir": "BUY",
-"model": "pbo",
-"entry": 52350.61,
-"sl": 52259.4,
-"r": null,
-"opened": "16 Nov 15:45",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 },
 {
 "id": "UK100_1794823200_dpoc",
@@ -950,9 +937,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.64 USD = -1.00R"
+},
+{
+"id": "US30_1794823200_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52350.61,
+"sl": 52259.4,
+"r": -1.0,
+"opened": "16 Nov 15:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "US30_1794823200_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52350.61,
+"sl": 52259.4,
+"r": -1.0,
+"opened": "16 Nov 15:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "GBPAUD_1794817800_dpoc",
 "pair": "GBPAUD",
@@ -1134,38 +1147,25 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 9.69 USD = 0.48R"
-},
-{
-"id": "GER40_1794790800_pbo",
-"pair": "GER40",
-"dir": "BUY",
-"model": "pbo",
-"entry": 26784.88,
-"sl": 26772.33,
-"r": 0.5,
-"opened": "16 Nov 06:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "spread too wide: 3.75 = 0.30R of the scanner risk (basis 21.95 (M15))"
 }
 ],
-"all_n": 141,
-"all_net": 26.72,
+"all_n": 142,
+"all_net": 25.72,
 "all_win": 81,
-"today_net": 0.75,
+"today_net": -0.25,
 "engine": {
-"last_scan": "17:46",
+"last_scan": "18:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 12:15 UTC · new 0 · events 0 · open 14"
+"summary": "run 2026-11-16 12:30 UTC · new 0 · events 1 · open 13"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4973.22",
-"equity": "5045.44",
-"floating": "72.22",
-"positions": "8",
+"balance": "5009.51",
+"equity": "5047.73",
+"floating": "38.22",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
