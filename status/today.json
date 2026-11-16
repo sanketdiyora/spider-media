@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 17:22 IST",
+"updated": "2026-11-16 17:36 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -674,7 +674,7 @@
 "opened": "16 Nov 15:15",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 1.40 lots @7541.10 SL 7557.84 (scanner SL) entry 7542.48 basis 5.86 (M15) +SLbuf 0.60  risk 0.47%"
+"mt5_reason": "SL 7534.74"
 },
 {
 "id": "WTI_1794822300_pbo",
@@ -737,7 +737,7 @@
 "sl": 88.856,
 "r": null,
 "opened": "16 Nov 16:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -1154,17 +1154,17 @@
 "all_win": 81,
 "today_net": 0.75,
 "engine": {
-"last_scan": "17:16",
-"age_min": 6,
+"last_scan": "17:32",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 11:45 UTC · new 0 · events 0 · open 14"
+"summary": "run 2026-11-16 12:00 UTC · new 0 · events 0 · open 14"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4973.22",
-"equity": "4972.27",
-"floating": "-0.95",
+"equity": "5022.29",
+"floating": "49.07",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
