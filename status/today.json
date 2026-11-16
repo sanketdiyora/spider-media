@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 18:21 IST",
+"updated": "2026-11-16 18:37 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -659,7 +659,7 @@
 "sl": 89.543,
 "r": null,
 "opened": "16 Nov 15:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.02 lots @88.590 SL 89.633 (scanner SL) entry 88.489 basis 0.039 (M15) +SLbuf 0.051 split TP1/TP2 risk 0.42%"
 },
@@ -675,19 +675,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.50 lots @10951.41 SL 10918.92 (scanner SL) entry 10949.89 basis 14.20 (M15)  risk 0.43%"
-},
-{
-"id": "BRENT_1794825900_pbo",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 95.43,
-"sl": 95.823,
-"r": null,
-"opened": "16 Nov 16:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 },
 {
 "id": "WTI_1794825900_dpoc",
@@ -950,9 +937,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "BRENT_1794825900_pbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 95.43,
+"sl": 95.823,
+"r": 2.0,
+"opened": "16 Nov 16:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "BRENT_1794825900_pbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 95.43,
+"sl": 95.823,
+"r": 2.0,
+"opened": "16 Nov 16:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "JPN225_1794796200_dpoc",
 "pair": "JPN225",
@@ -1134,37 +1147,24 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 13.98 USD = 0.57R"
-},
-{
-"id": "WTI_1794795300_pbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 88.095,
-"sl": 88.497,
-"r": 0.5,
-"opened": "16 Nov 08:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 7.16 USD = 0.33R"
 }
 ],
-"all_n": 144,
-"all_net": 28.45,
-"all_win": 83,
-"today_net": 2.48,
+"all_n": 145,
+"all_net": 30.45,
+"all_win": 84,
+"today_net": 4.48,
 "engine": {
-"last_scan": "18:16",
+"last_scan": "18:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 12:45 UTC · new 0 · events 1 · open 11"
+"summary": "run 2026-11-16 13:00 UTC · new 0 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5009.51",
-"equity": "5040.35",
-"floating": "30.84",
+"equity": "5015.53",
+"floating": "6.02",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1174,6 +1174,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 14.9,
 "github_runs": [
+{
+"t": "2026-11-16T13:05:27Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-16T11:30:17Z",
 "ok": "success",
@@ -1193,11 +1198,6 @@
 "t": "2026-11-16T08:00:24Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-16T07:45:21Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
