@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 11:36 IST",
+"updated": "2026-11-16 11:51 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 131,
-"reach": 105,
+"views": 140,
+"reach": 113,
 "saved": 2,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 93,
-"reach": 68,
+"views": 125,
+"reach": 101,
 "saved": 1,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-16 10:41",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfykveWCcJE/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 47,
+"reach": 16,
 "saved": 0,
 "shares": 0
 }
@@ -108,10 +108,10 @@
 "time": "2026-11-16 10:41",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfykveWCcJE/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 47,
+"reach": 16,
 "saved": 0,
 "shares": 0
 },
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 93,
-"reach": 68,
+"views": 125,
+"reach": 101,
 "saved": 1,
 "shares": 0
 },
@@ -138,8 +138,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 131,
-"reach": 105,
+"views": 140,
+"reach": 113,
 "saved": 2,
 "shares": 0
 },
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 67,
-"reach": 58,
+"views": 74,
+"reach": 64,
 "saved": 0,
 "shares": 0
 },
@@ -194,8 +194,8 @@
 "link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
 "likes": 3,
 "comments": 0,
-"views": 133,
-"reach": 108,
+"views": 134,
+"reach": 109,
 "saved": 3,
 "shares": 1
 },
@@ -925,17 +925,17 @@
 "all_win": 78,
 "today_net": 0.65,
 "engine": {
-"last_scan": "11:31",
-"age_min": 5,
+"last_scan": "11:47",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-16 06:00 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-16 06:15 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4980.27",
-"equity": "5044.61",
-"floating": "64.34",
+"equity": "5041.97",
+"floating": "61.70",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
