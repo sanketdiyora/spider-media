@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 08:21 IST",
+"updated": "2026-11-16 08:36 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 169,
@@ -536,7 +536,7 @@
 "opened": "16 Nov 06:45",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.03 lots @88.227 SL 88.895 (scanner SL) entry 88.249 basis 0.034 (M15) +SLbuf 0.047  risk 0.40%"
+"mt5_reason": "SL 87.953"
 },
 {
 "id": "EURJPY_1794792600_dpoc",
@@ -573,9 +573,9 @@
 "sl": 88.497,
 "r": null,
 "opened": "16 Nov 08:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.05 lots @88.145 SL 88.581 (scanner SL) entry 88.138 basis 0.043 (M15) +SLbuf 0.041 split TP1/TP2 risk 0.44%"
+"mt5_reason": "SL 88.179"
 },
 {
 "id": "GBPCAD_1794795300_pbo",
@@ -638,6 +638,45 @@
 "sl": 60869.2,
 "r": null,
 "opened": "16 Nov 08:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "USDCHF_1794797100_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.83926,
+"sl": 0.838472,
+"r": null,
+"opened": "16 Nov 08:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.22 lots @0.83937 SL 0.83845 (scanner SL) entry 0.83924 basis -0.00002 (M15)  risk 0.49%"
+},
+{
+"id": "CHFJPY_1794797100_dpoc",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 190.305,
+"sl": 190.4677,
+"r": null,
+"opened": "16 Nov 08:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US30_1794797100_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52376.68,
+"sl": 52252.43,
+"r": null,
+"opened": "16 Nov 08:30",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -860,17 +899,17 @@
 "all_win": 73,
 "today_net": 0.5,
 "engine": {
-"last_scan": "08:16",
+"last_scan": "08:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 02:45 UTC · new 4 · events 0 · open 10"
+"summary": "run 2026-11-16 03:00 UTC · new 3 · events 0 · open 13"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4960.15",
-"equity": "4965.34",
-"floating": "5.19",
+"balance": "4968.33",
+"equity": "4999.70",
+"floating": "31.37",
 "positions": "14",
 "ea_enabled": "1",
 "algo_trading": "1"
