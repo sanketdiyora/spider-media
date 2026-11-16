@@ -1,0 +1,47 @@
+Ek bada fund aaj crore ka maal khareedta hai. Shaam ko boss poochhta hai: ausat bhaav se sasta khareeda ya mehenga? Wo ausat bhaav jis line se naapa jata hai, uska naam hai VWAP. Is episode me zero se samjho VWAP, uske bands aur Anchored VWAP.
+
+Ye SPIDER ki Order Flow Series ka Episode 8 hai (24 episodes, Hindi + English). Pichhle episodes nahi dekhe? Playlist me shuru se dekho.
+
+Is episode me:
+• Seedha average vs volume se tola hua average
+• VWAP formula: Σ(bhaav × volume) ÷ kul volume
+• Chart pe VWAP: subah tez, din ke saath dheemi
+• Bade players VWAP ko benchmark kyun maante hain
+• Price VWAP ke upar/neeche: kiska control
+• Standard deviation bands: 1st aur 2nd band
+• Anchored VWAP: kisi khaas pal se ginti
+• Spot forex/gold pe VWAP tick volume se banta hai (andaaza); asli VWAP futures pe
+• VWAP ki 3 aam galtiyan
+
+Chapters:
+0:00 Intro
+0:23 Pichhla episode
+0:40 Average ki dikkat
+1:01 VWAP ka matlab
+1:23 Chart pe VWAP
+1:50 Bade players
+2:12 Upar ya neeche
+2:37 Bands
+3:10 Anchored VWAP
+3:34 Forex aur Gold
+3:55 Galtiyan
+4:20 Recap
+4:47 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1: https://youtu.be/k2cNi_kMYMo
+Episode 2: https://youtu.be/3MAcGFXck4U
+Episode 3: https://youtu.be/k85NV5xBEWY
+Episode 4: https://youtu.be/yZYfSop0PUI
+Episode 5: https://youtu.be/hzNmdhwConY
+Episode 6: https://youtu.be/ENbgIkNYTX8
+Episode 7: https://youtu.be/vsTFTYiXSV4
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+Agla episode: Session profiles (Asia, London, New York).
+English subtitles available (CC on karo).
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.
+
+#OrderFlow #TradingHindi #VWAP #PriceAction #SpiderTrades
