@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-16 05:32 IST",
+"updated": "2026-11-16 07:12 IST",
 "date": "2026-11-16",
 "followers": 59,
-"media_count": 167,
+"media_count": 168,
 "slots": [
 {
 "slot": "0700",
 "name": "News carousel",
 "type": "reel",
 "title": "Price asal me hilta kaise hai? 📊",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18102968006553224",
+"cap": "Price asal me hilta kaise hai? 📊\n\n30 lot ka buy market order aaya. 102 pe 10 lot the, kha liye. 103 pe 10, wo bhi khatam. Baaki 104 se mile. Ab sabse sasta bechne wala 104 pe hai, yaani Ask 102 se 104. Kisi ne price dhakela nahi, bas raaste ka maal kha liya gaya.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #priceaction #spidertrades",
+"cap1": "Price asal me hilta kaise hai? 📊",
+"time": "2026-11-16 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfyLky0pW_z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -63,6 +76,20 @@
 ],
 "recent_posts": [
 {
+"id": "18102968006553224",
+"cap": "Price asal me hilta kaise hai? 📊\n\n30 lot ka buy market order aaya. 102 pe 10 lot the, kha liye. 103 pe 10, wo bhi khatam. Baaki 104 se mile. Ab sabse sasta bechne wala 104 pe hai, yaani Ask 102 se 104. Kisi ne price dhakela nahi, bas raaste ka maal kha liya gaya.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #priceaction #spidertrades",
+"cap1": "Price asal me hilta kaise hai? 📊",
+"time": "2026-11-16 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfyLky0pW_z/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17995692207059050",
 "cap": "Ek loss, aur turant bada trade? 😤 Revenge trading ka hal: daily loss limit. Bot badla nahi leta.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingpsychology #revengetrading #forexhindi #tradingbot #riskmanagement",
 "cap1": "Ek loss, aur turant bada trade? 😤 Revenge trading ka hal: daily loss l",
@@ -85,8 +112,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 55,
-"reach": 47,
+"views": 57,
+"reach": 49,
 "saved": 0,
 "shares": 0
 },
@@ -155,8 +182,8 @@
 "link": "https://www.instagram.com/reel/DfvmxCLGDrw/",
 "likes": 7,
 "comments": 0,
-"views": 492,
-"reach": 416,
+"views": 494,
+"reach": 418,
 "saved": 1,
 "shares": 0
 },
@@ -467,27 +494,67 @@
 "reach": 113,
 "saved": 4,
 "shares": 1
-},
-{
-"id": "18416808217094980",
-"cap": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅\n\nSubah hotel wale jaldi me the, bhaav upar gaya. Shaam ko dukandar ko maal bechna tha, bhaav neeche gaya aur naye grahak mil gaye. Market bhi aise hi kaam karta hai: price upar jaata hai sellers dhoondhne, neeche jaata hai buyers dhoondhne.\n\nOrder Flow Series, Episode 2 (Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
-"cap1": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅",
-"time": "2026-11-12 23:12",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpnilGj6Zn/",
-"likes": 1,
-"comments": 0,
-"views": 139,
-"reach": 118,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
-"open": [],
-"closed_today": [],
+"open": [
+{
+"id": "CADJPY_1794789000_pbo",
+"pair": "CADJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 111.917,
+"sl": 112.0626,
+"r": null,
+"opened": "16 Nov 06:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.26 lots @111.928 SL 112.076 (scanner SL) entry 111.914 basis -0.003 (M15) +SLbuf 0.016 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "WTI_1794790800_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 88.215,
+"sl": 88.814,
+"r": null,
+"opened": "16 Nov 06:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.03 lots @88.227 SL 88.895 (scanner SL) entry 88.249 basis 0.034 (M15) +SLbuf 0.047  risk 0.40%"
+}
+],
+"closed_today": [
+{
+"id": "GER40_1794790800_pbo",
+"pair": "GER40",
+"dir": "BUY",
+"model": "pbo",
+"entry": 26784.88,
+"sl": 26772.33,
+"r": 0.5,
+"opened": "16 Nov 06:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 3.75 = 0.30R of the scanner risk (basis 21.95 (M15))"
+}
+],
 "closed_recent": [
+{
+"id": "GER40_1794790800_pbo",
+"pair": "GER40",
+"dir": "BUY",
+"model": "pbo",
+"entry": 26784.88,
+"sl": 26772.33,
+"r": 0.5,
+"opened": "16 Nov 06:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 3.75 = 0.30R of the scanner risk (basis 21.95 (M15))"
+},
 {
 "id": "GBPNZD_1794582000_dpoc",
 "pair": "GBPNZD",
@@ -669,38 +736,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "US500_1794543300_pbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "pbo",
-"entry": 7599.33,
-"sl": 7620.75,
-"r": 0.5,
-"opened": "13 Nov 10:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 126,
-"all_net": 25.97,
-"all_win": 72,
-"today_net": 0,
+"all_n": 127,
+"all_net": 26.47,
+"all_win": 73,
+"today_net": 0.5,
 "engine": {
-"last_scan": "02:56",
-"age_min": 3035,
+"last_scan": "07:06",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-13 21:25 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-16 01:35 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4960.15",
-"equity": "4960.15",
-"floating": "0.00",
-"positions": "0",
+"equity": "4963.12",
+"floating": "2.97",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -709,6 +763,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 19.3,
 "github_runs": [
+{
+"t": "2026-11-16T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-15T21:30:38Z",
 "ok": "success",
@@ -726,11 +785,6 @@
 },
 {
 "t": "2026-11-15T19:16:11Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-15T17:40:19Z",
 "ok": "success",
 "ev": "schedule"
 }
