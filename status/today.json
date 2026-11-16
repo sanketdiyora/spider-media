@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 19:21 IST",
+"updated": "2026-11-16 19:36 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 171,
@@ -674,7 +674,7 @@
 "opened": "16 Nov 15:30",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.02 lots @88.590 SL 89.633 (scanner SL) entry 88.489 basis 0.039 (M15) +SLbuf 0.051 split TP1/TP2 risk 0.42%"
+"mt5_reason": "SL 88.540"
 },
 {
 "id": "UK100_1794823200_dpoc",
@@ -1167,18 +1167,18 @@
 "all_win": 85,
 "today_net": 5.98,
 "engine": {
-"last_scan": "19:16",
+"last_scan": "19:32",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 13:45 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-16 14:00 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5009.51",
-"equity": "5087.18",
-"floating": "77.67",
-"positions": "7",
+"balance": "5021.45",
+"equity": "5089.42",
+"floating": "67.97",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
