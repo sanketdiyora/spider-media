@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 14:06 IST",
+"updated": "2026-11-16 14:22 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 168,
@@ -610,6 +610,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.01 lots @47.288 SL 47.952 (scanner SL) entry 47.424 basis 0.019 (M15) +SLbuf 0.031  min lot, risk 0.66%"
+},
+{
+"id": "EURAUD_1794817800_dpoc",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.63051,
+"sl": 1.628701,
+"r": null,
+"opened": "16 Nov 14:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.19 lots @1.63063 SL 1.62872 (scanner SL) entry 1.63053 basis 0.00002 (M1)  risk 0.49%"
+},
+{
+"id": "GBPAUD_1794817800_dpoc",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.95539,
+"sl": 1.952045,
+"r": null,
+"opened": "16 Nov 14:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.12 lots @1.95510 SL 1.95206 (scanner SL) entry 1.95540 basis 0.00001 (M15)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -985,18 +1011,18 @@
 "all_win": 81,
 "today_net": 2.75,
 "engine": {
-"last_scan": "14:01",
+"last_scan": "14:17",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 08:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-16 08:45 UTC · new 2 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4997.86",
-"equity": "5029.50",
-"floating": "31.64",
-"positions": "3",
+"equity": "5017.98",
+"floating": "20.12",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
