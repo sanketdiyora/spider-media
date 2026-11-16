@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 10:21 IST",
+"updated": "2026-11-16 10:36 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 166,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 128,
-"reach": 104,
+"views": 130,
+"reach": 105,
 "saved": 2,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 75,
-"reach": 55,
+"views": 89,
+"reach": 65,
 "saved": 1,
 "shares": 0
 }
@@ -51,7 +51,7 @@
 "name": "reel",
 "type": "reel",
 "title": "Market asal me ek neelaami hai. 🖼️",
-"status": "PENDING",
+"status": "DUE",
 "post": null
 },
 {
@@ -97,8 +97,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 75,
-"reach": 55,
+"views": 89,
+"reach": 65,
 "saved": 1,
 "shares": 0
 },
@@ -111,8 +111,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 128,
-"reach": 104,
+"views": 130,
+"reach": 105,
 "saved": 2,
 "shares": 0
 },
@@ -139,8 +139,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 66,
-"reach": 57,
+"views": 67,
+"reach": 58,
 "saved": 0,
 "shares": 0
 },
@@ -308,7 +308,7 @@
 "likes": 0,
 "comments": 1,
 "views": 7,
-"reach": 9,
+"reach": 10,
 "saved": 0,
 "shares": 0
 },
@@ -523,7 +523,7 @@
 "opened": "16 Nov 06:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.26 lots @111.928 SL 112.076 (scanner SL) entry 111.914 basis -0.003 (M15) +SLbuf 0.016 split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 111.930"
 },
 {
 "id": "GBPAUD_1794794400_pbo",
@@ -536,7 +536,7 @@
 "opened": "16 Nov 07:45",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.16 lots @1.95158 SL 1.94933 (scanner SL) entry 1.95141 basis 0.00002 (M15) split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 1.95141"
 },
 {
 "id": "GBPCAD_1794795300_pbo",
@@ -573,9 +573,9 @@
 "sl": 0.967139,
 "r": null,
 "opened": "16 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.25 lots @0.96596 SL 0.96733 (scanner SL) entry 0.96612 basis 0.00002 (M15) +SLbuf 0.00017  risk 0.48%"
+"mt5_reason": "SL 0.96567"
 },
 {
 "id": "JPN225_1794796200_dpoc",
@@ -912,18 +912,18 @@
 "all_win": 78,
 "today_net": 3.65,
 "engine": {
-"last_scan": "10:16",
-"age_min": 4,
+"last_scan": "10:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 04:45 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-16 05:00 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4998.48",
-"equity": "5017.14",
-"floating": "18.66",
-"positions": "11",
+"balance": "5022.00",
+"equity": "5021.03",
+"floating": "-0.97",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
