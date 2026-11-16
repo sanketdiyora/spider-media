@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 20:07 IST",
+"updated": "2026-11-16 20:21 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 171,
@@ -638,32 +638,6 @@
 "mt5_reason": "OPEN SELL 0.01 lots @47.288 SL 47.952 (scanner SL) entry 47.424 basis 0.019 (M15) +SLbuf 0.031  min lot, risk 0.66%"
 },
 {
-"id": "EURAUD_1794817800_dpoc",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.63051,
-"sl": 1.628701,
-"r": null,
-"opened": "16 Nov 14:15",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "SL 1.63140"
-},
-{
-"id": "BTCUSD_1794820200_lbo",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 64218.8,
-"sl": 64805.2,
-"r": null,
-"opened": "16 Nov 14:45",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "WTI_1794822300_pbo",
 "pair": "WTI OIL",
 "dir": "SELL",
@@ -963,9 +937,61 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "BTCUSD_1794820200_lbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 64218.8,
+"sl": 64805.2,
+"r": -1.0,
+"opened": "16 Nov 14:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "EURAUD_1794817800_dpoc",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.63051,
+"sl": 1.628701,
+"r": 0.47,
+"opened": "16 Nov 14:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 9.75 USD = 0.40R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURAUD_1794817800_dpoc",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.63051,
+"sl": 1.628701,
+"r": 0.47,
+"opened": "16 Nov 14:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 9.75 USD = 0.40R"
+},
+{
+"id": "BTCUSD_1794820200_lbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 64218.8,
+"sl": 64805.2,
+"r": -1.0,
+"opened": "16 Nov 14:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "WTI_1794825900_dpoc",
 "pair": "WTI OIL",
@@ -1134,51 +1160,25 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.14 USD = -1.00R"
-},
-{
-"id": "US30_1794797100_pbo",
-"pair": "US30",
-"dir": "BUY",
-"model": "pbo",
-"entry": 52376.68,
-"sl": 52252.43,
-"r": -1.0,
-"opened": "16 Nov 08:30",
-"state": "closed",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "CHFJPY_1794797100_dpoc",
-"pair": "CHFJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 190.305,
-"sl": 190.4677,
-"r": 0.75,
-"opened": "16 Nov 08:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 }
 ],
-"all_n": 146,
-"all_net": 31.95,
-"all_win": 85,
-"today_net": 5.98,
+"all_n": 148,
+"all_net": 31.42,
+"all_win": 86,
+"today_net": 5.45,
 "engine": {
-"last_scan": "20:01",
-"age_min": 6,
+"last_scan": "20:17",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 14:30 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-16 14:45 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5021.45",
-"equity": "5119.80",
-"floating": "98.35",
-"positions": "6",
+"balance": "5031.20",
+"equity": "5094.59",
+"floating": "63.39",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
