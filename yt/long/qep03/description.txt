@@ -1,0 +1,40 @@
+Do systems, dono ne saal me 30% kamaya. Ek beech me sirf 8% gira, dusra 50%. Kaagaz pe barabar, asal me bilkul alag. Is episode me zero se samjho drawdown: peak se giraawat, max drawdown, wapsi ka hisaab, aur ise position size se control kaise karein.
+
+Ye SPIDER ki Quant Trading Series ka Episode 3 hai (Hindi + English subtitles).
+
+Is episode me:
+• Drawdown aur max drawdown kya hai
+• Wapsi ka hisaab: −10% → +11%, −25% → +33%, −50% → +100%, −80% → +400%
+• Drawdown ki lambaai: naye peak tak kitna samay
+• Systems ki tulna: kamaai ÷ max drawdown
+• Backtest vs live drawdown
+• Position size se drawdown control
+• Apni seema pehle likho
+
+Chapters:
+0:00 Intro
+0:27 Pichhla episode
+0:48 Drawdown kya hai
+1:09 Max drawdown
+1:28 Wapsi ka hisaab
+1:54 Kyun
+2:11 Samay ka dard
+2:27 Return ÷ drawdown
+2:50 Backtest vs live
+3:11 Size se control
+3:37 Apni seema
+3:53 Recap
+4:14 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Agla episode: Position sizing. Har trade me kitna lagayein?
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number sirf samjhane ke liye example hain.
+
+#quanttrading #algotrading #tradinghindi #riskmanagement #spidertrades

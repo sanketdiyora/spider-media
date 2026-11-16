@@ -1,0 +1,192 @@
+1
+00:00:05,000 --> 00:00:09,126
+Two systems. Both made 30% in a year.
+
+2
+00:00:09,577 --> 00:00:13,208
+The first account dipped only 8% along the way.
+
+3
+00:00:13,658 --> 00:00:16,584
+The second fell 50%.
+
+4
+00:00:17,034 --> 00:00:23,147
+On paper they are equal. In reality, most people would quit the second one halfway.
+
+5
+00:00:23,597 --> 00:00:26,444
+That fall along the way is the drawdown.
+
+6
+00:00:27,444 --> 00:00:32,354
+Hello, this is episode three of the SPIDER Quant Trading series.
+
+7
+00:00:32,805 --> 00:00:39,336
+Last time: win rate and payoff, and why you must look at the biggest loss.
+
+8
+00:00:39,786 --> 00:00:47,257
+Today we measure that pain: what drawdown is, how to count it, and why it matters most.
+
+9
+00:00:48,257 --> 00:00:52,541
+The highest point the account reached is called the peak.
+
+10
+00:00:52,991 --> 00:00:56,543
+How far it falls from that peak is the drawdown.
+
+11
+00:00:56,993 --> 00:01:02,140
+From 100,000 to 120,000, then down to 90,000.
+
+12
+00:01:02,590 --> 00:01:08,545
+A 30,000 fall, 25% of the peak. That is the drawdown.
+
+13
+00:01:09,545 --> 00:01:14,613
+The biggest fall in the whole history is the max drawdown.
+
+14
+00:01:15,062 --> 00:01:19,818
+Look at this number first in any backtest report. Profit comes later.
+
+15
+00:01:20,268 --> 00:01:27,112
+Profit shows what you might get. Drawdown shows what you must endure on the way.
+
+16
+00:01:28,112 --> 00:01:33,832
+Now the most dangerous part. Falling is easy, coming back is hard.
+
+17
+00:01:34,282 --> 00:01:38,880
+Fall 10%, and you need 11% to recover.
+
+18
+00:01:39,330 --> 00:01:42,883
+Fall 25%, and you need 33%.
+
+19
+00:01:43,333 --> 00:01:46,884
+Fall 50%, and you need a full 100%.
+
+20
+00:01:47,335 --> 00:01:53,213
+And fall 80%, you need 400%. Almost impossible.
+
+21
+00:01:54,213 --> 00:01:58,339
+Why? Because after the fall, there is less money left.
+
+22
+00:01:58,789 --> 00:02:05,634
+100 halves to 50. Now you must make 50 on 50, which is 100%.
+
+23
+00:02:06,083 --> 00:02:10,603
+So the quant's first rule: do not allow a big drawdown.
+
+24
+00:02:11,603 --> 00:02:14,999
+Drawdown is not just depth, it is also length.
+
+25
+00:02:15,448 --> 00:02:20,281
+How long did it take to get back to a new peak?
+
+26
+00:02:20,732 --> 00:02:26,609
+Many systems take months to reach a new peak. That is when patience breaks.
+
+27
+00:02:27,609 --> 00:02:30,117
+So how do you compare two systems?
+
+28
+00:02:30,567 --> 00:02:34,433
+An easy way: return divided by max drawdown.
+
+29
+00:02:34,882 --> 00:02:39,403
+First system: 30 over 8, about 3.75.
+
+30
+00:02:39,852 --> 00:02:44,841
+Second: 30 over 50, only 0.6.
+
+31
+00:02:45,292 --> 00:02:49,733
+The bigger this number, the less pain for the same profit.
+
+32
+00:02:50,733 --> 00:02:56,297
+A bitter truth: live drawdown is often bigger than the backtest.
+
+33
+00:02:56,747 --> 00:03:03,173
+Spread, slippage and changing markets. A backtest does not capture all of it.
+
+34
+00:03:03,623 --> 00:03:10,388
+So many traders assume the real drawdown can be 1.5 to 2 times the backtest.
+
+35
+00:03:11,388 --> 00:03:15,986
+The biggest tool to control drawdown is position size.
+
+36
+00:03:16,436 --> 00:03:23,516
+Risk 10% per trade, and five losses in a row wipe out about 40% of the account.
+
+37
+00:03:23,966 --> 00:03:29,216
+Risk 1%, and the same five losses cost about 5%.
+
+38
+00:03:29,666 --> 00:03:36,352
+Same system, same edge. Only size changed, and the pain is about eight times smaller.
+
+39
+00:03:37,352 --> 00:03:42,343
+Last point. Before starting a system, set your limit.
+
+40
+00:03:42,793 --> 00:03:46,267
+How much drawdown can I take without quitting the system?
+
+41
+00:03:46,716 --> 00:03:52,516
+And at what point will I stop and re-check? Write it down first, not in the middle of the fall.
+
+42
+00:03:53,516 --> 00:03:55,084
+So, today's summary.
+
+43
+00:03:55,534 --> 00:04:01,489
+Drawdown is the fall from the peak. The biggest one is the max drawdown.
+
+44
+00:04:01,940 --> 00:04:06,380
+Fall 50%, and you need 100% to recover.
+
+45
+00:04:06,829 --> 00:04:13,257
+Compare systems by return over drawdown, and control drawdown with position size.
+
+46
+00:04:14,257 --> 00:04:19,011
+Next episode: position sizing. How much to risk on each trade?
+
+47
+00:04:19,461 --> 00:04:24,372
+If this was useful, subscribe and save the playlist.
+
+48
+00:04:24,822 --> 00:04:30,934
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
