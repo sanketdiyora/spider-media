@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 20:21 IST",
+"updated": "2026-11-16 20:37 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 171,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 8,
 "comments": 0,
-"views": 189,
-"reach": 142,
+"views": 200,
+"reach": 148,
 "saved": 4,
 "shares": 1
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 17,
-"reach": 11,
+"views": 18,
+"reach": 12,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 4,
 "comments": 0,
-"views": 319,
-"reach": 247,
+"views": 330,
+"reach": 262,
 "saved": 5,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
 "likes": 1,
 "comments": 0,
-"views": 112,
-"reach": 71,
+"views": 126,
+"reach": 88,
 "saved": 1,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Dfzd8R_E2ch/",
 "likes": 1,
 "comments": 0,
-"views": 8,
-"reach": 1,
+"views": 11,
+"reach": 8,
 "saved": 0,
 "shares": 0
 }
@@ -156,7 +156,7 @@
 "name": "Know reel",
 "type": "reel",
 "title": "KNOW #1 📚 Pip Kya Hota Hai?",
-"status": "PENDING",
+"status": "DUE",
 "post": null
 }
 ],
@@ -170,8 +170,8 @@
 "link": "https://www.instagram.com/reel/Dfzd8R_E2ch/",
 "likes": 1,
 "comments": 0,
-"views": 8,
-"reach": 1,
+"views": 11,
+"reach": 8,
 "saved": 0,
 "shares": 0
 },
@@ -184,8 +184,8 @@
 "link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
 "likes": 1,
 "comments": 0,
-"views": 112,
-"reach": 71,
+"views": 126,
+"reach": 88,
 "saved": 1,
 "shares": 0
 },
@@ -198,8 +198,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 4,
 "comments": 0,
-"views": 319,
-"reach": 247,
+"views": 330,
+"reach": 262,
 "saved": 5,
 "shares": 0
 },
@@ -212,8 +212,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 17,
-"reach": 11,
+"views": 18,
+"reach": 12,
 "saved": 0,
 "shares": 0
 },
@@ -254,8 +254,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 8,
 "comments": 0,
-"views": 189,
-"reach": 142,
+"views": 200,
+"reach": 148,
 "saved": 4,
 "shares": 1
 },
@@ -367,7 +367,7 @@
 "likes": 7,
 "comments": 0,
 "views": 336,
-"reach": 280,
+"reach": 281,
 "saved": 2,
 "shares": 3
 },
@@ -451,7 +451,7 @@
 "likes": 0,
 "comments": 1,
 "views": 7,
-"reach": 11,
+"reach": 12,
 "saved": 0,
 "shares": 0
 },
@@ -492,7 +492,7 @@
 "link": "https://www.instagram.com/reel/DfsT1GmGU3d/",
 "likes": 23,
 "comments": 0,
-"views": 1231,
+"views": 1232,
 "reach": 1000,
 "saved": 7,
 "shares": 7
@@ -672,7 +672,7 @@
 "sl": 0.676115,
 "r": null,
 "opened": "16 Nov 16:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 }
@@ -1167,17 +1167,17 @@
 "all_win": 86,
 "today_net": 5.45,
 "engine": {
-"last_scan": "20:17",
+"last_scan": "20:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 14:45 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-16 15:00 UTC · new 0 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5031.20",
-"equity": "5094.59",
-"floating": "63.39",
+"equity": "5115.34",
+"floating": "84.14",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1187,6 +1187,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 14.9,
 "github_runs": [
+{
+"t": "2026-11-16T15:00:25Z",
+"ok": "",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-16T13:32:53Z",
 "ok": "success",
@@ -1206,11 +1211,6 @@
 "t": "2026-11-16T11:30:17Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-16T10:57:41Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
