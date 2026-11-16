@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-16 10:36 IST",
+"updated": "2026-11-16 10:42 IST",
 "date": "2026-11-16",
 "followers": 60,
-"media_count": 166,
+"media_count": 167,
 "slots": [
 {
 "slot": "0700",
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 130,
+"views": 131,
 "reach": 105,
 "saved": 2,
 "shares": 0
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 89,
-"reach": 65,
+"views": 93,
+"reach": 68,
 "saved": 1,
 "shares": 0
 }
@@ -51,8 +51,21 @@
 "name": "reel",
 "type": "reel",
 "title": "Market asal me ek neelaami hai. 🖼️",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17896730364435877",
+"cap": "Market asal me ek neelaami hai. 🖼️\n\nPainting ki neelaami me bhaav tab tak chadhta hai jab tak haath uthte rehte hain. Market me yahi dono taraf hota hai: buyers upar bolte hain, sellers neeche. Jahan dono raazi, wahin sauda.\n\nOrder Flow Series, Episode 2 (Market ek neelaami) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Market asal me ek neelaami hai. 🖼️",
+"time": "2026-11-16 10:41",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfykveWCcJE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -89,6 +102,20 @@
 ],
 "recent_posts": [
 {
+"id": "17896730364435877",
+"cap": "Market asal me ek neelaami hai. 🖼️\n\nPainting ki neelaami me bhaav tab tak chadhta hai jab tak haath uthte rehte hain. Market me yahi dono taraf hota hai: buyers upar bolte hain, sellers neeche. Jahan dono raazi, wahin sauda.\n\nOrder Flow Series, Episode 2 (Market ek neelaami) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Market asal me ek neelaami hai. 🖼️",
+"time": "2026-11-16 10:41",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfykveWCcJE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18078413696568143",
 "cap": "Start line pe sab barabar hote hain. Farak lap 20 me dikhta hai.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
 "cap1": "Start line pe sab barabar hote hain. Farak lap 20 me dikhta hai.",
@@ -97,8 +124,8 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 89,
-"reach": 65,
+"views": 93,
+"reach": 68,
 "saved": 1,
 "shares": 0
 },
@@ -111,7 +138,7 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 130,
+"views": 131,
 "reach": 105,
 "saved": 2,
 "shares": 0
@@ -493,20 +520,6 @@
 "reach": 113,
 "saved": 4,
 "shares": 1
-},
-{
-"id": "18416808217094980",
-"cap": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅\n\nSubah hotel wale jaldi me the, bhaav upar gaya. Shaam ko dukandar ko maal bechna tha, bhaav neeche gaya aur naye grahak mil gaye. Market bhi aise hi kaam karta hai: price upar jaata hai sellers dhoondhne, neeche jaata hai buyers dhoondhne.\n\nOrder Flow Series, Episode 2 (Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #priceaction #spidertrades",
-"cap1": "Subah ₹44, shaam ₹32. Tamatar wahi, bhaav alag. Kyun? 🍅",
-"time": "2026-11-12 23:12",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfpnilGj6Zn/",
-"likes": 1,
-"comments": 0,
-"views": 139,
-"reach": 118,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -913,7 +926,7 @@
 "today_net": 3.65,
 "engine": {
 "last_scan": "10:31",
-"age_min": 5,
+"age_min": 10,
 "rc": 0,
 "summary": "run 2026-11-16 05:00 UTC · new 0 · events 0 · open 9"
 },
