@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 12:21 IST",
+"updated": "2026-11-16 12:37 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -565,19 +565,6 @@
 "mt5_reason": "same currency limit"
 },
 {
-"id": "EURCAD_1794798000_dpoc",
-"pair": "EURCAD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.57296,
-"sl": 1.573981,
-"r": null,
-"opened": "16 Nov 08:45",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 1.57245"
-},
-{
 "id": "NAS100_1794809700_lbo",
 "pair": "NAS100",
 "dir": "SELL",
@@ -760,9 +747,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.34 USD = -1.00R"
+},
+{
+"id": "EURCAD_1794798000_dpoc",
+"pair": "EURCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 1.57296,
+"sl": 1.573981,
+"r": 0.67,
+"opened": "16 Nov 08:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 13.03 USD = 0.53R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURCAD_1794798000_dpoc",
+"pair": "EURCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 1.57296,
+"sl": 1.573981,
+"r": 0.67,
+"opened": "16 Nov 08:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 13.03 USD = 0.53R"
+},
 {
 "id": "GBPCAD_1794795300_pbo",
 "pair": "GBPCAD",
@@ -944,38 +957,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "USDJPY_1794591900_dpoc",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 159.927,
-"sl": 159.8217,
-"r": -1.0,
-"opened": "13 Nov 23:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 137,
-"all_net": 27.55,
-"all_win": 79,
-"today_net": 1.58,
+"all_n": 138,
+"all_net": 28.22,
+"all_win": 80,
+"today_net": 2.25,
 "engine": {
-"last_scan": "12:16",
+"last_scan": "12:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 06:45 UTC · new 0 · events 1 · open 7"
+"summary": "run 2026-11-16 07:00 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4984.83",
-"equity": "5017.09",
-"floating": "32.26",
-"positions": "4",
+"balance": "4997.86",
+"equity": "5010.23",
+"floating": "12.37",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
