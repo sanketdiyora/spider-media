@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 18:37 IST",
+"updated": "2026-11-16 18:51 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -677,19 +677,6 @@
 "mt5_reason": "OPEN BUY 0.50 lots @10951.41 SL 10918.92 (scanner SL) entry 10949.89 basis 14.20 (M15)  risk 0.43%"
 },
 {
-"id": "WTI_1794825900_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 88.395,
-"sl": 88.856,
-"r": null,
-"opened": "16 Nov 16:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "AUDUSD_1794826800_dpoc",
 "pair": "AUDUSD",
 "dir": "SELL",
@@ -950,9 +937,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1794825900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 88.395,
+"sl": 88.856,
+"r": 1.5,
+"opened": "16 Nov 16:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "WTI_1794825900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 88.395,
+"sl": 88.856,
+"r": 1.5,
+"opened": "16 Nov 16:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "BRENT_1794825900_pbo",
 "pair": "BRENT OIL",
@@ -1134,37 +1147,24 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
-},
-{
-"id": "EURJPY_1794792600_dpoc",
-"pair": "EURJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 176.018,
-"sl": 176.2282,
-"r": 0.64,
-"opened": "16 Nov 07:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 13.98 USD = 0.57R"
 }
 ],
-"all_n": 145,
-"all_net": 30.45,
-"all_win": 84,
-"today_net": 4.48,
+"all_n": 146,
+"all_net": 31.95,
+"all_win": 85,
+"today_net": 5.98,
 "engine": {
-"last_scan": "18:31",
+"last_scan": "18:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 13:00 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-16 13:15 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5009.51",
-"equity": "5015.53",
-"floating": "6.02",
+"equity": "5056.08",
+"floating": "46.57",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
