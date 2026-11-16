@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 08:10 IST",
+"updated": "2026-11-16 08:21 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 169,
@@ -589,6 +589,58 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.22 lots @1.88627 SL 1.88469 (scanner SL) entry 1.88612 basis 0.00000 (M15) split TP1/TP2 risk 0.49%"
+},
+{
+"id": "AUDJPY_1794796200_dpoc",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 108.119,
+"sl": 108.266,
+"r": null,
+"opened": "16 Nov 08:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.21 lots @108.091 SL 108.279 (scanner SL) entry 108.115 basis -0.004 (M15) +SLbuf 0.017  risk 0.50%"
+},
+{
+"id": "GER40_1794796200_pbo",
+"pair": "GER40",
+"dir": "BUY",
+"model": "pbo",
+"entry": 26819.38,
+"sl": 26752.37,
+"r": null,
+"opened": "16 Nov 08:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.20 lots @26854.98 SL 26775.42 (scanner SL) entry 26842.43 basis 23.05 (M15) split TP1/TP2 risk 0.35%"
+},
+{
+"id": "AUDCAD_1794796200_dpoc",
+"pair": "AUDCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.9661,
+"sl": 0.967139,
+"r": null,
+"opened": "16 Nov 08:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.25 lots @0.96596 SL 0.96733 (scanner SL) entry 0.96612 basis 0.00002 (M15) +SLbuf 0.00017  risk 0.48%"
+},
+{
+"id": "JPN225_1794796200_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 60145.4,
+"sl": 60869.2,
+"r": null,
+"opened": "16 Nov 08:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -808,18 +860,18 @@
 "all_win": 73,
 "today_net": 0.5,
 "engine": {
-"last_scan": "08:02",
-"age_min": 8,
+"last_scan": "08:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 02:30 UTC · new 2 · events 0 · open 6"
+"summary": "run 2026-11-16 02:45 UTC · new 4 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4960.15",
-"equity": "4949.53",
-"floating": "-10.62",
-"positions": "10",
+"equity": "4965.34",
+"floating": "5.19",
+"positions": "14",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
