@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 09:51 IST",
+"updated": "2026-11-16 10:06 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 166,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 122,
-"reach": 98,
+"views": 128,
+"reach": 104,
 "saved": 2,
 "shares": 0
 }
@@ -40,9 +40,9 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 22,
-"reach": 3,
-"saved": 0,
+"views": 75,
+"reach": 55,
+"saved": 1,
 "shares": 0
 }
 },
@@ -97,9 +97,9 @@
 "link": "https://www.instagram.com/reel/DfyScyplXY3/",
 "likes": 0,
 "comments": 0,
-"views": 22,
-"reach": 3,
-"saved": 0,
+"views": 75,
+"reach": 55,
+"saved": 1,
 "shares": 0
 },
 {
@@ -111,8 +111,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 3,
 "comments": 0,
-"views": 122,
-"reach": 98,
+"views": 128,
+"reach": 104,
 "saved": 2,
 "shares": 0
 },
@@ -139,8 +139,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 61,
-"reach": 51,
+"views": 66,
+"reach": 57,
 "saved": 0,
 "shares": 0
 },
@@ -535,8 +535,8 @@
 "r": null,
 "opened": "16 Nov 07:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 175.893"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 13.98 USD = 0.57R"
 },
 {
 "id": "GBPAUD_1794794400_pbo",
@@ -912,18 +912,18 @@
 "all_win": 76,
 "today_net": 2.26,
 "engine": {
-"last_scan": "09:46",
+"last_scan": "10:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 04:15 UTC · new 0 · events 0 · open 11"
+"summary": "run 2026-11-16 04:30 UTC · new 0 · events 0 · open 11"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4984.50",
-"equity": "5007.59",
-"floating": "23.09",
-"positions": "12",
+"balance": "4998.48",
+"equity": "4998.20",
+"floating": "-0.28",
+"positions": "11",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
