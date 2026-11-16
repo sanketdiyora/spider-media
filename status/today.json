@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 11:02 IST",
+"updated": "2026-11-16 11:22 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -588,7 +588,7 @@
 "opened": "16 Nov 08:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 0.96529"
+"mt5_reason": "SL 0.96499"
 },
 {
 "id": "JPN225_1794796200_dpoc",
@@ -925,25 +925,25 @@
 "all_win": 78,
 "today_net": 1.65,
 "engine": {
-"last_scan": "11:01",
-"age_min": 1,
+"last_scan": "11:16",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-16 05:30 UTC · new 0 · events 1 · open 7"
+"summary": "run 2026-11-16 05:45 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4997.86",
-"equity": "5012.11",
-"floating": "14.25",
+"equity": "5034.42",
+"floating": "36.56",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 104739,
+"voice_chars_month": 113452,
 "voice_limit": 30000,
-"disk_free_gb": 17.7,
+"disk_free_gb": 16.6,
 "github_runs": [
 {
 "t": "2026-11-16T05:30:16Z",
