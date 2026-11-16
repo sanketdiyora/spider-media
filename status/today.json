@@ -1181,7 +1181,7 @@
 "today_net": 5.45,
 "engine": {
 "last_scan": "20:31",
-"age_min": 10,
+"age_min": 11,
 "rc": 0,
 "summary": "run 2026-11-16 15:00 UTC · new 0 · events 1 · open 7"
 },
