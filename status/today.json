@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 10:42 IST",
+"updated": "2026-11-16 11:02 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -588,7 +588,7 @@
 "opened": "16 Nov 08:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 0.96567"
+"mt5_reason": "SL 0.96529"
 },
 {
 "id": "JPN225_1794796200_dpoc",
@@ -599,32 +599,6 @@
 "sl": 60869.2,
 "r": null,
 "opened": "16 Nov 08:15",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "USDCHF_1794797100_dpoc",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 0.83926,
-"sl": 0.838472,
-"r": null,
-"opened": "16 Nov 08:30",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.22 lots @0.83937 SL 0.83845 (scanner SL) entry 0.83924 basis -0.00002 (M15)  risk 0.49%"
-},
-{
-"id": "US30_1794797100_pbo",
-"pair": "US30",
-"dir": "BUY",
-"model": "pbo",
-"entry": 52376.68,
-"sl": 52252.43,
-"r": null,
-"opened": "16 Nov 08:30",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -721,9 +695,61 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "US30_1794797100_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52376.68,
+"sl": 52252.43,
+"r": -1.0,
+"opened": "16 Nov 08:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "USDCHF_1794797100_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.83926,
+"sl": 0.838472,
+"r": -1.0,
+"opened": "16 Nov 08:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.14 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "USDCHF_1794797100_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.83926,
+"sl": 0.838472,
+"r": -1.0,
+"opened": "16 Nov 08:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.14 USD = -1.00R"
+},
+{
+"id": "US30_1794797100_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52376.68,
+"sl": 52252.43,
+"r": -1.0,
+"opened": "16 Nov 08:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "CHFJPY_1794797100_dpoc",
 "pair": "CHFJPY",
@@ -892,59 +918,38 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BTCUSD_1794570300_dpoc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 69232.8,
-"sl": 69561.2,
-"r": -1.0,
-"opened": "13 Nov 17:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPUSD_1794566700_lbo",
-"pair": "GBPUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 1.322084,
-"sl": 1.323511,
-"r": -1.0,
-"opened": "13 Nov 16:20",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 132,
-"all_net": 29.62,
+"all_n": 134,
+"all_net": 27.62,
 "all_win": 78,
-"today_net": 3.65,
+"today_net": 1.65,
 "engine": {
-"last_scan": "10:31",
-"age_min": 10,
+"last_scan": "11:01",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-16 05:00 UTC · new 0 · events 0 · open 9"
+"summary": "run 2026-11-16 05:30 UTC · new 0 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5022.00",
-"equity": "5021.03",
-"floating": "-0.97",
-"positions": "9",
+"balance": "4997.86",
+"equity": "5012.11",
+"floating": "14.25",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 102016,
+"voice_chars_month": 104739,
 "voice_limit": 30000,
-"disk_free_gb": 19.3,
+"disk_free_gb": 17.7,
 "github_runs": [
+{
+"t": "2026-11-16T05:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-16T02:30:16Z",
 "ok": "success",
@@ -962,11 +967,6 @@
 },
 {
 "t": "2026-11-15T20:58:27Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-15T19:55:44Z",
 "ok": "success",
 "ev": "schedule"
 }
