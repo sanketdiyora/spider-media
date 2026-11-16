@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 09:36 IST",
+"updated": "2026-11-16 09:51 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 166,
@@ -534,7 +534,7 @@
 "sl": 176.2282,
 "r": null,
 "opened": "16 Nov 07:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 175.893"
 },
@@ -625,7 +625,7 @@
 "sl": 190.4677,
 "r": null,
 "opened": "16 Nov 08:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -912,17 +912,17 @@
 "all_win": 76,
 "today_net": 2.26,
 "engine": {
-"last_scan": "09:32",
-"age_min": 4,
+"last_scan": "09:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 04:00 UTC · new 0 · events 2 · open 11"
+"summary": "run 2026-11-16 04:15 UTC · new 0 · events 0 · open 11"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4984.50",
-"equity": "5014.64",
-"floating": "30.14",
+"equity": "5007.59",
+"floating": "23.09",
 "positions": "12",
 "ea_enabled": "1",
 "algo_trading": "1"
