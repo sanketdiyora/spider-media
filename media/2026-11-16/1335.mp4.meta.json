@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-16/1335.mp4",
+ "dur": 43.46,
+ "music": "corporate/175.mp3",
+ "chars": 531,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GBPCAD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.8860628,
+    1.88612
+   ],
+   "sl": 1.88469,
+   "entry": 1.88612,
+   "rr": 3.0,
+   "tp1": 1.88755,
+   "tp2": 1.890409
+  },
+  {
+   "pair": "AUDCAD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.9661,
+    0.96614156
+   ],
+   "sl": 0.967139,
+   "entry": 0.9661,
+   "rr": 1.0,
+   "tp1": 0.965061,
+   "tp2": null
+  },
+  {
+   "pair": "GBPAUD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.95130696,
+    1.95139
+   ],
+   "sl": 1.949314,
+   "entry": 1.95139,
+   "rr": 3.0,
+   "tp1": 1.953466,
+   "tp2": 1.957619
+  },
+  {
+   "pair": "CADJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    111.917,
+    111.922824
+   ],
+   "sl": 112.0626,
+   "entry": 111.917,
+   "rr": 3.0,
+   "tp1": 111.7714,
+   "tp2": 111.4803
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_9a4b37fa",
+ "crops": [
+  "/home/claude/ig/setup/w_9a4b37fa/tg_0.jpg",
+  "/home/claude/ig/setup/w_9a4b37fa/tg_1.jpg",
+  "/home/claude/ig/setup/w_9a4b37fa/tg_2.jpg",
+  "/home/claude/ig/setup/w_9a4b37fa/tg_3.jpg"
+ ]
+}
