@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 13:07 IST",
+"updated": "2026-11-16 13:21 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -578,19 +578,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "WTI_1794809700_lbo",
-"pair": "WTI OIL",
-"dir": "BUY",
-"model": "lbo",
-"entry": 88.836,
-"sl": 88.339,
-"r": null,
-"opened": "16 Nov 11:50",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "XAGUSD_1794809700_dpoc",
 "pair": "SILVER",
 "dir": "SELL",
@@ -760,9 +747,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 13.03 USD = 0.53R"
+},
+{
+"id": "WTI_1794809700_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 88.836,
+"sl": 88.339,
+"r": 0.5,
+"opened": "16 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "WTI_1794809700_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 88.836,
+"sl": 88.339,
+"r": 0.5,
+"opened": "16 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "EURCAD_1794798000_dpoc",
 "pair": "EURCAD",
@@ -944,37 +957,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NZDJPY_1794579300_dpoc",
-"pair": "NZDJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 88.478,
-"sl": 88.647,
-"r": 1.41,
-"opened": "13 Nov 20:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 138,
-"all_net": 28.22,
-"all_win": 80,
-"today_net": 2.25,
+"all_n": 139,
+"all_net": 28.72,
+"all_win": 81,
+"today_net": 2.75,
 "engine": {
-"last_scan": "13:02",
-"age_min": 5,
+"last_scan": "13:17",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-16 07:30 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-16 07:45 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4997.86",
-"equity": "5016.89",
-"floating": "19.03",
+"equity": "5027.94",
+"floating": "30.08",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -984,6 +984,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.0,
 "github_runs": [
+{
+"t": "2026-11-16T07:45:21Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-16T06:30:16Z",
 "ok": "success",
@@ -1003,11 +1008,6 @@
 "t": "2026-11-16T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-15T21:30:38Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
