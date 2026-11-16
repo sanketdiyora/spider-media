@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 11:22 IST",
+"updated": "2026-11-16 11:36 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -565,19 +565,6 @@
 "mt5_reason": "OPEN BUY 0.22 lots @1.88627 SL 1.88469 (scanner SL) entry 1.88612 basis 0.00000 (M15) split TP1/TP2 risk 0.49%"
 },
 {
-"id": "GER40_1794796200_pbo",
-"pair": "GER40",
-"dir": "BUY",
-"model": "pbo",
-"entry": 26819.38,
-"sl": 26752.37,
-"r": null,
-"opened": "16 Nov 08:15",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.20 lots @26854.98 SL 26775.42 (scanner SL) entry 26842.43 basis 23.05 (M15) split TP1/TP2 risk 0.35%"
-},
-{
 "id": "AUDCAD_1794796200_dpoc",
 "pair": "AUDCAD",
 "dir": "SELL",
@@ -588,7 +575,7 @@
 "opened": "16 Nov 08:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 0.96499"
+"mt5_reason": "SL 0.96431"
 },
 {
 "id": "JPN225_1794796200_dpoc",
@@ -721,9 +708,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.14 USD = -1.00R"
+},
+{
+"id": "GER40_1794796200_pbo",
+"pair": "GER40",
+"dir": "BUY",
+"model": "pbo",
+"entry": 26819.38,
+"sl": 26752.37,
+"r": -1.0,
+"opened": "16 Nov 08:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -17.59 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "GER40_1794796200_pbo",
+"pair": "GER40",
+"dir": "BUY",
+"model": "pbo",
+"entry": 26819.38,
+"sl": 26752.37,
+"r": -1.0,
+"opened": "16 Nov 08:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -17.59 USD = -1.00R"
+},
 {
 "id": "USDCHF_1794797100_dpoc",
 "pair": "USDCHF",
@@ -905,45 +918,32 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GER40_1794581100_dpoc",
-"pair": "GER40",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 26763.69,
-"sl": 26716.31,
-"r": -1.0,
-"opened": "13 Nov 20:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 134,
-"all_net": 27.62,
+"all_n": 135,
+"all_net": 26.62,
 "all_win": 78,
-"today_net": 1.65,
+"today_net": 0.65,
 "engine": {
-"last_scan": "11:16",
-"age_min": 6,
+"last_scan": "11:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 05:45 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-16 06:00 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4997.86",
-"equity": "5034.42",
-"floating": "36.56",
-"positions": "8",
+"balance": "4980.27",
+"equity": "5044.61",
+"floating": "64.34",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
 "voice_chars_month": 113452,
 "voice_limit": 30000,
-"disk_free_gb": 16.6,
+"disk_free_gb": 15.0,
 "github_runs": [
 {
 "t": "2026-11-16T05:30:16Z",
