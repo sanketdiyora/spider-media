@@ -1,0 +1,200 @@
+1
+00:00:05,000 --> 00:00:08,474
+A system wins 90 trades out of 100.
+
+2
+00:00:08,924 --> 00:00:11,040
+Sounds amazing.
+
+3
+00:00:11,489 --> 00:00:15,278
+Yet at the end of the month, the account is negative.
+
+4
+00:00:15,728 --> 00:00:19,124
+How? That is the maths we will see today.
+
+5
+00:00:20,124 --> 00:00:24,957
+Hello, this is episode two of the SPIDER Quant Trading series.
+
+6
+00:00:25,406 --> 00:00:32,094
+Last time we learned: an edge is a small advantage, and its number is expectancy.
+
+7
+00:00:32,543 --> 00:00:40,015
+Today: what is win rate? What is payoff? And why can a system that wins often still lose?
+
+8
+00:00:41,015 --> 00:00:44,881
+Win rate is simple: how many of 100 trades won.
+
+9
+00:00:45,331 --> 00:00:48,884
+Won 70, so the win rate is 70%.
+
+10
+00:00:49,334 --> 00:00:55,368
+But it only counts. It says nothing about how big the wins and losses were.
+
+11
+00:00:56,368 --> 00:00:59,372
+That is where the second number comes in: payoff.
+
+12
+00:00:59,822 --> 00:01:05,072
+Payoff means how big the average win is compared to the average loss.
+
+13
+00:01:05,522 --> 00:01:11,243
+Average win 300, average loss 100. So the payoff is 3.
+
+14
+00:01:11,693 --> 00:01:16,448
+Win rate tells you how often. Payoff tells you how much.
+
+15
+00:01:17,448 --> 00:01:20,033
+Now, that 90% system.
+
+16
+00:01:20,484 --> 00:01:24,768
+90 wins, 10 rupees each. Total 900.
+
+17
+00:01:25,217 --> 00:01:30,128
+10 losses, but 100 rupees each. Total 1,000.
+
+18
+00:01:30,579 --> 00:01:34,705
+900 minus 1,000. Net minus 100.
+
+19
+00:01:35,155 --> 00:01:41,425
+It won 90 times and still lost, because the wins were small and the losses big.
+
+20
+00:01:42,425 --> 00:01:46,866
+Now the opposite. A system that wins only 40%.
+
+21
+00:01:47,317 --> 00:01:51,601
+But each win is 300 and each loss is 100.
+
+22
+00:01:52,050 --> 00:02:00,018
+40 x 300 is 12,000. 60 x 100 is 6,000. Net plus 6,000.
+
+23
+00:02:00,467 --> 00:02:06,267
+Won less, earned more. It is not about winning, it is about the maths.
+
+24
+00:02:07,267 --> 00:02:11,630
+So how much win rate is enough? It depends on the payoff.
+
+25
+00:02:12,080 --> 00:02:16,991
+If wins and losses are equal, you need more than 50%.
+
+26
+00:02:17,441 --> 00:02:21,725
+If wins are twice the losses, even 34% is enough.
+
+27
+00:02:22,174 --> 00:02:27,164
+And if a win is one tenth of a loss, you need more than 91%.
+
+28
+00:02:27,614 --> 00:02:33,021
+That is why our 90% system lost. It needed 91.
+
+29
+00:02:34,021 --> 00:02:36,216
+There is an easy formula for this.
+
+30
+00:02:36,666 --> 00:02:42,150
+Required win rate equals loss divided by win plus loss.
+
+31
+00:02:42,601 --> 00:02:49,028
+Win 300, loss 100. 100 over 400, so 25%.
+
+32
+00:02:49,477 --> 00:02:54,727
+Win more than that and the maths is positive. Less, and it is negative.
+
+33
+00:02:55,727 --> 00:03:00,718
+Another truth: low win rate systems get losing streaks.
+
+34
+00:03:01,168 --> 00:03:06,156
+In a 40% system, five losses in a row is normal.
+
+35
+00:03:06,607 --> 00:03:12,798
+This is where people quit, right before the next big win.
+
+36
+00:03:13,248 --> 00:03:18,316
+So before running a system, know how it loses too.
+
+37
+00:03:19,316 --> 00:03:23,286
+High win rate systems have a hidden danger.
+
+38
+00:03:23,736 --> 00:03:29,065
+Often they take small profits fast and let losses run long.
+
+39
+00:03:29,515 --> 00:03:34,426
+For months everything looks green. Then one bad day wipes it out.
+
+40
+00:03:34,876 --> 00:03:39,866
+So when you judge such a system, always look at its biggest loss.
+
+41
+00:03:40,866 --> 00:03:44,418
+So in any system, look at three numbers together.
+
+42
+00:03:44,868 --> 00:03:51,216
+One, win rate. Two, payoff. Three, the biggest loss.
+
+43
+00:03:51,666 --> 00:03:56,656
+If someone sells a system showing only win rate, ask for the other two.
+
+44
+00:03:57,656 --> 00:03:59,222
+So, today's summary.
+
+45
+00:03:59,673 --> 00:04:05,159
+Win rate says how often you win. Payoff says how much.
+
+46
+00:04:05,608 --> 00:04:10,755
+Required win rate equals loss over win plus loss.
+
+47
+00:04:11,204 --> 00:04:17,474
+A 90% system can lose. A 40% system can earn.
+
+48
+00:04:18,474 --> 00:04:25,553
+Next episode: drawdown. How far can an account fall, and why is that the most important number?
+
+49
+00:04:26,003 --> 00:04:30,993
+If this was useful, subscribe and save the playlist.
+
+50
+00:04:31,443 --> 00:04:37,555
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

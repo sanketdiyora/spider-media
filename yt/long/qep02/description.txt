@@ -1,0 +1,40 @@
+Ek system 100 me se 90 trade jeetta hai, phir bhi account minus me hai. Kaise? Is episode me zero se samjho win rate, payoff, breakeven win rate ka formula, lagataar haar ka sach, aur high win rate systems ka chhupa khatra.
+
+Ye SPIDER ki Quant Trading Series ka Episode 2 hai (Hindi + English subtitles).
+
+Is episode me:
+• Win rate: kitni baar jeete
+• Payoff: ausat jeet vs ausat haar
+• 90% jeet phir bhi loss: poora hisaab
+• 40% jeet phir bhi profit
+• Zaruri win rate = Haar ÷ (Jeet + Haar)
+• Lagataar haar: system kab chhodna galat hai
+• High win rate ka chhupa khatra
+• Har system me 3 number: win rate, payoff, sabse badi haar
+
+Chapters:
+0:00 Intro
+0:20 Pichhla episode
+0:41 Win rate
+0:56 Payoff
+1:17 90% ka jaal
+1:42 40% wala
+2:07 Breakeven win rate
+2:34 Formula
+2:55 Lagataar haar
+3:19 High win rate ka khatra
+3:40 Kya dekhna hai
+3:57 Recap
+4:18 Agla episode
+
+Pichhla episode (Ep 1, Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Agla episode: Drawdown. Account kitna gir sakta hai?
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number sirf samjhane ke liye example hain.
+
+#quanttrading #algotrading #tradinghindi #riskmanagement #spidertrades
