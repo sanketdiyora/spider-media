@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 11:51 IST",
+"updated": "2026-11-16 12:00 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -926,7 +926,7 @@
 "today_net": 0.65,
 "engine": {
 "last_scan": "11:47",
-"age_min": 4,
+"age_min": 14,
 "rc": 0,
 "summary": "run 2026-11-16 06:15 UTC · new 0 · events 0 · open 6"
 },
@@ -946,6 +946,11 @@
 "disk_free_gb": 15.0,
 "github_runs": [
 {
+"t": "2026-11-16T06:30:16Z",
+"ok": "",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-16T05:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -962,11 +967,6 @@
 },
 {
 "t": "2026-11-15T21:30:38Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-15T20:58:27Z",
 "ok": "success",
 "ev": "schedule"
 }
