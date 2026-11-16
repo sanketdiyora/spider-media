@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 09:21 IST",
+"updated": "2026-11-16 09:36 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 166,
@@ -536,7 +536,7 @@
 "opened": "16 Nov 07:15",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.18 lots @176.017 SL 176.235 (scanner SL) entry 176.013 basis -0.005 (M15) +SLbuf 0.012  risk 0.50%"
+"mt5_reason": "SL 175.893"
 },
 {
 "id": "GBPAUD_1794794400_pbo",
@@ -547,22 +547,9 @@
 "sl": 1.949314,
 "r": null,
 "opened": "16 Nov 07:45",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.16 lots @1.95158 SL 1.94933 (scanner SL) entry 1.95141 basis 0.00002 (M15) split TP1/TP2 risk 0.49%"
-},
-{
-"id": "WTI_1794795300_pbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 88.095,
-"sl": 88.497,
-"r": null,
-"opened": "16 Nov 08:00",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 88.179"
+"mt5_reason": "OPEN BUY 0.16 lots @1.95158 SL 1.94933 (scanner SL) entry 1.95141 basis 0.00002 (M15) split TP1/TP2 risk 0.49%"
 },
 {
 "id": "GBPCAD_1794795300_pbo",
@@ -576,19 +563,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.22 lots @1.88627 SL 1.88469 (scanner SL) entry 1.88612 basis 0.00000 (M15) split TP1/TP2 risk 0.49%"
-},
-{
-"id": "AUDJPY_1794796200_dpoc",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 108.119,
-"sl": 108.266,
-"r": null,
-"opened": "16 Nov 08:15",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 108.034"
 },
 {
 "id": "GER40_1794796200_pbo",
@@ -708,9 +682,61 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 9.69 USD = 0.48R"
+},
+{
+"id": "AUDJPY_1794796200_dpoc",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 108.119,
+"sl": 108.266,
+"r": 0.68,
+"opened": "16 Nov 08:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.50 USD = 0.30R"
+},
+{
+"id": "WTI_1794795300_pbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 88.095,
+"sl": 88.497,
+"r": 0.5,
+"opened": "16 Nov 08:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.16 USD = 0.33R"
 }
 ],
 "closed_recent": [
+{
+"id": "WTI_1794795300_pbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 88.095,
+"sl": 88.497,
+"r": 0.5,
+"opened": "16 Nov 08:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.16 USD = 0.33R"
+},
+{
+"id": "AUDJPY_1794796200_dpoc",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 108.119,
+"sl": 108.266,
+"r": 0.68,
+"opened": "16 Nov 08:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 7.50 USD = 0.30R"
+},
 {
 "id": "WTI_1794790800_dpoc",
 "pair": "WTI OIL",
@@ -879,51 +905,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPCAD_1794557700_pbo",
-"pair": "GBPCAD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.88697,
-"sl": 1.885362,
-"r": -1.0,
-"opened": "13 Nov 14:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "JPN225_1794539700_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61609.3,
-"sl": 61944.5,
-"r": 0.5,
-"opened": "13 Nov 09:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 128,
-"all_net": 27.05,
-"all_win": 74,
-"today_net": 1.08,
+"all_n": 130,
+"all_net": 28.23,
+"all_win": 76,
+"today_net": 2.26,
 "engine": {
-"last_scan": "09:16",
-"age_min": 5,
+"last_scan": "09:32",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-16 03:45 UTC · new 0 · events 0 · open 13"
+"summary": "run 2026-11-16 04:00 UTC · new 0 · events 2 · open 11"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4978.02",
-"equity": "5035.93",
-"floating": "57.91",
-"positions": "14",
+"balance": "4984.50",
+"equity": "5014.64",
+"floating": "30.14",
+"positions": "12",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
