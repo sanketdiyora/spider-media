@@ -19,7 +19,7 @@ for q in sorted(glob.glob(os.path.join(D,'queue','*.json'))):
     json.dump({**j,'yt':vid,'url':f'https://youtube.com/shorts/{vid}'},open(done,'w'),ensure_ascii=False)
     os.remove(q); changed+= [q,done]
 if changed:
-    g=['git','-C',R]
+    g=['git','-C',R,'-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com']
     subprocess.run(g+['add','-A','yt']); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm','yt uploaded [skip ci]'])
     for _ in range(3):
         if subprocess.run(g+['push','-q','origin','HEAD:main']).returncode==0: break

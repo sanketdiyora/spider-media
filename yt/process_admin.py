@@ -14,7 +14,7 @@ for q in sorted(glob.glob(os.path.join(D,'admin','*.json'))):
             pl=r.stdout.split('PLAYLIST ')[1].split()[0]; cfg.setdefault('playlists',{})[j.get('playlist_key','default')]=pl
     json.dump({'results':out},open(done,'w'),ensure_ascii=False,indent=1); json.dump(cfg,open(cfgp,'w'),indent=1); ch=True
 if ch:
-    g=['git','-C',R]
+    g=['git','-C',R,'-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com']
     subprocess.run(g+['add','-A','yt/done','yt/config.json']); subprocess.run(g+['-c','user.name=spider-bot','-c','user.email=spider-bot@users.noreply.github.com','commit','-qm','yt admin done [skip ci]'])
     for _ in range(3):
         if subprocess.run(g+['push','-q','origin','HEAD:main']).returncode==0: break
