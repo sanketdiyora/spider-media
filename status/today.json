@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 15:36 IST",
+"updated": "2026-11-16 15:52 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 169,
@@ -688,6 +688,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.02 lots @88.590 SL 89.633 (scanner SL) entry 88.489 basis 0.039 (M15) +SLbuf 0.051 split TP1/TP2 risk 0.42%"
+},
+{
+"id": "US30_1794823200_pbo",
+"pair": "US30",
+"dir": "BUY",
+"model": "pbo",
+"entry": 52350.61,
+"sl": 52259.4,
+"r": null,
+"opened": "16 Nov 15:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "UK100_1794823200_dpoc",
+"pair": "UK100",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 10935.69,
+"sl": 10904.72,
+"r": null,
+"opened": "16 Nov 15:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.50 lots @10951.41 SL 10918.92 (scanner SL) entry 10949.89 basis 14.20 (M15)  risk 0.43%"
 }
 ],
 "closed_today": [
@@ -1076,18 +1102,18 @@
 "all_win": 81,
 "today_net": 1.75,
 "engine": {
-"last_scan": "15:32",
+"last_scan": "15:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 10:00 UTC · new 1 · events 0 · open 10"
+"summary": "run 2026-11-16 10:15 UTC · new 2 · events 0 · open 12"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4997.86",
-"equity": "4997.99",
-"floating": "0.13",
-"positions": "8",
+"equity": "4964.85",
+"floating": "-33.01",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
