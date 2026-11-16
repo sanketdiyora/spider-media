@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 12:00 IST",
+"updated": "2026-11-16 12:06 IST",
 "date": "2026-11-16",
 "followers": 60,
 "media_count": 167,
@@ -561,8 +561,8 @@
 "r": null,
 "opened": "16 Nov 08:00",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.22 lots @1.88627 SL 1.88469 (scanner SL) entry 1.88612 basis 0.00000 (M15) split TP1/TP2 risk 0.49%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.34 USD = -1.00R"
 },
 {
 "id": "AUDCAD_1794796200_dpoc",
@@ -574,8 +574,8 @@
 "r": null,
 "opened": "16 Nov 08:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 0.96431"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 28.90 USD = 1.20R"
 },
 {
 "id": "JPN225_1794796200_dpoc",
@@ -602,6 +602,45 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.31 lots @1.57305 SL 1.57418 (scanner SL) entry 1.57300 basis 0.00004 (M15) +SLbuf 0.00016  risk 0.49%"
+},
+{
+"id": "NAS100_1794809700_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 27586.95,
+"sl": 27793.63,
+"r": null,
+"opened": "16 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "WTI_1794809700_lbo",
+"pair": "WTI OIL",
+"dir": "BUY",
+"model": "lbo",
+"entry": 88.836,
+"sl": 88.339,
+"r": null,
+"opened": "16 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "XAGUSD_1794809700_dpoc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 47.405,
+"sl": 47.9019,
+"r": null,
+"opened": "16 Nov 12:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.01 lots @47.288 SL 47.952 (scanner SL) entry 47.424 basis 0.019 (M15) +SLbuf 0.031  min lot, risk 0.66%"
 }
 ],
 "closed_today": [
@@ -925,18 +964,18 @@
 "all_win": 78,
 "today_net": 0.65,
 "engine": {
-"last_scan": "11:47",
-"age_min": 14,
+"last_scan": "12:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 06:15 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-16 06:30 UTC · new 1 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4980.27",
-"equity": "5041.97",
-"floating": "61.70",
-"positions": "6",
+"balance": "4984.83",
+"equity": "5025.29",
+"floating": "40.46",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -947,7 +986,7 @@
 "github_runs": [
 {
 "t": "2026-11-16T06:30:16Z",
-"ok": "",
+"ok": "success",
 "ev": "workflow_dispatch"
 },
 {
