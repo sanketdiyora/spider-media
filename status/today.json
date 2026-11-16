@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-16 16:52 IST",
+"updated": "2026-11-16 17:07 IST",
 "date": "2026-11-16",
 "followers": 62,
-"media_count": 169,
+"media_count": 170,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 6,
 "comments": 0,
-"views": 158,
-"reach": 128,
+"views": 164,
+"reach": 130,
 "saved": 3,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 7,
-"reach": 4,
+"views": 10,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -101,11 +101,11 @@
 "time": "2026-11-16 15:21",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 126,
-"reach": 54,
-"saved": 2,
+"views": 181,
+"reach": 127,
+"saved": 3,
 "shares": 0
 }
 },
@@ -114,8 +114,21 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "Chart pe jo volume dikhta hai, wo asli nahi? 📊",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18087587666329523",
+"cap": "Chart pe jo volume dikhta hai, wo asli nahi? 📊\n\nForex aur gold ke spot chart pe volume asal me tick volume hota hai: price kitni baar badla, ye ginti. Ek tick ke peeche 0.01 lot bhi ho sakta hai aur 100 lot bhi.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Chart pe jo volume dikhta hai, wo asli nahi? 📊",
+"time": "2026-11-16 17:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -136,17 +149,31 @@
 ],
 "recent_posts": [
 {
+"id": "18087587666329523",
+"cap": "Chart pe jo volume dikhta hai, wo asli nahi? 📊\n\nForex aur gold ke spot chart pe volume asal me tick volume hota hai: price kitni baar badla, ye ginti. Ek tick ke peeche 0.01 lot bhi ho sakta hai aur 100 lot bhi.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Chart pe jo volume dikhta hai, wo asli nahi? 📊",
+"time": "2026-11-16 17:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18115851988875314",
 "cap": "SPIDER RIDDLE #1 · Part 1/2 🧩 Dono haare. Kyun?\n2 traders, dono $1000 se start. Dono ne 10 trades liye: 5 jeete, 5 haare, RR 1:1, baari-baari. Trader A har trade 10% risk, Trader B 2%. Same win rate, same RR — phir bhi 10 trades ke baad dono ka balance $1000 se kam. Kaun kam haara, A ya B? Aur dono haare kyun?\nJawab comment me likho 👇 Kal 9 AM jawab reel (Part 2/2) + pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #riskmanagement #tradingpsychology",
 "cap1": "SPIDER RIDDLE #1 · Part 1/2 🧩 Dono haare. Kyun?",
 "time": "2026-11-16 15:21",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 126,
-"reach": 54,
-"saved": 2,
+"views": 181,
+"reach": 127,
+"saved": 3,
 "shares": 0
 },
 {
@@ -158,8 +185,8 @@
 "link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
 "likes": 0,
 "comments": 0,
-"views": 7,
-"reach": 4,
+"views": 10,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -200,8 +227,8 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 6,
 "comments": 0,
-"views": 158,
-"reach": 128,
+"views": 164,
+"reach": 130,
 "saved": 3,
 "shares": 0
 },
@@ -228,8 +255,8 @@
 "link": "https://www.instagram.com/reel/Dfw5LQKmSxJ/",
 "likes": 1,
 "comments": 0,
-"views": 92,
-"reach": 78,
+"views": 94,
+"reach": 79,
 "saved": 0,
 "shares": 0
 },
@@ -539,20 +566,6 @@
 "views": 4,
 "reach": 1,
 "saved": 0,
-"shares": 0
-},
-{
-"id": "18112051904461213",
-"cap": "Ek hi trade, teen order — aur teeno ki alag keemat. 💸\n\nMarket order: turant andar, keemat = spread. Limit order: apna bhaav, par trade chhoot sakta hai. Stop order: breakout pe andar, par keemat = slippage. Koi order free nahi hota, sawaal bas itna hai ki tum kaunsi keemat chunte ho.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #stoploss #spidertrades",
-"cap1": "Ek hi trade, teen order — aur teeno ki alag keemat. 💸",
-"time": "2026-11-13 10:20",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfqz6cDj0Li/",
-"likes": 1,
-"comments": 0,
-"views": 111,
-"reach": 92,
-"saved": 1,
 "shares": 0
 }
 ],
@@ -1141,17 +1154,17 @@
 "all_win": 81,
 "today_net": 0.75,
 "engine": {
-"last_scan": "16:46",
+"last_scan": "17:02",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 11:15 UTC · new 1 · events 0 · open 14"
+"summary": "run 2026-11-16 11:30 UTC · new 0 · events 0 · open 14"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4973.22",
-"equity": "4949.93",
-"floating": "-23.29",
+"equity": "4939.85",
+"floating": "-33.37",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1161,6 +1174,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 14.9,
 "github_runs": [
+{
+"t": "2026-11-16T11:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-16T10:57:41Z",
 "ok": "success",
@@ -1180,11 +1198,6 @@
 "t": "2026-11-16T07:45:21Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-16T06:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
