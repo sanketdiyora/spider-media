@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16 17:36 IST",
+"updated": "2026-11-16 17:51 IST",
 "date": "2026-11-16",
 "followers": 62,
 "media_count": 170,
@@ -672,9 +672,9 @@
 "sl": 7551.38,
 "r": null,
 "opened": "16 Nov 15:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 7534.74"
+"mt5_reason": "SL 7527.19"
 },
 {
 "id": "WTI_1794822300_pbo",
@@ -1154,17 +1154,17 @@
 "all_win": 81,
 "today_net": 0.75,
 "engine": {
-"last_scan": "17:32",
+"last_scan": "17:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-16 12:00 UTC · new 0 · events 0 · open 14"
+"summary": "run 2026-11-16 12:15 UTC · new 0 · events 0 · open 14"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4973.22",
-"equity": "5022.29",
-"floating": "49.07",
+"equity": "5045.44",
+"floating": "72.22",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
