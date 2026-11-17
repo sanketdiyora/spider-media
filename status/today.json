@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 17:11 IST",
+"updated": "2026-11-17 17:21 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 179,
@@ -605,19 +605,6 @@
 "state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 111.484"
-},
-{
-"id": "CHFJPY_1794909600_dpoc",
-"pair": "CHFJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 189.624,
-"sl": 189.8127,
-"r": null,
-"opened": "17 Nov 15:45",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 10.37 USD = 0.40R"
 }
 ],
 "closed_today": [
@@ -854,9 +841,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "CHFJPY_1794909600_dpoc",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 189.624,
+"sl": 189.8127,
+"r": 0.59,
+"opened": "17 Nov 15:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.37 USD = 0.40R"
 }
 ],
 "closed_recent": [
+{
+"id": "CHFJPY_1794909600_dpoc",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 189.624,
+"sl": 189.8127,
+"r": 0.59,
+"opened": "17 Nov 15:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.37 USD = 0.40R"
+},
 {
 "id": "US500_1794896100_lbo",
 "pair": "US500",
@@ -1038,37 +1051,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURUSD_1794849300_dpoc",
-"pair": "EURUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.10097,
-"sl": 1.101483,
-"r": 2.46,
-"opened": "16 Nov 23:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 170,
-"all_net": 44.07,
-"all_win": 101,
-"today_net": 9.7,
+"all_n": 171,
+"all_net": 44.66,
+"all_win": 102,
+"today_net": 10.29,
 "engine": {
-"last_scan": "17:01",
-"age_min": 9,
+"last_scan": "17:17",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 11:30 UTC · new 0 · events 2 · open 2"
+"summary": "run 2026-11-17 11:45 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5173.88",
-"equity": "5187.03",
-"floating": "13.15",
+"equity": "5182.45",
+"floating": "8.57",
 "positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1076,8 +1076,13 @@
 },
 "voice_chars_month": 120892,
 "voice_limit": 30000,
-"disk_free_gb": 15.7,
+"disk_free_gb": 15.6,
 "github_runs": [
+{
+"t": "2026-11-17T11:41:28Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-17T11:30:16Z",
 "ok": "success",
@@ -1095,11 +1100,6 @@
 },
 {
 "t": "2026-11-17T08:00:24Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-17T06:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
