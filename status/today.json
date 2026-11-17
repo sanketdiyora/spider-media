@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-17 19:06 IST",
+"updated": "2026-11-17 19:10 IST",
 "date": "2026-11-17",
 "followers": 67,
-"media_count": 179,
+"media_count": 180,
 "slots": [
 {
 "slot": "0700",
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 7,
 "comments": 2,
-"views": 476,
-"reach": 388,
+"views": 478,
+"reach": 390,
 "saved": 2,
 "shares": 2
 }
@@ -156,8 +156,21 @@
 "name": "Aspire reel",
 "type": "reel",
 "title": "Coffee Math — SPIDER ASPIRE",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18099788783676524",
+"cap": "Coffee Math — SPIDER ASPIRE\nOne $5 coffee a day = $150 a month. Compounded at a disciplined 6% a month, that cup is a used car in 5 years. HYPOTHETICAL MATH.\nHypothetical math, not a promise of profit.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #discipline #forextrader #aspire #spidertrades",
+"cap1": "Coffee Math — SPIDER ASPIRE",
+"time": "2026-11-17 19:10",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df2Dv9WlNFE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -169,6 +182,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18099788783676524",
+"cap": "Coffee Math — SPIDER ASPIRE\nOne $5 coffee a day = $150 a month. Compounded at a disciplined 6% a month, that cup is a used car in 5 years. HYPOTHETICAL MATH.\nHypothetical math, not a promise of profit.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #discipline #forextrader #aspire #spidertrades",
+"cap1": "Coffee Math — SPIDER ASPIRE",
+"time": "2026-11-17 19:10",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df2Dv9WlNFE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18136092358749920",
 "cap": "Volume Profile kya hai? 📶\n\nNormal volume batata hai KAB trade hua. Volume Profile batata hai KIS BHAAV pe kitna trade hua. Mandi ki ginti se samjho: kis bhaav pe kitne kilo bike.\n\nOrder Flow Series, Episode 7 (Volume Profile) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
@@ -192,8 +219,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 7,
 "comments": 2,
-"views": 476,
-"reach": 388,
+"views": 478,
+"reach": 390,
 "saved": 2,
 "shares": 2
 },
@@ -574,20 +601,6 @@
 "reach": 14,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18131951779879159",
-"cap": "Har trade thode loss se shuru hota hai. Kyun? 📉\n\nBid aur Ask ke beech ki doori = Spread. 102 pe kharida aur usi pal becho to milenge 100. Price ko pehle spread paar karna hai, tab jaakar profit. Aur spread hamesha ek jaisa nahi: London/New York me patla, raat me ya badi khabar se pehle chauda.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #spread #spidertrades",
-"cap1": "Har trade thode loss se shuru hota hai. Kyun? 📉",
-"time": "2026-11-14 09:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DftTFxpirg5/",
-"likes": 4,
-"comments": 0,
-"views": 296,
-"reach": 231,
-"saved": 7,
-"shares": 4
 }
 ],
 "trades": [],
@@ -1058,7 +1071,7 @@
 "today_net": 10.79,
 "engine": {
 "last_scan": "19:01",
-"age_min": 5,
+"age_min": 9,
 "rc": 0,
 "summary": "run 2026-11-17 13:30 UTC · new 0 · events 0 · open 0"
 },
