@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-17 13:38 IST",
+"updated": "2026-11-17 13:41 IST",
 "date": "2026-11-17",
 "followers": 67,
-"media_count": 176,
+"media_count": 177,
 "slots": [
 {
 "slot": "0700",
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 32,
-"reach": 21,
+"views": 33,
+"reach": 23,
 "saved": 1,
 "shares": 0
 }
@@ -89,12 +89,25 @@
 }
 },
 {
-"slot": "1336",
+"slot": "1338",
 "name": "reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18113406743266160",
+"cap": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇\nAaj: 7 trade band · 3 jeete · 4 haare · net +0.4R · 6 live\nGBPUSD SELL — band, +1.9R (trailing stop pe profit me band)\nNAS100 SELL — band, -1.0R (SL hit)\nCADJPY SELL — abhi chal raha hai, +0.9R (risk-free 🔒)\nUS30 SELL — abhi chal raha hai, +0.5R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇",
+"time": "2026-11-17 13:40",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -130,6 +143,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18113406743266160",
+"cap": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇\nAaj: 7 trade band · 3 jeete · 4 haare · net +0.4R · 6 live\nGBPUSD SELL — band, +1.9R (trailing stop pe profit me band)\nNAS100 SELL — band, -1.0R (SL hit)\nCADJPY SELL — abhi chal raha hai, +0.9R (risk-free 🔒)\nUS30 SELL — abhi chal raha hai, +0.5R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇",
+"time": "2026-11-17 13:40",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "17886210042526106",
 "cap": "Aloo 20 ka hai. Tum 22 doge? 🥔\n\nMandi me ek banda bhaav lagakar intezaar karta hai, dusra jaldi me hai aur jo bhaav mile le leta hai. Price wahi hilata hai jo jaldi me hai. Order Flow isi farq ko padhna hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
@@ -167,8 +194,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 32,
-"reach": 21,
+"views": 33,
+"reach": 23,
 "saved": 1,
 "shares": 0
 },
@@ -535,20 +562,6 @@
 "reach": 1001,
 "saved": 7,
 "shares": 7
-},
-{
-"id": "18007840643794235",
-"cap": "Ek candle 4 baatein batati hai 🕯️ Lambi wick = keemat gayi, tik nahi payi.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#candlestick #priceaction #forexhindi #tradingeducation #beginnertrader",
-"cap1": "Ek candle 4 baatein batati hai 🕯️ Lambi wick = keemat gayi, tik nahi p",
-"time": "2026-11-13 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfr53kBnzv9/",
-"likes": 1,
-"comments": 0,
-"views": 118,
-"reach": 101,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -1007,7 +1020,7 @@
 "today_net": 9.4,
 "engine": {
 "last_scan": "13:31",
-"age_min": 7,
+"age_min": 9,
 "rc": 0,
 "summary": "run 2026-11-17 08:00 UTC · new 0 · events 1 · open 6"
 },
@@ -1024,7 +1037,7 @@
 },
 "voice_chars_month": 120892,
 "voice_limit": 30000,
-"disk_free_gb": 15.6,
+"disk_free_gb": 15.7,
 "github_runs": [
 {
 "t": "2026-11-17T08:00:24Z",
