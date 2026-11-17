@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 11:51 IST",
+"updated": "2026-11-17 12:06 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 176,
@@ -586,19 +586,6 @@
 "mt5_reason": "OPEN SELL 7.00 lots @58922.98 SL 59506.53 (scanner SL) entry 58997.98 basis 73.48 (M15) +SLbuf 19.05  risk 0.50%"
 },
 {
-"id": "BRENT_1794884400_dpoc",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 91.685,
-"sl": 91.956,
-"r": null,
-"opened": "17 Nov 08:45",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "stop too close after spread: -4.08R room (basis too big 1.400 (M15, limit 0.138), 0)"
-},
-{
 "id": "AUDUSD_1794886200_poc",
 "pair": "AUDUSD",
 "dir": "SELL",
@@ -609,7 +596,20 @@
 "opened": "17 Nov 09:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 0.67396"
+"mt5_reason": "SL 0.67370"
+},
+{
+"id": "US500_1794896100_lbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "lbo",
+"entry": 7406.28,
+"sl": 7420.88,
+"r": null,
+"opened": "17 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -742,9 +742,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -19.52 USD = -0.83R"
+},
+{
+"id": "BRENT_1794884400_dpoc",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 91.685,
+"sl": 91.956,
+"r": -1.0,
+"opened": "17 Nov 08:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -4.08R room (basis too big 1.400 (M15, limit 0.138), 0)"
 }
 ],
 "closed_recent": [
+{
+"id": "BRENT_1794884400_dpoc",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 91.685,
+"sl": 91.956,
+"r": -1.0,
+"opened": "17 Nov 08:45",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -4.08R room (basis too big 1.400 (M15, limit 0.138), 0)"
+},
 {
 "id": "GER40_1794885300_dpoc",
 "pair": "GER40",
@@ -926,37 +952,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURAUD_1794817800_dpoc",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.63051,
-"sl": 1.628701,
-"r": 0.47,
-"opened": "16 Nov 14:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 162,
-"all_net": 44.0,
+"all_n": 163,
+"all_net": 43.0,
 "all_win": 97,
-"today_net": 9.63,
+"today_net": 8.63,
 "engine": {
-"last_scan": "11:46",
-"age_min": 4,
+"last_scan": "12:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 06:15 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-17 06:30 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5125.23",
-"equity": "5152.24",
-"floating": "27.01",
+"equity": "5177.61",
+"floating": "52.38",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -966,6 +979,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.8,
 "github_runs": [
+{
+"t": "2026-11-17T06:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-17T05:30:16Z",
 "ok": "success",
@@ -983,11 +1001,6 @@
 },
 {
 "t": "2026-11-17T00:41:03Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-17T00:09:19Z",
 "ok": "success",
 "ev": "schedule"
 }
