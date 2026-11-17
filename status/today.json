@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 08:36 IST",
+"updated": "2026-11-17 08:51 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 174,
@@ -571,6 +571,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 7.00 lots @58922.98 SL 59506.53 (scanner SL) entry 58997.98 basis 73.48 (M15) +SLbuf 19.05  risk 0.50%"
+},
+{
+"id": "BRENT_1794884400_dpoc",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 91.685,
+"sl": 91.956,
+"r": null,
+"opened": "17 Nov 08:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -4.08R room (basis too big 1.400 (M15, limit 0.138), 0)"
 }
 ],
 "closed_today": [
@@ -881,17 +894,17 @@
 "all_win": 97,
 "today_net": 11.63,
 "engine": {
-"last_scan": "08:31",
+"last_scan": "08:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 03:00 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-17 03:15 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5158.23",
-"equity": "5140.42",
-"floating": "-17.81",
+"equity": "5128.10",
+"floating": "-30.13",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
