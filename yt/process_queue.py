@@ -20,7 +20,8 @@ for q in sorted(glob.glob(os.path.join(D,'queue','*.json')),key=lambda q:(_clip(
     print(r.stdout.strip(), r.stderr.strip()[-500:])
     if r.returncode!=0 or 'YT_UPLOADED' not in r.stdout:
         print('UPLOAD FAILED',name)
-        if 'quota' in (r.stdout+r.stderr).lower() or 'uploadLimitExceeded' in (r.stdout+r.stderr): print('QUOTA USED UP - rest stays queued'); break
+        o_=(r.stdout+r.stderr).lower()
+        if 'quota' in o_ or 'uploadlimitexceeded' in o_ or 'exceeded the number of videos' in o_: print('QUOTA USED UP - rest stays queued'); break
         continue
     vid=r.stdout.split('YT_UPLOADED')[1].split()[0]
     json.dump({**j,'yt':vid,'url':f'https://youtube.com/shorts/{vid}'},open(done,'w'),ensure_ascii=False)
