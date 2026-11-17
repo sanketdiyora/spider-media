@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 15:11 IST",
+"updated": "2026-11-17 15:21 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 178,
@@ -603,8 +603,8 @@
 "r": null,
 "opened": "17 Nov 07:45",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 58718.15"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 9.02 USD = 0.35R"
 },
 {
 "id": "US500_1794896100_lbo",
@@ -631,19 +631,6 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
-},
-{
-"id": "US30_1794898800_dpoc",
-"pair": "US30",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 51410.68,
-"sl": 51493.81,
-"r": null,
-"opened": "17 Nov 12:45",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 51331.61"
 }
 ],
 "closed_today": [
@@ -828,9 +815,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -25.23 USD = -1.00R"
+},
+{
+"id": "US30_1794898800_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 51410.68,
+"sl": 51493.81,
+"r": 1.21,
+"opened": "17 Nov 12:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 19.57 USD = 1.08R"
 }
 ],
 "closed_recent": [
+{
+"id": "US30_1794898800_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 51410.68,
+"sl": 51493.81,
+"r": 1.21,
+"opened": "17 Nov 12:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 19.57 USD = 1.08R"
+},
 {
 "id": "GBPCHF_1794874500_dpoc",
 "pair": "GBPCHF",
@@ -1012,38 +1025,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "UK100_1794823200_dpoc",
-"pair": "UK100",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 10935.69,
-"sl": 10904.72,
-"r": -1.0,
-"opened": "16 Nov 15:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 166,
-"all_net": 42.77,
-"all_win": 98,
-"today_net": 8.4,
+"all_n": 167,
+"all_net": 43.98,
+"all_win": 99,
+"today_net": 9.61,
 "engine": {
-"last_scan": "15:01",
-"age_min": 9,
+"last_scan": "15:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 09:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-17 09:45 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5134.92",
-"equity": "5198.34",
-"floating": "63.42",
-"positions": "3",
+"balance": "5163.51",
+"equity": "5182.31",
+"floating": "18.80",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
