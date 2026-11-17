@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 07:36 IST",
+"updated": "2026-11-17 07:52 IST",
 "date": "2026-11-17",
 "followers": 66,
 "media_count": 173,
@@ -545,6 +545,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.26 lots @111.477 SL 111.631 (scanner SL) entry 111.467 basis -0.003 (M15) +SLbuf 0.017 +TPbuf 0.017 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "JPN225_1794880800_dpoc",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 58924.5,
+"sl": 59414.0,
+"r": null,
+"opened": "17 Nov 07:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 7.00 lots @58922.98 SL 59506.53 (scanner SL) entry 58997.98 basis 73.48 (M15) +SLbuf 19.05  risk 0.50%"
 }
 ],
 "closed_today": [
@@ -855,18 +868,18 @@
 "all_win": 97,
 "today_net": 11.63,
 "engine": {
-"last_scan": "07:31",
+"last_scan": "07:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 02:00 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-17 02:15 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5158.23",
-"equity": "5170.26",
-"floating": "12.03",
-"positions": "4",
+"equity": "5153.20",
+"floating": "-5.03",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
