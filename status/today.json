@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 16:07 IST",
+"updated": "2026-11-17 16:22 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 178,
@@ -607,19 +607,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "EURAUD_1794897000_lbo",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "lbo",
-"entry": 1.634609,
-"sl": 1.631622,
-"r": null,
-"opened": "17 Nov 12:05",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "CHFJPY_1794909600_dpoc",
 "pair": "CHFJPY",
 "dir": "SELL",
@@ -841,9 +828,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 9.02 USD = 0.35R"
+},
+{
+"id": "EURAUD_1794897000_lbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "lbo",
+"entry": 1.634609,
+"sl": 1.631622,
+"r": -1.0,
+"opened": "17 Nov 12:05",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "EURAUD_1794897000_lbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "lbo",
+"entry": 1.634609,
+"sl": 1.631622,
+"r": -1.0,
+"opened": "17 Nov 12:05",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "JPN225_1794880800_dpoc",
 "pair": "JPN225",
@@ -1025,37 +1038,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURAUD_1794846600_dpoc",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.63095,
-"sl": 1.629743,
-"r": 0.92,
-"opened": "16 Nov 22:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 168,
-"all_net": 44.57,
+"all_n": 169,
+"all_net": 43.57,
 "all_win": 100,
-"today_net": 10.2,
+"today_net": 9.2,
 "engine": {
-"last_scan": "16:01",
+"last_scan": "16:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 10:30 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-17 10:45 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5163.51",
-"equity": "5174.86",
-"floating": "11.35",
+"equity": "5191.32",
+"floating": "27.81",
 "positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
