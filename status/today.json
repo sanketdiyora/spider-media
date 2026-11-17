@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 14:51 IST",
+"updated": "2026-11-17 15:06 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 177,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/Df0wVXND03C/",
 "likes": 0,
 "comments": 0,
-"views": 135,
-"reach": 100,
+"views": 136,
+"reach": 101,
 "saved": 1,
 "shares": 1
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 44,
-"reach": 34,
+"views": 53,
+"reach": 44,
 "saved": 1,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 67,
-"reach": 57,
+"views": 68,
+"reach": 58,
 "saved": 1,
 "shares": 0
 }
@@ -83,7 +83,7 @@
 "likes": 3,
 "comments": 0,
 "views": 132,
-"reach": 113,
+"reach": 114,
 "saved": 1,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 0,
 "comments": 0,
-"views": 21,
-"reach": 13,
+"views": 40,
+"reach": 27,
 "saved": 0,
 "shares": 0
 }
@@ -114,7 +114,7 @@
 "name": "Riddle reel",
 "type": "reel",
 "title": "SPIDER RIDDLE #2 · Part 1/2 🧩 7 haare, phir bhi green.",
-"status": "PENDING",
+"status": "DUE",
 "post": null
 },
 {
@@ -152,8 +152,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 0,
 "comments": 0,
-"views": 21,
-"reach": 13,
+"views": 40,
+"reach": 27,
 "saved": 0,
 "shares": 0
 },
@@ -167,7 +167,7 @@
 "likes": 3,
 "comments": 0,
 "views": 132,
-"reach": 113,
+"reach": 114,
 "saved": 1,
 "shares": 0
 },
@@ -180,8 +180,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 67,
-"reach": 57,
+"views": 68,
+"reach": 58,
 "saved": 1,
 "shares": 0
 },
@@ -194,8 +194,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 44,
-"reach": 34,
+"views": 53,
+"reach": 44,
 "saved": 1,
 "shares": 0
 },
@@ -208,8 +208,8 @@
 "link": "https://www.instagram.com/reel/Df0wVXND03C/",
 "likes": 0,
 "comments": 0,
-"views": 135,
-"reach": 100,
+"views": 136,
+"reach": 101,
 "saved": 1,
 "shares": 1
 },
@@ -250,8 +250,8 @@
 "link": "https://www.instagram.com/reel/DfzQM9GCiqN/",
 "likes": 1,
 "comments": 0,
-"views": 135,
-"reach": 102,
+"views": 136,
+"reach": 103,
 "saved": 1,
 "shares": 0
 },
@@ -264,8 +264,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 12,
 "comments": 2,
-"views": 866,
-"reach": 687,
+"views": 868,
+"reach": 689,
 "saved": 6,
 "shares": 0
 },
@@ -405,7 +405,7 @@
 "likes": 0,
 "comments": 0,
 "views": 4,
-"reach": 4,
+"reach": 5,
 "saved": 0,
 "shares": 0
 },
@@ -568,19 +568,6 @@
 "scanner": {
 "open": [
 {
-"id": "GBPCHF_1794874500_dpoc",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.10754,
-"sl": 1.106144,
-"r": null,
-"opened": "17 Nov 06:00",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -25.23 USD = -1.00R"
-},
-{
 "id": "CADJPY_1794876300_pbo",
 "pair": "CADJPY",
 "dir": "SELL",
@@ -602,9 +589,9 @@
 "sl": 59414.0,
 "r": null,
 "opened": "17 Nov 07:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 58780.65"
+"mt5_reason": "SL 58718.15"
 },
 {
 "id": "US500_1794896100_lbo",
@@ -643,7 +630,7 @@
 "opened": "17 Nov 12:45",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 51355.61"
+"mt5_reason": "SL 51331.61"
 }
 ],
 "closed_today": [
@@ -815,9 +802,35 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "GBPCHF_1794874500_dpoc",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.10754,
+"sl": 1.106144,
+"r": -1.0,
+"opened": "17 Nov 06:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.23 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPCHF_1794874500_dpoc",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.10754,
+"sl": 1.106144,
+"r": -1.0,
+"opened": "17 Nov 06:00",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.23 USD = -1.00R"
+},
 {
 "id": "NAS100_1794897000_lbo",
 "pair": "NAS100",
@@ -999,37 +1012,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "XAGUSD_1794809700_dpoc",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 47.405,
-"sl": 47.9019,
-"r": 1.21,
-"opened": "16 Nov 12:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 165,
-"all_net": 43.77,
+"all_n": 166,
+"all_net": 42.77,
 "all_win": 98,
-"today_net": 9.4,
+"today_net": 8.4,
 "engine": {
-"last_scan": "14:46",
+"last_scan": "15:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 09:15 UTC · new 0 · events 1 · open 6"
+"summary": "run 2026-11-17 09:30 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5134.92",
-"equity": "5193.86",
-"floating": "58.94",
+"equity": "5198.34",
+"floating": "63.42",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
