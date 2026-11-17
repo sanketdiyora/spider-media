@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 08:51 IST",
+"updated": "2026-11-17 09:06 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 174,
@@ -19,10 +19,10 @@
 "link": "https://www.instagram.com/reel/Df0wVXND03C/",
 "likes": 0,
 "comments": 0,
-"views": 35,
-"reach": 20,
+"views": 63,
+"reach": 39,
 "saved": 0,
-"shares": 0
+"shares": 1
 }
 },
 {
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 11,
+"reach": 6,
 "saved": 0,
 "shares": 0
 }
@@ -51,7 +51,7 @@
 "name": "Jawab reel",
 "type": "reel",
 "title": "KAL KA JAWAB 🧩 Riddle #1 · Part 2/2: Dono haare. Kyun?",
-"status": "PENDING",
+"status": "DUE",
 "post": null
 },
 {
@@ -105,8 +105,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 11,
+"reach": 6,
 "saved": 0,
 "shares": 0
 },
@@ -119,10 +119,10 @@
 "link": "https://www.instagram.com/reel/Df0wVXND03C/",
 "likes": 0,
 "comments": 0,
-"views": 35,
-"reach": 20,
+"views": 63,
+"reach": 39,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "18473681707139948",
@@ -133,8 +133,8 @@
 "link": "https://www.instagram.com/reel/DfzpbShjHz7/",
 "likes": 3,
 "comments": 0,
-"views": 126,
-"reach": 101,
+"views": 128,
+"reach": 102,
 "saved": 1,
 "shares": 1
 },
@@ -147,8 +147,8 @@
 "link": "https://www.instagram.com/reel/Dfzd8R_E2ch/",
 "likes": 2,
 "comments": 0,
-"views": 106,
-"reach": 76,
+"views": 112,
+"reach": 85,
 "saved": 0,
 "shares": 0
 },
@@ -175,8 +175,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 12,
 "comments": 2,
-"views": 713,
-"reach": 560,
+"views": 762,
+"reach": 601,
 "saved": 5,
 "shares": 0
 },
@@ -231,7 +231,7 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 16,
 "comments": 0,
-"views": 684,
+"views": 685,
 "reach": 507,
 "saved": 13,
 "shares": 4
@@ -315,8 +315,8 @@
 "link": "https://www.instagram.com/p/DfwCRvYl4tj/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 2,
+"views": 3,
+"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -385,9 +385,9 @@
 "link": "https://www.instagram.com/reel/Dft8XBOE-lY/",
 "likes": 0,
 "comments": 0,
-"views": 110,
+"views": 111,
 "reach": 101,
-"saved": 0,
+"saved": 1,
 "shares": 0
 },
 {
@@ -543,8 +543,8 @@
 "r": null,
 "opened": "17 Nov 06:30",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @0.84054 SL 0.83931 (scanner SL) entry 0.84036 basis 0.00000 (M15)  risk 0.48%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.91 USD = -1.00R"
 },
 {
 "id": "CADJPY_1794876300_pbo",
@@ -584,6 +584,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -4.08R room (basis too big 1.400 (M15, limit 0.138), 0)"
+},
+{
+"id": "GER40_1794885300_dpoc",
+"pair": "GER40",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 26493.7,
+"sl": 26463.68,
+"r": null,
+"opened": "17 Nov 09:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.60 lots @26520.38 SL 26484.81 (scanner SL) entry 26514.83 basis 21.13 (M15)  risk 0.46%"
 }
 ],
 "closed_today": [
@@ -894,17 +907,17 @@
 "all_win": 97,
 "today_net": 11.63,
 "engine": {
-"last_scan": "08:46",
+"last_scan": "09:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 03:15 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-17 03:30 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5158.23",
-"equity": "5128.10",
-"floating": "-30.13",
+"balance": "5133.32",
+"equity": "5131.06",
+"floating": "-2.26",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
