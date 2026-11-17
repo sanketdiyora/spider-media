@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 14:36 IST",
+"updated": "2026-11-17 14:51 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 177,
@@ -577,8 +577,8 @@
 "r": null,
 "opened": "17 Nov 06:00",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.14 lots @1.10761 SL 1.10610 (scanner SL) entry 1.10750 basis -0.00004 (M1)  risk 0.49%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.23 USD = -1.00R"
 },
 {
 "id": "CADJPY_1794876300_pbo",
@@ -604,7 +604,7 @@
 "opened": "17 Nov 07:45",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 7.00 lots @58922.98 SL 59506.53 (scanner SL) entry 58997.98 basis 73.48 (M15) +SLbuf 19.05  risk 0.50%"
+"mt5_reason": "SL 58780.65"
 },
 {
 "id": "US500_1794896100_lbo",
@@ -615,7 +615,7 @@
 "sl": 7420.88,
 "r": null,
 "opened": "17 Nov 11:50",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
 },
@@ -641,9 +641,9 @@
 "sl": 51493.81,
 "r": null,
 "opened": "17 Nov 12:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.20 lots @51429.45 SL 51519.68 (scanner SL) entry 51433.45 basis 22.77 (M15) +SLbuf 3.10  risk 0.35%"
+"mt5_reason": "SL 51355.61"
 }
 ],
 "closed_today": [
@@ -1019,18 +1019,18 @@
 "all_win": 98,
 "today_net": 9.4,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 09:00 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-17 09:15 UTC · new 0 · events 1 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5160.15",
-"equity": "5177.24",
-"floating": "17.09",
-"positions": "4",
+"balance": "5134.92",
+"equity": "5193.86",
+"floating": "58.94",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
