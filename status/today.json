@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 13:21 IST",
+"updated": "2026-11-17 13:38 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 176,
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 19,
+"views": 32,
+"reach": 21,
 "saved": 1,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 52,
-"reach": 47,
+"views": 65,
+"reach": 52,
 "saved": 1,
 "shares": 0
 }
@@ -82,11 +82,19 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 3,
 "comments": 0,
-"views": 127,
-"reach": 108,
+"views": 129,
+"reach": 110,
 "saved": 1,
 "shares": 0
 }
+},
+{
+"slot": "1336",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇",
+"status": "DUE",
+"post": null
 },
 {
 "slot": "1500",
@@ -131,8 +139,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 3,
 "comments": 0,
-"views": 127,
-"reach": 108,
+"views": 129,
+"reach": 110,
 "saved": 1,
 "shares": 0
 },
@@ -145,8 +153,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 52,
-"reach": 47,
+"views": 65,
+"reach": 52,
 "saved": 1,
 "shares": 0
 },
@@ -159,8 +167,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 19,
+"views": 32,
+"reach": 21,
 "saved": 1,
 "shares": 0
 },
@@ -187,8 +195,8 @@
 "link": "https://www.instagram.com/reel/DfzpbShjHz7/",
 "likes": 4,
 "comments": 0,
-"views": 136,
-"reach": 108,
+"views": 137,
+"reach": 111,
 "saved": 1,
 "shares": 1
 },
@@ -229,8 +237,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 12,
 "comments": 2,
-"views": 851,
-"reach": 674,
+"views": 865,
+"reach": 685,
 "saved": 6,
 "shares": 0
 },
@@ -370,7 +378,7 @@
 "likes": 0,
 "comments": 0,
 "views": 3,
-"reach": 3,
+"reach": 4,
 "saved": 0,
 "shares": 0
 },
@@ -612,19 +620,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "NAS100_1794897000_lbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "lbo",
-"entry": 27175.22,
-"sl": 27283.81,
-"r": null,
-"opened": "17 Nov 12:05",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "US30_1794898800_dpoc",
 "pair": "US30",
 "dir": "SELL",
@@ -794,9 +789,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 34.92 USD = 1.37R"
+},
+{
+"id": "NAS100_1794897000_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 27175.22,
+"sl": 27283.81,
+"r": -1.0,
+"opened": "17 Nov 12:05",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1794897000_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 27175.22,
+"sl": 27283.81,
+"r": -1.0,
+"opened": "17 Nov 12:05",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "AUDUSD_1794886200_poc",
 "pair": "AUDUSD",
@@ -978,46 +999,38 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CADJPY_1794789000_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 111.917,
-"sl": 112.0626,
-"r": 2.0,
-"opened": "16 Nov 06:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 164,
-"all_net": 44.77,
+"all_n": 165,
+"all_net": 43.77,
 "all_win": 98,
-"today_net": 10.4,
+"today_net": 9.4,
 "engine": {
-"last_scan": "13:17",
-"age_min": 5,
+"last_scan": "13:31",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-17 07:45 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-17 08:00 UTC · new 0 · events 1 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5160.15",
-"equity": "5173.74",
-"floating": "13.59",
+"equity": "5160.61",
+"floating": "0.46",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 119890,
+"voice_chars_month": 120892,
 "voice_limit": 30000,
-"disk_free_gb": 15.8,
+"disk_free_gb": 15.6,
 "github_runs": [
+{
+"t": "2026-11-17T08:00:24Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-17T06:30:16Z",
 "ok": "success",
@@ -1037,11 +1050,6 @@
 "t": "2026-11-17T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-17T00:41:03Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
