@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 12:06 IST",
+"updated": "2026-11-17 12:22 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 176,
@@ -596,7 +596,7 @@
 "opened": "17 Nov 09:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 0.67370"
+"mt5_reason": "SL 0.67346"
 },
 {
 "id": "US500_1794896100_lbo",
@@ -607,6 +607,32 @@
 "sl": 7420.88,
 "r": null,
 "opened": "17 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "EURAUD_1794897000_lbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "lbo",
+"entry": 1.634609,
+"sl": 1.631622,
+"r": null,
+"opened": "17 Nov 12:05",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "NAS100_1794897000_lbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 27175.22,
+"sl": 27283.81,
+"r": null,
+"opened": "17 Nov 12:05",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
@@ -959,17 +985,17 @@
 "all_win": 97,
 "today_net": 8.63,
 "engine": {
-"last_scan": "12:01",
+"last_scan": "12:17",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 06:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-17 06:45 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5125.23",
-"equity": "5177.61",
-"floating": "52.38",
+"equity": "5166.58",
+"floating": "41.35",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
