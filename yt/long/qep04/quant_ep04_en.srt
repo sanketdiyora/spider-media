@@ -1,0 +1,200 @@
+1
+00:00:05,000 --> 00:00:08,631
+Two traders. Same system, same trades.
+
+2
+00:00:09,081 --> 00:00:15,507
+The first risks 10% of the account per trade. The second only 1%.
+
+3
+00:00:15,956 --> 00:00:21,286
+Then come ten losses in a row. It happens, in every system.
+
+4
+00:00:21,735 --> 00:00:26,726
+The first account is down 65%. The second only about 10%.
+
+5
+00:00:27,176 --> 00:00:30,650
+The only difference was one number: how much was risked.
+
+6
+00:00:31,650 --> 00:00:36,561
+Hello, this is episode four of the SPIDER Quant Trading series.
+
+7
+00:00:37,011 --> 00:00:42,888
+Last time: drawdown, and how position size controls it.
+
+8
+00:00:43,338 --> 00:00:49,373
+Today: size itself. How much to risk per trade, how to calculate it, and how much is too much.
+
+9
+00:00:50,373 --> 00:00:57,373
+The biggest mistake: people pick the lot size first, whatever feels right.
+
+10
+00:00:57,823 --> 00:01:05,137
+A quant thinks the other way. First decide: if this trade is wrong, how much am I willing to lose?
+
+11
+00:01:05,588 --> 00:01:10,916
+That is called risk per trade, usually a small percent of the account.
+
+12
+00:01:11,916 --> 00:01:15,783
+Then the lot size follows. The formula is simple.
+
+13
+00:01:16,232 --> 00:01:24,434
+Size equals account times risk percent, divided by stop distance times the value of one point.
+
+14
+00:01:24,884 --> 00:01:31,886
+The top part is the money at risk. The bottom part is the loss per lot.
+
+15
+00:01:32,886 --> 00:01:38,764
+Say the account is 100,000. Risk 1%, which is 1,000.
+
+16
+00:01:39,214 --> 00:01:45,169
+The stop is 50 points away, and one point is worth 10 per lot.
+
+17
+00:01:45,619 --> 00:01:50,374
+So the loss per lot is 50 times 10, which is 500.
+
+18
+00:01:50,824 --> 00:01:55,107
+1,000 divided by 500 is 2 lots. That is it.
+
+19
+00:01:56,107 --> 00:01:59,661
+Now the next trade has a stop 100 points away.
+
+20
+00:02:00,110 --> 00:02:05,100
+The loss per lot is 1,000, so the size is just 1 lot.
+
+21
+00:02:05,550 --> 00:02:11,819
+Wider stop, smaller size. But the loss if wrong stays the same 1,000.
+
+22
+00:02:12,269 --> 00:02:16,710
+That is real control. Every trade hurts the same.
+
+23
+00:02:17,710 --> 00:02:22,778
+Some people always trade a fixed lot. Two lots, no matter what.
+
+24
+00:02:23,227 --> 00:02:29,994
+The problem: the account shrinks, the risk does not. The same big bet even in drawdown.
+
+25
+00:02:30,444 --> 00:02:36,974
+With fixed percent, a smaller account means a smaller bet automatically. A bigger one, a bigger bet.
+
+26
+00:02:37,974 --> 00:02:43,303
+Back to the hook. After ten losses in a row, how much is left?
+
+27
+00:02:43,753 --> 00:02:47,724
+At 1% risk: down about 10%.
+
+28
+00:02:48,174 --> 00:02:51,570
+At 2%: about 18%.
+
+29
+00:02:52,019 --> 00:02:54,710
+At 5%: 40%.
+
+30
+00:02:55,160 --> 00:03:02,475
+And at 10%: 65%. As we saw last time, coming back from there is very hard.
+
+31
+00:03:03,475 --> 00:03:09,900
+There is also a famous formula, Kelly. It says how much to bet for maximum growth.
+
+32
+00:03:10,351 --> 00:03:16,542
+Kelly equals win rate, minus loss rate divided by payoff.
+
+33
+00:03:16,992 --> 00:03:23,757
+Fifty percent win rate, payoff two: 50 minus 25, which is 25%.
+
+34
+00:03:24,208 --> 00:03:32,959
+Twenty five percent per trade is very dangerous. If the estimates are even slightly off, the account is gone.
+
+35
+00:03:33,409 --> 00:03:40,096
+So sensible traders use only a small fraction of Kelly, a quarter or even less.
+
+36
+00:03:41,096 --> 00:03:46,085
+Another trap. Five open trades, 1% each.
+
+37
+00:03:46,535 --> 00:03:53,301
+If they all point the same way, like all against the dollar, it is really one big bet.
+
+38
+00:03:53,751 --> 00:03:59,472
+If the dollar turns, all five lose together. Five percent in one hit.
+
+39
+00:03:59,922 --> 00:04:03,553
+So also cap your total open risk.
+
+40
+00:04:04,553 --> 00:04:06,120
+So, the practical rules.
+
+41
+00:04:06,570 --> 00:04:10,280
+Usually half to one percent per trade.
+
+42
+00:04:10,730 --> 00:04:15,876
+Count related trades as one, and keep total open risk limited.
+
+43
+00:04:16,326 --> 00:04:21,002
+And recalculate the size before every trade, never by feel.
+
+44
+00:04:22,002 --> 00:04:23,726
+So, today's summary.
+
+45
+00:04:24,176 --> 00:04:31,020
+Decide the risk first, then the lot. Size is money at risk divided by loss per lot.
+
+46
+00:04:31,470 --> 00:04:37,269
+Fixed percent beats fixed lot. The bet shrinks by itself in drawdown.
+
+47
+00:04:37,719 --> 00:04:42,238
+Never bet full Kelly, and treat related trades as one bet.
+
+48
+00:04:43,238 --> 00:04:49,769
+Next episode: backtesting basics. How to test a system the right way.
+
+49
+00:04:50,219 --> 00:04:55,130
+If this was useful, subscribe and save the playlist.
+
+50
+00:04:55,580 --> 00:05:01,849
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

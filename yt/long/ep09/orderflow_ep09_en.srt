@@ -1,0 +1,188 @@
+1
+00:00:05,000 --> 00:00:09,989
+Look at one day of gold. The morning is quiet, a small range.
+
+2
+00:00:10,439 --> 00:00:15,272
+In the afternoon it suddenly speeds up. And in the evening, another big move.
+
+3
+00:00:15,722 --> 00:00:21,677
+One day, three different moods. Because three different markets open in one day.
+
+4
+00:00:22,128 --> 00:00:25,054
+Today we look at a separate profile for each of them.
+
+5
+00:00:26,054 --> 00:00:30,964
+Hello, this is episode nine of the SPIDER Order Flow series.
+
+6
+00:00:31,415 --> 00:00:41,132
+Last time: VWAP and its bands. Before that: volume profile, POC, value area.
+
+7
+00:00:41,582 --> 00:00:45,370
+Today the same volume profile, but one for each session.
+
+8
+00:00:46,370 --> 00:00:52,718
+First, the Asia session. In India time, roughly from 5:30 in the morning to the afternoon.
+
+9
+00:00:53,168 --> 00:00:58,079
+Second, London. Roughly from 1:30 in the afternoon into the night.
+
+10
+00:00:58,529 --> 00:01:04,013
+Third, New York. Roughly from 6:30 in the evening until late night.
+
+11
+00:01:04,464 --> 00:01:08,905
+These times shift by an hour between winter and summer.
+
+12
+00:01:09,905 --> 00:01:12,256
+Each session has its own character.
+
+13
+00:01:12,705 --> 00:01:18,896
+Asia is often quiet. Low volume, small range, a balanced market.
+
+14
+00:01:19,347 --> 00:01:24,493
+When London opens, volume rises. The Asia range often breaks.
+
+15
+00:01:24,943 --> 00:01:31,708
+New York brings the big US news. The move either continues or reverses.
+
+16
+00:01:32,708 --> 00:01:38,038
+Instead of one profile for the whole day, build a separate profile for each session.
+
+17
+00:01:38,488 --> 00:01:43,399
+Each gets its own POC, value area high and value area low.
+
+18
+00:01:43,848 --> 00:01:48,603
+This clearly shows which session accepted which price as fair.
+
+19
+00:01:49,603 --> 00:01:55,951
+Here is the real use. The previous session's profile becomes the map for the next one.
+
+20
+00:01:56,401 --> 00:02:03,166
+Asia's POC, VAH and VAL act as levels in London.
+
+21
+00:02:03,616 --> 00:02:06,202
+And London's levels act as levels in New York.
+
+22
+00:02:06,652 --> 00:02:10,441
+The market often comes back to test these levels.
+
+23
+00:02:11,441 --> 00:02:16,847
+Say London opens and price moves above the Asia value area high.
+
+24
+00:02:17,298 --> 00:02:24,376
+If price holds there and volume builds above, that is acceptance, a sign to go higher.
+
+25
+00:02:24,827 --> 00:02:30,862
+If price pokes above and quickly falls back into value, that is rejection.
+
+26
+00:02:31,311 --> 00:02:35,439
+Then price often travels to the other edge of the value area.
+
+27
+00:02:36,439 --> 00:02:43,518
+An important difference. While a session runs, its profile is still forming. That is a developing profile.
+
+28
+00:02:43,968 --> 00:02:49,454
+Its POC keeps moving. Here now, somewhere else a little later.
+
+29
+00:02:49,904 --> 00:02:55,625
+Once the session ends, the profile is closed. Now the levels are fixed.
+
+30
+00:02:56,075 --> 00:03:00,751
+Trust a closed profile as a level, not a developing one.
+
+31
+00:03:01,751 --> 00:03:04,755
+The first hour of every session is special.
+
+32
+00:03:05,204 --> 00:03:12,206
+New players arrive, volume jumps, and you often get the first clue about direction.
+
+33
+00:03:12,656 --> 00:03:18,924
+The first hour's high and low form a range too. Watch whether it breaks or holds.
+
+34
+00:03:19,924 --> 00:03:24,679
+There is also a window when London and New York are both open.
+
+35
+00:03:25,129 --> 00:03:30,380
+In India time, roughly from 6:30 to 9:30 in the evening.
+
+36
+00:03:30,829 --> 00:03:36,786
+This is usually the highest-volume part of the day. Big moves often form here.
+
+37
+00:03:37,786 --> 00:03:39,430
+Three common mistakes.
+
+38
+00:03:39,881 --> 00:03:44,009
+One: treating a developing POC as a fixed level.
+
+39
+00:03:44,459 --> 00:03:49,291
+Two: trading every session level blindly, without confirmation.
+
+40
+00:03:49,741 --> 00:03:59,146
+Three: remember, in spot forex and gold, volume is only the broker's tick volume. It is an estimate, not the full picture.
+
+41
+00:04:00,146 --> 00:04:01,634
+So, today's summary.
+
+42
+00:04:02,084 --> 00:04:08,275
+Three sessions a day: Asia, London, New York, each with its own mood.
+
+43
+00:04:08,726 --> 00:04:17,894
+The previous session's POC, VAH and VAL become levels in the next one. Watch for acceptance or rejection.
+
+44
+00:04:18,344 --> 00:04:24,300
+Trust closed profiles, and watch the first hour and the overlap closely.
+
+45
+00:04:25,300 --> 00:04:31,491
+Next episode: Market Profile, or TPO, and the types of days.
+
+46
+00:04:31,941 --> 00:04:36,852
+If this was useful, subscribe and save the playlist.
+
+47
+00:04:37,302 --> 00:04:43,493
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

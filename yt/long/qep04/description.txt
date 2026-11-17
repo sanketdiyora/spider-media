@@ -1,0 +1,42 @@
+Do trader, ek hi system, ek hi trades. Ek har trade me 10% lagata hai, dusra sirf 1%. 10 lagataar haar ke baad pehla 65% neeche, dusra bas 10%. Fark sirf ek number ka: kitna lagaya. Is episode me zero se samjho position sizing: pehle risk, phir lot, aur size ka formula.
+
+Ye SPIDER ki Quant Trading Series ka Episode 4 hai (Hindi + English subtitles).
+
+Is episode me:
+• Pehle risk tay karo, phir lot
+• Size ka formula: (Account × Risk%) ÷ (SL doori × 1 point ki keemat)
+• Example: ₹1,00,000 account, 1% risk, SL 50 points → 2 lot
+• Stop chauda, size chhota: har trade ka dard ek jaisa
+• Fixed lot vs fixed %
+• 10 lagataar haar: 1% → −9.6%, 2% → −18.3%, 5% → −40.1%, 10% → −65.1%
+• Kelly formula aur full Kelly kyun khatarnaak hai
+• Jude hue trades = ek bada daanv, kul risk ki seema
+
+Chapters:
+0:00 Intro
+0:31 Pichhla episode
+0:50 Pehle risk
+1:11 Formula
+1:32 Example
+1:56 SL chauda
+2:17 Fixed lot vs percent
+2:37 Lambi haar
+3:03 Kelly
+3:41 Total risk
+4:04 Niyam
+4:22 Recap
+4:43 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Agla episode: Backtesting ki basics. System ko sahi tareeke se kaise jaanchein?
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number sirf samjhane ke liye example hain.
+
+#quanttrading #algotrading #tradinghindi #riskmanagement #spidertrades
