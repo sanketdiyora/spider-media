@@ -3,7 +3,11 @@
 import json, os, glob, subprocess, sys, tempfile, urllib.request
 D=os.path.dirname(os.path.abspath(__file__)); R=os.path.dirname(D)
 os.makedirs(os.path.join(D,'done'),exist_ok=True); changed=[]
-for q in sorted(glob.glob(os.path.join(D,'queue','*.json'))):
+def _clip(q):
+    # reels cut from our own YouTube episodes go LAST (Sanket 17 Nov): originals first, then clips; oldest first inside each group
+    try: return 'youtube' in json.load(open(q)).get('caption','').lower()
+    except Exception: return False
+for q in sorted(glob.glob(os.path.join(D,'queue','*.json')),key=lambda q:(_clip(q),os.path.basename(q))):
     name=os.path.basename(q); done=os.path.join(D,'done',name)
     j=json.load(open(q))
     if os.path.exists(done): os.remove(q); changed.append(q); print('already done',name); continue
@@ -14,7 +18,10 @@ for q in sorted(glob.glob(os.path.join(D,'queue','*.json'))):
     urllib.request.urlretrieve(j['media'],f)
     r=subprocess.run([sys.executable,os.path.join(D,'yt.py'),'upload',f,title,df],capture_output=True,text=True)
     print(r.stdout.strip(), r.stderr.strip()[-500:])
-    if r.returncode!=0 or 'YT_UPLOADED' not in r.stdout: print('UPLOAD FAILED',name); continue
+    if r.returncode!=0 or 'YT_UPLOADED' not in r.stdout:
+        print('UPLOAD FAILED',name)
+        if 'quota' in (r.stdout+r.stderr).lower() or 'uploadLimitExceeded' in (r.stdout+r.stderr): print('QUOTA USED UP - rest stays queued'); break
+        continue
     vid=r.stdout.split('YT_UPLOADED')[1].split()[0]
     json.dump({**j,'yt':vid,'url':f'https://youtube.com/shorts/{vid}'},open(done,'w'),ensure_ascii=False)
     os.remove(q); changed+= [q,done]
