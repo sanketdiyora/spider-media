@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-17/1336.mp4",
+ "dur": 39.91,
+ "music": "synthwave/159.mp3",
+ "chars": 501,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "GBPUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    1.31844,
+    1.31846452
+   ],
+   "sl": 1.319053,
+   "entry": 1.31844,
+   "rr": 1.0,
+   "tp1": 1.317827,
+   "tp2": null
+  },
+  {
+   "pair": "NAS100",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    27175.22,
+    27179.5636
+   ],
+   "sl": 27283.81,
+   "entry": 27175.22,
+   "rr": 2.5,
+   "tp1": 27066.63,
+   "tp2": 26903.74
+  },
+  {
+   "pair": "CADJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    111.47,
+    111.475884
+   ],
+   "sl": 111.6171,
+   "entry": 111.47,
+   "rr": 3.0,
+   "tp1": 111.3229,
+   "tp2": 111.0286
+  },
+  {
+   "pair": "US30",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    51410.68,
+    51414.0052
+   ],
+   "sl": 51493.81,
+   "entry": 51410.68,
+   "rr": 1.0,
+   "tp1": 51327.54,
+   "tp2": null
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_eddf8918",
+ "crops": [
+  "/home/claude/ig/setup/w_eddf8918/tg_0.jpg",
+  "/home/claude/ig/setup/w_eddf8918/tg_1.jpg",
+  "/home/claude/ig/setup/w_eddf8918/tg_2.jpg",
+  "/home/claude/ig/setup/w_eddf8918/tg_3.jpg"
+ ]
+}
