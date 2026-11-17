@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 14:21 IST",
+"updated": "2026-11-17 14:36 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 177,
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 23,
+"views": 44,
+"reach": 34,
 "saved": 1,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 65,
-"reach": 52,
+"views": 67,
+"reach": 57,
 "saved": 1,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 3,
 "comments": 0,
-"views": 129,
-"reach": 110,
+"views": 132,
+"reach": 113,
 "saved": 1,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 21,
+"reach": 13,
 "saved": 0,
 "shares": 0
 }
@@ -152,8 +152,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 21,
+"reach": 13,
 "saved": 0,
 "shares": 0
 },
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 3,
 "comments": 0,
-"views": 129,
-"reach": 110,
+"views": 132,
+"reach": 113,
 "saved": 1,
 "shares": 0
 },
@@ -180,8 +180,8 @@
 "link": "https://www.instagram.com/reel/Df0_RPZCTgD/",
 "likes": 0,
 "comments": 0,
-"views": 65,
-"reach": 52,
+"views": 67,
+"reach": 57,
 "saved": 1,
 "shares": 0
 },
@@ -194,8 +194,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 33,
-"reach": 23,
+"views": 44,
+"reach": 34,
 "saved": 1,
 "shares": 0
 },
@@ -222,8 +222,8 @@
 "link": "https://www.instagram.com/reel/DfzpbShjHz7/",
 "likes": 4,
 "comments": 0,
-"views": 137,
-"reach": 111,
+"views": 140,
+"reach": 113,
 "saved": 1,
 "shares": 1
 },
@@ -264,8 +264,8 @@
 "link": "https://www.instagram.com/reel/DfzEvUvD3L7/",
 "likes": 12,
 "comments": 2,
-"views": 865,
-"reach": 685,
+"views": 866,
+"reach": 687,
 "saved": 6,
 "shares": 0
 },
@@ -320,7 +320,7 @@
 "link": "https://www.instagram.com/reel/DfyLky0pW_z/",
 "likes": 16,
 "comments": 0,
-"views": 687,
+"views": 688,
 "reach": 509,
 "saved": 13,
 "shares": 4
@@ -404,7 +404,7 @@
 "link": "https://www.instagram.com/p/DfwCRvYl4tj/",
 "likes": 0,
 "comments": 0,
-"views": 3,
+"views": 4,
 "reach": 4,
 "saved": 0,
 "shares": 0
@@ -1019,17 +1019,17 @@
 "all_win": 98,
 "today_net": 9.4,
 "engine": {
-"last_scan": "14:16",
+"last_scan": "14:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 08:45 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-17 09:00 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5160.15",
-"equity": "5170.07",
-"floating": "9.92",
+"equity": "5177.24",
+"floating": "17.09",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1039,6 +1039,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.7,
 "github_runs": [
+{
+"t": "2026-11-17T08:54:35Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-17T08:00:24Z",
 "ok": "success",
@@ -1056,11 +1061,6 @@
 },
 {
 "t": "2026-11-17T02:30:17Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-17T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
