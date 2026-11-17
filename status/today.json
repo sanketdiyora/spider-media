@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 09:12 IST",
+"updated": "2026-11-17 09:22 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 175,
@@ -547,19 +547,6 @@
 "mt5_reason": "OPEN BUY 0.14 lots @1.10761 SL 1.10610 (scanner SL) entry 1.10750 basis -0.00004 (M1)  risk 0.49%"
 },
 {
-"id": "USDCHF_1794876300_dpoc",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 0.84036,
-"sl": 0.83931,
-"r": null,
-"opened": "17 Nov 06:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.91 USD = -1.00R"
-},
-{
 "id": "CADJPY_1794876300_pbo",
 "pair": "CADJPY",
 "dir": "SELL",
@@ -610,6 +597,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.60 lots @26520.38 SL 26484.81 (scanner SL) entry 26514.83 basis 21.13 (M15)  risk 0.46%"
+},
+{
+"id": "AUDUSD_1794886200_poc",
+"pair": "AUDUSD",
+"dir": "SELL",
+"model": "poc",
+"entry": 0.67442,
+"sl": 0.675029,
+"r": null,
+"opened": "17 Nov 09:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.36 lots @0.67442 SL 0.67513 (scanner SL) entry 0.67437 basis -0.00005 (M15) +SLbuf 0.00015  risk 0.50%"
 }
 ],
 "closed_today": [
@@ -716,9 +716,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 9.02 USD = 0.36R"
+},
+{
+"id": "USDCHF_1794876300_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.84036,
+"sl": 0.83931,
+"r": -1.0,
+"opened": "17 Nov 06:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.91 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "USDCHF_1794876300_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.84036,
+"sl": 0.83931,
+"r": -1.0,
+"opened": "17 Nov 06:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.91 USD = -1.00R"
+},
 {
 "id": "EURUSD_1794876300_dpoc",
 "pair": "EURUSD",
@@ -900,38 +926,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "WTI_1794825900_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 88.395,
-"sl": 88.856,
-"r": 1.5,
-"opened": "16 Nov 16:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 160,
-"all_net": 46.0,
+"all_n": 161,
+"all_net": 45.0,
 "all_win": 97,
-"today_net": 11.63,
+"today_net": 10.63,
 "engine": {
-"last_scan": "09:01",
-"age_min": 10,
+"last_scan": "09:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 03:30 UTC · new 1 · events 0 · open 6"
+"summary": "run 2026-11-17 03:45 UTC · new 1 · events 1 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5133.32",
-"equity": "5131.06",
-"floating": "-2.26",
-"positions": "5",
+"equity": "5112.10",
+"floating": "-21.22",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
