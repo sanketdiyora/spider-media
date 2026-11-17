@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17 15:36 IST",
+"updated": "2026-11-17 15:51 IST",
 "date": "2026-11-17",
 "followers": 67,
 "media_count": 178,
@@ -618,6 +618,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "CHFJPY_1794909600_dpoc",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 189.624,
+"sl": 189.8127,
+"r": null,
+"opened": "17 Nov 15:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.22 lots @189.648 SL 189.834 (scanner SL) entry 189.625 basis 0.001 (M15) +SLbuf 0.020  risk 0.50%"
 }
 ],
 "closed_today": [
@@ -1032,18 +1045,18 @@
 "all_win": 100,
 "today_net": 10.2,
 "engine": {
-"last_scan": "15:31",
+"last_scan": "15:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-17 10:00 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-17 10:15 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5163.51",
-"equity": "5181.90",
-"floating": "18.39",
-"positions": "1",
+"equity": "5178.46",
+"floating": "14.95",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
