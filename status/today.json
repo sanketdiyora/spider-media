@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 15:08 IST",
+"updated": "2026-11-18 15:22 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 187,
@@ -594,19 +594,6 @@
 "mt5_reason": "OPEN BUY 0.20 lots @0.58777 SL 0.58671 (scanner SL) entry 0.58764 basis 0.00002 (M15) split TP1/TP2 risk 0.50%"
 },
 {
-"id": "WTI_1794982500_lbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "lbo",
-"entry": 83.39,
-"sl": 83.861,
-"r": null,
-"opened": "18 Nov 11:50",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "USDJPY_1794987900_pbo",
 "pair": "USDJPY",
 "dir": "BUY",
@@ -631,6 +618,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "GBPUSD_1794994200_pbo",
+"pair": "GBPUSD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 1.31691,
+"sl": 1.317846,
+"r": null,
+"opened": "18 Nov 15:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.19 lots @1.31663 SL 1.31796 (scanner SL) entry 1.31686 basis -0.00005 (M15) +SLbuf 0.00016 +TPbuf 0.00016 split TP1/TP2 risk 0.50%"
 }
 ],
 "closed_today": [
@@ -763,9 +763,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -25.10 USD = -1.00R"
+},
+{
+"id": "WTI_1794982500_lbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 83.39,
+"sl": 83.861,
+"r": 0.5,
+"opened": "18 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "WTI_1794982500_lbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 83.39,
+"sl": 83.861,
+"r": 0.5,
+"opened": "18 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "AUDCAD_1794973500_dpoc",
 "pair": "AUDCAD",
@@ -947,45 +973,32 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CHFJPY_1794909600_dpoc",
-"pair": "CHFJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 189.624,
-"sl": 189.8127,
-"r": 0.59,
-"opened": "17 Nov 15:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 185,
-"all_net": 40.5,
-"all_win": 107,
-"today_net": -1.66,
+"all_n": 186,
+"all_net": 41.0,
+"all_win": 108,
+"today_net": -1.16,
 "engine": {
-"last_scan": "15:01",
-"age_min": 7,
+"last_scan": "15:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 09:30 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-18 09:45 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5075.17",
-"equity": "5070.74",
-"floating": "-4.43",
-"positions": "4",
+"equity": "5070.38",
+"floating": "-4.79",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
 "voice_chars_month": 127285,
 "voice_limit": 30000,
-"disk_free_gb": 17.5,
+"disk_free_gb": 17.4,
 "github_runs": [
 {
 "t": "2026-11-18T08:19:13Z",
