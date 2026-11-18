@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 14:36 IST",
+"updated": "2026-11-18 14:51 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 186,
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 123,
-"reach": 102,
+"views": 125,
+"reach": 104,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 15,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -152,8 +152,8 @@
 "link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 15,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 123,
-"reach": 102,
+"views": 125,
+"reach": 104,
 "saved": 0,
 "shares": 0
 },
@@ -223,7 +223,7 @@
 "likes": 2,
 "comments": 0,
 "views": 163,
-"reach": 138,
+"reach": 139,
 "saved": 0,
 "shares": 1
 },
@@ -250,8 +250,8 @@
 "link": "https://www.instagram.com/reel/Df11IJCgoDA/",
 "likes": 2,
 "comments": 0,
-"views": 136,
-"reach": 114,
+"views": 138,
+"reach": 115,
 "saved": 1,
 "shares": 0
 },
@@ -278,8 +278,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 1,
 "comments": 0,
-"views": 132,
-"reach": 105,
+"views": 133,
+"reach": 106,
 "saved": 2,
 "shares": 0
 },
@@ -568,19 +568,6 @@
 "scanner": {
 "open": [
 {
-"id": "AUDCAD_1794973500_dpoc",
-"pair": "AUDCAD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.96185,
-"sl": 0.963068,
-"r": null,
-"opened": "18 Nov 09:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -25.10 USD = -1.00R"
-},
-{
 "id": "CADCHF_1794974400_pbo",
 "pair": "CADCHF",
 "dir": "BUY",
@@ -750,9 +737,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 45.81 USD = 1.84R"
+},
+{
+"id": "AUDCAD_1794973500_dpoc",
+"pair": "AUDCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.96185,
+"sl": 0.963068,
+"r": -1.0,
+"opened": "18 Nov 09:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.10 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "AUDCAD_1794973500_dpoc",
+"pair": "AUDCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.96185,
+"sl": 0.963068,
+"r": -1.0,
+"opened": "18 Nov 09:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.10 USD = -1.00R"
+},
 {
 "id": "GBPUSD_1794970800_pbo",
 "pair": "GBPUSD",
@@ -934,37 +947,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "US500_1794896100_lbo",
-"pair": "US500",
-"dir": "SELL",
-"model": "lbo",
-"entry": 7406.28,
-"sl": 7420.88,
-"r": 0.5,
-"opened": "17 Nov 11:50",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 184,
-"all_net": 41.5,
+"all_n": 185,
+"all_net": 40.5,
 "all_win": 107,
-"today_net": -0.66,
+"today_net": -1.66,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 09:00 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-18 09:15 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5075.17",
-"equity": "5051.28",
-"floating": "-23.89",
+"equity": "5069.56",
+"floating": "-5.61",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
