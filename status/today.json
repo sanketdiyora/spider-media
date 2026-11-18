@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 13:22 IST",
+"updated": "2026-11-18 13:39 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 185,
@@ -20,7 +20,7 @@
 "likes": 11,
 "comments": 0,
 "views": 250,
-"reach": 195,
+"reach": 197,
 "saved": 7,
 "shares": 3
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
 "likes": 2,
 "comments": 0,
-"views": 134,
-"reach": 109,
+"views": 135,
+"reach": 110,
 "saved": 0,
 "shares": 1
 }
@@ -82,11 +82,19 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 117,
-"reach": 84,
+"views": 123,
+"reach": 101,
 "saved": 0,
 "shares": 0
 }
+},
+{
+"slot": "1336",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇",
+"status": "DUE",
+"post": null
 },
 {
 "slot": "1500",
@@ -131,8 +139,8 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 117,
-"reach": 84,
+"views": 123,
+"reach": 101,
 "saved": 0,
 "shares": 0
 },
@@ -159,8 +167,8 @@
 "link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
 "likes": 2,
 "comments": 0,
-"views": 134,
-"reach": 109,
+"views": 135,
+"reach": 110,
 "saved": 0,
 "shares": 1
 },
@@ -174,7 +182,7 @@
 "likes": 11,
 "comments": 0,
 "views": 250,
-"reach": 195,
+"reach": 197,
 "saved": 7,
 "shares": 3
 },
@@ -187,8 +195,8 @@
 "link": "https://www.instagram.com/reel/Df2NEv1lJAz/",
 "likes": 2,
 "comments": 0,
-"views": 161,
-"reach": 137,
+"views": 162,
+"reach": 138,
 "saved": 0,
 "shares": 1
 },
@@ -229,8 +237,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1201,
-"reach": 1051,
+"views": 1202,
+"reach": 1052,
 "saved": 5,
 "shares": 6
 },
@@ -243,7 +251,7 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 1,
 "comments": 0,
-"views": 131,
+"views": 132,
 "reach": 104,
 "saved": 2,
 "shares": 0
@@ -467,8 +475,8 @@
 "link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
 "likes": 3,
 "comments": 0,
-"views": 136,
-"reach": 111,
+"views": 137,
+"reach": 112,
 "saved": 3,
 "shares": 1
 },
@@ -573,19 +581,6 @@
 "mt5_reason": "OPEN SELL 0.27 lots @0.67232 SL 0.67326 (scanner SL) entry 0.67222 basis -0.00002 (M15) +SLbuf 0.00014  risk 0.50%"
 },
 {
-"id": "US500_1794973500_dpoc",
-"pair": "US500",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 7355.65,
-"sl": 7370.05,
-"r": null,
-"opened": "18 Nov 09:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.30 USD = -1.00R"
-},
-{
 "id": "AUDCAD_1794973500_dpoc",
 "pair": "AUDCAD",
 "dir": "SELL",
@@ -623,6 +618,19 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "USDJPY_1794987900_pbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 159.362,
+"sl": 159.0991,
+"r": null,
+"opened": "18 Nov 13:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @159.314 SL 159.090 (scanner SL) entry 159.353 basis -0.009 (M15) split TP1/TP2 risk 0.47%"
 }
 ],
 "closed_today": [
@@ -703,9 +711,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "US500_1794973500_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7355.65,
+"sl": 7370.05,
+"r": -1.0,
+"opened": "18 Nov 09:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.30 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "US500_1794973500_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7355.65,
+"sl": 7370.05,
+"r": -1.0,
+"opened": "18 Nov 09:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.30 USD = -1.00R"
+},
 {
 "id": "US30_1794977100_dpoc",
 "pair": "US30",
@@ -887,46 +921,38 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "US30_1794898800_dpoc",
-"pair": "US30",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 51410.68,
-"sl": 51493.81,
-"r": 1.21,
-"opened": "17 Nov 12:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 181,
-"all_net": 39.86,
+"all_n": 182,
+"all_net": 38.86,
 "all_win": 105,
-"today_net": -2.3,
+"today_net": -3.3,
 "engine": {
-"last_scan": "13:16",
-"age_min": 6,
+"last_scan": "13:31",
+"age_min": 8,
 "rc": 0,
-"summary": "run 2026-11-18 07:45 UTC · new 0 · events 2 · open 6"
+"summary": "run 2026-11-18 08:00 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5052.66",
-"equity": "5067.87",
-"floating": "15.21",
-"positions": "5",
+"equity": "5049.74",
+"floating": "-2.92",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 126751,
+"voice_chars_month": 127285,
 "voice_limit": 30000,
 "disk_free_gb": 17.5,
 "github_runs": [
+{
+"t": "2026-11-18T08:00:25Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-18T06:30:16Z",
 "ok": "success",
@@ -946,11 +972,6 @@
 "t": "2026-11-18T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-17T23:47:15Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
