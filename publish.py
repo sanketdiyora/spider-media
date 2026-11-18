@@ -22,8 +22,10 @@ def wait(cid,tries=40):
     return False
 SP='/tmp/claude-0/-home-claude/db1e54d3-1de6-5de9-93cd-e5a4b7a6b6c7/scratchpad'
 TGSTATE='/home/claude/tg_sent.json'
+TG_MIRROR=False   # Sanket 18 Nov 22:31: "hamare saare videos telegram pe daalna band kar de" -> no reel/post mirror to Telegram (trade setups from the PC engine are separate)
 def tg(it,date,slot,link):
-    """Mirror the post to the Telegram channel (once). Never breaks the IG flow."""
+    """Mirror the post to the Telegram channel (once). Never breaks the IG flow. OFF while TG_MIRROR is False."""
+    if not TG_MIRROR: print('TG: mirror off (Sanket 18 Nov)'); return
     try:
         tok=os.environ.get('TG_TOKEN') or open(SP+'/.tg_token').read().strip(); ch=os.environ.get('TG_CHAT') or open(SP+'/.tg_chat').read().strip()
     except Exception: print('TG: no credentials, skipped'); return
