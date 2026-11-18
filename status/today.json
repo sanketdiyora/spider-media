@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 14:08 IST",
+"updated": "2026-11-18 14:21 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 186,
@@ -577,8 +577,8 @@
 "r": null,
 "opened": "18 Nov 08:45",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 1.31978"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 45.81 USD = 1.84R"
 },
 {
 "id": "AUDCAD_1794973500_dpoc",
@@ -954,18 +954,18 @@
 "all_win": 106,
 "today_net": -2.66,
 "engine": {
-"last_scan": "14:06",
-"age_min": 2,
+"last_scan": "14:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 08:35 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-18 08:45 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5065.62",
-"equity": "5070.28",
-"floating": "4.66",
-"positions": "6",
+"balance": "5100.27",
+"equity": "5062.12",
+"floating": "-38.15",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
