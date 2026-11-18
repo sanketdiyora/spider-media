@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 11:22 IST",
+"updated": "2026-11-18 11:36 IST",
 "date": "2026-11-18",
 "followers": 71,
 "media_count": 185,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
 "likes": 10,
 "comments": 0,
-"views": 234,
-"reach": 185,
+"views": 245,
+"reach": 192,
 "saved": 7,
 "shares": 2
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
 "likes": 1,
 "comments": 0,
-"views": 82,
-"reach": 46,
+"views": 111,
+"reach": 99,
 "saved": 0,
 "shares": 0
 }
@@ -81,9 +81,9 @@
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
+"comments": 1,
+"views": 60,
+"reach": 26,
 "saved": 0,
 "shares": 0
 }
@@ -130,9 +130,9 @@
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
+"comments": 1,
+"views": 60,
+"reach": 26,
 "saved": 0,
 "shares": 0
 },
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
 "likes": 1,
 "comments": 0,
-"views": 82,
-"reach": 46,
+"views": 111,
+"reach": 99,
 "saved": 0,
 "shares": 0
 },
@@ -173,8 +173,8 @@
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
 "likes": 10,
 "comments": 0,
-"views": 234,
-"reach": 185,
+"views": 245,
+"reach": 192,
 "saved": 7,
 "shares": 2
 },
@@ -215,7 +215,7 @@
 "link": "https://www.instagram.com/reel/Df11IJCgoDA/",
 "likes": 2,
 "comments": 0,
-"views": 134,
+"views": 136,
 "reach": 114,
 "saved": 1,
 "shares": 0
@@ -257,8 +257,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 6,
 "comments": 0,
-"views": 284,
-"reach": 234,
+"views": 288,
+"reach": 240,
 "saved": 1,
 "shares": 1
 },
@@ -894,17 +894,17 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "11:16",
+"last_scan": "11:32",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 05:45 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-18 06:00 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.26",
-"equity": "5080.90",
-"floating": "-10.36",
+"equity": "5106.59",
+"floating": "15.33",
 "positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
