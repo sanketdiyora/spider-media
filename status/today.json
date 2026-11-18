@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 09:22 IST",
+"updated": "2026-11-18 09:37 IST",
 "date": "2026-11-18",
 "followers": 69,
 "media_count": 184,
@@ -545,6 +545,45 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.18 lots @1.31971 SL 1.32109 (scanner SL) entry 1.31962 basis -0.00004 (M15) +SLbuf 0.00016 +TPbuf 0.00016 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "AUDUSD_1794973500_dpoc",
+"pair": "AUDUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.67224,
+"sl": 0.673135,
+"r": null,
+"opened": "18 Nov 09:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.27 lots @0.67232 SL 0.67326 (scanner SL) entry 0.67222 basis -0.00002 (M15) +SLbuf 0.00014  risk 0.50%"
+},
+{
+"id": "US500_1794973500_dpoc",
+"pair": "US500",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 7355.65,
+"sl": 7370.05,
+"r": null,
+"opened": "18 Nov 09:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 1.80 lots @7362.36 SL 7375.86 (scanner SL) entry 7360.86 basis 5.21 (M15) +SLbuf 0.60  risk 0.48%"
+},
+{
+"id": "AUDCAD_1794973500_dpoc",
+"pair": "AUDCAD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 0.96185,
+"sl": 0.963068,
+"r": null,
+"opened": "18 Nov 09:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.29 lots @0.96200 SL 0.96324 (scanner SL) entry 0.96185 basis 0.00000 (M15) +SLbuf 0.00017  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -790,18 +829,18 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "09:16",
+"last_scan": "09:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-18 03:45 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-18 04:00 UTC · new 3 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.26",
-"equity": "5084.24",
-"floating": "-7.02",
-"positions": "2",
+"equity": "5106.20",
+"floating": "14.94",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
