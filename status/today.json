@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 14:51 IST",
+"updated": "2026-11-18 15:08 IST",
 "date": "2026-11-18",
 "followers": 72,
-"media_count": 186,
+"media_count": 187,
 "slots": [
 {
 "slot": "0700",
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
 "likes": 0,
 "comments": 0,
-"views": 15,
-"reach": 7,
+"views": 18,
+"reach": 11,
 "saved": 0,
 "shares": 0
 }
@@ -114,8 +114,21 @@
 "name": "Riddle reel",
 "type": "reel",
 "title": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18129898243857155",
+"cap": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?\nTrader ka $1000 account girke $500 ho gaya. Wapas $1000 pe aane ke liye kitne % profit chahiye? Aur agar 90% gira hota to?\nJawab comment me likho 👇 Kal 9 AM jawab reel (Part 2/2) + pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #drawdown #riskmanagement",
+"cap1": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?",
+"time": "2026-11-18 15:07",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4MzpqgIyw/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1700",
@@ -144,6 +157,20 @@
 ],
 "recent_posts": [
 {
+"id": "18129898243857155",
+"cap": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?\nTrader ka $1000 account girke $500 ho gaya. Wapas $1000 pe aane ke liye kitne % profit chahiye? Aur agar 90% gira hota to?\nJawab comment me likho 👇 Kal 9 AM jawab reel (Part 2/2) + pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #drawdown #riskmanagement",
+"cap1": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?",
+"time": "2026-11-18 15:07",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4MzpqgIyw/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18107209283361598",
 "cap": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇\nAaj: 4 trade band · 1 jeete · 3 haare · net -2.8R · 6 live\nUS500 SELL — band, -1.0R (SL hit)\nUS30 SELL — band, +0.2R (trailing stop pe profit me band)\nGBPUSD SELL — abhi chal raha hai, +1.4R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
 "cap1": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇",
@@ -152,8 +179,8 @@
 "link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
 "likes": 0,
 "comments": 0,
-"views": 15,
-"reach": 7,
+"views": 18,
+"reach": 11,
 "saved": 0,
 "shares": 0
 },
@@ -251,7 +278,7 @@
 "likes": 2,
 "comments": 0,
 "views": 138,
-"reach": 115,
+"reach": 116,
 "saved": 1,
 "shares": 0
 },
@@ -548,20 +575,6 @@
 "reach": 420,
 "saved": 0,
 "shares": 1
-},
-{
-"id": "17971875189212581",
-"cap": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halchal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingsessions #xauusd #forexhindi #goldtrading #tradingeducation",
-"cap1": "Trading sessions IST me 🌍 London + New York overlap = sabse zyada halc",
-"time": "2026-11-14 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfueqimmW1f/",
-"likes": 7,
-"comments": 0,
-"views": 336,
-"reach": 281,
-"saved": 2,
-"shares": 3
 }
 ],
 "trades": [],
@@ -954,17 +967,17 @@
 "all_win": 107,
 "today_net": -1.66,
 "engine": {
-"last_scan": "14:46",
-"age_min": 5,
+"last_scan": "15:01",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-18 09:15 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-18 09:30 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5075.17",
-"equity": "5069.56",
-"floating": "-5.61",
+"equity": "5070.74",
+"floating": "-4.43",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
