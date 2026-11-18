@@ -1,0 +1,41 @@
+Do din, dono din bazaar ek hi bhaav pe khula. Pehle din subah se shaam tak ek hi disha, dusre din upar-neeche aur close phir beech me. Kya subah ke pehle ghante me hi iska sanket mil sakta hai? Is episode me zero se samjho Market Profile (TPO): samay ka profile, Initial Balance, din ke types aur open ke types.
+
+Ye SPIDER ki Order Flow Series ka Episode 10 hai (24 episodes, Hindi + English). Pichhle episodes nahi dekhe? Playlist me shuru se dekho.
+
+Is episode me:
+• TPO kya hai: volume ki jagah samay; har aadhe ghante ka ek letter (A, B, C...)
+• Forex (24 ghante) me ek session chuno, jaise London ya New York
+• TPO profile: POC (sabse zyada samay) aur value area (~70%)
+• Single prints aur tail: tez move aur rejection
+• Initial Balance: pehle ghante (A + B) ka range
+• Range extension: IB ke bahar jaana
+• Din ke types: normal day, trend day, balance (neutral) day
+• Open ke types: open drive, open test drive, open rejection reverse, open auction
+
+Chapters:
+0:00 Intro
+0:24 Pichhla episode
+0:42 TPO kya hai
+1:18 Profile
+1:37 Single prints
+1:58 Initial Balance
+2:15 Range extension
+2:33 Normal day
+2:48 Trend day
+3:10 Balance day
+3:26 Open ke types
+4:03 Recap
+4:30 Agla episode
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 8 (VWAP aur Bands): https://youtu.be/gF7i8jp8zlw
+Episode 9 (Session Profiles): https://youtu.be/JE1m8CbP9w0
+Agla episode: Time & Sales, yaani tape kaise padhein.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Din aur open ke types sirf sanket hain, guarantee nahi.
+
+#orderflow #marketprofile #tradinghindi #forextrading #spidertrades

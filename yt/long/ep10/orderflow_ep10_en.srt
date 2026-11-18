@@ -1,0 +1,176 @@
+1
+00:00:05,000 --> 00:00:08,971
+Two days. On both days the market opened at the same price.
+
+2
+00:00:09,421 --> 00:00:17,857
+Day one moved in one direction from morning to evening. Day two went up and down, and closed back in the middle.
+
+3
+00:00:18,308 --> 00:00:23,951
+Can the first hour of the morning hint at which day it will be? That is today's topic.
+
+4
+00:00:24,951 --> 00:00:29,783
+Hello, this is episode ten of the SPIDER Order Flow series.
+
+5
+00:00:30,232 --> 00:00:35,641
+Last time: session profiles, a separate volume profile for each session.
+
+6
+00:00:36,091 --> 00:00:41,811
+Today: Market Profile, also called TPO, and the types of days.
+
+7
+00:00:42,811 --> 00:00:51,719
+A volume profile shows how much volume traded at each price. A Market Profile shows how much time was spent at each price.
+
+8
+00:00:52,169 --> 00:01:00,293
+Split the day into half-hour periods. Each period gets a letter: A, B, C and so on.
+
+9
+00:01:00,743 --> 00:01:09,991
+Every price touched in that half hour gets that letter. Each mark is a TPO, a Time Price Opportunity.
+
+10
+00:01:10,440 --> 00:01:17,911
+In 24-hour forex, pick one session, like London or New York, and count the letters from its open.
+
+11
+00:01:18,911 --> 00:01:23,274
+Now slide all the letters to the left. A shape appears.
+
+12
+00:01:23,723 --> 00:01:31,535
+The price with the most letters is where price spent the most time. That is the TPO point of control.
+
+13
+00:01:31,985 --> 00:01:36,347
+And the zone holding about 70% of the letters is the value area.
+
+14
+00:01:37,347 --> 00:01:42,179
+Where a price has just one letter, it is called a single print.
+
+15
+00:01:42,630 --> 00:01:47,226
+It means price moved through quickly. Nobody stayed there.
+
+16
+00:01:47,676 --> 00:01:57,395
+A tail of single prints at the top or bottom edge shows the market rejected those prices.
+
+17
+00:01:58,395 --> 00:02:01,948
+Now the most important piece: the Initial Balance.
+
+18
+00:02:02,398 --> 00:02:07,804
+It is the first hour's range, the high and low of the A and B periods.
+
+19
+00:02:08,255 --> 00:02:14,054
+It is the day's first decision. The rest of the day is read against this range.
+
+20
+00:02:15,054 --> 00:02:21,662
+If price leaves the Initial Balance after the first hour, it is called range extension.
+
+21
+00:02:22,113 --> 00:02:26,162
+It means new players arrived and pushed in one direction.
+
+22
+00:02:26,612 --> 00:02:32,097
+How often it extends, and in which direction, decides the type of day.
+
+23
+00:02:33,097 --> 00:02:35,370
+Type one: the normal day.
+
+24
+00:02:35,820 --> 00:02:41,620
+The Initial Balance is wide, and price stays mostly inside it all day.
+
+25
+00:02:42,070 --> 00:02:47,712
+Little or no extension. The profile is fat and full in the middle.
+
+26
+00:02:48,712 --> 00:02:51,063
+Type two: the trend day.
+
+27
+00:02:51,513 --> 00:02:57,704
+The Initial Balance is small, then price keeps printing new letters in one direction.
+
+28
+00:02:58,154 --> 00:03:04,423
+The profile is thin and long, and the close is usually near one extreme of the day.
+
+29
+00:03:04,873 --> 00:03:09,784
+The biggest mistake: fading a trend day again and again.
+
+30
+00:03:10,784 --> 00:03:15,225
+Type three: the balance day, also called a neutral day.
+
+31
+00:03:15,674 --> 00:03:20,585
+The Initial Balance breaks on both sides, above and below.
+
+32
+00:03:21,036 --> 00:03:25,555
+But neither side holds, and the close is back in the middle.
+
+33
+00:03:26,555 --> 00:03:29,795
+The open also gives an early clue about the day.
+
+34
+00:03:30,245 --> 00:03:38,447
+Open drive: price moves one way right from the open and never returns to it. A strong sign.
+
+35
+00:03:38,897 --> 00:03:45,428
+Open test drive: it first tests one side, then turns and drives hard the other way.
+
+36
+00:03:45,878 --> 00:03:53,767
+Open rejection reverse: it goes one way, gets rejected, and comes back through the open.
+
+37
+00:03:54,216 --> 00:04:02,341
+And open auction: no urgency, price rotates around the open. Often a range day.
+
+38
+00:04:03,341 --> 00:04:04,908
+So, today's summary.
+
+39
+00:04:05,358 --> 00:04:14,108
+TPO is a profile of time. One letter per half hour. The price with the most letters is the POC.
+
+40
+00:04:14,559 --> 00:04:22,918
+The Initial Balance is the first hour's range. Extension shows the day type: normal, trend or balance.
+
+41
+00:04:23,368 --> 00:04:29,977
+And the open type gives the first clue early. Not a guarantee, just a clue.
+
+42
+00:04:30,977 --> 00:04:35,575
+Next episode: Time and Sales, reading the tape.
+
+43
+00:04:36,025 --> 00:04:41,014
+If this was useful, subscribe and save the playlist.
+
+44
+00:04:41,464 --> 00:04:47,499
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

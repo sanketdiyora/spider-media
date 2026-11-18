@@ -1,0 +1,180 @@
+1
+00:00:05,000 --> 00:00:11,033
+A system's backtest. Five years of data, and the profit curve goes straight up.
+
+2
+00:00:11,484 --> 00:00:14,879
+Then it went live, and lost money in the very first month.
+
+3
+00:00:15,330 --> 00:00:19,927
+The system was not the problem. The backtest was done the wrong way.
+
+4
+00:00:20,927 --> 00:00:25,839
+Hello, this is episode five of the SPIDER Quant Trading series.
+
+5
+00:00:26,289 --> 00:00:30,886
+Last time: position sizing, how much to risk per trade.
+
+6
+00:00:31,336 --> 00:00:40,244
+Today: backtesting. How to test a system before risking money, and which mistakes make the result a lie.
+
+7
+00:00:41,244 --> 00:00:49,055
+A backtest means running your rules on past data, as if the system had really traded back then.
+
+8
+00:00:49,505 --> 00:00:56,114
+Record every trade's entry, exit and result, then look at the full picture.
+
+9
+00:00:56,564 --> 00:01:01,475
+The goal is one question: does this system really have an edge?
+
+10
+00:01:02,475 --> 00:01:06,341
+First condition: the rules must be written down and clear.
+
+11
+00:01:06,791 --> 00:01:13,713
+When to enter, where the stop is, where the target is, what size. One answer for each.
+
+12
+00:01:14,163 --> 00:01:20,198
+If any rule says "decide by looking at the chart", that is a guess, not a backtest.
+
+13
+00:01:21,198 --> 00:01:24,750
+Second: how much data, and what kind.
+
+14
+00:01:25,199 --> 00:01:32,279
+Twenty or thirty trades tell you nothing, they could be luck. You need at least a few hundred.
+
+15
+00:01:32,729 --> 00:01:39,573
+And the data should include different market moods: trends, sideways, and very volatile days.
+
+16
+00:01:40,573 --> 00:01:44,440
+The third mistake is the most common: forgetting costs.
+
+17
+00:01:44,890 --> 00:01:48,860
+Every trade pays spread, commission and slippage.
+
+18
+00:01:49,309 --> 00:01:57,015
+Say 200 trades, averaging 0.15R each. That is 30R in total.
+
+19
+00:01:57,466 --> 00:02:05,015
+If each trade costs 0.1R, 20R goes to costs. Only 10R is left.
+
+20
+00:02:06,015 --> 00:02:11,005
+The fourth mistake is sneaky: using data from the future.
+
+21
+00:02:11,455 --> 00:02:18,299
+For example, the signal forms at the candle's close, but the backtest enters at that same candle's open.
+
+22
+00:02:18,749 --> 00:02:24,704
+At the open, nobody knew the close. Live, you could never take that trade like that.
+
+23
+00:02:25,155 --> 00:02:30,798
+This is called look-ahead bias. It always makes results look better than reality.
+
+24
+00:02:31,798 --> 00:02:34,227
+The fifth mistake: overfitting.
+
+25
+00:02:34,677 --> 00:02:40,790
+You test a thousand setting combinations and pick the one that looks best.
+
+26
+00:02:41,239 --> 00:02:46,072
+That system has memorised the past data. It has not learned the market.
+
+27
+00:02:46,522 --> 00:02:50,153
+On new data, those same settings often fail.
+
+28
+00:02:51,153 --> 00:02:54,863
+The fix: split the data into two parts.
+
+29
+00:02:55,313 --> 00:03:01,033
+On the first part, say 70%, build the system and fix the settings.
+
+30
+00:03:01,483 --> 00:03:07,439
+Do not touch the other 30%. Test on it only once, at the end.
+
+31
+00:03:07,888 --> 00:03:14,001
+If it holds up there, confidence grows. If it breaks, go back to the start.
+
+32
+00:03:15,001 --> 00:03:18,632
+Do not judge a backtest by total profit alone.
+
+33
+00:03:19,083 --> 00:03:25,849
+Look at the number of trades, the average per trade, called expectancy, and the profit factor.
+
+34
+00:03:26,299 --> 00:03:33,456
+Profit factor is gross profit divided by gross loss. It must be above one, after costs.
+
+35
+00:03:33,906 --> 00:03:40,176
+And the biggest drawdown and the longest losing streak. Could you live through them?
+
+36
+00:03:41,176 --> 00:03:47,053
+A bitter truth: live results are usually weaker than the backtest.
+
+37
+00:03:47,503 --> 00:03:52,911
+Spreads change, slippage grows, and the market itself changes.
+
+38
+00:03:53,361 --> 00:04:01,067
+So after a backtest, run it on demo or small size for a few weeks first. That is called a forward test.
+
+39
+00:04:02,067 --> 00:04:03,555
+So, today's summary.
+
+40
+00:04:04,006 --> 00:04:08,447
+Write the rules down, use enough data, and include costs.
+
+41
+00:04:08,897 --> 00:04:15,819
+Never use future data, do not over-tune settings, and test once on out-of-sample data.
+
+42
+00:04:16,269 --> 00:04:20,317
+Then forward test first, and only after that, real money.
+
+43
+00:04:21,318 --> 00:04:27,039
+Next episode: risk of ruin. How to estimate the chance of blowing the account.
+
+44
+00:04:27,489 --> 00:04:32,400
+If this was useful, subscribe and save the playlist.
+
+45
+00:04:32,850 --> 00:04:38,884
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

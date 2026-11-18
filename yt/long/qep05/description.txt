@@ -1,0 +1,43 @@
+Ek system ka backtest: 5 saal ka data, profit ka graph seedha upar. Live chalaya, aur pehle hi mahine me nuksaan. System kharab nahi tha, backtest galat tareeke se kiya gaya tha. Is episode me zero se samjho backtesting: system ko paisa lagane se pehle kaise jaanchein, aur kaun si 5 galtiyan nateeja jhootha bana deti hain.
+
+Ye SPIDER ki Quant Trading Series ka Episode 5 hai (Hindi + English subtitles).
+
+Is episode me:
+• Backtest kya hai: rules ko purane data pe chalana
+• Rules likhe hue aur saaf hon ("chart dekh ke" = andaaza)
+• Kitna data: 20–30 trades kaafi nahi, kuch sau chahiye; trend, sideways aur tez din sab
+• Kharcha: 200 trades × 0.15R = 30R, kharcha 0.1R/trade → bacha sirf 10R
+• Look-ahead bias: bhavishya ka data
+• Overfitting: purane data ko ratta
+• Out of sample: 70% pe banao, 30% pe sirf ek baar test
+• Kya dekhein: trades, expectancy, profit factor, max drawdown, sabse lambi haar
+• Live aam taur par backtest se kamzor: pehle forward test
+
+Chapters:
+0:00 Intro
+0:20 Pichhla episode
+0:41 Backtest kya hai
+1:02 Rules likho
+1:21 Data
+1:40 Cost
+2:06 Bhavishya ka data
+2:31 Overfitting
+2:51 Out of sample
+3:15 Kya dekhein
+3:41 Live vs backtest
+4:02 Recap
+4:21 Agla episode
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Agla episode: Risk of Ruin. Account doobne ka chance kaise nikaalein?
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number sirf samjhane ke liye example hain.
+
+#quanttrading #algotrading #tradinghindi #backtesting #spidertrades
