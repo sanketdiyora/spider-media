@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-18/1336.mp4",
+ "dur": 43.84,
+ "music": "trap/364.mp3",
+ "chars": 534,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "US500",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    7355.65,
+    7356.226
+   ],
+   "sl": 7370.05,
+   "entry": 7355.65,
+   "rr": 1.0,
+   "tp1": 7341.26,
+   "tp2": null
+  },
+  {
+   "pair": "US30",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    50785.18,
+    50787.7384
+   ],
+   "sl": 50849.14,
+   "entry": 50785.18,
+   "rr": 1.0,
+   "tp1": 50721.21,
+   "tp2": null
+  },
+  {
+   "pair": "GBPUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    1.31966,
+    1.31971224
+   ],
+   "sl": 1.320966,
+   "entry": 1.31966,
+   "rr": 3.0,
+   "tp1": 1.318354,
+   "tp2": 1.315741
+  },
+  {
+   "pair": "WTI OIL",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    83.39,
+    83.40884
+   ],
+   "sl": 83.861,
+   "entry": 83.39,
+   "rr": 2.5,
+   "tp1": 82.919,
+   "tp2": 82.212
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_eef07e45",
+ "crops": [
+  "/home/claude/ig/setup/w_eef07e45/tg_0.jpg",
+  "/home/claude/ig/setup/w_eef07e45/tg_1.jpg",
+  "/home/claude/ig/setup/w_eef07e45/tg_2.jpg",
+  "/home/claude/ig/setup/w_eef07e45/tg_3.jpg"
+ ]
+}
