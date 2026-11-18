@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 07:51 IST",
+"updated": "2026-11-18 08:06 IST",
 "date": "2026-11-18",
 "followers": 69,
-"media_count": 182,
+"media_count": 183,
 "slots": [
 {
 "slot": "0700",
@@ -17,11 +17,11 @@
 "time": "2026-11-18 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
-"likes": 0,
+"likes": 6,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 104,
+"reach": 39,
+"saved": 4,
 "shares": 0
 }
 },
@@ -30,8 +30,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Market storm bhejega. Tum lighthouse bano — hilo mat, chamko.",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18094470527239720",
+"cap": "Market storm bhejega. Tum lighthouse bano — hilo mat, chamko.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
+"cap1": "Market storm bhejega. Tum lighthouse bano — hilo mat, chamko.",
+"time": "2026-11-18 08:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0900",
@@ -84,17 +97,31 @@
 ],
 "recent_posts": [
 {
+"id": "18094470527239720",
+"cap": "Market storm bhejega. Tum lighthouse bano — hilo mat, chamko.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
+"cap1": "Market storm bhejega. Tum lighthouse bano — hilo mat, chamko.",
+"time": "2026-11-18 08:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18108236285138080",
 "cap": "Liquidity kya hoti hai? 💧\n\nGehre talaab me patthar phenko to chhoti lehar. Chhichhle gaddhe me wahi patthar, saara paani uchhal jata hai. Market me paani hai limit orders, patthar hai market order. Moti book me price kam hilta hai, patli me zyada.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #liquidity #forexhindi #spidertrades",
 "cap1": "Liquidity kya hoti hai? 💧",
 "time": "2026-11-18 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
-"likes": 0,
+"likes": 6,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 104,
+"reach": 39,
+"saved": 4,
 "shares": 0
 },
 {
@@ -106,8 +133,8 @@
 "link": "https://www.instagram.com/reel/Df2NEv1lJAz/",
 "likes": 1,
 "comments": 0,
-"views": 154,
-"reach": 131,
+"views": 158,
+"reach": 133,
 "saved": 0,
 "shares": 1
 },
@@ -120,8 +147,8 @@
 "link": "https://www.instagram.com/reel/Df2Dv9WlNFE/",
 "likes": 1,
 "comments": 2,
-"views": 114,
-"reach": 100,
+"views": 117,
+"reach": 102,
 "saved": 0,
 "shares": 0
 },
@@ -135,7 +162,7 @@
 "likes": 2,
 "comments": 0,
 "views": 134,
-"reach": 113,
+"reach": 114,
 "saved": 1,
 "shares": 0
 },
@@ -148,8 +175,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1195,
-"reach": 1045,
+"views": 1199,
+"reach": 1047,
 "saved": 5,
 "shares": 6
 },
@@ -162,8 +189,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 1,
 "comments": 0,
-"views": 127,
-"reach": 99,
+"views": 128,
+"reach": 101,
 "saved": 2,
 "shares": 0
 },
@@ -174,10 +201,10 @@
 "time": "2026-11-17 10:41",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
-"likes": 4,
+"likes": 5,
 "comments": 0,
-"views": 211,
-"reach": 179,
+"views": 219,
+"reach": 182,
 "saved": 1,
 "shares": 1
 },
@@ -331,7 +358,7 @@
 "likes": 16,
 "comments": 0,
 "views": 691,
-"reach": 512,
+"reach": 513,
 "saved": 13,
 "shares": 4
 },
@@ -487,20 +514,6 @@
 "views": 112,
 "reach": 102,
 "saved": 1,
-"shares": 0
-},
-{
-"id": "18063530504797542",
-"cap": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse bot fee nahi. Risk tumhara.\nDM \"FREE\".\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#freebot #tradingbot #ibpartner #forexhindi #mt5",
-"cap1": "Saare bots free, catch kya hai? 🤝 Seedha jawab: IB commission. Tumse b",
-"time": "2026-11-14 13:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DftungKoKGn/",
-"likes": 0,
-"comments": 0,
-"views": 31,
-"reach": 28,
-"saved": 0,
 "shares": 0
 }
 ],
@@ -750,10 +763,10 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "07:46",
+"last_scan": "08:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 02:15 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-18 02:30 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -771,6 +784,11 @@
 "disk_free_gb": 17.5,
 "github_runs": [
 {
+"t": "2026-11-18T02:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-18T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -787,11 +805,6 @@
 },
 {
 "t": "2026-11-17T22:37:11Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-17T21:31:47Z",
 "ok": "success",
 "ev": "schedule"
 }
