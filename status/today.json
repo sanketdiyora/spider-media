@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 20:22 IST",
+"updated": "2026-11-18 20:37 IST",
 "date": "2026-11-18",
 "followers": 73,
-"media_count": 151,
+"media_count": 124,
 "slots": [
 {
 "slot": "0700",
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df4njZdkqEu/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 9,
+"views": 19,
+"reach": 12,
 "saved": 0,
 "shares": 0
 }
@@ -177,11 +177,38 @@
 "name": "Know reel",
 "type": "reel",
 "title": "KNOW #3 📚 Leverage Aur Margin",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18157043035522995",
+"cap": "KNOW #3 📚 Leverage Aur Margin\n$100 se $10,000 ki trade kaise khul jaati hai?\n• Broker aapko leverage deta hai, yaani udhaar ki buying power.\n• 1:100 leverage pe $10,000 ki trade ke liye sirf $100 margin lock hota hai.\n• Lekin profit aur loss poore $10,000 pe chalta hai.\nTip: leverage tez gaadi hai. Brake hai stop loss.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
+"cap1": "KNOW #3 📚 Leverage Aur Margin",
+"time": "2026-11-18 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4x4B-meD-/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "18157043035522995",
+"cap": "KNOW #3 📚 Leverage Aur Margin\n$100 se $10,000 ki trade kaise khul jaati hai?\n• Broker aapko leverage deta hai, yaani udhaar ki buying power.\n• 1:100 leverage pe $10,000 ki trade ke liye sirf $100 margin lock hota hai.\n• Lekin profit aur loss poore $10,000 pe chalta hai.\nTip: leverage tez gaadi hai. Brake hai stop loss.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
+"cap1": "KNOW #3 📚 Leverage Aur Margin",
+"time": "2026-11-18 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4x4B-meD-/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18224043697356731",
 "cap": "The Lighthouse — SPIDER ASPIRE\nIn a storm the lighthouse does not chase ships. It stays put and shines. Your rules are the lighthouse.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #discipline #forextrader #aspire #spidertrades",
@@ -191,8 +218,8 @@
 "link": "https://www.instagram.com/reel/Df4njZdkqEu/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 9,
+"views": 19,
+"reach": 12,
 "saved": 0,
 "shares": 0
 },
@@ -557,20 +584,6 @@
 "comments": 0,
 "views": 101,
 "reach": 85,
-"saved": 0,
-"shares": 0
-},
-{
-"id": "18180748948450182",
-"cap": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, signs aur hal.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingpsychology #revengetrading #forexhindi #tradingeducation #riskmanagement",
-"cap1": "Revenge trading 😤 Ek loss ke baad ka sabse mehenga trade. Chakkar, sig",
-"time": "2026-11-15 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/Dfwrdj7lIUR/",
-"likes": 0,
-"comments": 0,
-"views": 2,
-"reach": 3,
 "saved": 0,
 "shares": 0
 },
@@ -1019,17 +1032,17 @@
 "all_win": 110,
 "today_net": -0.4,
 "engine": {
-"last_scan": "20:17",
+"last_scan": "20:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 14:45 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-18 15:00 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5121.35",
-"equity": "5110.30",
-"floating": "-11.05",
+"equity": "5113.86",
+"floating": "-7.49",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1039,6 +1052,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 17.4,
 "github_runs": [
+{
+"t": "2026-11-18T15:00:28Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-18T13:51:41Z",
 "ok": "success",
@@ -1058,11 +1076,6 @@
 "t": "2026-11-18T11:30:17Z",
 "ok": "failure",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-18T11:28:37Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
