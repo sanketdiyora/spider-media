@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 09:37 IST",
+"updated": "2026-11-18 09:51 IST",
 "date": "2026-11-18",
 "followers": 69,
 "media_count": 184,
@@ -584,6 +584,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.29 lots @0.96200 SL 0.96324 (scanner SL) entry 0.96185 basis 0.00000 (M15) +SLbuf 0.00017  risk 0.49%"
+},
+{
+"id": "CADCHF_1794974400_pbo",
+"pair": "CADCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 0.58762,
+"sl": 0.586687,
+"r": null,
+"opened": "18 Nov 09:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.20 lots @0.58777 SL 0.58671 (scanner SL) entry 0.58764 basis 0.00002 (M15) split TP1/TP2 risk 0.50%"
 }
 ],
 "closed_today": [
@@ -829,18 +842,18 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "09:31",
-"age_min": 6,
+"last_scan": "09:47",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 04:00 UTC · new 3 · events 0 · open 4"
+"summary": "run 2026-11-18 04:15 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.26",
-"equity": "5106.20",
-"floating": "14.94",
-"positions": "5",
+"equity": "5059.81",
+"floating": "-31.45",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
