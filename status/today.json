@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-18 09:51 IST",
+"updated": "2026-11-18 10:06 IST",
 "date": "2026-11-18",
-"followers": 69,
+"followers": 71,
 "media_count": 184,
 "slots": [
 {
@@ -17,12 +17,12 @@
 "time": "2026-11-18 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
-"likes": 8,
+"likes": 10,
 "comments": 0,
-"views": 192,
-"reach": 144,
-"saved": 6,
-"shares": 1
+"views": 221,
+"reach": 171,
+"saved": 7,
+"shares": 2
 }
 },
 {
@@ -38,10 +38,10 @@
 "time": "2026-11-18 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 42,
-"reach": 13,
+"views": 129,
+"reach": 82,
 "saved": 0,
 "shares": 0
 }
@@ -59,10 +59,10 @@
 "time": "2026-11-18 09:11",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 28,
+"reach": 16,
 "saved": 0,
 "shares": 0
 }
@@ -116,10 +116,10 @@
 "time": "2026-11-18 09:11",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 28,
+"reach": 16,
 "saved": 0,
 "shares": 0
 },
@@ -130,10 +130,10 @@
 "time": "2026-11-18 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3cFSoiqQm/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 42,
-"reach": 13,
+"views": 129,
+"reach": 82,
 "saved": 0,
 "shares": 0
 },
@@ -144,12 +144,12 @@
 "time": "2026-11-18 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
-"likes": 8,
+"likes": 10,
 "comments": 0,
-"views": 192,
-"reach": 144,
-"saved": 6,
-"shares": 1
+"views": 221,
+"reach": 171,
+"saved": 7,
+"shares": 2
 },
 {
 "id": "18101625635402362",
@@ -216,8 +216,8 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 1,
 "comments": 0,
-"views": 129,
-"reach": 102,
+"views": 130,
+"reach": 103,
 "saved": 2,
 "shares": 0
 },
@@ -230,8 +230,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 5,
 "comments": 0,
-"views": 250,
-"reach": 204,
+"views": 267,
+"reach": 219,
 "saved": 1,
 "shares": 1
 },
@@ -597,6 +597,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.20 lots @0.58777 SL 0.58671 (scanner SL) entry 0.58764 basis 0.00002 (M15) split TP1/TP2 risk 0.50%"
+},
+{
+"id": "GBPCHF_1794975300_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10955,
+"sl": 1.108639,
+"r": null,
+"opened": "18 Nov 10:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.21 lots @1.10966 SL 1.10866 (scanner SL) entry 1.10957 basis 0.00002 (M15) split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -842,18 +855,18 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "09:47",
+"last_scan": "10:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 04:15 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-18 04:30 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.26",
-"equity": "5059.81",
-"floating": "-31.45",
-"positions": "7",
+"equity": "5075.07",
+"floating": "-16.19",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
