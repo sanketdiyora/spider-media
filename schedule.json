@@ -2255,11 +2255,11 @@
   "date": "2026-11-20",
   "slot": "0700",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-20/0700.mp4"
   ],
-  "caption": "Order book jhooth bhi bol sakti hai. 🎭\n\nKabhi bada order sirf dikhane ke liye lagta hai aur price paas aate hi gayab ho jata hai: spoofing (zyadatar bazaaron me gair-kanooni). Aur bade khiladi apna asli size chhupa kar thoda thoda dikhate hain: iceberg. Book me jo dikhta hai, wo vaada nahi hai.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #forexhindi #spidertrades"
+  "caption": "50% gira to wapas aane ke liye 100% chahiye. 📉\n\n10% girne pe 11% chahiye, 25% pe 33%, aur 80% girne pe 400%. Girna aasaan hai, wapas aana mushkil. Isliye drawdown chhota rakhna hi asli kaam hai.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-21",
@@ -2335,11 +2335,11 @@
   "date": "2026-11-19",
   "slot": "1030",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-19/1030.mp4"
   ],
-  "caption": "Fair price kaun tay karta hai? 🤝\n\nFair price wo bhaav hai jise buyer aur seller dono theek samajhte hain. Price usse bahut upar jaye to buyers peeche hat sakte hain, bahut neeche jaye to sellers. Market isi value ke aas-paas ghoomta hai.\n\nOrder Flow Series, Episode 2 (Market ek neelaami) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades"
+  "caption": "90% baar jeeta, phir bhi account minus? 😳\n\nJeet chhoti aur haar badi ho to 90 jeet bhi 10 haar ko nahi bacha paati. Aur 40% jeetne wala bhi profit me ho sakta hai, agar uski har jeet haar se badi ho. Sirf win rate dekh ke system mat chuno.\n\nQuant Trading Series, Episode 2 (Win Rate ka Sach) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-19",
@@ -2365,21 +2365,21 @@
   "date": "2026-11-20",
   "slot": "1700",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-20/1700.mp4"
   ],
-  "caption": "Gold ka asli volume kahan milega? 🥇\n\nSpot gold ka koi ek central exchange nahi hai. Asli, gina hua volume futures market me milta hai. Har spot chart ka ek futures bhai hota hai.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades"
+  "caption": "Quant trading ka matlab kya hai? ☕\n\nEk chai wala roz copy me likhta hai ki kitne cup bike. Kuch hafton me use pata chal jata hai ki kis din zyada maal chahiye. Yahi quant soch hai: andaaza nahi, ginti.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-21",
   "slot": "1030",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-21/1030.mp4"
   ],
-  "caption": "Price ko hilata kaun hai, aur rokta kaun? ⚡\n\nAggressive trader market order se book ko khata hai, isliye price hilta hai. Passive trader apni jagah baitha rehta hai, wahi price ko rok sakta hai. Har move in dono ki ladaai hai.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades"
+  "caption": "Har trade me kitna lot lagaun? ⚖️\n\nPehle tay karo kitna risk lena hai, phir SL ki doori dekho. Size = account × risk % ÷ (SL doori × 1 point ki keemat). SL chauda hai to lot chhota, SL chhota hai to lot bada. Risk wahi rehta hai.\n\nQuant Trading Series, Episode 4 (Position Sizing) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-21",
@@ -2395,11 +2395,11 @@
   "date": "2026-11-22",
   "slot": "0700",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-22/0700.mp4"
   ],
-  "caption": "Order book kya hoti hai? 📒\n\nMandi me har thele wale ne apna bhaav aur maal ek parchi pe likha hai. Saari parchiyan ek jagah rakho to wahi order book hai: har bhaav pe kitna maal intezaar me baitha hai.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades"
+  "caption": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-22",
@@ -2415,11 +2415,11 @@
   "date": "2026-11-22",
   "slot": "1700",
   "type": "reel",
-  "series": "orderflow_clip",
+  "series": "quant_clip",
   "media": [
    "https://raw.githubusercontent.com/sanketdiyora/spider-media/main/media/2026-11-22/1700.mp4"
   ],
-  "caption": "Volume Profile ki 3 shapes. 🔤\n\nProfile ki shape bhi kahaani batati hai. Teen shape sabse aam hain, aur har ek batati hai ki din me kis taraf zor zyada raha.\n\nOrder Flow Series, Episode 7 (Volume Profile) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades"
+  "caption": "Fixed lot ya fixed percent? 🧮\n\nLambi haar ki line me fixed lot account ko tezi se kha jata hai. Fixed percent me har haar ke baad size thoda chhota hota hai, isliye account zyada der tikta hai.\n\nQuant Trading Series, Episode 4 (Position Sizing) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades"
  },
  {
   "date": "2026-11-16",
