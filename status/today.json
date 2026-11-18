@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 15:36 IST",
+"updated": "2026-11-18 15:52 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 187,
@@ -607,19 +607,6 @@
 "mt5_reason": "OPEN BUY 0.17 lots @159.314 SL 159.090 (scanner SL) entry 159.353 basis -0.009 (M15) split TP1/TP2 risk 0.47%"
 },
 {
-"id": "NZDUSD_1794990000_lbo",
-"pair": "NZDUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.548637,
-"sl": 0.549477,
-"r": null,
-"opened": "18 Nov 13:55",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "GBPUSD_1794994200_pbo",
 "pair": "GBPUSD",
 "dir": "SELL",
@@ -776,9 +763,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "NZDUSD_1794990000_lbo",
+"pair": "NZDUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.548637,
+"sl": 0.549477,
+"r": -1.0,
+"opened": "18 Nov 13:55",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "NZDUSD_1794990000_lbo",
+"pair": "NZDUSD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.548637,
+"sl": 0.549477,
+"r": -1.0,
+"opened": "18 Nov 13:55",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "WTI_1794982500_lbo",
 "pair": "WTI OIL",
@@ -960,37 +973,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CADJPY_1794876300_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 111.47,
-"sl": 111.6171,
-"r": 0.5,
-"opened": "17 Nov 06:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 186,
-"all_net": 41.0,
+"all_n": 187,
+"all_net": 40.0,
 "all_win": 108,
-"today_net": -1.16,
+"today_net": -2.16,
 "engine": {
-"last_scan": "15:31",
+"last_scan": "15:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 10:00 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-18 10:15 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5075.17",
-"equity": "5071.05",
-"floating": "-4.12",
+"equity": "5066.60",
+"floating": "-8.57",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
