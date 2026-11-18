@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 11:52 IST",
+"updated": "2026-11-18 12:07 IST",
 "date": "2026-11-18",
 "followers": 71,
 "media_count": 185,
@@ -649,6 +649,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1794982500_lbo",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "lbo",
+"entry": 83.39,
+"sl": 83.861,
+"r": null,
+"opened": "18 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -894,17 +907,17 @@
 "all_win": 104,
 "today_net": -0.5,
 "engine": {
-"last_scan": "11:49",
-"age_min": 2,
-"rc": -9,
-"summary": "fetch EURAUD 31.7s OK"
+"last_scan": "12:02",
+"age_min": 5,
+"rc": 0,
+"summary": "run 2026-11-18 06:30 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.26",
-"equity": "5087.94",
-"floating": "-3.32",
+"equity": "5102.05",
+"floating": "10.79",
 "positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -914,6 +927,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 17.5,
 "github_runs": [
+{
+"t": "2026-11-18T06:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-18T05:30:16Z",
 "ok": "success",
@@ -931,11 +949,6 @@
 },
 {
 "t": "2026-11-17T23:47:15Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-17T23:27:30Z",
 "ok": "success",
 "ev": "schedule"
 }
