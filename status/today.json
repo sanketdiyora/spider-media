@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18 13:07 IST",
+"updated": "2026-11-18 13:22 IST",
 "date": "2026-11-18",
 "followers": 72,
 "media_count": 185,
@@ -582,8 +582,8 @@
 "r": null,
 "opened": "18 Nov 09:30",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 1.80 lots @7362.36 SL 7375.86 (scanner SL) entry 7360.86 basis 5.21 (M15) +SLbuf 0.60  risk 0.48%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.30 USD = -1.00R"
 },
 {
 "id": "AUDCAD_1794973500_dpoc",
@@ -610,32 +610,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.20 lots @0.58777 SL 0.58671 (scanner SL) entry 0.58764 basis 0.00002 (M15) split TP1/TP2 risk 0.50%"
-},
-{
-"id": "NAS100_1794977100_dpoc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 27098.41,
-"sl": 27224.75,
-"r": null,
-"opened": "18 Nov 10:30",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
-"id": "US30_1794977100_dpoc",
-"pair": "US30",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 50785.18,
-"sl": 50849.14,
-"r": null,
-"opened": "18 Nov 10:30",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
 },
 {
 "id": "WTI_1794982500_lbo",
@@ -703,9 +677,61 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -25.46 USD = -1.02R"
+},
+{
+"id": "NAS100_1794977100_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 27098.41,
+"sl": 27224.75,
+"r": -1.0,
+"opened": "18 Nov 10:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "US30_1794977100_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 50785.18,
+"sl": 50849.14,
+"r": 0.2,
+"opened": "18 Nov 10:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "US30_1794977100_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 50785.18,
+"sl": 50849.14,
+"r": 0.2,
+"opened": "18 Nov 10:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "NAS100_1794977100_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 27098.41,
+"sl": 27224.75,
+"r": -1.0,
+"opened": "18 Nov 10:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "GBPCHF_1794975300_pbo",
 "pair": "GBPCHF",
@@ -874,51 +900,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPCHF_1794874500_dpoc",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.10754,
-"sl": 1.106144,
-"r": -1.0,
-"opened": "17 Nov 06:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "NAS100_1794897000_lbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "lbo",
-"entry": 27175.22,
-"sl": 27283.81,
-"r": -1.0,
-"opened": "17 Nov 12:05",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 179,
-"all_net": 40.66,
-"all_win": 104,
-"today_net": -1.5,
+"all_n": 181,
+"all_net": 39.86,
+"all_win": 105,
+"today_net": -2.3,
 "engine": {
-"last_scan": "13:01",
-"age_min": 5,
+"last_scan": "13:16",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-18 07:30 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-18 07:45 UTC · new 0 · events 2 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5076.96",
-"equity": "5088.02",
-"floating": "11.06",
-"positions": "6",
+"balance": "5052.66",
+"equity": "5067.87",
+"floating": "15.21",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
