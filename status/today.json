@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 13:39 IST",
+"updated": "2026-11-18 13:54 IST",
 "date": "2026-11-18",
 "followers": 72,
-"media_count": 185,
+"media_count": 186,
 "slots": [
 {
 "slot": "0700",
@@ -83,7 +83,7 @@
 "likes": 1,
 "comments": 1,
 "views": 123,
-"reach": 101,
+"reach": 102,
 "saved": 0,
 "shares": 0
 }
@@ -93,8 +93,21 @@
 "name": "reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18107209283361598",
+"cap": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇\nAaj: 4 trade band · 1 jeete · 3 haare · net -2.8R · 6 live\nUS500 SELL — band, -1.0R (SL hit)\nUS30 SELL — band, +0.2R (trailing stop pe profit me band)\nGBPUSD SELL — abhi chal raha hai, +1.4R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇",
+"time": "2026-11-18 13:53",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -131,6 +144,20 @@
 ],
 "recent_posts": [
 {
+"id": "18107209283361598",
+"cap": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇\nAaj: 4 trade band · 1 jeete · 3 haare · net -2.8R · 6 live\nUS500 SELL — band, -1.0R (SL hit)\nUS30 SELL — band, +0.2R (trailing stop pe profit me band)\nGBPUSD SELL — abhi chal raha hai, +1.4R (risk-free 🔒)\nWTI OIL SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Wed 18 Nov) 👇",
+"time": "2026-11-18 13:53",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df4ESNXkrDP/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18013911288004453",
 "cap": "Market order ya Limit order? ⚖️\n\nMarket order kehta hai: abhi chahiye, bhaav jo bhi ho. Limit order kehta hai: mere bhaav pe, warna nahi. Ek me sauda pakka, bhaav nahi. Dusre me bhaav pakka, sauda nahi.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread, Orders) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
 "cap1": "Market order ya Limit order? ⚖️",
@@ -140,7 +167,7 @@
 "likes": 1,
 "comments": 1,
 "views": 123,
-"reach": 101,
+"reach": 102,
 "saved": 0,
 "shares": 0
 },
@@ -195,7 +222,7 @@
 "link": "https://www.instagram.com/reel/Df2NEv1lJAz/",
 "likes": 2,
 "comments": 0,
-"views": 162,
+"views": 163,
 "reach": 138,
 "saved": 0,
 "shares": 1
@@ -252,7 +279,7 @@
 "likes": 1,
 "comments": 0,
 "views": 132,
-"reach": 104,
+"reach": 105,
 "saved": 2,
 "shares": 0
 },
@@ -535,20 +562,6 @@
 "reach": 281,
 "saved": 2,
 "shares": 3
-},
-{
-"id": "18399031762200159",
-"cap": "Only 40% winners and still profitable? ⚖️\n10 trades: 4 wins at +3R, 6 losses at −1R = +6R (+12% at 2% risk per R). The same 40% win rate at 1:1 risk:reward loses −2R.\nRisk:reward beats win rate. Win less, win bigger.\nExample math only. Not a promise of profit.\nFollow @spider.trades\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#riskreward #tradingpsychology #winrate #forextrader #spidertrades",
-"cap1": "Only 40% winners and still profitable? ⚖️",
-"time": "2026-11-14 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfuUWYujW_x/",
-"likes": 2,
-"comments": 0,
-"views": 133,
-"reach": 114,
-"saved": 0,
-"shares": 2
 }
 ],
 "trades": [],
@@ -576,9 +589,9 @@
 "sl": 0.673135,
 "r": null,
 "opened": "18 Nov 09:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.27 lots @0.67232 SL 0.67326 (scanner SL) entry 0.67222 basis -0.00002 (M15) +SLbuf 0.00014  risk 0.50%"
+"mt5_reason": "SL 0.67186"
 },
 {
 "id": "AUDCAD_1794973500_dpoc",
@@ -928,17 +941,17 @@
 "all_win": 105,
 "today_net": -3.3,
 "engine": {
-"last_scan": "13:31",
+"last_scan": "13:46",
 "age_min": 8,
 "rc": 0,
-"summary": "run 2026-11-18 08:00 UTC · new 1 · events 0 · open 6"
+"summary": "run 2026-11-18 08:15 UTC · new 0 · events 1 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5052.66",
-"equity": "5049.74",
-"floating": "-2.92",
+"equity": "5093.01",
+"floating": "40.35",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -948,6 +961,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 17.5,
 "github_runs": [
+{
+"t": "2026-11-18T08:19:13Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-18T08:00:25Z",
 "ok": "success",
@@ -965,11 +983,6 @@
 },
 {
 "t": "2026-11-18T02:30:16Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-18T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
