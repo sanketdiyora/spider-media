@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 19:52 IST",
+"updated": "2026-11-18 20:06 IST",
 "date": "2026-11-18",
-"followers": 72,
-"media_count": 189,
+"followers": 73,
+"media_count": 151,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
 "likes": 11,
 "comments": 0,
-"views": 258,
-"reach": 206,
+"views": 260,
+"reach": 207,
 "saved": 7,
 "shares": 3
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 128,
-"reach": 107,
+"views": 129,
+"reach": 108,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
 "likes": 2,
 "comments": 0,
-"views": 123,
-"reach": 103,
+"views": 124,
+"reach": 104,
 "saved": 1,
 "shares": 0
 }
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df4njZdkqEu/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 13,
+"reach": 9,
 "saved": 0,
 "shares": 0
 }
@@ -191,8 +191,8 @@
 "link": "https://www.instagram.com/reel/Df4njZdkqEu/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 13,
+"reach": 9,
 "saved": 0,
 "shares": 0
 },
@@ -205,8 +205,8 @@
 "link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
 "likes": 2,
 "comments": 0,
-"views": 123,
-"reach": 103,
+"views": 124,
+"reach": 104,
 "saved": 1,
 "shares": 0
 },
@@ -247,8 +247,8 @@
 "link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
 "likes": 1,
 "comments": 1,
-"views": 128,
-"reach": 107,
+"views": 129,
+"reach": 108,
 "saved": 0,
 "shares": 0
 },
@@ -289,8 +289,8 @@
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
 "likes": 11,
 "comments": 0,
-"views": 258,
-"reach": 206,
+"views": 260,
+"reach": 207,
 "saved": 7,
 "shares": 3
 },
@@ -304,7 +304,7 @@
 "likes": 2,
 "comments": 0,
 "views": 169,
-"reach": 144,
+"reach": 145,
 "saved": 0,
 "shares": 1
 },
@@ -641,9 +641,9 @@
 "sl": 189.2486,
 "r": null,
 "opened": "18 Nov 19:00",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "SL 189.105"
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 35.52 USD = 1.42R"
 }
 ],
 "closed_today": [
@@ -1019,18 +1019,18 @@
 "all_win": 109,
 "today_net": -1.66,
 "engine": {
-"last_scan": "19:46",
-"age_min": 6,
+"last_scan": "20:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-18 14:15 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-18 14:30 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5085.83",
-"equity": "5144.20",
-"floating": "58.37",
-"positions": "4",
+"balance": "5121.35",
+"equity": "5131.79",
+"floating": "10.44",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
