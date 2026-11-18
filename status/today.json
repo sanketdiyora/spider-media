@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-18 05:33 IST",
+"updated": "2026-11-18 07:13 IST",
 "date": "2026-11-18",
-"followers": 68,
-"media_count": 181,
+"followers": 69,
+"media_count": 182,
 "slots": [
 {
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
 "title": "Liquidity kya hoti hai? 💧",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18108236285138080",
+"cap": "Liquidity kya hoti hai? 💧\n\nGehre talaab me patthar phenko to chhoti lehar. Chhichhle gaddhe me wahi patthar, saara paani uchhal jata hai. Market me paani hai limit orders, patthar hai market order. Moti book me price kam hilta hai, patli me zyada.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #liquidity #forexhindi #spidertrades",
+"cap1": "Liquidity kya hoti hai? 💧",
+"time": "2026-11-18 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -71,6 +84,20 @@
 ],
 "recent_posts": [
 {
+"id": "18108236285138080",
+"cap": "Liquidity kya hoti hai? 💧\n\nGehre talaab me patthar phenko to chhoti lehar. Chhichhle gaddhe me wahi patthar, saara paani uchhal jata hai. Market me paani hai limit orders, patthar hai market order. Moti book me price kam hilta hai, patli me zyada.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #liquidity #forexhindi #spidertrades",
+"cap1": "Liquidity kya hoti hai? 💧",
+"time": "2026-11-18 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18101625635402362",
 "cap": "KNOW #2 📚 Lot Size Samjho\nSame trade, same pips, phir bhi kisi ko $10 milte hain aur kisi ko $1000. Kyun?\n• Jawab hai lot size. Lot matlab aapki trade kitni badi hai.\n• 1 standard lot = 1,00,000 units. EURUSD me 1 pip ≈ $10.\n• Mini lot 0.10 = $1 per pip. Micro lot 0.01 = 10 cents.\nTip: pehle risk decide karo, phir lot nikalo. Ulta nahi.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
 "cap1": "KNOW #2 📚 Lot Size Samjho",
@@ -79,8 +106,8 @@
 "link": "https://www.instagram.com/reel/Df2NEv1lJAz/",
 "likes": 1,
 "comments": 0,
-"views": 152,
-"reach": 130,
+"views": 154,
+"reach": 131,
 "saved": 0,
 "shares": 1
 },
@@ -107,7 +134,7 @@
 "link": "https://www.instagram.com/reel/Df11IJCgoDA/",
 "likes": 2,
 "comments": 0,
-"views": 133,
+"views": 134,
 "reach": 113,
 "saved": 1,
 "shares": 0
@@ -121,8 +148,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1193,
-"reach": 1043,
+"views": 1195,
+"reach": 1045,
 "saved": 5,
 "shares": 6
 },
@@ -135,9 +162,9 @@
 "link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
 "likes": 1,
 "comments": 0,
-"views": 122,
-"reach": 98,
-"saved": 1,
+"views": 127,
+"reach": 99,
+"saved": 2,
 "shares": 0
 },
 {
@@ -149,8 +176,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 4,
 "comments": 0,
-"views": 207,
-"reach": 177,
+"views": 211,
+"reach": 179,
 "saved": 1,
 "shares": 1
 },
@@ -177,8 +204,8 @@
 "link": "https://www.instagram.com/reel/Df03OLcicMF/",
 "likes": 0,
 "comments": 0,
-"views": 111,
-"reach": 95,
+"views": 112,
+"reach": 96,
 "saved": 1,
 "shares": 0
 },
@@ -475,25 +502,118 @@
 "reach": 28,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18129543898906795",
-"cap": "Stop loss kamzori nahi. Ye tumhari seatbelt hai. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Stop loss kamzori nahi. Ye tumhari seatbelt hai. 🕷️",
-"time": "2026-11-14 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DftkSYqCqgk/",
-"likes": 3,
-"comments": 0,
-"views": 118,
-"reach": 99,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
-"open": [
+"open": [],
+"closed_today": [
+{
+"id": "US30_1794938400_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 50823.39,
+"sl": 51044.8,
+"r": 0.59,
+"opened": "17 Nov 23:45",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPAUD_1794938400_dpoc",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.96191,
+"sl": 1.959719,
+"r": -0.29,
+"opened": "17 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "NAS100_1794938400_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 26866.92,
+"sl": 27035.19,
+"r": -0.8,
+"opened": "17 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+}
+],
+"closed_recent": [
+{
+"id": "NAS100_1794938400_dpoc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 26866.92,
+"sl": 27035.19,
+"r": -0.8,
+"opened": "17 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPAUD_1794938400_dpoc",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.96191,
+"sl": 1.959719,
+"r": -0.29,
+"opened": "17 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "US30_1794938400_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 50823.39,
+"sl": 51044.8,
+"r": 0.59,
+"opened": "17 Nov 23:45",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "GBPCHF_1794927600_dpoc",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.10958,
+"sl": 1.107656,
+"r": -1.0,
+"opened": "17 Nov 20:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "USDCHF_1794927600_dpoc",
+"pair": "USDCHF",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 0.84111,
+"sl": 0.840002,
+"r": -1.0,
+"opened": "17 Nov 20:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
 {
 "id": "EURGBP_1794925800_dpoc",
 "pair": "EURGBP",
@@ -501,15 +621,12 @@
 "model": "dpoc",
 "entry": 0.83267,
 "sl": 0.833343,
-"r": null,
+"r": -1.0,
 "opened": "17 Nov 20:15",
-"state": "open",
+"state": "closed",
 "mt5": null,
 "mt5_reason": null
-}
-],
-"closed_today": [],
-"closed_recent": [
+},
 {
 "id": "CADJPY_1794876300_pbo",
 "pair": "CADJPY",
@@ -626,95 +743,17 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BRENT_1794884400_dpoc",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 91.685,
-"sl": 91.956,
-"r": -1.0,
-"opened": "17 Nov 08:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GER40_1794885300_dpoc",
-"pair": "GER40",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 26493.7,
-"sl": 26463.68,
-"r": -1.0,
-"opened": "17 Nov 09:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "USDCHF_1794876300_dpoc",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 0.84036,
-"sl": 0.83931,
-"r": -1.0,
-"opened": "17 Nov 06:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURUSD_1794876300_dpoc",
-"pair": "EURUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.09956,
-"sl": 1.100501,
-"r": 0.71,
-"opened": "17 Nov 06:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPUSD_1794873600_dpoc",
-"pair": "GBPUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.31844,
-"sl": 1.319053,
-"r": 1.89,
-"opened": "17 Nov 05:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "WTI_1794822300_pbo",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 88.45,
-"sl": 89.543,
-"r": 1.85,
-"opened": "16 Nov 15:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 172,
-"all_net": 45.16,
-"all_win": 103,
-"today_net": 0,
+"all_n": 178,
+"all_net": 41.66,
+"all_win": 104,
+"today_net": -0.5,
 "engine": {
-"last_scan": "20:41",
-"age_min": 531,
+"last_scan": "07:11",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-17 15:10 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-18 01:40 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -732,6 +771,11 @@
 "disk_free_gb": 17.5,
 "github_runs": [
 {
+"t": "2026-11-18T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-17T23:47:15Z",
 "ok": "success",
 "ev": "schedule"
@@ -748,11 +792,6 @@
 },
 {
 "t": "2026-11-17T21:31:47Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-17T20:44:35Z",
 "ok": "success",
 "ev": "schedule"
 }
