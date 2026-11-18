@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-18 10:36 IST",
+"updated": "2026-11-18 10:41 IST",
 "date": "2026-11-18",
 "followers": 71,
-"media_count": 184,
+"media_count": 185,
 "slots": [
 {
 "slot": "0700",
@@ -20,7 +20,7 @@
 "likes": 10,
 "comments": 0,
 "views": 234,
-"reach": 179,
+"reach": 185,
 "saved": 7,
 "shares": 2
 }
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
 "likes": 1,
 "comments": 0,
-"views": 75,
+"views": 82,
 "reach": 46,
 "saved": 0,
 "shares": 0
@@ -72,8 +72,21 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "Market order ya Limit order? ⚖️",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18013911288004453",
+"cap": "Market order ya Limit order? ⚖️\n\nMarket order kehta hai: abhi chahiye, bhaav jo bhi ho. Limit order kehta hai: mere bhaav pe, warna nahi. Ek me sauda pakka, bhaav nahi. Dusre me bhaav pakka, sauda nahi.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread, Orders) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Market order ya Limit order? ⚖️",
+"time": "2026-11-18 10:41",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -110,6 +123,20 @@
 ],
 "recent_posts": [
 {
+"id": "18013911288004453",
+"cap": "Market order ya Limit order? ⚖️\n\nMarket order kehta hai: abhi chahiye, bhaav jo bhi ho. Limit order kehta hai: mere bhaav pe, warna nahi. Ek me sauda pakka, bhaav nahi. Dusre me bhaav pakka, sauda nahi.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread, Orders) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Market order ya Limit order? ⚖️",
+"time": "2026-11-18 10:41",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df3uVwEGSJJ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18123484960953735",
 "cap": "KAL KA JAWAB 🧩 Riddle #2 · Part 2/2: 7 haare, phir bhi green.\nRiddle: Har jeet pe RR kitna tha (sab jeet same RR)?\nJawab: RR 1:3.\nWin rate mahina nahi banata. RR banata hai.\nAaj ka naya riddle 3 PM pe 👀 Follow karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #tradingeducation #spidertrades",
 "cap1": "KAL KA JAWAB 🧩 Riddle #2 · Part 2/2: 7 haare, phir bhi green.",
@@ -118,7 +145,7 @@
 "link": "https://www.instagram.com/reel/Df3kC6kAURj/",
 "likes": 1,
 "comments": 0,
-"views": 75,
+"views": 82,
 "reach": 46,
 "saved": 0,
 "shares": 0
@@ -147,7 +174,7 @@
 "likes": 10,
 "comments": 0,
 "views": 234,
-"reach": 179,
+"reach": 185,
 "saved": 7,
 "shares": 2
 },
@@ -230,8 +257,8 @@
 "link": "https://www.instagram.com/reel/Df1JjICAe1-/",
 "likes": 6,
 "comments": 0,
-"views": 280,
-"reach": 228,
+"views": 284,
+"reach": 234,
 "saved": 1,
 "shares": 1
 },
@@ -514,20 +541,6 @@
 "reach": 114,
 "saved": 0,
 "shares": 2
-},
-{
-"id": "18142734127724149",
-"cap": "Gold kab sabse zyada chalta hai? 🌍 Asia, London, New York sessions, IST time ke saath (winter). Save kar lo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingsessions #xauusd #forexhindi #goldtrading #tradingeducation",
-"cap1": "Gold kab sabse zyada chalta hai? 🌍 Asia, London, New York sessions, IS",
-"time": "2026-11-14 17:01",
-"type": "CAROUSEL",
-"link": "https://www.instagram.com/p/DfuGpSDFOrj/",
-"likes": 0,
-"comments": 0,
-"views": 3,
-"reach": 2,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -882,7 +895,7 @@
 "today_net": -0.5,
 "engine": {
 "last_scan": "10:31",
-"age_min": 5,
+"age_min": 10,
 "rc": 0,
 "summary": "run 2026-11-18 05:00 UTC · new 2 · events 0 · open 8"
 },
