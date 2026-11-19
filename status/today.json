@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-19 18:52 IST",
+"updated": "2026-11-19 19:07 IST",
 "date": "2026-11-19",
 "followers": 73,
-"media_count": 131,
+"media_count": 132,
 "slots": [
 {
 "slot": "0700",
@@ -41,7 +41,7 @@
 "likes": 0,
 "comments": 0,
 "views": 115,
-"reach": 99,
+"reach": 100,
 "saved": 2,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 96,
-"reach": 86,
+"views": 99,
+"reach": 88,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df6q8AhD7MQ/",
 "likes": 0,
 "comments": 0,
-"views": 61,
-"reach": 47,
+"views": 62,
+"reach": 48,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Df6w9YcjFiG/",
 "likes": 4,
 "comments": 0,
-"views": 133,
-"reach": 113,
+"views": 136,
+"reach": 116,
 "saved": 2,
 "shares": 0
 }
@@ -143,10 +143,10 @@
 "time": "2026-11-19 17:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df6-qENGbCC/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 33,
-"reach": 12,
+"views": 83,
+"reach": 51,
 "saved": 0,
 "shares": 0
 }
@@ -156,8 +156,21 @@
 "name": "Aspire reel",
 "type": "reel",
 "title": "Do trader ek hi chart dekh rahe hain. 👀",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18014245218004418",
+"cap": "Do trader ek hi chart dekh rahe hain. 👀\n\nPehla: 'mujhe lag raha hai price upar jayega.' Dusra: 'pichhle 500 baar aisa hua, 290 baar price upar gaya.' Pehla andaaza hai, dusra ginti. Isi ginti wale tareeke ko quant trading kehte hain.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Do trader ek hi chart dekh rahe hain. 👀",
+"time": "2026-11-19 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df7MZkJERBt/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -170,16 +183,30 @@
 ],
 "recent_posts": [
 {
+"id": "18014245218004418",
+"cap": "Do trader ek hi chart dekh rahe hain. 👀\n\nPehla: 'mujhe lag raha hai price upar jayega.' Dusra: 'pichhle 500 baar aisa hua, 290 baar price upar gaya.' Pehla andaaza hai, dusra ginti. Isi ginti wale tareeke ko quant trading kehte hain.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Do trader ek hi chart dekh rahe hain. 👀",
+"time": "2026-11-19 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df7MZkJERBt/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18084129974372168",
 "cap": "POC aur Value Area, zero se. 🎯\n\nProfile ka sabse lamba bar POC hai: jis bhaav pe sabse zyada trade hua. Uske aas-paas ka wo hissa jahan lagbhag 70% volume hua, Value Area kehlata hai.\n\nOrder Flow Series, Episode 7 (Volume Profile) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
 "cap1": "POC aur Value Area, zero se. 🎯",
 "time": "2026-11-19 17:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df6-qENGbCC/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 33,
-"reach": 12,
+"views": 83,
+"reach": 51,
 "saved": 0,
 "shares": 0
 },
@@ -192,8 +219,8 @@
 "link": "https://www.instagram.com/reel/Df6w9YcjFiG/",
 "likes": 4,
 "comments": 0,
-"views": 133,
-"reach": 113,
+"views": 136,
+"reach": 116,
 "saved": 2,
 "shares": 0
 },
@@ -206,8 +233,8 @@
 "link": "https://www.instagram.com/reel/Df6q8AhD7MQ/",
 "likes": 0,
 "comments": 0,
-"views": 61,
-"reach": 47,
+"views": 62,
+"reach": 48,
 "saved": 0,
 "shares": 0
 },
@@ -234,8 +261,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 96,
-"reach": 86,
+"views": 99,
+"reach": 88,
 "saved": 0,
 "shares": 0
 },
@@ -249,7 +276,7 @@
 "likes": 0,
 "comments": 0,
 "views": 115,
-"reach": 99,
+"reach": 100,
 "saved": 2,
 "shares": 0
 },
@@ -574,20 +601,6 @@
 "reach": 692,
 "saved": 6,
 "shares": 0
-},
-{
-"id": "18081801740419159",
-"cap": "🕷 Aaj ka live scanner UPDATE (Mon 16 Nov) 👇\nAaj: 13 trade band · 9 jeete · 4 haare · net +2.8R · 5 live\nGBPCAD BUY — band, -1.0R (SL hit)\nAUDCAD SELL — band, +1.9R (trailing stop pe profit me band)\nGBPAUD BUY — abhi chal raha hai, +1.2R (risk-free 🔒)\nCADJPY SELL — abhi chal raha hai, +1.1R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Mon 16 Nov) 👇",
-"time": "2026-11-16 13:41",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Dfy5V3SgVmJ/",
-"likes": 0,
-"comments": 0,
-"views": 26,
-"reach": 19,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -618,19 +631,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.14 lots @1.63882 SL 1.63615 (scanner SL) entry 1.63880 basis 0.00001 (M15) split TP1/TP2 risk 0.49%"
-},
-{
-"id": "GBPCHF_1795088700_pbo",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.10845,
-"sl": 1.107417,
-"r": null,
-"opened": "19 Nov 17:30",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.16 lots @1.10872 SL 1.10743 (scanner SL) entry 1.10846 basis 0.00001 (M15) split TP1/TP2 risk 0.48%"
 },
 {
 "id": "USDJPY_1795092300_dpoc",
@@ -815,9 +815,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 32.08 USD = 1.78R"
+},
+{
+"id": "GBPCHF_1795088700_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10845,
+"sl": 1.107417,
+"r": -1.0,
+"opened": "19 Nov 17:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.54 USD = -1.04R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPCHF_1795088700_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10845,
+"sl": 1.107417,
+"r": -1.0,
+"opened": "19 Nov 17:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.54 USD = -1.04R"
+},
 {
 "id": "XAUUSD_1795071600_dpoc",
 "pair": "GOLD",
@@ -999,38 +1025,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPUSD_1794994200_pbo",
-"pair": "GBPUSD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 1.31691,
-"sl": 1.317846,
-"r": 0.5,
-"opened": "18 Nov 15:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 202,
-"all_net": 38.87,
+"all_n": 203,
+"all_net": 37.87,
 "all_win": 115,
-"today_net": -2.89,
+"today_net": -3.89,
 "engine": {
-"last_scan": "18:46",
+"last_scan": "19:01",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 13:15 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-19 13:30 UTC · new 0 · events 1 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5106.73",
-"equity": "5081.13",
-"floating": "-25.60",
-"positions": "5",
+"balance": "5081.19",
+"equity": "5083.00",
+"floating": "1.81",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1039,6 +1052,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 16.4,
 "github_runs": [
+{
+"t": "2026-11-19T13:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-19T11:30:17Z",
 "ok": "success",
@@ -1058,11 +1076,6 @@
 "t": "2026-11-19T09:30:24Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-19T08:30:22Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
