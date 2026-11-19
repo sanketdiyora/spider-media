@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-19 07:51 IST",
+"updated": "2026-11-19 08:06 IST",
 "date": "2026-11-19",
 "followers": 73,
-"media_count": 125,
+"media_count": 126,
 "slots": [
 {
 "slot": "0700",
@@ -19,9 +19,9 @@
 "link": "https://www.instagram.com/reel/Df56Gl2EtOi/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 39,
+"reach": 23,
+"saved": 1,
 "shares": 0
 }
 },
@@ -30,8 +30,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Jo roz 1% sudharta hai, usko koi ek din me nahi pakad sakta.",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18114149018166637",
+"cap": "Jo roz 1% sudharta hai, usko koi ek din me nahi pakad sakta.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
+"cap1": "Jo roz 1% sudharta hai, usko koi ek din me nahi pakad sakta.",
+"time": "2026-11-19 08:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df6A54JiTEL/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0900",
@@ -84,6 +97,20 @@
 ],
 "recent_posts": [
 {
+"id": "18114149018166637",
+"cap": "Jo roz 1% sudharta hai, usko koi ek din me nahi pakad sakta.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
+"cap1": "Jo roz 1% sudharta hai, usko koi ek din me nahi pakad sakta.",
+"time": "2026-11-19 08:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df6A54JiTEL/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18080815775743321",
 "cap": "Volume bahut bada, par price wahin ka wahin? 🤔\n\nEffort matlab kitna zor laga (volume). Result matlab price kitna hila. Zor bada aur nateeja chhota ho, to iska matlab saamne koi bada passive khiladi saara zor sokh raha hai. Aisi jagah se price palat bhi sakta hai.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #volume #priceaction #spidertrades",
 "cap1": "Volume bahut bada, par price wahin ka wahin? 🤔",
@@ -92,9 +119,9 @@
 "link": "https://www.instagram.com/reel/Df56Gl2EtOi/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 39,
+"reach": 23,
+"saved": 1,
 "shares": 0
 },
 {
@@ -219,7 +246,7 @@
 "likes": 11,
 "comments": 0,
 "views": 265,
-"reach": 210,
+"reach": 211,
 "saved": 7,
 "shares": 3
 },
@@ -275,7 +302,7 @@
 "likes": 17,
 "comments": 2,
 "views": 1208,
-"reach": 1055,
+"reach": 1056,
 "saved": 5,
 "shares": 6
 },
@@ -488,20 +515,6 @@
 "reach": 85,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "17903335995386984",
-"cap": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop, VPS, news plan.\nAgle hafte: asli results. Follow karo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingbot #riskmanagement #forexhindi #mt5 #algotrading",
-"cap1": "Bot chalane se pehle 5 golden rules 🏆 Demo/cent test, lot, equity stop",
-"time": "2026-11-15 13:32",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfwTfWQiHBi/",
-"likes": 3,
-"comments": 0,
-"views": 137,
-"reach": 112,
-"saved": 3,
-"shares": 1
 }
 ],
 "trades": [],
@@ -517,8 +530,8 @@
 "r": null,
 "opened": "19 Nov 07:00",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 1.99643"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.54 USD = 0.42R"
 }
 ],
 "closed_today": [
@@ -777,18 +790,18 @@
 "all_win": 112,
 "today_net": 0.93,
 "engine": {
-"last_scan": "07:47",
+"last_scan": "08:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-19 02:15 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-19 02:30 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5144.04",
-"equity": "5148.87",
-"floating": "4.83",
-"positions": "1",
+"balance": "5143.49",
+"equity": "5143.49",
+"floating": "0.00",
+"positions": "0",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -797,6 +810,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 16.8,
 "github_runs": [
+{
+"t": "2026-11-19T02:30:17Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-19T01:30:16Z",
 "ok": "success",
@@ -814,11 +832,6 @@
 },
 {
 "t": "2026-11-18T22:18:16Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-18T21:07:53Z",
 "ok": "success",
 "ev": "schedule"
 }
