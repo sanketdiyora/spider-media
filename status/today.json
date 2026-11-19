@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 13:19 IST",
+"updated": "2026-11-19 13:41 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 128,
@@ -20,7 +20,7 @@
 "likes": 1,
 "comments": 0,
 "views": 108,
-"reach": 90,
+"reach": 91,
 "saved": 3,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df6A54JiTEL/",
 "likes": 0,
 "comments": 0,
-"views": 107,
-"reach": 90,
+"views": 113,
+"reach": 98,
 "saved": 2,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 66,
-"reach": 52,
+"views": 74,
+"reach": 64,
 "saved": 0,
 "shares": 0
 }
@@ -87,6 +87,14 @@
 "saved": 1,
 "shares": 0
 }
+},
+{
+"slot": "1337",
+"name": "reel",
+"type": "reel",
+"title": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
+"status": "DUE",
+"post": null
 },
 {
 "slot": "1500",
@@ -137,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 66,
-"reach": 52,
+"views": 74,
+"reach": 64,
 "saved": 0,
 "shares": 0
 },
@@ -151,8 +159,8 @@
 "link": "https://www.instagram.com/reel/Df6A54JiTEL/",
 "likes": 0,
 "comments": 0,
-"views": 107,
-"reach": 90,
+"views": 113,
+"reach": 98,
 "saved": 2,
 "shares": 0
 },
@@ -166,7 +174,7 @@
 "likes": 1,
 "comments": 0,
 "views": 108,
-"reach": 90,
+"reach": 91,
 "saved": 3,
 "shares": 0
 },
@@ -207,8 +215,8 @@
 "link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
 "likes": 2,
 "comments": 0,
-"views": 129,
-"reach": 109,
+"views": 131,
+"reach": 110,
 "saved": 1,
 "shares": 0
 },
@@ -347,8 +355,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1209,
-"reach": 1057,
+"views": 1210,
+"reach": 1058,
 "saved": 5,
 "shares": 6
 },
@@ -417,7 +425,7 @@
 "link": "https://www.instagram.com/reel/Df0wVXND03C/",
 "likes": 0,
 "comments": 0,
-"views": 167,
+"views": 168,
 "reach": 125,
 "saved": 2,
 "shares": 1
@@ -548,8 +556,8 @@
 "r": null,
 "opened": "19 Nov 12:00",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 1.10838"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.75 USD = 0.19R"
 },
 {
 "id": "NAS100_1795069800_lbo",
@@ -576,19 +584,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.02 lots @3736.94 SL 3745.94 (scanner SL) entry 3734.21 basis 0.24 (M15) +SLbuf 0.29  risk 0.35%"
-},
-{
-"id": "EURGBP_1795073100_lbo",
-"pair": "EURGBP",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.834373,
-"sl": 0.834746,
-"r": null,
-"opened": "19 Nov 13:00",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
 },
 {
 "id": "EURNZD_1795073400_pbo",
@@ -721,9 +716,35 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "EURGBP_1795073100_lbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.834373,
+"sl": 0.834746,
+"r": -1.0,
+"opened": "19 Nov 13:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "EURGBP_1795073100_lbo",
+"pair": "EURGBP",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.834373,
+"sl": 0.834746,
+"r": -1.0,
+"opened": "19 Nov 13:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "EURCAD_1795071600_lbo",
 "pair": "EURCAD",
@@ -905,45 +926,32 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPUSD_1794970800_pbo",
-"pair": "GBPUSD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 1.31966,
-"sl": 1.320966,
-"r": 2.0,
-"opened": "18 Nov 08:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 198,
-"all_net": 39.19,
+"all_n": 199,
+"all_net": 38.19,
 "all_win": 113,
-"today_net": -2.57,
+"today_net": -3.57,
 "engine": {
-"last_scan": "13:16",
-"age_min": 3,
+"last_scan": "13:37",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-19 07:45 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-19 08:05 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5101.48",
-"equity": "5114.02",
-"floating": "12.54",
-"positions": "4",
+"balance": "5098.87",
+"equity": "5116.09",
+"floating": "17.22",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 132620,
+"voice_chars_month": 133157,
 "voice_limit": 30000,
-"disk_free_gb": 16.7,
+"disk_free_gb": 16.6,
 "github_runs": [
 {
 "t": "2026-11-19T05:00:30Z",
