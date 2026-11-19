@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 08:10 IST",
+"updated": "2026-11-19 08:21 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 126,
@@ -519,21 +519,7 @@
 ],
 "trades": [],
 "scanner": {
-"open": [
-{
-"id": "EURNZD_1795050900_pbo",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.99644,
-"sl": 1.994299,
-"r": null,
-"opened": "19 Nov 07:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 10.54 USD = 0.42R"
-}
-],
+"open": [],
 "closed_today": [
 {
 "id": "XAGUSD_1795024800_dpoc",
@@ -586,9 +572,35 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
+},
+{
+"id": "EURNZD_1795050900_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99644,
+"sl": 1.994299,
+"r": 0.5,
+"opened": "19 Nov 07:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.54 USD = 0.42R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURNZD_1795050900_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99644,
+"sl": 1.994299,
+"r": 0.5,
+"opened": "19 Nov 07:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 10.54 USD = 0.42R"
+},
 {
 "id": "EURNZD_1795024800_dpoc",
 "pair": "EURNZD",
@@ -770,30 +782,17 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPCHF_1794975300_pbo",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.10955,
-"sl": 1.108639,
-"r": -1.0,
-"opened": "18 Nov 10:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 193,
-"all_net": 42.69,
-"all_win": 112,
-"today_net": 0.93,
+"all_n": 194,
+"all_net": 43.19,
+"all_win": 113,
+"today_net": 1.43,
 "engine": {
-"last_scan": "08:01",
-"age_min": 9,
+"last_scan": "08:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-19 02:30 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-19 02:45 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
