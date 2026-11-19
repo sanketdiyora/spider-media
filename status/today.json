@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 11:51 IST",
+"updated": "2026-11-19 12:07 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 128,
@@ -558,6 +558,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -1.57R room (basis too big 1.261 (M15, limit 0.260), 0)"
+},
+{
+"id": "GBPCHF_1795068900_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10835,
+"sl": 1.107441,
+"r": null,
+"opened": "19 Nov 12:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.19 lots @1.10860 SL 1.10747 (scanner SL) entry 1.10838 basis 0.00003 (M15) split TP1/TP2 risk 0.50%"
 }
 ],
 "closed_today": [
@@ -842,18 +855,18 @@
 "all_win": 113,
 "today_net": 0.43,
 "engine": {
-"last_scan": "11:46",
-"age_min": 5,
+"last_scan": "12:01",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 06:15 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-19 06:30 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5119.27",
-"equity": "5119.27",
-"floating": "0.00",
-"positions": "0",
+"equity": "5116.57",
+"floating": "-2.70",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
