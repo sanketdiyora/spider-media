@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 13:41 IST",
+"updated": "2026-11-19 13:53 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 128,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 74,
-"reach": 64,
+"views": 76,
+"reach": 65,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 74,
-"reach": 64,
+"views": 76,
+"reach": 65,
 "saved": 0,
 "shares": 0
 },
@@ -547,19 +547,6 @@
 "scanner": {
 "open": [
 {
-"id": "GBPCHF_1795068900_pbo",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.10835,
-"sl": 1.107441,
-"r": null,
-"opened": "19 Nov 12:00",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 4.75 USD = 0.19R"
-},
-{
 "id": "NAS100_1795069800_lbo",
 "pair": "NAS100",
 "dir": "BUY",
@@ -729,9 +716,35 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "GBPCHF_1795068900_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10835,
+"sl": 1.107441,
+"r": 0.5,
+"opened": "19 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.75 USD = 0.19R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPCHF_1795068900_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10835,
+"sl": 1.107441,
+"r": 0.5,
+"opened": "19 Nov 12:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 4.75 USD = 0.19R"
+},
 {
 "id": "EURGBP_1795073100_lbo",
 "pair": "EURGBP",
@@ -913,37 +926,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDCAD_1794973500_dpoc",
-"pair": "AUDCAD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.96185,
-"sl": 0.963068,
-"r": -1.0,
-"opened": "18 Nov 09:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 199,
-"all_net": 38.19,
-"all_win": 113,
-"today_net": -3.57,
+"all_n": 200,
+"all_net": 38.69,
+"all_win": 114,
+"today_net": -3.07,
 "engine": {
-"last_scan": "13:37",
-"age_min": 5,
+"last_scan": "13:51",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-19 08:05 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-19 08:20 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5098.87",
-"equity": "5116.09",
-"floating": "17.22",
+"equity": "5096.91",
+"floating": "-1.96",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
