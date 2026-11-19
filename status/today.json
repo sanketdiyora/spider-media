@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 13:53 IST",
+"updated": "2026-11-19 14:07 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 128,
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 76,
-"reach": 65,
+"views": 79,
+"reach": 66,
 "saved": 0,
 "shares": 0
 }
@@ -93,7 +93,7 @@
 "name": "reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
-"status": "DUE",
+"status": "MISSED",
 "post": null
 },
 {
@@ -109,6 +109,14 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "POC aur Value Area, zero se. 🎯",
+"status": "PENDING",
+"post": null
+},
+{
+"slot": "1900",
+"name": "Aspire reel",
+"type": "reel",
+"title": "Do trader ek hi chart dekh rahe hain. 👀",
 "status": "PENDING",
 "post": null
 },
@@ -145,8 +153,8 @@
 "link": "https://www.instagram.com/reel/Df6HvGUGUKB/",
 "likes": 0,
 "comments": 0,
-"views": 76,
-"reach": 65,
+"views": 79,
+"reach": 66,
 "saved": 0,
 "shares": 0
 },
@@ -187,7 +195,7 @@
 "link": "https://www.instagram.com/reel/Df4x4B-meD-/",
 "likes": 0,
 "comments": 0,
-"views": 114,
+"views": 115,
 "reach": 94,
 "saved": 1,
 "shares": 1
@@ -341,7 +349,7 @@
 "link": "https://www.instagram.com/reel/Df11IJCgoDA/",
 "likes": 2,
 "comments": 0,
-"views": 140,
+"views": 141,
 "reach": 118,
 "saved": 1,
 "shares": 0
@@ -933,17 +941,17 @@
 "all_win": 114,
 "today_net": -3.07,
 "engine": {
-"last_scan": "13:51",
-"age_min": 1,
+"last_scan": "14:01",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 08:20 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-19 08:30 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5098.87",
-"equity": "5096.91",
-"floating": "-1.96",
+"equity": "5091.15",
+"floating": "-7.72",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -951,8 +959,13 @@
 },
 "voice_chars_month": 133157,
 "voice_limit": 30000,
-"disk_free_gb": 16.6,
+"disk_free_gb": 16.4,
 "github_runs": [
+{
+"t": "2026-11-19T08:30:22Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-19T05:00:30Z",
 "ok": "success",
@@ -972,11 +985,6 @@
 "t": "2026-11-19T01:30:16Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-18T23:19:05Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
