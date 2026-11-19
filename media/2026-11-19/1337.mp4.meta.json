@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-19/1337.mp4",
+ "dur": 46.03,
+ "music": "tense/281.mp3",
+ "chars": 537,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "EURNZD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.99635436,
+    1.99644
+   ],
+   "sl": 1.994299,
+   "entry": 1.99644,
+   "rr": 3.0,
+   "tp1": 1.998581,
+   "tp2": 2.002864
+  },
+  {
+   "pair": "EURGBP",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.834373,
+    0.8343879200000001
+   ],
+   "sl": 0.834746,
+   "entry": 0.834373,
+   "rr": 2.5,
+   "tp1": 0.834001,
+   "tp2": 0.833442
+  },
+  {
+   "pair": "NAS100",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    27510.4184,
+    27516.05
+   ],
+   "sl": 27375.26,
+   "entry": 27516.05,
+   "rr": 2.5,
+   "tp1": 27656.85,
+   "tp2": 27868.04
+  },
+  {
+   "pair": "GBPCHF",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.10831364,
+    1.10835
+   ],
+   "sl": 1.107441,
+   "entry": 1.10835,
+   "rr": 3.0,
+   "tp1": 1.109259,
+   "tp2": 1.111077
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_7ddd3680",
+ "crops": [
+  "/home/claude/ig/setup/w_7ddd3680/tg_0.jpg",
+  "/home/claude/ig/setup/w_7ddd3680/tg_1.jpg",
+  "/home/claude/ig/setup/w_7ddd3680/tg_2.jpg",
+  "/home/claude/ig/setup/w_7ddd3680/tg_3.jpg"
+ ]
+}
