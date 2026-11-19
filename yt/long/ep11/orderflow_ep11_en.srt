@@ -1,0 +1,172 @@
+1
+00:00:05,000 --> 00:00:11,425
+Numbers racing down the screen. Price, size, price, size.
+
+2
+00:00:11,876 --> 00:00:17,988
+Two lots, one lot, three lots. And suddenly, one hundred fifty lots.
+
+3
+00:00:18,439 --> 00:00:22,305
+What is this crowd saying? Today we learn to read it.
+
+4
+00:00:23,305 --> 00:00:28,216
+Hello, this is episode eleven of the SPIDER Order Flow series.
+
+5
+00:00:28,665 --> 00:00:32,793
+Last time: Market Profile and the types of days.
+
+6
+00:00:33,243 --> 00:00:39,513
+Today real order flow begins. Step one: Time and Sales, the tape.
+
+7
+00:00:40,513 --> 00:00:43,099
+The tape is one line for every trade that happens.
+
+8
+00:00:43,549 --> 00:00:49,191
+Each line has four things: time, price, size and side.
+
+9
+00:00:49,641 --> 00:00:55,597
+The order book shows who is waiting. The tape shows what actually traded.
+
+10
+00:00:56,597 --> 00:00:59,183
+Side means: who was in a hurry?
+
+11
+00:00:59,633 --> 00:01:04,700
+If it traded at the ask, a buyer used a market order. That is green.
+
+12
+00:01:05,150 --> 00:01:09,984
+If it traded at the bid, a seller used a market order. That is red.
+
+13
+00:01:10,434 --> 00:01:16,860
+Remember episode three: the market order is in a hurry, the limit order is waiting.
+
+14
+00:01:17,860 --> 00:01:22,771
+Most lines are small: one, two, five lots.
+
+15
+00:01:23,220 --> 00:01:28,785
+When one line is suddenly fifty times the usual size, that is a big print.
+
+16
+00:01:29,235 --> 00:01:34,303
+But remember: big players often split their order into small pieces.
+
+17
+00:01:34,753 --> 00:01:41,100
+So more important than one big line is many lines hitting the same price again and again.
+
+18
+00:01:42,100 --> 00:01:44,294
+The speed of the tape also says something.
+
+19
+00:01:44,744 --> 00:01:51,092
+A slow tape, one line every few seconds: interest is low right now.
+
+20
+00:01:51,541 --> 00:01:57,262
+A fast tape, dozens of lines a second: something big is happening.
+
+21
+00:01:58,262 --> 00:02:04,140
+A fast tape comes in two forms. First: the tape is fast, but price is not moving.
+
+22
+00:02:04,591 --> 00:02:11,357
+Green lines are pouring in, buyers keep buying, yet price is stuck at the same level.
+
+23
+00:02:11,807 --> 00:02:17,370
+It means a big limit seller above is soaking it all up. This is absorption.
+
+24
+00:02:18,370 --> 00:02:23,438
+Second form: the tape is fast and price moves fast in one direction.
+
+25
+00:02:23,888 --> 00:02:29,374
+Each new line prints beyond the last price. The resting limit orders keep getting used up.
+
+26
+00:02:29,823 --> 00:02:35,310
+Here the aggressive players are winning. Moves like this often carry for a while.
+
+27
+00:02:36,310 --> 00:02:40,829
+An important truth: spot forex has no real tape.
+
+28
+00:02:41,279 --> 00:02:47,156
+Forex does not trade on one exchange. Your broker only shows its own slice.
+
+29
+00:02:47,607 --> 00:02:54,033
+For a real tape, look at futures such as gold or index futures, or a crypto exchange.
+
+30
+00:02:55,033 --> 00:03:00,283
+Now the problem: in a fast market, thousands of lines a minute.
+
+31
+00:03:00,733 --> 00:03:04,599
+Your eyes get tired, and the full picture never forms.
+
+32
+00:03:05,049 --> 00:03:12,285
+The fix: the same data, added up at each price inside one candle. That is a footprint.
+
+33
+00:03:13,285 --> 00:03:17,256
+An example. Price is near resistance at 100.
+
+34
+00:03:17,706 --> 00:03:23,739
+The tape is fast. Green lines keep printing at 100, but 100 does not break.
+
+35
+00:03:24,190 --> 00:03:28,631
+Then suddenly red lines start, and price slips lower.
+
+36
+00:03:29,081 --> 00:03:35,768
+Buyers pushed, but the seller above won. This is a scenario, not a guarantee.
+
+37
+00:03:36,768 --> 00:03:38,257
+So, today's summary.
+
+38
+00:03:38,707 --> 00:03:46,988
+The tape is a line per trade: time, price, size, side. At the ask is green, at the bid is red.
+
+39
+00:03:47,438 --> 00:03:53,316
+Watch big prints and repeated lines at one price. Read the tape speed too.
+
+40
+00:03:53,766 --> 00:04:00,609
+Fast tape with stuck price means absorption. Spot forex has no real tape.
+
+41
+00:04:01,609 --> 00:04:05,241
+Next episode: how to read a footprint chart.
+
+42
+00:04:05,691 --> 00:04:10,602
+If this was useful, subscribe and save the playlist.
+
+43
+00:04:11,052 --> 00:04:17,164
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

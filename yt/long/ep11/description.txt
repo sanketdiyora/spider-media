@@ -1,0 +1,42 @@
+Screen par numbers bhaag rahe hain: price, size, price, size. 2 lot, 1 lot, 3 lot, aur achanak 150 lot. Ye bheed kya keh rahi hai? Is episode me zero se samjho Time & Sales, yaani tape: har trade ki line kaise padhein, aur usse kya pata chalta hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 11 hai, Module 3 (Asli Order Flow) ka pehla episode (Hindi + English subtitles).
+
+Is episode me:
+• Tape kya hai: har trade ki ek line — samay, price, size, side
+• Order book = kaun intezaar kar raha; tape = asal me kya bika
+• Side: ask par hua = buyer ne market order se kharida (hara), bid par = seller ne becha (laal)
+• Big prints: aam se kai guna badi line — par bade players aksar order tukdon me todte hain
+• Ek hi price par baar-baar aati lines
+• Tape ki speed: dheema vs tez
+• Tez tape + ruka price = absorption; tez tape + bhaagta price = jaldi wale jeet rahe
+• Sach: spot forex me asli tape nahi hota (futures ya crypto exchange dekho)
+• Tape akela mushkil kyun, aur isiliye footprint chart
+
+Chapters:
+0:00 Intro
+0:23 Pichhla episode
+0:40 Tape kya hai
+0:56 Side kaise
+1:17 Bade prints
+1:42 Tape ki speed
+1:58 Tez tape, price ruka
+2:18 Tez tape, price bhaga
+2:36 Forex ka sach
+2:55 Tape akela mushkil
+3:13 Example
+3:36 Recap
+4:01 Agla episode
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 9 (Session Profiles): https://youtu.be/JE1m8CbP9w0
+Episode 10 (Market Profile / TPO): https://youtu.be/qpAG3n2kDM0
+Agla episode: Footprint chart kaise padhein.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #timeandsales #tradinghindi #forextrading #spidertrades

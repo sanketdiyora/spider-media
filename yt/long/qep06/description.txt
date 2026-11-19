@@ -1,0 +1,43 @@
+Do traders, ek hi system, ek hi trades. System me edge hai, phir bhi saal ke aakhir me ek ka account aadha ho gaya. Farak sirf ek tha: har trade me kitna risk liya. Is episode me zero se samjho Risk of Ruin, yaani account doobne ka chance, aur use kaise chhota rakhein.
+
+Ye SPIDER ki Quant Trading Series ka Episode 6 hai (Hindi + English subtitles).
+
+Is episode me:
+• Ruin kya hai: wo giraavat jahan se wapas aana lagbhag naamumkin (yahan: account aadha)
+• Ruin teen cheezon pe tika hai: win rate, jeet ÷ haar (R), aur risk % per trade
+• Haar ki lambi line kitni aam: 50% jeet, 500 trades → 8 lagataar haar ~62%, 10 lagataar ~21%
+• 10 lagataar haar ke baad: 1% risk −10%, 2% −18%, 5% −40%, 10% −65%
+• Simulation (50% jeet, jeet = 1.5 × haar, 200 trades, 20,000 baar): account aadha hua → 1–2% risk ~0%, 5% ~2%, 10% ~18%, 20% ~57%
+• Fixed lot formula: Ruin ≈ (q ÷ p)^N — 55% jeet pe N=5 → 37%, N=25 → 1% se kam
+• Ruin kaise ghatayein: chhota risk, loss limit, aur bina edge koi size safe nahi
+• Apna ruin level pehle se tay karo
+
+Chapters:
+0:00 Intro
+0:20 Pichhla episode
+0:38 Ruin kya hai
+1:00 Teen cheezein
+1:22 Lagataar haar
+1:42 Dus haar
+2:07 Simulation
+2:27 Nateeja
+2:51 Formula
+3:18 Ruin kaise ghataye
+3:40 Apna ruin level
+3:56 Recap
+4:18 Agla episode
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Agla episode: Monte Carlo. Ek backtest, hazaar raaste.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number simulation ya samjhane ke liye example hain.
+
+#quanttrading #riskmanagement #tradinghindi #algotrading #spidertrades

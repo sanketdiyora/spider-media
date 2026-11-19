@@ -1,0 +1,188 @@
+1
+00:00:05,000 --> 00:00:08,788
+Two traders. The same system, the same trades.
+
+2
+00:00:09,238 --> 00:00:14,959
+The system has an edge. Yet by year end, one account was cut in half.
+
+3
+00:00:15,408 --> 00:00:19,771
+Only one thing was different: how much each one risked per trade.
+
+4
+00:00:20,771 --> 00:00:25,604
+Hello, this is episode six of the SPIDER Quant Trading series.
+
+5
+00:00:26,054 --> 00:00:31,930
+Last time: backtesting, how to test a system before risking money.
+
+6
+00:00:32,381 --> 00:00:37,371
+Today: risk of ruin, the chance of blowing the account.
+
+7
+00:00:38,371 --> 00:00:42,158
+Ruin does not have to mean the account hits zero.
+
+8
+00:00:42,608 --> 00:00:47,598
+Ruin is the level from which coming back becomes almost impossible.
+
+9
+00:00:48,048 --> 00:00:54,317
+Remember episode three: after a 50% fall, you need 100% just to get back.
+
+10
+00:00:54,767 --> 00:00:59,678
+So today we will call it ruin when the account is cut in half.
+
+11
+00:01:00,678 --> 00:01:03,447
+The chance of ruin depends on three things.
+
+12
+00:01:03,897 --> 00:01:10,244
+One, the win rate. Two, the size of wins versus losses, the R.
+
+13
+00:01:10,695 --> 00:01:14,979
+And three, what percent of the account you risk per trade.
+
+14
+00:01:15,428 --> 00:01:21,306
+The system decides the first two. The third is entirely in your hands.
+
+15
+00:01:22,306 --> 00:01:24,735
+How common is a long losing streak?
+
+16
+00:01:25,186 --> 00:01:29,235
+Take a system that wins 50% of the time, over 500 trades.
+
+17
+00:01:29,684 --> 00:01:35,014
+The chance of eight losses in a row somewhere is about 62%.
+
+18
+00:01:35,464 --> 00:01:41,262
+Even ten in a row has about a 21% chance. This is very common.
+
+19
+00:01:42,262 --> 00:01:46,547
+Now see where the account is after ten straight losses.
+
+20
+00:01:46,997 --> 00:01:53,919
+At 1% risk, about 10% down. At 2%, about 18%.
+
+21
+00:01:54,369 --> 00:02:00,979
+At 5%, 40% down. And at 10% risk, 65% down.
+
+22
+00:02:01,428 --> 00:02:06,026
+So big risk, one bad week, and the game is over.
+
+23
+00:02:07,026 --> 00:02:13,948
+Now a simulation. The system wins 50% of the time, and each win is 1.5 times a loss.
+
+24
+00:02:14,399 --> 00:02:20,275
+That is a positive edge: an average of 0.25R per trade.
+
+25
+00:02:20,726 --> 00:02:26,369
+We ran 200 trades, 20,000 times, and counted how often the account was cut in half.
+
+26
+00:02:27,369 --> 00:02:31,809
+At 1% and 2% risk: ruin was almost zero.
+
+27
+00:02:32,259 --> 00:02:35,969
+At 5%: about 2% of the time.
+
+28
+00:02:36,418 --> 00:02:44,125
+At 10%: about 18%. At 20%: 57% of the time.
+
+29
+00:02:44,575 --> 00:02:50,766
+Same system, same edge. Only the size changed, and the outcome changed completely.
+
+30
+00:02:51,766 --> 00:02:55,083
+There is also a simple formula, for a fixed lot size.
+
+31
+00:02:55,533 --> 00:03:03,971
+When wins and losses are equal size, ruin chance is the loss probability divided by the win probability, to the power N.
+
+32
+00:03:04,421 --> 00:03:08,052
+N means how many losses of room you have before ruin.
+
+33
+00:03:08,501 --> 00:03:17,671
+At a 55% win rate, with room for five losses the ruin chance is 37%. With room for 25, it is under 1%.
+
+34
+00:03:18,671 --> 00:03:20,394
+So how do you lower the risk of ruin?
+
+35
+00:03:20,845 --> 00:03:25,678
+First: small risk per trade, one or two percent.
+
+36
+00:03:26,128 --> 00:03:31,769
+Second: a daily or weekly loss limit. Hit it, and stop trading.
+
+37
+00:03:32,220 --> 00:03:39,926
+Third: with no edge, no size is safe. A negative edge eats the account in the end.
+
+38
+00:03:40,926 --> 00:03:45,054
+And most important: decide your ruin level in advance.
+
+39
+00:03:45,504 --> 00:03:51,146
+For example: if the account falls 20%, I stop and re-check the whole system.
+
+40
+00:03:51,596 --> 00:03:55,802
+Make this decision with a calm mind, not in the middle of a loss.
+
+41
+00:03:56,802 --> 00:03:58,291
+So, today's summary.
+
+42
+00:03:58,741 --> 00:04:07,178
+Ruin is a fall you can hardly recover from. Long losing streaks are very common.
+
+43
+00:04:07,628 --> 00:04:13,114
+Even a good system can be sunk by big size. Keep risk at one or two percent.
+
+44
+00:04:13,564 --> 00:04:17,195
+Use a loss limit, and set your ruin level in advance.
+
+45
+00:04:18,195 --> 00:04:23,681
+Next episode: Monte Carlo. One backtest, a thousand paths.
+
+46
+00:04:24,131 --> 00:04:28,963
+If this was useful, subscribe and save the playlist.
+
+47
+00:04:29,413 --> 00:04:35,604
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
