@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-19 14:07 IST",
+"updated": "2026-11-19 14:09 IST",
 "date": "2026-11-19",
 "followers": 73,
-"media_count": 128,
+"media_count": 129,
 "slots": [
 {
 "slot": "0700",
@@ -62,7 +62,7 @@
 "likes": 0,
 "comments": 0,
 "views": 79,
-"reach": 66,
+"reach": 68,
 "saved": 0,
 "shares": 0
 }
@@ -93,8 +93,21 @@
 "name": "reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
-"status": "MISSED",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18143495749546321",
+"cap": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇\nAaj: 6 trade band · 1 jeete · 5 haare · net -4.5R · 4 live\nEURNZD BUY — band, +0.5R (TP1 hit, baaki entry pe band)\nEURGBP SELL — band, -1.0R (SL hit)\nNAS100 BUY — abhi chal raha hai, +0.8R (risk-free 🔒)\nGBPCHF BUY — abhi chal raha hai, +0.6R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
+"time": "2026-11-19 14:09",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df6q8AhD7MQ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -131,6 +144,20 @@
 ],
 "recent_posts": [
 {
+"id": "18143495749546321",
+"cap": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇\nAaj: 6 trade band · 1 jeete · 5 haare · net -4.5R · 4 live\nEURNZD BUY — band, +0.5R (TP1 hit, baaki entry pe band)\nEURGBP SELL — band, -1.0R (SL hit)\nNAS100 BUY — abhi chal raha hai, +0.8R (risk-free 🔒)\nGBPCHF BUY — abhi chal raha hai, +0.6R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
+"time": "2026-11-19 14:09",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df6q8AhD7MQ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18146269576719243",
 "cap": "90% baar jeeta, phir bhi account minus? 😳\n\nJeet chhoti aur haar badi ho to 90 jeet bhi 10 haar ko nahi bacha paati. Aur 40% jeetne wala bhi profit me ho sakta hai, agar uski har jeet haar se badi ho. Sirf win rate dekh ke system mat chuno.\n\nQuant Trading Series, Episode 2 (Win Rate ka Sach) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
 "cap1": "90% baar jeeta, phir bhi account minus? 😳",
@@ -154,7 +181,7 @@
 "likes": 0,
 "comments": 0,
 "views": 79,
-"reach": 66,
+"reach": 68,
 "saved": 0,
 "shares": 0
 },
@@ -535,20 +562,6 @@
 "reach": 104,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18102968006553224",
-"cap": "Price asal me hilta kaise hai? 📊\n\n30 lot ka buy market order aaya. 102 pe 10 lot the, kha liye. 103 pe 10, wo bhi khatam. Baaki 104 se mile. Ab sabse sasta bechne wala 104 pe hai, yaani Ask 102 se 104. Kisi ne price dhakela nahi, bas raaste ka maal kha liya gaya.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #priceaction #spidertrades",
-"cap1": "Price asal me hilta kaise hai? 📊",
-"time": "2026-11-16 07:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfyLky0pW_z/",
-"likes": 16,
-"comments": 0,
-"views": 693,
-"reach": 515,
-"saved": 13,
-"shares": 4
 }
 ],
 "trades": [],
@@ -942,7 +955,7 @@
 "today_net": -3.07,
 "engine": {
 "last_scan": "14:01",
-"age_min": 6,
+"age_min": 8,
 "rc": 0,
 "summary": "run 2026-11-19 08:30 UTC · new 0 · events 0 · open 3"
 },
