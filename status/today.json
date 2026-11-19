@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-19 05:35 IST",
+"updated": "2026-11-19 07:12 IST",
 "date": "2026-11-19",
 "followers": 73,
-"media_count": 124,
+"media_count": 125,
 "slots": [
 {
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
 "title": "Volume bahut bada, par price wahin ka wahin? 🤔",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18080815775743321",
+"cap": "Volume bahut bada, par price wahin ka wahin? 🤔\n\nEffort matlab kitna zor laga (volume). Result matlab price kitna hila. Zor bada aur nateeja chhota ho, to iska matlab saamne koi bada passive khiladi saara zor sokh raha hai. Aisi jagah se price palat bhi sakta hai.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #volume #priceaction #spidertrades",
+"cap1": "Volume bahut bada, par price wahin ka wahin? 🤔",
+"time": "2026-11-19 07:03",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df56Gl2EtOi/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -71,6 +84,20 @@
 ],
 "recent_posts": [
 {
+"id": "18080815775743321",
+"cap": "Volume bahut bada, par price wahin ka wahin? 🤔\n\nEffort matlab kitna zor laga (volume). Result matlab price kitna hila. Zor bada aur nateeja chhota ho, to iska matlab saamne koi bada passive khiladi saara zor sokh raha hai. Aisi jagah se price palat bhi sakta hai.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #volume #priceaction #spidertrades",
+"cap1": "Volume bahut bada, par price wahin ka wahin? 🤔",
+"time": "2026-11-19 07:03",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df56Gl2EtOi/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18157043035522995",
 "cap": "KNOW #3 📚 Leverage Aur Margin\n$100 se $10,000 ki trade kaise khul jaati hai?\n• Broker aapko leverage deta hai, yaani udhaar ki buying power.\n• 1:100 leverage pe $10,000 ki trade ke liye sirf $100 margin lock hota hai.\n• Lekin profit aur loss poore $10,000 pe chalta hai.\nTip: leverage tez gaadi hai. Brake hai stop loss.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
 "cap1": "KNOW #3 📚 Leverage Aur Margin",
@@ -107,8 +134,8 @@
 "link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
 "likes": 2,
 "comments": 0,
-"views": 128,
-"reach": 108,
+"views": 129,
+"reach": 109,
 "saved": 1,
 "shares": 0
 },
@@ -191,8 +218,8 @@
 "link": "https://www.instagram.com/reel/Df3VJC7k6lE/",
 "likes": 11,
 "comments": 0,
-"views": 262,
-"reach": 209,
+"views": 265,
+"reach": 210,
 "saved": 7,
 "shares": 3
 },
@@ -247,7 +274,7 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1206,
+"views": 1208,
 "reach": 1055,
 "saved": 5,
 "shares": 6
@@ -475,25 +502,52 @@
 "reach": 112,
 "saved": 3,
 "shares": 1
-},
-{
-"id": "17890629465688557",
-"cap": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️\nSave karo, kisi trader dost ko bhejo.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #tradingpsychology #forexmindset #discipline #spidertrades",
-"cap1": "Sabki journey alag hai. Bas khud se kal behtar bano. 🕷️",
-"time": "2026-11-15 12:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DfwJKcLkqcW/",
-"likes": 2,
-"comments": 0,
-"views": 117,
-"reach": 99,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
 "open": [
+{
+"id": "EURNZD_1795050900_pbo",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.99644,
+"sl": 1.994299,
+"r": null,
+"opened": "19 Nov 07:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.20 lots @1.99655 SL 1.99429 (scanner SL) entry 1.99643 basis -0.00001 (M15) split TP1/TP2 risk 0.48%"
+}
+],
+"closed_today": [
+{
+"id": "XAGUSD_1795024800_dpoc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 44.985,
+"sl": 45.3138,
+"r": -0.21,
+"opened": "18 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "USDJPY_1794987900_pbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 159.362,
+"sl": 159.0991,
+"r": -0.21,
+"opened": "18 Nov 13:30",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
 {
 "id": "CADCHF_1794974400_pbo",
 "pair": "CADCHF",
@@ -501,7 +555,48 @@
 "model": "pbo",
 "entry": 0.58762,
 "sl": 0.586687,
-"r": null,
+"r": 0.99,
+"opened": "18 Nov 09:45",
+"state": "risk-free",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "EURNZD_1795024800_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99805,
+"sl": 1.996613,
+"r": 0.36,
+"opened": "18 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+}
+],
+"closed_recent": [
+{
+"id": "EURNZD_1795024800_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.99805,
+"sl": 1.996613,
+"r": 0.36,
+"opened": "18 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
+{
+"id": "CADCHF_1794974400_pbo",
+"pair": "CADCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 0.58762,
+"sl": 0.586687,
+"r": 0.99,
 "opened": "18 Nov 09:45",
 "state": "risk-free",
 "mt5": null,
@@ -514,15 +609,25 @@
 "model": "pbo",
 "entry": 159.362,
 "sl": 159.0991,
-"r": null,
+"r": -0.21,
 "opened": "18 Nov 13:30",
-"state": "open",
+"state": "closed",
 "mt5": null,
 "mt5_reason": null
-}
-],
-"closed_today": [],
-"closed_recent": [
+},
+{
+"id": "XAGUSD_1795024800_dpoc",
+"pair": "SILVER",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 44.985,
+"sl": 45.3138,
+"r": -0.21,
+"opened": "18 Nov 23:45",
+"state": "closed",
+"mt5": null,
+"mt5_reason": null
+},
 {
 "id": "CHFJPY_1795007700_dpoc",
 "pair": "CHFJPY",
@@ -665,77 +770,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NAS100_1794938400_dpoc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 26866.92,
-"sl": 27035.19,
-"r": -0.8,
-"opened": "17 Nov 23:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPAUD_1794938400_dpoc",
-"pair": "GBPAUD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.96191,
-"sl": 1.959719,
-"r": -0.29,
-"opened": "17 Nov 23:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "US30_1794938400_dpoc",
-"pair": "US30",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 50823.39,
-"sl": 51044.8,
-"r": 0.59,
-"opened": "17 Nov 23:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPCHF_1794927600_dpoc",
-"pair": "GBPCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.10958,
-"sl": 1.107656,
-"r": -1.0,
-"opened": "17 Nov 20:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 189,
-"all_net": 41.76,
-"all_win": 110,
-"today_net": 0,
+"all_n": 193,
+"all_net": 42.69,
+"all_win": 112,
+"today_net": 0.93,
 "engine": {
-"last_scan": "02:56",
-"age_min": 159,
+"last_scan": "07:06",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-18 21:25 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-19 01:35 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5132.95",
-"equity": "5132.95",
-"floating": "0.00",
-"positions": "0",
+"equity": "5138.22",
+"floating": "5.27",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -744,6 +797,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 16.8,
 "github_runs": [
+{
+"t": "2026-11-19T01:30:16Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-18T23:19:05Z",
 "ok": "success",
@@ -761,11 +819,6 @@
 },
 {
 "t": "2026-11-18T21:07:53Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-18T20:20:46Z",
 "ok": "success",
 "ev": "schedule"
 }
