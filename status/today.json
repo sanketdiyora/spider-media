@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 11:37 IST",
+"updated": "2026-11-19 11:51 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 128,
@@ -547,19 +547,6 @@
 "scanner": {
 "open": [
 {
-"id": "EURAUD_1795056300_pbo",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 1.64339,
-"sl": 1.638908,
-"r": null,
-"opened": "19 Nov 08:30",
-"state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.22 USD = -0.99R"
-},
-{
 "id": "WTI_1795059900_dpoc",
 "pair": "WTI OIL",
 "dir": "SELL",
@@ -638,9 +625,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 10.54 USD = 0.42R"
+},
+{
+"id": "EURAUD_1795056300_pbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.64339,
+"sl": 1.638908,
+"r": -1.0,
+"opened": "19 Nov 08:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.22 USD = -0.99R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURAUD_1795056300_pbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.64339,
+"sl": 1.638908,
+"r": -1.0,
+"opened": "19 Nov 08:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.22 USD = -0.99R"
+},
 {
 "id": "EURNZD_1795050900_pbo",
 "pair": "EURNZD",
@@ -822,30 +835,17 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NAS100_1794977100_dpoc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 27098.41,
-"sl": 27224.75,
-"r": -1.0,
-"opened": "18 Nov 10:30",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 194,
-"all_net": 43.19,
+"all_n": 195,
+"all_net": 42.19,
 "all_win": 113,
-"today_net": 1.43,
+"today_net": 0.43,
 "engine": {
-"last_scan": "11:31",
-"age_min": 6,
+"last_scan": "11:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-19 06:00 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-19 06:15 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
