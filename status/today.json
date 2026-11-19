@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 08:21 IST",
+"updated": "2026-11-19 08:37 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 126,
@@ -519,7 +519,21 @@
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "EURAUD_1795056300_pbo",
+"pair": "EURAUD",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.64339,
+"sl": 1.638908,
+"r": null,
+"opened": "19 Nov 08:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.08 lots @1.64353 SL 1.63895 (scanner SL) entry 1.64343 basis 0.00004 (M15) split TP1/TP2 risk 0.48%"
+}
+],
 "closed_today": [
 {
 "id": "XAGUSD_1795024800_dpoc",
@@ -789,18 +803,18 @@
 "all_win": 113,
 "today_net": 1.43,
 "engine": {
-"last_scan": "08:16",
-"age_min": 5,
+"last_scan": "08:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 02:45 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-19 03:00 UTC · new 1 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5143.49",
-"equity": "5143.49",
-"floating": "0.00",
-"positions": "0",
+"equity": "5144.63",
+"floating": "1.14",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
