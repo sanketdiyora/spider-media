@@ -113,6 +113,22 @@ elif cmd == 'vprivate':   # vprivate VIDEO  (hide a duplicate, reversible)
     at = access(); body = json.dumps({'id': sys.argv[2], 'status': {'privacyStatus': 'private'}}).encode()
     req = urllib.request.Request('https://www.googleapis.com/youtube/v3/videos?part=status', data=body, method='PUT', headers={'Authorization':'Bearer '+at, 'Content-Type':'application/json'})
     j = json.loads(urllib.request.urlopen(req, timeout=60).read()); print('VPRIVATE_OK', j['id'], j['status'].get('privacyStatus'))
+elif cmd == 'stats':      # stats -> STATS <json>: channel totals + every PUBLIC video's views/likes/comments/duration (read-only)
+    c = api('GET','https://www.googleapis.com/youtube/v3/channels?part=contentDetails,statistics&mine=true')['items'][0]
+    up = c['contentDetails']['relatedPlaylists']['uploads']; ids = []; tok = ''
+    while True:
+        j = api('GET','https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=' + up + ('&pageToken=' + tok if tok else ''))
+        ids += [i['contentDetails']['videoId'] for i in j.get('items',[])]; tok = j.get('nextPageToken','')
+        if not tok: break
+    vids = []
+    for k in range(0, len(ids), 50):
+        j = api('GET','https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,contentDetails,status&id=' + ','.join(ids[k:k+50]))
+        for i in j.get('items',[]):
+            if i['status'].get('privacyStatus') != 'public': continue
+            st = i.get('statistics',{})
+            vids.append({'id':i['id'],'title':i['snippet']['title'],'at':i['snippet']['publishedAt'],'dur':i['contentDetails'].get('duration',''),'views':int(st.get('viewCount',0)),'likes':int(st.get('likeCount',0)),'comments':int(st.get('commentCount',0))})
+    cs = c.get('statistics',{})
+    print('STATS', json.dumps({'subs':cs.get('subscriberCount'),'views':cs.get('viewCount'),'videos':vids}, ensure_ascii=False, separators=(',',':')))
 elif cmd == 'vstatus':    # vstatus VIDEO
     at = access(); req = urllib.request.Request('https://www.googleapis.com/youtube/v3/videos?part=status,snippet,statistics&id=' + sys.argv[2], headers={'Authorization':'Bearer '+at})
     j = json.loads(urllib.request.urlopen(req, timeout=60).read()); i = j['items'][0]
