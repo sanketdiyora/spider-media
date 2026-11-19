@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 18:07 IST",
+"updated": "2026-11-19 18:22 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 131,
@@ -617,7 +617,7 @@
 "opened": "19 Nov 12:45",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 3724.14"
+"mt5_reason": "SL 3720.84"
 },
 {
 "id": "EURAUD_1795077900_pbo",
@@ -1006,17 +1006,17 @@
 "all_win": 114,
 "today_net": -4.07,
 "engine": {
-"last_scan": "18:01",
+"last_scan": "18:16",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 12:30 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-19 12:45 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5074.65",
-"equity": "5104.15",
-"floating": "29.50",
+"equity": "5097.33",
+"floating": "22.68",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
