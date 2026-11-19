@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 07:37 IST",
+"updated": "2026-11-19 07:51 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 125,
@@ -516,9 +516,9 @@
 "sl": 1.994299,
 "r": null,
 "opened": "19 Nov 07:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.20 lots @1.99655 SL 1.99429 (scanner SL) entry 1.99643 basis -0.00001 (M15) split TP1/TP2 risk 0.48%"
+"mt5_reason": "SL 1.99643"
 }
 ],
 "closed_today": [
@@ -777,18 +777,18 @@
 "all_win": 112,
 "today_net": 0.93,
 "engine": {
-"last_scan": "07:31",
+"last_scan": "07:47",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-19 02:00 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-19 02:15 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5132.95",
-"equity": "5145.25",
-"floating": "12.30",
-"positions": "2",
+"balance": "5144.04",
+"equity": "5148.87",
+"floating": "4.83",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
