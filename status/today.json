@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19 18:22 IST",
+"updated": "2026-11-19 18:37 IST",
 "date": "2026-11-19",
 "followers": 73,
 "media_count": 131,
@@ -607,19 +607,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "XAUUSD_1795071600_dpoc",
-"pair": "GOLD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 3733.97,
-"sl": 3745.409,
-"r": null,
-"opened": "19 Nov 12:45",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 3720.84"
-},
-{
 "id": "EURAUD_1795077900_pbo",
 "pair": "EURAUD",
 "dir": "BUY",
@@ -644,6 +631,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.16 lots @1.10872 SL 1.10743 (scanner SL) entry 1.10846 basis 0.00001 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "USDJPY_1795092300_dpoc",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 159.927,
+"sl": 159.8124,
+"r": null,
+"opened": "19 Nov 18:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.29 lots @159.941 SL 159.804 (scanner SL) entry 159.919 basis -0.008 (M15)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -802,9 +802,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -24.22 USD = -1.00R"
+},
+{
+"id": "XAUUSD_1795071600_dpoc",
+"pair": "GOLD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 3733.97,
+"sl": 3745.409,
+"r": 1.18,
+"opened": "19 Nov 12:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 32.08 USD = 1.78R"
 }
 ],
 "closed_recent": [
+{
+"id": "XAUUSD_1795071600_dpoc",
+"pair": "GOLD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 3733.97,
+"sl": 3745.409,
+"r": 1.18,
+"opened": "19 Nov 12:45",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 32.08 USD = 1.78R"
+},
 {
 "id": "EURNZD_1795073400_pbo",
 "pair": "EURNZD",
@@ -986,37 +1012,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NZDUSD_1794990000_lbo",
-"pair": "NZDUSD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.548637,
-"sl": 0.549477,
-"r": -1.0,
-"opened": "18 Nov 13:55",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 201,
-"all_net": 37.69,
-"all_win": 114,
-"today_net": -4.07,
+"all_n": 202,
+"all_net": 38.87,
+"all_win": 115,
+"today_net": -2.89,
 "engine": {
-"last_scan": "18:16",
+"last_scan": "18:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-19 12:45 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-19 13:00 UTC · new 1 · events 1 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5074.65",
-"equity": "5097.33",
-"floating": "22.68",
+"balance": "5106.73",
+"equity": "5093.61",
+"floating": "-13.12",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
