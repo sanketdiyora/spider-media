@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 08:36 IST",
+"updated": "2026-11-20 08:52 IST",
 "date": "2026-11-20",
 "followers": 73,
 "media_count": 135,
@@ -620,9 +620,22 @@
 "sl": 92.763,
 "r": null,
 "opened": "20 Nov 08:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 0.059 = 0.29R of the scanner risk (basis too big 0.870 (M15, limit 0.139), 0)"
+},
+{
+"id": "NZDCAD_1795143600_pbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.78608,
+"sl": 0.787389,
+"r": null,
+"opened": "20 Nov 08:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.26 lots @0.78621 SL 0.78761 (scanner SL) entry 0.78613 basis 0.00005 (M15) +SLbuf 0.00017 +TPbuf 0.00017 split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -907,18 +920,18 @@
 "all_win": 124,
 "today_net": 2.86,
 "engine": {
-"last_scan": "08:31",
-"age_min": 5,
+"last_scan": "08:46",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-20 03:00 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-20 03:15 UTC · new 1 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5205.38",
-"equity": "5218.96",
-"floating": "13.58",
-"positions": "11",
+"equity": "5197.84",
+"floating": "-7.54",
+"positions": "13",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
