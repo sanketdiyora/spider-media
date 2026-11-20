@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 12:37 IST",
+"updated": "2026-11-20 12:51 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 137,
@@ -607,9 +607,9 @@
 "sl": 1.102762,
 "r": null,
 "opened": "20 Nov 08:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN BUY 0.20 lots @1.10388 SL 1.10279 (scanner SL) entry 1.10381 basis 0.00003 (M15) split TP1/TP2 risk 0.50%"
+"mt5_reason": "SL 1.10381"
 },
 {
 "id": "BRENT_1795148100_pbo",
@@ -1037,18 +1037,18 @@
 "all_win": 125,
 "today_net": -1.64,
 "engine": {
-"last_scan": "12:31",
-"age_min": 6,
+"last_scan": "12:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 07:00 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-20 07:15 UTC · new 0 · events 1 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5081.40",
-"equity": "5108.10",
-"floating": "26.70",
-"positions": "8",
+"balance": "5092.68",
+"equity": "5121.10",
+"floating": "28.42",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
