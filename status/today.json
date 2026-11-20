@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-20 13:38 IST",
+"updated": "2026-11-20 13:39 IST",
 "date": "2026-11-20",
 "followers": 76,
-"media_count": 137,
+"media_count": 138,
 "slots": [
 {
 "slot": "0700",
@@ -40,7 +40,7 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 13,
 "comments": 0,
-"views": 422,
+"views": 425,
 "reach": 312,
 "saved": 9,
 "shares": 9
@@ -93,8 +93,21 @@
 "name": "Setup reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18222275854343959",
+"cap": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇\nAaj: 7 trade band · 1 jeete · 6 haare · net -5.5R · 9 live\nBRENT OIL SELL — band, +0.5R (TP1 hit, baaki entry pe band)\nGER40 SELL — band, -1.0R (SL hit)\nCADJPY SELL — abhi chal raha hai, +0.8R (risk-free 🔒)\nBRENT OIL SELL — abhi chal raha hai, +0.8R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇",
+"time": "2026-11-20 13:39",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9MUudjFwj/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -130,6 +143,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18222275854343959",
+"cap": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇\nAaj: 7 trade band · 1 jeete · 6 haare · net -5.5R · 9 live\nBRENT OIL SELL — band, +0.5R (TP1 hit, baaki entry pe band)\nGER40 SELL — band, -1.0R (SL hit)\nCADJPY SELL — abhi chal raha hai, +0.8R (risk-free 🔒)\nBRENT OIL SELL — abhi chal raha hai, +0.8R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇",
+"time": "2026-11-20 13:39",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9MUudjFwj/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18117538949175133",
 "cap": "Wahi 30 lot ka order, asar alag kyun? 🧱\n\nPatli book me 30 lot price ko kai level upar kha jata hai. Moti book me wahi order shayad ek level bhi na hila paye. Aur agar raste me bada limit order baitha ho, to wo deewar ban sakta hai.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
@@ -167,7 +194,7 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 13,
 "comments": 0,
-"views": 422,
+"views": 425,
 "reach": 312,
 "saved": 9,
 "shares": 9
@@ -532,20 +559,6 @@
 "likes": 0,
 "comments": 0,
 "views": 120,
-"reach": 96,
-"saved": 1,
-"shares": 0
-},
-{
-"id": "18124109875972276",
-"cap": "Roz ka chhota discipline, roz ka chhota profit. Cup bhar jaata hai.\n\nRoz ek aisi line ke liye follow karo. Trade setups ke liye Telegram — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#tradingmotivation #forexhindi #tradingdiscipline #tradingpsychology #spidertrades",
-"cap1": "Roz ka chhota discipline, roz ka chhota profit. Cup bhar jaata hai.",
-"time": "2026-11-17 08:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df03OLcicMF/",
-"likes": 0,
-"comments": 0,
-"views": 112,
 "reach": 96,
 "saved": 1,
 "shares": 0
@@ -1046,7 +1059,7 @@
 "today_net": -2.64,
 "engine": {
 "last_scan": "13:31",
-"age_min": 7,
+"age_min": 8,
 "rc": 0,
 "summary": "run 2026-11-20 08:00 UTC · new 0 · events 0 · open 9"
 },
