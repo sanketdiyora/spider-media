@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 13:22 IST",
+"updated": "2026-11-20 13:38 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 137,
@@ -40,10 +40,10 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 13,
 "comments": 0,
-"views": 351,
-"reach": 261,
+"views": 422,
+"reach": 312,
 "saved": 9,
-"shares": 5
+"shares": 9
 }
 },
 {
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 101,
+"views": 126,
+"reach": 102,
 "saved": 0,
 "shares": 0
 }
@@ -82,11 +82,19 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 105,
-"reach": 74,
+"views": 116,
+"reach": 88,
 "saved": 2,
 "shares": 0
 }
+},
+{
+"slot": "1335",
+"name": "Setup reel",
+"type": "reel",
+"title": "🕷 Aaj ka live scanner UPDATE (Fri 20 Nov) 👇",
+"status": "DUE",
+"post": null
 },
 {
 "slot": "1500",
@@ -131,8 +139,8 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 105,
-"reach": 74,
+"views": 116,
+"reach": 88,
 "saved": 2,
 "shares": 0
 },
@@ -145,8 +153,8 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 101,
+"views": 126,
+"reach": 102,
 "saved": 0,
 "shares": 0
 },
@@ -159,10 +167,10 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 13,
 "comments": 0,
-"views": 351,
-"reach": 261,
+"views": 422,
+"reach": 312,
 "saved": 9,
-"shares": 5
+"shares": 9
 },
 {
 "id": "18116071391112386",
@@ -199,10 +207,10 @@
 "time": "2026-11-19 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df7MZkJERBt/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 156,
-"reach": 111,
+"views": 157,
+"reach": 112,
 "saved": 0,
 "shares": 0
 },
@@ -215,8 +223,8 @@
 "link": "https://www.instagram.com/reel/Df6-qENGbCC/",
 "likes": 6,
 "comments": 0,
-"views": 129,
-"reach": 107,
+"views": 130,
+"reach": 110,
 "saved": 1,
 "shares": 0
 },
@@ -227,10 +235,10 @@
 "time": "2026-11-19 15:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df6w9YcjFiG/",
-"likes": 6,
+"likes": 7,
 "comments": 1,
-"views": 184,
-"reach": 158,
+"views": 189,
+"reach": 163,
 "saved": 2,
 "shares": 0
 },
@@ -313,7 +321,7 @@
 "link": "https://www.instagram.com/reel/Df4x4B-meD-/",
 "likes": 0,
 "comments": 0,
-"views": 116,
+"views": 117,
 "reach": 96,
 "saved": 1,
 "shares": 1
@@ -662,19 +670,6 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
-},
-{
-"id": "GER40_1795156800_lbo",
-"pair": "GER40",
-"dir": "SELL",
-"model": "lbo",
-"entry": 25083.48,
-"sl": 25189.83,
-"r": null,
-"opened": "20 Nov 12:15",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -833,9 +828,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -25.22 USD = -0.99R"
+},
+{
+"id": "GER40_1795156800_lbo",
+"pair": "GER40",
+"dir": "SELL",
+"model": "lbo",
+"entry": 25083.48,
+"sl": 25189.83,
+"r": -1.0,
+"opened": "20 Nov 12:15",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "GER40_1795156800_lbo",
+"pair": "GER40",
+"dir": "SELL",
+"model": "lbo",
+"entry": 25083.48,
+"sl": 25189.83,
+"r": -1.0,
+"opened": "20 Nov 12:15",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "NZDCAD_1795143600_pbo",
 "pair": "NZDCAD",
@@ -1017,43 +1038,30 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURAUD_1795100400_dpoc",
-"pair": "EURAUD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.64036,
-"sl": 1.637022,
-"r": 1.36,
-"opened": "19 Nov 20:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 221,
-"all_net": 40.67,
+"all_n": 222,
+"all_net": 39.67,
 "all_win": 125,
-"today_net": -1.64,
+"today_net": -2.64,
 "engine": {
-"last_scan": "13:17",
-"age_min": 5,
+"last_scan": "13:31",
+"age_min": 7,
 "rc": 0,
-"summary": "run 2026-11-20 07:45 UTC · new 0 · events 1 · open 10"
+"summary": "run 2026-11-20 08:00 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5092.68",
-"equity": "5098.45",
-"floating": "5.77",
+"equity": "5111.19",
+"floating": "18.51",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 139035,
+"voice_chars_month": 139581,
 "voice_limit": 30000,
 "disk_free_gb": 16.0,
 "github_runs": [
