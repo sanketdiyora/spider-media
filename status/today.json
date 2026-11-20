@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 14:07 IST",
+"updated": "2026-11-20 14:23 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 138,
@@ -620,19 +620,6 @@
 "mt5_reason": "OPEN SELL 0.20 lots @1.57228 SL 1.57406 (scanner SL) entry 1.57225 basis 0.00001 (M1) +SLbuf 0.00015  risk 0.48%"
 },
 {
-"id": "BRENT_1795148100_pbo",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 92.43,
-"sl": 92.911,
-"r": null,
-"opened": "20 Nov 10:00",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "stop too close after spread: -1.08R room (basis too big 0.881 (M15, limit 0.240), 0)"
-},
-{
 "id": "AUDNZD_1795149900_dpoc",
 "pair": "AUDNZD",
 "dir": "SELL",
@@ -854,9 +841,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 10.45 USD = 0.40R"
+},
+{
+"id": "BRENT_1795148100_pbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 92.43,
+"sl": 92.911,
+"r": 2.0,
+"opened": "20 Nov 10:00",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -1.08R room (basis too big 0.881 (M15, limit 0.240), 0)"
 }
 ],
 "closed_recent": [
+{
+"id": "BRENT_1795148100_pbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 92.43,
+"sl": 92.911,
+"r": 2.0,
+"opened": "20 Nov 10:00",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -1.08R room (basis too big 0.881 (M15, limit 0.240), 0)"
+},
 {
 "id": "GBPCHF_1795140900_pbo",
 "pair": "GBPCHF",
@@ -1038,37 +1051,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "GBPUSD_1795106700_dpoc",
-"pair": "GBPUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.31127,
-"sl": 1.312754,
-"r": 0.41,
-"opened": "19 Nov 22:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 223,
-"all_net": 40.17,
-"all_win": 126,
-"today_net": -2.14,
+"all_n": 224,
+"all_net": 42.17,
+"all_win": 127,
+"today_net": -0.14,
 "engine": {
-"last_scan": "14:01",
-"age_min": 5,
+"last_scan": "14:16",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-20 08:30 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-20 08:45 UTC · new 0 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.85",
-"equity": "5101.98",
-"floating": "10.13",
+"equity": "5116.03",
+"floating": "24.18",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
