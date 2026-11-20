@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 08:07 IST",
+"updated": "2026-11-20 08:23 IST",
 "date": "2026-11-20",
 "followers": 73,
 "media_count": 135,
@@ -610,6 +610,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.20 lots @1.10388 SL 1.10279 (scanner SL) entry 1.10381 basis 0.00003 (M15) split TP1/TP2 risk 0.50%"
+},
+{
+"id": "BRENT_1795141800_pbo",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "pbo",
+"entry": 92.56,
+"sl": 92.763,
+"r": null,
+"opened": "20 Nov 08:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 0.059 = 0.29R of the scanner risk (basis too big 0.870 (M15, limit 0.139), 0)"
 }
 ],
 "closed_today": [
@@ -894,17 +907,17 @@
 "all_win": 124,
 "today_net": 2.86,
 "engine": {
-"last_scan": "08:01",
-"age_min": 5,
+"last_scan": "08:21",
+"age_min": 1,
 "rc": 0,
-"summary": "run 2026-11-20 02:30 UTC · new 2 · events 0 · open 7"
+"summary": "run 2026-11-20 02:50 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5205.38",
-"equity": "5198.61",
-"floating": "-6.77",
+"equity": "5206.57",
+"floating": "1.19",
 "positions": "11",
 "ea_enabled": "1",
 "algo_trading": "1"
