@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 12:06 IST",
+"updated": "2026-11-20 12:22 IST",
 "date": "2026-11-20",
 "followers": 75,
 "media_count": 137,
@@ -649,6 +649,32 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "USDCAD_1795156200_lbo",
+"pair": "USDCAD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 1.431833,
+"sl": 1.433628,
+"r": null,
+"opened": "20 Nov 12:05",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "GER40_1795156800_lbo",
+"pair": "GER40",
+"dir": "SELL",
+"model": "lbo",
+"entry": 25083.48,
+"sl": 25189.83,
+"r": null,
+"opened": "20 Nov 12:15",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -1011,17 +1037,17 @@
 "all_win": 125,
 "today_net": -1.64,
 "engine": {
-"last_scan": "12:01",
+"last_scan": "12:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 06:30 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-20 06:45 UTC · new 0 · events 1 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5081.40",
-"equity": "5105.32",
-"floating": "23.92",
+"equity": "5110.90",
+"floating": "29.50",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
