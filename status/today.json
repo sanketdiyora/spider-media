@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 14:38 IST",
+"updated": "2026-11-20 14:51 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 138,
@@ -615,9 +615,9 @@
 "sl": 1.573898,
 "r": null,
 "opened": "20 Nov 07:45",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.20 lots @1.57228 SL 1.57406 (scanner SL) entry 1.57225 basis 0.00001 (M1) +SLbuf 0.00015  risk 0.48%"
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 20.80 USD = 0.84R"
 },
 {
 "id": "AUDNZD_1795149900_dpoc",
@@ -1071,18 +1071,18 @@
 "all_win": 127,
 "today_net": -0.14,
 "engine": {
-"last_scan": "14:31",
-"age_min": 6,
+"last_scan": "14:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 09:00 UTC · new 1 · events 0 · open 8"
+"summary": "run 2026-11-20 09:15 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5091.85",
-"equity": "5145.32",
-"floating": "53.47",
-"positions": "8",
+"balance": "5112.65",
+"equity": "5142.02",
+"floating": "29.37",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
