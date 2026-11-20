@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-20 20:47 IST",
+"updated": "2026-11-20 22:24 IST",
 "date": "2026-11-20",
-"followers": 76,
+"followers": 77,
 "media_count": 142,
 "slots": [
 {
@@ -38,11 +38,11 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 15,
+"likes": 17,
 "comments": 0,
-"views": 569,
-"reach": 445,
-"saved": 13,
+"views": 585,
+"reach": 455,
+"saved": 14,
 "shares": 10
 }
 },
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 132,
-"reach": 105,
+"views": 133,
+"reach": 106,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 129,
-"reach": 95,
+"views": 133,
+"reach": 98,
 "saved": 2,
 "shares": 1
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 27,
-"reach": 23,
+"views": 33,
+"reach": 27,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 1,
 "comments": 0,
-"views": 131,
-"reach": 110,
+"views": 134,
+"reach": 113,
 "saved": 1,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
 "likes": 1,
 "comments": 0,
-"views": 128,
-"reach": 102,
+"views": 131,
+"reach": 105,
 "saved": 2,
 "shares": 0
 }
@@ -164,10 +164,10 @@
 "time": "2026-11-20 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 27,
-"reach": 13,
+"views": 118,
+"reach": 87,
 "saved": 1,
 "shares": 0
 }
@@ -216,10 +216,10 @@
 "time": "2026-11-20 19:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 27,
-"reach": 13,
+"views": 118,
+"reach": 87,
 "saved": 1,
 "shares": 0
 },
@@ -232,8 +232,8 @@
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
 "likes": 1,
 "comments": 0,
-"views": 128,
-"reach": 102,
+"views": 131,
+"reach": 105,
 "saved": 2,
 "shares": 0
 },
@@ -246,8 +246,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 1,
 "comments": 0,
-"views": 131,
-"reach": 110,
+"views": 134,
+"reach": 113,
 "saved": 1,
 "shares": 0
 },
@@ -260,8 +260,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 27,
-"reach": 23,
+"views": 33,
+"reach": 27,
 "saved": 0,
 "shares": 0
 },
@@ -274,8 +274,8 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 129,
-"reach": 95,
+"views": 133,
+"reach": 98,
 "saved": 2,
 "shares": 1
 },
@@ -288,8 +288,8 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 132,
-"reach": 105,
+"views": 133,
+"reach": 106,
 "saved": 0,
 "shares": 0
 },
@@ -300,11 +300,11 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 15,
+"likes": 17,
 "comments": 0,
-"views": 569,
-"reach": 445,
-"saved": 13,
+"views": 585,
+"reach": 455,
+"saved": 14,
 "shares": 10
 },
 {
@@ -330,8 +330,8 @@
 "link": "https://www.instagram.com/reel/Df7WuqBEzKA/",
 "likes": 4,
 "comments": 1,
-"views": 119,
-"reach": 101,
+"views": 120,
+"reach": 102,
 "saved": 2,
 "shares": 0
 },
@@ -1215,7 +1215,7 @@
 "today_net": -2.26,
 "engine": {
 "last_scan": "20:41",
-"age_min": 6,
+"age_min": 102,
 "rc": 0,
 "summary": "run 2026-11-20 15:10 UTC · new 0 · events 0 · open 6"
 },
@@ -1230,10 +1230,20 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 139581,
+"voice_chars_month": 145397,
 "voice_limit": 30000,
-"disk_free_gb": 15.9,
+"disk_free_gb": 15.4,
 "github_runs": [
+{
+"t": "2026-11-20T16:19:34Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-20T15:43:30Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-20T15:09:16Z",
 "ok": "success",
@@ -1248,16 +1258,6 @@
 "t": "2026-11-20T13:57:02Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-20T13:31:55Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-20T13:30:20Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
