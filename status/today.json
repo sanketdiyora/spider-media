@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 10:41 IST",
+"updated": "2026-11-20 11:01 IST",
 "date": "2026-11-20",
 "followers": 75,
 "media_count": 137,
@@ -92,7 +92,7 @@
 "slot": "1500",
 "name": "Riddle reel",
 "type": "reel",
-"title": "SPIDER RIDDLE #5 · Part 1/2 🧩 Coin toss trader.",
+"title": "SPIDER RIDDLE #5 🧩 Coin toss trader.",
 "status": "PENDING",
 "post": null
 },
@@ -568,9 +568,9 @@
 "sl": 26529.99,
 "r": null,
 "opened": "20 Nov 06:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.10 lots @26399.78 SL 26553.61 (scanner SL) entry 26397.03 basis 21.82 (M15) +SLbuf 1.80 +TPbuf 1.80  risk 0.30%"
+"mt5_reason": "SL 26398.83"
 },
 {
 "id": "JPN225_1795139100_pbo",
@@ -998,23 +998,23 @@
 "all_win": 125,
 "today_net": -1.64,
 "engine": {
-"last_scan": "10:31",
-"age_min": 9,
+"last_scan": "10:56",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 05:00 UTC · new 1 · events 0 · open 7"
+"summary": "run 2026-11-20 05:25 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5081.40",
-"equity": "5094.55",
-"floating": "13.15",
+"equity": "5101.31",
+"floating": "19.91",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 138495,
+"voice_chars_month": 139035,
 "voice_limit": 30000,
 "disk_free_gb": 16.0,
 "github_runs": [
