@@ -1,0 +1,45 @@
+Tumhara backtest kehta hai sabse bada drawdown sirf 6R tha. Par wahi trades dusre kram me aate to drawdown 25R bhi ho sakta tha. Backtest sirf ek raasta dikhata hai. Is episode me zero se samjho Monte Carlo: ek backtest ke hazaaron raaste kaise dekhein, aur usse position size kaise tay karein.
+
+Ye SPIDER ki Quant Trading Series ka Episode 7 hai (Hindi + English subtitles).
+
+Is episode me:
+• Monte Carlo kya hai: ek hi cheez ko hazaaron baar, thoda badal ke, chala ke dekhna
+• Backtest = trades ka ek hi kram; edge wahi, par raasta aur drawdown alag
+• Tareeka 1, Shuffle: wahi trades, naya kram → kul kamaai wahi, drawdown alag
+• Example (200 trades, 50% jeet, +1.5R / −1R, kul +50R, 20,000 shuffle): beech ka max DD 9R, 95% baar 14R tak, sabse bura ~25R
+• Tareeka 2, Resample: trades ko wapas daal ke nikaalna → kul kamaai bhi badalti hai
+• Resample ka nateeja: beech ~50R, 90% raaste +20R se +80R, ~1000 me 1 raasta ghaate me
+• Kaise padhein: ausat nahi, 95% wala bura kinaara
+• Size: 16R drawdown = 1% risk par ~15%, 2% risk par ~28%
+• Monte Carlo ki seema: trades alag-alag maane jaate hain, aur galat backtest ke raaste bhi galat
+
+Chapters:
+0:00 Intro
+0:22 Pichhla episode
+0:38 Monte Carlo kya hai
+0:59 Ek hi raasta
+1:18 Tareeka 1: Shuffle
+1:38 Shuffle ka nateeja
+2:06 Tareeka 2: Resample
+2:28 Resample ka nateeja
+2:47 Kaise padhein
+3:06 Size tay karo
+3:28 Monte Carlo ki seema
+3:47 Recap
+4:07 Agla episode
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Agla episode: System ka report card. Profit factor aur Sharpe ratio.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number simulation ya samjhane ke liye example hain.
+
+#quanttrading #montecarlo #tradinghindi #algotrading #spidertrades

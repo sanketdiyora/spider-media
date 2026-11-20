@@ -1,0 +1,42 @@
+Episode 1 me kaha tha: candle teen cheezein chhupati hai. Sabse zyada trade kahan hua, aggressive kaun tha, aur kaun fasa. Is episode me wo chart jo candle ko andar se dikhata hai: Footprint. Zero se samjho Bid × Ask numbers kaise padhein, footprint ke 3 types, aur ek footprint candle padhne ke 3 kadam.
+
+Ye SPIDER ki Order Flow Series ka Episode 12 hai, Module 3 (Asli Order Flow) (Hindi + English subtitles).
+
+Is episode me:
+• Footprint kya hai: candle ke har price par kitna volume hua
+• Bid × Ask: baayan number = bid par hua volume (sellers ne market order se becha), daayan = ask par hua volume (buyers ne kharida)
+• Ek row padhna: 102 par 120 × 260
+• Footprint ke 3 types: bid-ask, delta (ask − bid), volume (kul)
+• Kadam 1: candle ka POC (sabse zyada volume wali row)
+• Kadam 2: poori candle ka delta (655 − 390 = +265)
+• Kadam 3: candle ke sire (104 par 80 × 30: top par sellers bhaari)
+• Ek candle se faisla nahi: aaspaas ki candles aur level ke saath padho
+• Sach: spot forex aur gold me asli footprint nahi banta (futures ya crypto exchange dekho)
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:39 Footprint kya hai
+0:54 Bid x Ask
+1:18 Ek row padho
+1:36 Teen types
+2:00 Kadam 1: POC
+2:18 Kadam 2: Delta
+2:36 Kadam 3: Sire
+2:55 Padhne ka kram
+3:16 Forex ka sach
+3:36 Recap
+4:01 Agla episode
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 10 (Market Profile / TPO): https://youtu.be/qpAG3n2kDM0
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Agla episode: Delta aur Cumulative Delta (CVD).
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #footprintchart #tradinghindi #forextrading #spidertrades

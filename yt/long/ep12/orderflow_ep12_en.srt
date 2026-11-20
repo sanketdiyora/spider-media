@@ -1,0 +1,168 @@
+1
+00:00:05,000 --> 00:00:09,518
+In episode one I said: a candle hides three things.
+
+2
+00:00:09,969 --> 00:00:15,219
+Where most trading happened, who was aggressive, and who got trapped.
+
+3
+00:00:15,670 --> 00:00:20,424
+Today, the chart that shows the candle from the inside: the footprint.
+
+4
+00:00:21,424 --> 00:00:26,335
+Hello, this is episode twelve of the SPIDER Order Flow series.
+
+5
+00:00:26,784 --> 00:00:32,662
+Last time: Time and Sales, the tape. One line per trade.
+
+6
+00:00:33,113 --> 00:00:38,102
+Today: the footprint. The same data, arranged inside the candle.
+
+7
+00:00:39,102 --> 00:00:43,543
+A footprint is a candle opened up to show its inside.
+
+8
+00:00:43,993 --> 00:00:48,199
+At each price of the candle it shows how much volume traded there.
+
+9
+00:00:48,649 --> 00:00:53,899
+So thousands of tape lines, added up by price, in one place.
+
+10
+00:00:54,899 --> 00:00:58,870
+Each price has two numbers with a cross between them.
+
+11
+00:00:59,320 --> 00:01:05,275
+The left number: volume traded at the bid. Sellers sold with market orders.
+
+12
+00:01:05,726 --> 00:01:11,603
+The right number: volume traded at the ask. Buyers bought with market orders.
+
+13
+00:01:12,053 --> 00:01:17,121
+An easy way to remember: left is the sellers, right is the buyers.
+
+14
+00:01:18,121 --> 00:01:24,234
+Let us read one row. At 102 it says: 120 x 260.
+
+15
+00:01:24,684 --> 00:01:32,651
+It means at this price aggressive sellers sold 120 lots and aggressive buyers bought 260 lots.
+
+16
+00:01:33,101 --> 00:01:35,217
+Buyers were heavier here.
+
+17
+00:01:36,217 --> 00:01:38,985
+A footprint is shown in three ways.
+
+18
+00:01:39,436 --> 00:01:43,955
+First, bid-ask: both numbers, as we just saw.
+
+19
+00:01:44,405 --> 00:01:52,110
+Second, delta: ask minus bid at each price. At 102, +140.
+
+20
+00:01:52,561 --> 00:01:59,327
+Third, volume: total volume at each price. At 102, 380.
+
+21
+00:02:00,327 --> 00:02:05,969
+Now we read the whole candle. Step one: find the row with the most volume.
+
+22
+00:02:06,419 --> 00:02:11,487
+Here that is 102. It is called the POC of the candle.
+
+23
+00:02:11,937 --> 00:02:17,579
+So the real business of this candle happened here, not at the top or bottom ends.
+
+24
+00:02:18,579 --> 00:02:21,819
+Step two: the delta of the whole candle.
+
+25
+00:02:22,269 --> 00:02:29,583
+All the right numbers add up to 655. All the left numbers add up to 390.
+
+26
+00:02:30,033 --> 00:02:35,519
+Delta is +265. Aggressive buyers led in this candle.
+
+27
+00:02:36,519 --> 00:02:39,523
+Step three: look at the ends of the candle.
+
+28
+00:02:39,972 --> 00:02:46,660
+At the very top, at 104: 80 x 30. Sellers are heavier here.
+
+29
+00:02:47,109 --> 00:02:54,268
+So at the top of a green candle, buyers weakened. That is what a plain candle hides.
+
+30
+00:02:55,268 --> 00:03:02,504
+So the reading order: where the POC is, which side the delta is on, and who is heavier at the ends.
+
+31
+00:03:02,954 --> 00:03:09,719
+If the POC is in the upper part, business happened at higher prices. If lower, then lower.
+
+32
+00:03:10,168 --> 00:03:15,498
+Do not decide from one candle. Read it with nearby candles and the level.
+
+33
+00:03:16,498 --> 00:03:22,298
+And the same truth again: spot forex and gold have no real footprint.
+
+34
+00:03:22,748 --> 00:03:29,017
+A footprint needs the real volume and side of every trade, which only an exchange provides.
+
+35
+00:03:29,466 --> 00:03:35,998
+So read footprints on futures: gold futures, index futures, or a crypto exchange.
+
+36
+00:03:36,998 --> 00:03:38,565
+So, today's summary.
+
+37
+00:03:39,015 --> 00:03:46,826
+A footprint shows the candle from inside. Each price has bid x ask: left sellers, right buyers.
+
+38
+00:03:47,275 --> 00:03:51,481
+Three types: bid-ask, delta and volume.
+
+39
+00:03:51,930 --> 00:04:00,369
+Three reading steps: POC, candle delta, and the ends. Real footprints come from futures.
+
+40
+00:04:01,369 --> 00:04:06,698
+Next episode: Delta and Cumulative Delta, the CVD.
+
+41
+00:04:07,148 --> 00:04:12,137
+If this was useful, subscribe and save the playlist.
+
+42
+00:04:12,587 --> 00:04:18,778
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

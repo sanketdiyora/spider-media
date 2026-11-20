@@ -1,0 +1,164 @@
+1
+00:00:05,000 --> 00:00:09,675
+Your backtest says: the biggest drawdown was only 6R.
+
+2
+00:00:10,126 --> 00:00:15,690
+But the same trades, in a different order, could have given a 25R drawdown.
+
+3
+00:00:16,140 --> 00:00:21,286
+The backtest showed one path. Today we look at the other thousand.
+
+4
+00:00:22,286 --> 00:00:27,119
+Hello, this is episode seven of the SPIDER Quant Trading series.
+
+5
+00:00:27,569 --> 00:00:32,479
+Last time: risk of ruin, the chance of blowing the account.
+
+6
+00:00:32,930 --> 00:00:37,684
+Today: Monte Carlo. One backtest, a thousand paths.
+
+7
+00:00:38,684 --> 00:00:45,450
+Monte Carlo means running the same thing thousands of times, slightly changed each time.
+
+8
+00:00:45,900 --> 00:00:53,057
+The name comes from a famous casino town, because a game of chance is played again and again.
+
+9
+00:00:53,507 --> 00:00:58,418
+We ask: if luck had been different, how different would the result be?
+
+10
+00:00:59,418 --> 00:01:05,530
+In the backtest, trades came in one particular order. Win, loss, win, win.
+
+11
+00:01:05,981 --> 00:01:11,309
+That order is an accident of history. Next time the order will be different.
+
+12
+00:01:11,759 --> 00:01:17,716
+The edge stays the same, but the path changes. And drawdown depends on the path.
+
+13
+00:01:18,716 --> 00:01:25,324
+Method one: shuffle. Mix your 200 trade results like a deck of cards.
+
+14
+00:01:25,774 --> 00:01:32,384
+Each time a new order and a new equity line. The total stays the same, because the trades are the same.
+
+15
+00:01:32,833 --> 00:01:37,431
+But the journey in between, the drawdown, is different every time.
+
+16
+00:01:38,431 --> 00:01:46,711
+Our example: 200 trades, half of them wins. A win is 1.5R, a loss is 1R. Total 50R.
+
+17
+00:01:47,161 --> 00:01:53,928
+We shuffled 20,000 times. Half the time the biggest drawdown was 9R or more.
+
+18
+00:01:54,378 --> 00:01:58,505
+95% of the time the drawdown stayed within 14R.
+
+19
+00:01:58,955 --> 00:02:05,878
+And in the worst order, about 25R. The 6R in the backtest was just good luck.
+
+20
+00:02:06,878 --> 00:02:14,584
+Method two: resample. Draw one slip from your bag of trades, note it, and put it back.
+
+21
+00:02:15,034 --> 00:02:20,597
+Do that 200 times. Some trades appear twice, some not at all.
+
+22
+00:02:21,048 --> 00:02:27,814
+Now the total also changes each time. It shows how different the future result could be.
+
+23
+00:02:28,814 --> 00:02:33,333
+Result: the middle path again ends around 50R.
+
+24
+00:02:33,783 --> 00:02:40,052
+But 90% of paths ended between 20R and 80R. That is a wide gap.
+
+25
+00:02:40,501 --> 00:02:46,222
+And about one path in a thousand ended in a loss, despite the edge.
+
+26
+00:02:47,222 --> 00:02:51,272
+So Monte Carlo gives you a range, not a single number.
+
+27
+00:02:51,722 --> 00:02:56,790
+Do not look at the average. Look at the bad edge: the 95% line.
+
+28
+00:02:57,239 --> 00:03:05,049
+Here that is a drawdown of about 14 to 16R. Plan for that, not for the 6R in the backtest.
+
+29
+00:03:06,049 --> 00:03:13,130
+Now link it to size. Say your limit is: the account must not fall more than 20%.
+
+30
+00:03:13,579 --> 00:03:19,457
+A 16R drawdown at 1% risk is about a 15% fall.
+
+31
+00:03:19,906 --> 00:03:27,535
+At 2% risk, about 28%. Over the limit. So here 1% fits.
+
+32
+00:03:28,535 --> 00:03:32,009
+But remember, Monte Carlo is not magic.
+
+33
+00:03:32,459 --> 00:03:40,269
+It assumes each trade is independent and the market stays the same. In reality that is not always true.
+
+34
+00:03:40,720 --> 00:03:46,519
+And if the backtest itself is wrong, for example overfit, its thousand paths are wrong too.
+
+35
+00:03:47,519 --> 00:03:49,085
+So, today's summary.
+
+36
+00:03:49,536 --> 00:03:54,369
+A backtest is one path. Monte Carlo shows thousands.
+
+37
+00:03:54,819 --> 00:03:59,965
+Shuffling gives the range of drawdowns. Resampling gives the range of results.
+
+38
+00:04:00,415 --> 00:04:06,528
+Look at the bad 95% edge, not the average, and set your size from it.
+
+39
+00:04:07,528 --> 00:04:13,405
+Next episode: the system report card. Profit factor and Sharpe ratio.
+
+40
+00:04:13,855 --> 00:04:18,766
+If this was useful, subscribe and save the playlist.
+
+41
+00:04:19,216 --> 00:04:25,329
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
