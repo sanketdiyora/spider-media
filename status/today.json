@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 07:13 IST",
+"updated": "2026-11-20 07:37 IST",
 "date": "2026-11-20",
 "followers": 73,
 "media_count": 134,
@@ -518,7 +518,7 @@
 "opened": "20 Nov 06:15",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.17 lots @111.259 SL 111.491 (scanner SL) entry 111.267 basis -0.001 (M15) +SLbuf 0.017 +TPbuf 0.017 split TP1/TP2 risk 0.48%"
+"mt5_reason": "SL 111.284"
 },
 {
 "id": "NAS100_1795134600_pbo",
@@ -532,6 +532,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.10 lots @26399.78 SL 26553.61 (scanner SL) entry 26397.03 basis 21.82 (M15) +SLbuf 1.80 +TPbuf 1.80  risk 0.30%"
+},
+{
+"id": "JPN225_1795139100_pbo",
+"pair": "JPN225",
+"dir": "SELL",
+"model": "pbo",
+"entry": 56809.5,
+"sl": 57802.5,
+"r": null,
+"opened": "20 Nov 07:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 4.00 lots @56852.98 SL 57875.03 (scanner SL) entry 56862.98 basis 53.48 (M15) +SLbuf 19.05 +TPbuf 19.05 split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -816,18 +829,18 @@
 "all_win": 124,
 "today_net": 2.86,
 "engine": {
-"last_scan": "07:06",
-"age_min": 7,
+"last_scan": "07:32",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 01:35 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-20 02:00 UTC · new 1 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5196.19",
-"equity": "5209.24",
-"floating": "13.05",
-"positions": "3",
+"balance": "5205.38",
+"equity": "5218.57",
+"floating": "13.19",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
