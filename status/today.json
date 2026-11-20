@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 11:52 IST",
+"updated": "2026-11-20 12:06 IST",
 "date": "2026-11-20",
 "followers": 75,
 "media_count": 137,
@@ -636,6 +636,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.24 lots @1.21231 SL 1.21421 (scanner SL) entry 1.21249 basis 0.00001 (M15) +SLbuf 0.00014  risk 0.49%"
+},
+{
+"id": "GBPNZD_1795155300_lbo",
+"pair": "GBPNZD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 2.382282,
+"sl": 2.385741,
+"r": null,
+"opened": "20 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -998,17 +1011,17 @@
 "all_win": 125,
 "today_net": -1.64,
 "engine": {
-"last_scan": "11:47",
+"last_scan": "12:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 06:15 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-20 06:30 UTC · new 0 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5081.40",
-"equity": "5095.38",
-"floating": "13.98",
+"equity": "5105.32",
+"floating": "23.92",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
