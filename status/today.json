@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-20 18:52 IST",
+"updated": "2026-11-20 19:07 IST",
 "date": "2026-11-20",
 "followers": 76,
-"media_count": 140,
+"media_count": 141,
 "slots": [
 {
 "slot": "0700",
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 14,
 "comments": 0,
-"views": 540,
-"reach": 424,
+"views": 554,
+"reach": 434,
 "saved": 12,
 "shares": 10
 }
@@ -83,7 +83,7 @@
 "likes": 3,
 "comments": 0,
 "views": 128,
-"reach": 93,
+"reach": 95,
 "saved": 2,
 "shares": 1
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 20,
+"views": 27,
+"reach": 22,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 105,
+"views": 130,
+"reach": 110,
 "saved": 1,
 "shares": 0
 }
@@ -143,11 +143,11 @@
 "time": "2026-11-20 17:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 53,
-"reach": 26,
-"saved": 1,
+"views": 90,
+"reach": 75,
+"saved": 2,
 "shares": 0
 }
 },
@@ -156,8 +156,21 @@
 "name": "Aspire reel",
 "type": "reel",
 "title": "Order Flow ke 5 bade tools. 🧰",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18058480841581376",
+"cap": "Order Flow ke 5 bade tools. 🧰\n\nVolume Profile, VWAP, Footprint, Delta aur CVD. Ek sach bhi: forex aur gold ke spot market me asli volume nahi milta, sirf tick volume. Asli data futures market se aata hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Order Flow ke 5 bade tools. 🧰",
+"time": "2026-11-20 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -170,17 +183,31 @@
 ],
 "recent_posts": [
 {
+"id": "18058480841581376",
+"cap": "Order Flow ke 5 bade tools. 🧰\n\nVolume Profile, VWAP, Footprint, Delta aur CVD. Ek sach bhi: forex aur gold ke spot market me asli volume nahi milta, sirf tick volume. Asli data futures market se aata hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Order Flow ke 5 bade tools. 🧰",
+"time": "2026-11-20 19:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18252092806310673",
 "cap": "Quant trading ka matlab kya hai? ☕\n\nEk chai wala roz copy me likhta hai ki kitne cup bike. Kuch hafton me use pata chal jata hai ki kis din zyada maal chahiye. Yahi quant soch hai: andaaza nahi, ginti.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
 "cap1": "Quant trading ka matlab kya hai? ☕",
 "time": "2026-11-20 17:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 53,
-"reach": 26,
-"saved": 1,
+"views": 90,
+"reach": 75,
+"saved": 2,
 "shares": 0
 },
 {
@@ -192,8 +219,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 105,
+"views": 130,
+"reach": 110,
 "saved": 1,
 "shares": 0
 },
@@ -206,8 +233,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 24,
-"reach": 20,
+"views": 27,
+"reach": 22,
 "saved": 0,
 "shares": 0
 },
@@ -221,7 +248,7 @@
 "likes": 3,
 "comments": 0,
 "views": 128,
-"reach": 93,
+"reach": 95,
 "saved": 2,
 "shares": 1
 },
@@ -248,8 +275,8 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 14,
 "comments": 0,
-"views": 540,
-"reach": 424,
+"views": 554,
+"reach": 434,
 "saved": 12,
 "shares": 10
 },
@@ -290,8 +317,8 @@
 "link": "https://www.instagram.com/reel/Df7MZkJERBt/",
 "likes": 3,
 "comments": 0,
-"views": 164,
-"reach": 114,
+"views": 166,
+"reach": 116,
 "saved": 0,
 "shares": 0
 },
@@ -305,7 +332,7 @@
 "likes": 6,
 "comments": 0,
 "views": 140,
-"reach": 114,
+"reach": 115,
 "saved": 1,
 "shares": 0
 },
@@ -574,20 +601,6 @@
 "reach": 1060,
 "saved": 5,
 "shares": 6
-},
-{
-"id": "18113406743266160",
-"cap": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇\nAaj: 7 trade band · 3 jeete · 4 haare · net +0.4R · 6 live\nGBPUSD SELL — band, +1.9R (trailing stop pe profit me band)\nNAS100 SELL — band, -1.0R (SL hit)\nCADJPY SELL — abhi chal raha hai, +0.9R (risk-free 🔒)\nUS30 SELL — abhi chal raha hai, +0.5R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Tue 17 Nov) 👇",
-"time": "2026-11-17 13:40",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df1eDW0lPAK/",
-"likes": 1,
-"comments": 0,
-"views": 134,
-"reach": 107,
-"saved": 2,
-"shares": 0
 }
 ],
 "trades": [],
@@ -641,7 +654,7 @@
 "sl": 1.433628,
 "r": null,
 "opened": "20 Nov 12:05",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
 },
@@ -1162,17 +1175,17 @@
 "all_win": 129,
 "today_net": -3.26,
 "engine": {
-"last_scan": "18:46",
+"last_scan": "19:01",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-20 13:15 UTC · new 0 · events 1 · open 6"
+"summary": "run 2026-11-20 13:30 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5039.20",
-"equity": "5113.79",
-"floating": "74.59",
+"equity": "5126.27",
+"floating": "87.07",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -1182,6 +1195,16 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.9,
 "github_runs": [
+{
+"t": "2026-11-20T13:31:55Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-20T13:30:20Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-20T11:30:21Z",
 "ok": "success",
@@ -1194,16 +1217,6 @@
 },
 {
 "t": "2026-11-20T09:56:09Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-20T09:30:24Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-20T08:12:49Z",
 "ok": "success",
 "ev": "schedule"
 }
