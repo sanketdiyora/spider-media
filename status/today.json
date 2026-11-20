@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 14:23 IST",
+"updated": "2026-11-20 14:38 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 138,
@@ -38,11 +38,11 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 13,
+"likes": 14,
 "comments": 0,
-"views": 425,
-"reach": 312,
-"saved": 9,
+"views": 482,
+"reach": 374,
+"saved": 10,
 "shares": 9
 }
 },
@@ -62,7 +62,7 @@
 "likes": 0,
 "comments": 0,
 "views": 126,
-"reach": 102,
+"reach": 103,
 "saved": 0,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 116,
-"reach": 88,
+"views": 120,
+"reach": 89,
 "saved": 2,
 "shares": 0
 }
@@ -103,7 +103,7 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 3,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -152,7 +152,7 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 3,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 116,
-"reach": 88,
+"views": 120,
+"reach": 89,
 "saved": 2,
 "shares": 0
 },
@@ -181,7 +181,7 @@
 "likes": 0,
 "comments": 0,
 "views": 126,
-"reach": 102,
+"reach": 103,
 "saved": 0,
 "shares": 0
 },
@@ -192,11 +192,11 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 13,
+"likes": 14,
 "comments": 0,
-"views": 425,
-"reach": 312,
-"saved": 9,
+"views": 482,
+"reach": 374,
+"saved": 10,
 "shares": 9
 },
 {
@@ -250,8 +250,8 @@
 "link": "https://www.instagram.com/reel/Df6-qENGbCC/",
 "likes": 6,
 "comments": 0,
-"views": 130,
-"reach": 110,
+"views": 131,
+"reach": 111,
 "saved": 1,
 "shares": 0
 },
@@ -264,8 +264,8 @@
 "link": "https://www.instagram.com/reel/Df6w9YcjFiG/",
 "likes": 7,
 "comments": 1,
-"views": 189,
-"reach": 163,
+"views": 194,
+"reach": 165,
 "saved": 2,
 "shares": 0
 },
@@ -349,7 +349,7 @@
 "likes": 0,
 "comments": 0,
 "views": 117,
-"reach": 96,
+"reach": 97,
 "saved": 1,
 "shares": 1
 },
@@ -376,7 +376,7 @@
 "link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
 "likes": 2,
 "comments": 0,
-"views": 132,
+"views": 133,
 "reach": 111,
 "saved": 1,
 "shares": 0
@@ -657,6 +657,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "GBPCHF_1795164300_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10423,
+"sl": 1.103185,
+"r": null,
+"opened": "20 Nov 14:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @1.10443 SL 1.10322 (scanner SL) entry 1.10426 basis 0.00003 (M15) split TP1/TP2 risk 0.48%"
 }
 ],
 "closed_today": [
@@ -1058,18 +1071,18 @@
 "all_win": 127,
 "today_net": -0.14,
 "engine": {
-"last_scan": "14:16",
+"last_scan": "14:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-20 08:45 UTC · new 0 · events 1 · open 7"
+"summary": "run 2026-11-20 09:00 UTC · new 1 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5091.85",
-"equity": "5116.03",
-"floating": "24.18",
-"positions": "6",
+"equity": "5145.32",
+"floating": "53.47",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
