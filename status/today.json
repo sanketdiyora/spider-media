@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-20 20:22 IST",
+"updated": "2026-11-20 20:37 IST",
 "date": "2026-11-20",
 "followers": 76,
-"media_count": 141,
+"media_count": 142,
 "slots": [
 {
 "slot": "0700",
@@ -38,10 +38,10 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 14,
+"likes": 15,
 "comments": 0,
-"views": 560,
-"reach": 441,
+"views": 569,
+"reach": 445,
 "saved": 13,
 "shares": 10
 }
@@ -82,7 +82,7 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 128,
+"views": 129,
 "reach": 95,
 "saved": 2,
 "shares": 1
@@ -122,9 +122,9 @@
 "time": "2026-11-20 15:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 130,
+"views": 131,
 "reach": 110,
 "saved": 1,
 "shares": 0
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
 "likes": 1,
 "comments": 0,
-"views": 126,
-"reach": 101,
+"views": 128,
+"reach": 102,
 "saved": 2,
 "shares": 0
 }
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
 "likes": 0,
 "comments": 0,
-"views": 16,
-"reach": 5,
+"views": 27,
+"reach": 13,
 "saved": 1,
 "shares": 0
 }
@@ -177,11 +177,38 @@
 "name": "Know reel",
 "type": "reel",
 "title": "KNOW #5 📚 Stop Loss Kyun Zaroori",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18173107414476004",
+"cap": "KNOW #5 📚 Stop Loss Kyun Zaroori\nEk trade poora account uda sakti hai. Kaise bachen?\n• Stop loss matlab pehle se tay karo, kahan galat ho.\n• Bina stop loss chhota loss bada banta hai, phir hope pe trade chalti hai.\n• Stop structure ke peeche rakho, random number pe nahi.\nTip: stop loss lagao aur phir use door mat khiskao.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
+"cap1": "KNOW #5 📚 Stop Loss Kyun Zaroori",
+"time": "2026-11-20 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df97eY5AYjf/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 }
 ],
 "recent_posts": [
+{
+"id": "18173107414476004",
+"cap": "KNOW #5 📚 Stop Loss Kyun Zaroori\nEk trade poora account uda sakti hai. Kaise bachen?\n• Stop loss matlab pehle se tay karo, kahan galat ho.\n• Bina stop loss chhota loss bada banta hai, phir hope pe trade chalti hai.\n• Stop structure ke peeche rakho, random number pe nahi.\nTip: stop loss lagao aur phir use door mat khiskao.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
+"cap1": "KNOW #5 📚 Stop Loss Kyun Zaroori",
+"time": "2026-11-20 20:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df97eY5AYjf/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18058480841581376",
 "cap": "Order Flow ke 5 bade tools. 🧰\n\nVolume Profile, VWAP, Footprint, Delta aur CVD. Ek sach bhi: forex aur gold ke spot market me asli volume nahi milta, sirf tick volume. Asli data futures market se aata hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
@@ -191,8 +218,8 @@
 "link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
 "likes": 0,
 "comments": 0,
-"views": 16,
-"reach": 5,
+"views": 27,
+"reach": 13,
 "saved": 1,
 "shares": 0
 },
@@ -205,8 +232,8 @@
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
 "likes": 1,
 "comments": 0,
-"views": 126,
-"reach": 101,
+"views": 128,
+"reach": 102,
 "saved": 2,
 "shares": 0
 },
@@ -217,9 +244,9 @@
 "time": "2026-11-20 15:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 130,
+"views": 131,
 "reach": 110,
 "saved": 1,
 "shares": 0
@@ -247,7 +274,7 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 128,
+"views": 129,
 "reach": 95,
 "saved": 2,
 "shares": 1
@@ -273,10 +300,10 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 14,
+"likes": 15,
 "comments": 0,
-"views": 560,
-"reach": 441,
+"views": 569,
+"reach": 445,
 "saved": 13,
 "shares": 10
 },
@@ -303,8 +330,8 @@
 "link": "https://www.instagram.com/reel/Df7WuqBEzKA/",
 "likes": 4,
 "comments": 1,
-"views": 118,
-"reach": 100,
+"views": 119,
+"reach": 101,
 "saved": 2,
 "shares": 0
 },
@@ -587,20 +614,6 @@
 "reach": 119,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18020756600949344",
-"cap": "SPIDER RIDDLE #2 · Part 1/2 🧩 7 haare, phir bhi green.\nTrader ne 10 trades liye, har trade 1R risk. 3 jeete, 7 haare. Mahine ka result +2R. Har jeet pe RR kitna tha (sab jeet same RR)?\nJawab comment me likho 👇 Kal 9 AM jawab reel (Part 2/2) + pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #riskreward #tradingpsychology",
-"cap1": "SPIDER RIDDLE #2 · Part 1/2 🧩 7 haare, phir bhi green.",
-"time": "2026-11-17 15:10",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
-"likes": 17,
-"comments": 2,
-"views": 1212,
-"reach": 1060,
-"saved": 5,
-"shares": 6
 }
 ],
 "trades": [],
@@ -618,19 +631,6 @@
 "state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 111.284"
-},
-{
-"id": "NAS100_1795134600_pbo",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "pbo",
-"entry": 26375.21,
-"sl": 26529.99,
-"r": null,
-"opened": "20 Nov 06:15",
-"state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 26398.83"
 },
 {
 "id": "JPN225_1795139100_pbo",
@@ -997,9 +997,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "NAS100_1795134600_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 26375.21,
+"sl": 26529.99,
+"r": 0.5,
+"opened": "20 Nov 06:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 0.10 USD = 0.01R"
 }
 ],
 "closed_recent": [
+{
+"id": "NAS100_1795134600_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 26375.21,
+"sl": 26529.99,
+"r": 0.5,
+"opened": "20 Nov 06:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 0.10 USD = 0.01R"
+},
 {
 "id": "USDCAD_1795156200_lbo",
 "pair": "USDCAD",
@@ -1181,38 +1207,25 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -25.00 USD = -1.00R"
-},
-{
-"id": "BRENT_1795141800_pbo",
-"pair": "BRENT OIL",
-"dir": "SELL",
-"model": "pbo",
-"entry": 92.56,
-"sl": 92.763,
-"r": 0.5,
-"opened": "20 Nov 08:15",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "spread too wide: 0.059 = 0.29R of the scanner risk (basis too big 0.870 (M15, limit 0.139), 0)"
 }
 ],
-"all_n": 232,
-"all_net": 39.55,
-"all_win": 130,
-"today_net": -2.76,
+"all_n": 233,
+"all_net": 40.05,
+"all_win": 131,
+"today_net": -2.26,
 "engine": {
-"last_scan": "20:17",
+"last_scan": "20:33",
 "age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-20 14:45 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-20 15:00 UTC · new 0 · events 1 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5039.20",
-"equity": "5098.39",
-"floating": "59.19",
-"positions": "10",
+"balance": "5039.30",
+"equity": "5069.67",
+"floating": "30.37",
+"positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1221,6 +1234,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.9,
 "github_runs": [
+{
+"t": "2026-11-20T15:00:28Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-20T13:57:02Z",
 "ok": "success",
@@ -1240,11 +1258,6 @@
 "t": "2026-11-20T11:30:21Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-20T11:20:17Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
