@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 16:37 IST",
+"updated": "2026-11-20 16:52 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 139,
@@ -620,19 +620,6 @@
 "mt5_reason": "OPEN SELL 4.00 lots @56852.98 SL 57875.03 (scanner SL) entry 56862.98 basis 53.48 (M15) +SLbuf 19.05 +TPbuf 19.05 split TP1/TP2 risk 0.49%"
 },
 {
-"id": "GBPNZD_1795155300_lbo",
-"pair": "GBPNZD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 2.382282,
-"sl": 2.385741,
-"r": null,
-"opened": "20 Nov 11:50",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "USDCAD_1795156200_lbo",
 "pair": "USDCAD",
 "dir": "SELL",
@@ -670,6 +657,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.10 lots @2.38455 SL 2.38028 (scanner SL) entry 2.38496 basis 0.00009 (M1) split TP1/TP2 risk 0.46%"
+},
+{
+"id": "EURCHF_1795172400_pbo",
+"pair": "EURCHF",
+"dir": "SELL",
+"model": "pbo",
+"entry": 0.92255,
+"sl": 0.924367,
+"r": null,
+"opened": "20 Nov 16:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.10 lots @0.92251 SL 0.92448 (scanner SL) entry 0.92252 basis -0.00003 (M1) +SLbuf 0.00014 +TPbuf 0.00014 split TP1/TP2 risk 0.46%"
 }
 ],
 "closed_today": [
@@ -919,9 +919,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -13.55 USD = -1.01R"
+},
+{
+"id": "GBPNZD_1795155300_lbo",
+"pair": "GBPNZD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 2.382282,
+"sl": 2.385741,
+"r": -1.0,
+"opened": "20 Nov 11:50",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPNZD_1795155300_lbo",
+"pair": "GBPNZD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 2.382282,
+"sl": 2.385741,
+"r": -1.0,
+"opened": "20 Nov 11:50",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "US30_1795166100_dpoc",
 "pair": "US30",
@@ -1103,38 +1129,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDJPY_1795109400_dpoc",
-"pair": "AUDJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 106.635,
-"sl": 106.9442,
-"r": 0.87,
-"opened": "19 Nov 23:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 228,
-"all_net": 42.05,
+"all_n": 229,
+"all_net": 41.05,
 "all_win": 129,
-"today_net": -0.26,
+"today_net": -1.26,
 "engine": {
-"last_scan": "16:32",
+"last_scan": "16:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 11:00 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-20 11:15 UTC · new 1 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5086.98",
-"equity": "5116.71",
-"floating": "29.73",
-"positions": "8",
+"equity": "5136.36",
+"floating": "49.38",
+"positions": "10",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1143,6 +1156,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.9,
 "github_runs": [
+{
+"t": "2026-11-20T11:20:17Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-20T09:56:09Z",
 "ok": "success",
@@ -1160,11 +1178,6 @@
 },
 {
 "t": "2026-11-20T05:00:29Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-20T03:30:24Z",
 "ok": "success",
 "ev": "workflow_dispatch"
 }
