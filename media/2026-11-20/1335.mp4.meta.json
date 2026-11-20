@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-20/1335.mp4",
+ "dur": 44.53,
+ "music": "corporate/474.mp3",
+ "chars": 546,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "BRENT OIL",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    92.56,
+    92.56812000000001
+   ],
+   "sl": 92.763,
+   "entry": 92.56,
+   "rr": 3.0,
+   "tp1": 92.357,
+   "tp2": 91.952
+  },
+  {
+   "pair": "GER40",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    25083.48,
+    25087.734
+   ],
+   "sl": 25189.83,
+   "entry": 25083.48,
+   "rr": 2.5,
+   "tp1": 24977.13,
+   "tp2": 24817.59
+  },
+  {
+   "pair": "CADJPY",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    111.268,
+    111.276264
+   ],
+   "sl": 111.4746,
+   "entry": 111.268,
+   "rr": 3.0,
+   "tp1": 111.0614,
+   "tp2": 110.6482
+  },
+  {
+   "pair": "BRENT OIL",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    92.43,
+    92.44924
+   ],
+   "sl": 92.911,
+   "entry": 92.43,
+   "rr": 3.0,
+   "tp1": 91.949,
+   "tp2": 90.986
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_a5e6c813",
+ "crops": [
+  "/home/claude/ig/setup/w_a5e6c813/tg_0.jpg",
+  "/home/claude/ig/setup/w_a5e6c813/tg_1.jpg",
+  "/home/claude/ig/setup/w_a5e6c813/tg_2.jpg",
+  "/home/claude/ig/setup/w_a5e6c813/tg_3.jpg"
+ ]
+}
