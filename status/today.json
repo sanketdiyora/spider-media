@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20 13:06 IST",
+"updated": "2026-11-20 13:22 IST",
 "date": "2026-11-20",
 "followers": 76,
 "media_count": 137,
@@ -620,7 +620,7 @@
 "sl": 92.911,
 "r": null,
 "opened": "20 Nov 10:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -1.08R room (basis too big 0.881 (M15, limit 0.240), 0)"
 },
@@ -1037,17 +1037,17 @@
 "all_win": 125,
 "today_net": -1.64,
 "engine": {
-"last_scan": "13:01",
+"last_scan": "13:17",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 07:30 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-20 07:45 UTC · new 0 · events 1 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5092.68",
-"equity": "5129.73",
-"floating": "37.05",
+"equity": "5098.45",
+"floating": "5.77",
 "positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
