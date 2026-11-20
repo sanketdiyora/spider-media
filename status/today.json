@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-20 16:52 IST",
+"updated": "2026-11-20 17:07 IST",
 "date": "2026-11-20",
 "followers": 76,
-"media_count": 139,
+"media_count": 140,
 "slots": [
 {
 "slot": "0700",
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/reel/Df8eyLIFOnL/",
 "likes": 0,
 "comments": 0,
-"views": 129,
+"views": 130,
 "reach": 102,
 "saved": 2,
 "shares": 1
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 14,
 "comments": 0,
-"views": 511,
-"reach": 402,
+"views": 518,
+"reach": 411,
 "saved": 12,
 "shares": 10
 }
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 127,
+"views": 128,
 "reach": 104,
 "saved": 0,
 "shares": 0
@@ -82,10 +82,10 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 122,
-"reach": 91,
+"views": 123,
+"reach": 92,
 "saved": 2,
-"shares": 0
+"shares": 1
 }
 },
 {
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 9,
+"views": 17,
+"reach": 14,
 "saved": 0,
 "shares": 0
 }
@@ -124,8 +124,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 0,
 "comments": 0,
-"views": 90,
-"reach": 47,
+"views": 120,
+"reach": 104,
 "saved": 1,
 "shares": 0
 }
@@ -135,8 +135,21 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "Quant trading ka matlab kya hai? ☕",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18252092806310673",
+"cap": "Quant trading ka matlab kya hai? ☕\n\nEk chai wala roz copy me likhta hai ki kitne cup bike. Kuch hafton me use pata chal jata hai ki kis din zyada maal chahiye. Yahi quant soch hai: andaaza nahi, ginti.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Quant trading ka matlab kya hai? ☕",
+"time": "2026-11-20 17:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1900",
@@ -157,6 +170,20 @@
 ],
 "recent_posts": [
 {
+"id": "18252092806310673",
+"cap": "Quant trading ka matlab kya hai? ☕\n\nEk chai wala roz copy me likhta hai ki kitne cup bike. Kuch hafton me use pata chal jata hai ki kis din zyada maal chahiye. Yahi quant soch hai: andaaza nahi, ginti.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Quant trading ka matlab kya hai? ☕",
+"time": "2026-11-20 17:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18209036056373866",
 "cap": "SPIDER RIDDLE #5 🧩 Coin toss trader.\nTrader coin toss se entry leta hai: 50% win rate. Lekin har jeet +2R, har haar −1R. 100 trades ke baad result kitne R hoga?\nJawab comment me likho 👇 Sahi jawab kal pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #expectancy #riskreward",
 "cap1": "SPIDER RIDDLE #5 🧩 Coin toss trader.",
@@ -165,8 +192,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 0,
 "comments": 0,
-"views": 90,
-"reach": 47,
+"views": 120,
+"reach": 104,
 "saved": 1,
 "shares": 0
 },
@@ -179,8 +206,8 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 11,
-"reach": 9,
+"views": 17,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -193,10 +220,10 @@
 "link": "https://www.instagram.com/reel/Df821lMkZ6L/",
 "likes": 3,
 "comments": 0,
-"views": 122,
-"reach": 91,
+"views": 123,
+"reach": 92,
 "saved": 2,
-"shares": 0
+"shares": 1
 },
 {
 "id": "18084430355348558",
@@ -207,7 +234,7 @@
 "link": "https://www.instagram.com/reel/Df8sjasDUNP/",
 "likes": 0,
 "comments": 0,
-"views": 127,
+"views": 128,
 "reach": 104,
 "saved": 0,
 "shares": 0
@@ -221,8 +248,8 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 14,
 "comments": 0,
-"views": 511,
-"reach": 402,
+"views": 518,
+"reach": 411,
 "saved": 12,
 "shares": 10
 },
@@ -235,7 +262,7 @@
 "link": "https://www.instagram.com/reel/Df8eyLIFOnL/",
 "likes": 0,
 "comments": 0,
-"views": 129,
+"views": 130,
 "reach": 102,
 "saved": 2,
 "shares": 1
@@ -277,7 +304,7 @@
 "link": "https://www.instagram.com/reel/Df6-qENGbCC/",
 "likes": 6,
 "comments": 0,
-"views": 133,
+"views": 135,
 "reach": 113,
 "saved": 1,
 "shares": 0
@@ -543,8 +570,8 @@
 "link": "https://www.instagram.com/reel/Df1oXjJgnJs/",
 "likes": 17,
 "comments": 2,
-"views": 1211,
-"reach": 1059,
+"views": 1212,
+"reach": 1060,
 "saved": 5,
 "shares": 6
 },
@@ -561,20 +588,6 @@
 "reach": 107,
 "saved": 2,
 "shares": 0
-},
-{
-"id": "17886210042526106",
-"cap": "Aloo 20 ka hai. Tum 22 doge? 🥔\n\nMandi me ek banda bhaav lagakar intezaar karta hai, dusra jaldi me hai aur jo bhaav mile le leta hai. Price wahi hilata hai jo jaldi me hai. Order Flow isi farq ko padhna hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Aloo 20 ka hai. Tum 22 doge? 🥔",
-"time": "2026-11-17 10:41",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df1JjICAe1-/",
-"likes": 6,
-"comments": 0,
-"views": 292,
-"reach": 241,
-"saved": 1,
-"shares": 1
 }
 ],
 "trades": [],
@@ -670,6 +683,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.10 lots @0.92251 SL 0.92448 (scanner SL) entry 0.92252 basis -0.00003 (M1) +SLbuf 0.00014 +TPbuf 0.00014 split TP1/TP2 risk 0.46%"
+},
+{
+"id": "GBPCHF_1795173300_pbo",
+"pair": "GBPCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 1.10372,
+"sl": 1.100958,
+"r": null,
+"opened": "20 Nov 17:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.07 lots @1.10372 SL 1.10098 (scanner SL) entry 1.10374 basis 0.00002 (M15) split TP1/TP2 risk 0.45%"
 }
 ],
 "closed_today": [
@@ -1136,18 +1162,18 @@
 "all_win": 129,
 "today_net": -1.26,
 "engine": {
-"last_scan": "16:46",
+"last_scan": "17:02",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-20 11:15 UTC · new 1 · events 1 · open 7"
+"summary": "run 2026-11-20 11:30 UTC · new 1 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5086.98",
-"equity": "5136.36",
-"floating": "49.38",
-"positions": "10",
+"equity": "5127.01",
+"floating": "40.03",
+"positions": "12",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1156,6 +1182,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 15.9,
 "github_runs": [
+{
+"t": "2026-11-20T11:30:21Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-20T11:20:17Z",
 "ok": "success",
@@ -1175,11 +1206,6 @@
 "t": "2026-11-20T08:12:49Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-20T05:00:29Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
