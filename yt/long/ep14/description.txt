@@ -1,0 +1,45 @@
+Price ne naya high banaya, par CVD ne nahi. Matlab jaldi wale buyers kam ho rahe the. Is episode me zero se samjho Delta Divergence: bearish, bullish aur hidden divergence, 3 honest examples (2 sahi, 1 fail), aur ye signal kab kaam ka hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 14 hai (Hindi + English subtitles).
+
+Is episode me:
+• Divergence = price aur CVD alag raaste pakdein
+• Bearish: price high 2650 → 2662, CVD +1200 → +800
+• Bullish: price low 2600 → 2588, CVD −900 → −500
+• Hidden divergence: uptrend pullback me price ka higher low, CVD ka lower low
+• Example 1 (sahi): kal ke high pe divergence + swing low toota → girawat
+• Example 2 (sahi): Value Area Low pe divergence → POC tak wapsi
+• Example 3 (fail): tez trend wale din 3 divergence, price chadhta raha
+• Kab kaam ka: zaruri level + price ki pushti; tez trend / badi khabar wale din aksar jhootha
+• Spot forex / gold me CVD sirf tick se andaaza; asli CVD futures pe
+
+Chapters:
+0:00 Intro
+0:22 Pichhla episode
+0:40 Saath ya alag
+0:59 Bearish divergence
+1:20 Iska matlab
+1:37 Bullish divergence
+1:56 Hidden divergence
+2:23 Example 1: sahi
+2:44 Example 2: sahi
+3:02 Example 3: fail
+3:23 Kab kaam ki
+3:44 Forex ka sach
+4:05 Recap
+4:31 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Agla episode: Imbalance aur Stacked Imbalance. Jahan ek taraf bhaari zor tha.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #deltadivergence #cvd #tradinghindi #spidertrades

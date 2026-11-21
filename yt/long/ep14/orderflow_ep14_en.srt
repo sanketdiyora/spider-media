@@ -1,0 +1,172 @@
+1
+00:00:05,000 --> 00:00:09,754
+Price made a new high. Everyone was happy and rushed to buy.
+
+2
+00:00:10,204 --> 00:00:14,488
+But underneath, the buyers in a hurry were getting fewer.
+
+3
+00:00:14,937 --> 00:00:21,208
+The chart does not show this. CVD does. It is called delta divergence.
+
+4
+00:00:22,208 --> 00:00:26,961
+Hello, this is episode fourteen of the SPIDER Order Flow series.
+
+5
+00:00:27,412 --> 00:00:32,976
+Last time: delta and CVD, the running total of delta.
+
+6
+00:00:33,426 --> 00:00:39,382
+Today: delta divergence. When price says one thing and delta another.
+
+7
+00:00:40,382 --> 00:00:47,383
+Remember: if price and CVD both make new highs, the trend is healthy.
+
+8
+00:00:47,833 --> 00:00:51,229
+But sometimes the two take different paths.
+
+9
+00:00:51,679 --> 00:00:58,366
+Price up, CVD down. Or price down, CVD up. That is divergence.
+
+10
+00:00:59,366 --> 00:01:05,636
+First: bearish divergence. Price makes a first high at 2650.
+
+11
+00:01:06,086 --> 00:01:11,152
+Then a new high at 2662. Price went higher.
+
+12
+00:01:11,603 --> 00:01:19,309
+But CVD was +1200 at the first high and only +800 at the new one. CVD stayed lower.
+
+13
+00:01:20,309 --> 00:01:25,142
+Meaning: price did go up, but with fewer buyers in a hurry.
+
+14
+00:01:25,592 --> 00:01:30,503
+Maybe sellers just stepped aside. Or buyers started to tire.
+
+15
+00:01:30,952 --> 00:01:36,517
+It is a warning, not an entry. The upward push is weakening.
+
+16
+00:01:37,517 --> 00:01:40,443
+The reverse also happens: bullish divergence.
+
+17
+00:01:40,893 --> 00:01:46,378
+Price makes a low at 2600, then a new low at 2588.
+
+18
+00:01:46,829 --> 00:01:55,187
+But CVD was −900 at the first low and only −500 at the new one. The sellers in a hurry are fading.
+
+19
+00:01:56,187 --> 00:02:01,256
+There is another form: hidden divergence. It shows up in the middle of a trend.
+
+20
+00:02:01,705 --> 00:02:08,941
+In an uptrend a pullback came. Price held a higher low, at 2620 instead of 2610.
+
+21
+00:02:09,390 --> 00:02:22,218
+But CVD fell from −300 to −700. Sellers pushed hard, yet price did not fall. Someone was quietly buying below. A hint the trend continues.
+
+22
+00:02:23,218 --> 00:02:28,129
+Now three examples. Two right, one wrong. Honestly.
+
+23
+00:02:28,579 --> 00:02:34,064
+One: a bearish divergence formed at yesterday's high of 2662.
+
+24
+00:02:34,513 --> 00:02:43,344
+Then price broke its last swing low at 2648. Only then did the drop start, down to 2630.
+
+25
+00:02:44,344 --> 00:02:49,986
+Two: a bullish divergence at the Value Area Low of 2588.
+
+26
+00:02:50,436 --> 00:02:55,112
+Price made a new low, but the sellers in a hurry were pulling back.
+
+27
+00:02:55,561 --> 00:03:01,204
+Price came back into value and reached the POC at 2605.
+
+28
+00:03:02,204 --> 00:03:05,364
+Three: a strong trend day.
+
+29
+00:03:05,815 --> 00:03:12,162
+Three bearish divergences formed one after another. Each time it looked like price would fall.
+
+30
+00:03:12,613 --> 00:03:22,174
+But price kept climbing, from 2650 to 2700. Anyone selling every divergence was stopped out three times.
+
+31
+00:03:23,174 --> 00:03:25,290
+So when is divergence useful?
+
+32
+00:03:25,739 --> 00:03:32,976
+When it forms at an important level: yesterday's high or low, the edges of the Value Area, or another big level.
+
+33
+00:03:33,426 --> 00:03:43,143
+And when price confirms it, for example by breaking its last swing. On strong trend or big news days, divergence is often false.
+
+34
+00:03:44,143 --> 00:03:49,786
+And the same truth again: spot forex and gold have no real CVD.
+
+35
+00:03:50,236 --> 00:03:57,707
+CVD indicators on MT5 estimate from ticks. A divergence then becomes an estimate of an estimate.
+
+36
+00:03:58,156 --> 00:04:04,426
+Real CVD comes from futures: gold futures, currency futures or a crypto exchange.
+
+37
+00:04:05,426 --> 00:04:06,993
+So, today's summary.
+
+38
+00:04:07,442 --> 00:04:16,691
+Divergence: price and CVD split. Bearish: price higher, CVD lower. Bullish: the reverse.
+
+39
+00:04:17,141 --> 00:04:22,705
+Hidden divergence appears mid-trend and hints the trend continues.
+
+40
+00:04:23,155 --> 00:04:30,391
+Divergence is a warning, not an entry. Useful only with a key level and price confirmation.
+
+41
+00:04:31,391 --> 00:04:38,157
+Next episode: imbalance and stacked imbalance. Where one side pushed hard.
+
+42
+00:04:38,607 --> 00:04:43,518
+If this was useful, subscribe and save the playlist.
+
+43
+00:04:43,968 --> 00:04:50,080
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

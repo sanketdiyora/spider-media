@@ -1,0 +1,172 @@
+1
+00:00:05,000 --> 00:00:11,347
+I built a thousand systems with no edge at all. Just like flipping a coin.
+
+2
+00:00:11,798 --> 00:00:18,146
+Then I backtested them all. The best one made +32R in a hundred trades.
+
+3
+00:00:18,596 --> 00:00:23,585
+Live, it will earn nothing. This trap is called overfitting.
+
+4
+00:00:24,585 --> 00:00:29,496
+Hello, this is episode nine of the SPIDER Quant Trading series.
+
+5
+00:00:29,945 --> 00:00:35,275
+Last time: the system report card. Profit factor and Sharpe.
+
+6
+00:00:35,725 --> 00:00:40,871
+Today: overfitting. When a backtest looks better than the truth.
+
+7
+00:00:41,871 --> 00:00:48,950
+Market data holds two things: a real pattern, and noise, the random wiggles.
+
+8
+00:00:49,400 --> 00:00:54,651
+A real pattern can show up again. Noise never repeats the same way.
+
+9
+00:00:55,101 --> 00:01:01,292
+Overfitting means the system memorised the noise and mistook it for a pattern.
+
+10
+00:01:02,292 --> 00:01:07,621
+A student memorised last year's exam paper. A hundred out of a hundred on that paper.
+
+11
+00:01:08,071 --> 00:01:14,758
+A new paper came, and he failed. He learnt answers, not the subject.
+
+12
+00:01:15,208 --> 00:01:21,006
+An overfit system does the same. Top of the class on old data, fails on new data.
+
+13
+00:01:22,006 --> 00:01:24,933
+It usually happens by tweaking settings again and again.
+
+14
+00:01:25,383 --> 00:01:33,350
+20 moving average lengths, 10 stop sizes, 5 sessions. A thousand combinations in total.
+
+15
+00:01:33,800 --> 00:01:42,550
+Run them all, pick the best. The more combinations, the more likely the best one is pure luck.
+
+16
+00:01:43,550 --> 00:01:54,000
+Look at the hook experiment. Each system: 100 trades, half wins, half losses, win 1R, loss 1R. Zero edge.
+
+17
+00:01:54,449 --> 00:02:00,720
+By luck some end up, some end down. Most sit near zero.
+
+18
+00:02:01,169 --> 00:02:13,682
+But the best of a thousand: about +32R. 66 wins, 34 losses, a profit factor near 1.9. And that number means nothing.
+
+19
+00:02:14,682 --> 00:02:18,653
+Sign one: many rules, few trades.
+
+20
+00:02:19,102 --> 00:02:26,992
+Every rule or setting is a dial you can turn. More dials make it easier to fit old data.
+
+21
+00:02:27,442 --> 00:02:33,162
+Ten dials and only forty trades? That system is not learning, it is memorising.
+
+22
+00:02:34,162 --> 00:02:39,309
+Sign two: brilliant on one setting, bad on its neighbours.
+
+23
+00:02:39,759 --> 00:02:52,585
+System A: +42R at moving average 50. But −6R at 45 and −4R at 55. A sharp spike, just luck.
+
+24
+00:02:53,035 --> 00:03:03,222
+System B: +12 to +18R on every setting from 30 to 70. A plateau. Trust that kind more.
+
+25
+00:03:04,222 --> 00:03:07,697
+Sign three: a result that looks too good.
+
+26
+00:03:08,147 --> 00:03:18,100
+An almost straight equity line, profit factor above 3, no bad month. As we said last episode: get suspicious first.
+
+27
+00:03:18,549 --> 00:03:23,226
+A real edge is usually small, and the path is bumpy.
+
+28
+00:03:24,226 --> 00:03:30,260
+Fix one: keep part of the data hidden. Remember episode five?
+
+29
+00:03:30,710 --> 00:03:36,666
+Build the system on 70% of the data. Test on the other 30% only once.
+
+30
+00:03:37,116 --> 00:03:52,189
+System A: profit factor 2.4 inside, 0.95 outside. Overfit. System B: 1.5 inside, 1.4 outside. That one holds.
+
+31
+00:03:53,189 --> 00:03:56,192
+Fix two: the walk-forward test.
+
+32
+00:03:56,643 --> 00:04:05,733
+Pick settings on 12 months. Test on the next 3. Then slide the whole window 3 months forward, and repeat.
+
+33
+00:04:06,183 --> 00:04:14,307
+Join all the test pieces. That is the honest result, because every piece was new to the system.
+
+34
+00:04:15,307 --> 00:04:20,793
+Fix three: keep the system simple. Few rules, few settings.
+
+35
+00:04:21,243 --> 00:04:31,274
+And run it on different markets and periods. Gold, currencies, indices. If it works a little everywhere, the edge is more likely real.
+
+36
+00:04:31,724 --> 00:04:36,635
+And remember: the more combinations you tried, the more suspicious you should be.
+
+37
+00:04:37,635 --> 00:04:39,202
+So, today's summary.
+
+38
+00:04:39,652 --> 00:04:46,340
+Overfitting: the system memorised noise. Top on old data, fails on new.
+
+39
+00:04:46,790 --> 00:04:53,947
+Signs: few trades, many dials, a sharp spike, and a result that looks too good.
+
+40
+00:04:54,397 --> 00:05:00,353
+Fixes: hidden data, walk-forward, a simple system, and many markets.
+
+41
+00:05:01,353 --> 00:05:07,962
+Next episode: your first system. Writing the rules, and a backtest in Excel.
+
+42
+00:05:08,412 --> 00:05:13,402
+If this was useful, subscribe and save the playlist.
+
+43
+00:05:13,852 --> 00:05:19,964
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

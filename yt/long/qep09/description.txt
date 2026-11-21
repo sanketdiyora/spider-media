@@ -1,0 +1,48 @@
+Maine 1000 aise system banaye jinme koi edge nahi tha, aur sabse achhe ne backtest me +32R kamaye. Live me ye kuch nahi kamayega. Is episode me zero se samjho overfitting: jab backtest sach se zyada achha dikhta hai, iske 3 nishaan, aur 3 ilaaj.
+
+Ye SPIDER ki Quant Trading Series ka Episode 9 hai (Hindi + English subtitles).
+
+Is episode me:
+• Overfitting = system ne data ka shor (random hilna-dulna) ratt liya, pattern nahi seekha
+• Ratta wala student: purane paper pe 100/100, naye pe fail
+• Settings ghisna: 20 MA × 10 stop × 5 session = 1000 combinations
+• Kismat ka hisaab: 1000 zero-edge system (100 trades, 50% jeet, ±1R) → sabse achha ≈ +32R, PF ≈ 1.9
+• Nishaan 1: dial zyada, trades kam
+• Nishaan 2: nukeela pahaad (ek setting pe kamaal) vs pathaar (har setting pe theek)
+• Nishaan 3: bahut sundar nateeja (seedhi line, PF 3+)
+• Ilaaj: chhupa data (70/30), walk-forward test, saada system, kai market
+
+Chapters:
+0:00 Intro
+0:24 Pichhla episode
+0:41 Overfitting kya hai
+1:02 Ratta wala student
+1:22 Settings ghisna
+1:43 Kismat ka hisaab
+2:14 Nishaan 1: dial zyada
+2:34 Nishaan 2: nukeela pahaad
+3:04 Nishaan 3: bahut sundar
+3:24 Ilaaj 1: chhupa data
+3:53 Ilaaj 2: walk-forward
+4:15 Ilaaj 3: saada aur kai market
+4:37 Recap
+5:01 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Agla episode: Apna pehla system. Rules likhna aur Excel me backtest.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number samjhane ke liye example hain.
+
+#quanttrading #overfitting #backtesting #tradinghindi #spidertrades
