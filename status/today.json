@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21 09:51 IST",
+"updated": "2026-11-21 10:06 IST",
 "date": "2026-11-21",
 "followers": 81,
 "media_count": 145,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 1,
 "comments": 0,
-"views": 133,
-"reach": 107,
+"views": 138,
+"reach": 111,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
 "likes": 4,
 "comments": 0,
-"views": 124,
-"reach": 85,
+"views": 134,
+"reach": 102,
 "saved": 2,
 "shares": 0
 }
@@ -61,10 +61,10 @@
 "link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 48,
+"reach": 38,
 "saved": 0,
-"shares": 0
+"shares": 1
 }
 },
 {
@@ -118,10 +118,10 @@
 "link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 48,
+"reach": 38,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "18140548732710854",
@@ -132,8 +132,8 @@
 "link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
 "likes": 4,
 "comments": 0,
-"views": 124,
-"reach": 85,
+"views": 134,
+"reach": 102,
 "saved": 2,
 "shares": 0
 },
@@ -146,8 +146,8 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 1,
 "comments": 0,
-"views": 133,
-"reach": 107,
+"views": 138,
+"reach": 111,
 "saved": 0,
 "shares": 0
 },
@@ -203,7 +203,7 @@
 "likes": 1,
 "comments": 0,
 "views": 148,
-"reach": 124,
+"reach": 125,
 "saved": 1,
 "shares": 0
 },
@@ -216,7 +216,7 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 40,
+"views": 41,
 "reach": 32,
 "saved": 0,
 "shares": 0
@@ -855,7 +855,7 @@
 "today_net": 4.36,
 "engine": {
 "last_scan": "02:56",
-"age_min": 415,
+"age_min": 430,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
