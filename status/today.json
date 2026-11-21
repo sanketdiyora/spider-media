@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-21 08:51 IST",
+"updated": "2026-11-21 09:07 IST",
 "date": "2026-11-21",
-"followers": 80,
-"media_count": 144,
+"followers": 81,
+"media_count": 145,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 1,
 "comments": 0,
-"views": 106,
-"reach": 48,
+"views": 133,
+"reach": 107,
 "saved": 0,
 "shares": 0
 }
@@ -38,11 +38,11 @@
 "time": "2026-11-21 08:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
-"likes": 0,
+"likes": 4,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 124,
+"reach": 85,
+"saved": 2,
 "shares": 0
 }
 },
@@ -51,8 +51,21 @@
 "name": "Jawab reel",
 "type": "reel",
 "title": "Market ka poora chakra. 🔄",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18169706770520789",
+"cap": "Market ka poora chakra. 🔄\n\nBalance, phir imbalance, phir naya balance. Value pe dono taraf ke log hote hain, isliye wahan price samay bitata hai. Unfair bhaav pe ek taraf gayab hoti hai, isliye wahan se price jaldi nikalta hai.\n\nOrder Flow Series, Episode 2 (Market kaise chalta hai: Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Market ka poora chakra. 🔄",
+"time": "2026-11-21 09:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1030",
@@ -97,17 +110,31 @@
 ],
 "recent_posts": [
 {
+"id": "18169706770520789",
+"cap": "Market ka poora chakra. 🔄\n\nBalance, phir imbalance, phir naya balance. Value pe dono taraf ke log hote hain, isliye wahan price samay bitata hai. Unfair bhaav pe ek taraf gayab hoti hai, isliye wahan se price jaldi nikalta hai.\n\nOrder Flow Series, Episode 2 (Market kaise chalta hai: Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Market ka poora chakra. 🔄",
+"time": "2026-11-21 09:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18140548732710854",
 "cap": "Trading do tarah ki hoti hai. 🧭\n\nDiscretionary: har baar chart dekh ke khud faisla. Systematic: rule pehle se likhe hain, bas follow karna hai. Farq ye ki systematic ko pehle test kar sakte ho, aur usme mood nahi ghusta. Rule itna saaf ho ki computer bhi samajh jaye.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
 "cap1": "Trading do tarah ki hoti hai. 🧭",
 "time": "2026-11-21 08:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
-"likes": 0,
+"likes": 4,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
+"views": 124,
+"reach": 85,
+"saved": 2,
 "shares": 0
 },
 {
@@ -119,8 +146,8 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 1,
 "comments": 0,
-"views": 106,
-"reach": 48,
+"views": 133,
+"reach": 107,
 "saved": 0,
 "shares": 0
 },
@@ -175,8 +202,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 1,
 "comments": 0,
-"views": 146,
-"reach": 123,
+"views": 148,
+"reach": 124,
 "saved": 1,
 "shares": 0
 },
@@ -232,7 +259,7 @@
 "likes": 20,
 "comments": 0,
 "views": 711,
-"reach": 559,
+"reach": 563,
 "saved": 18,
 "shares": 10
 },
@@ -501,20 +528,6 @@
 "reach": 214,
 "saved": 7,
 "shares": 3
-},
-{
-"id": "18101625635402362",
-"cap": "KNOW #2 📚 Lot Size Samjho\nSame trade, same pips, phir bhi kisi ko $10 milte hain aur kisi ko $1000. Kyun?\n• Jawab hai lot size. Lot matlab aapki trade kitni badi hai.\n• 1 standard lot = 1,00,000 units. EURUSD me 1 pip ≈ $10.\n• Mini lot 0.10 = $1 per pip. Micro lot 0.01 = 10 cents.\nTip: pehle risk decide karo, phir lot nikalo. Ulta nahi.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
-"cap1": "KNOW #2 📚 Lot Size Samjho",
-"time": "2026-11-17 20:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df2NEv1lJAz/",
-"likes": 2,
-"comments": 0,
-"views": 170,
-"reach": 146,
-"saved": 0,
-"shares": 1
 }
 ],
 "trades": [],
@@ -842,7 +855,7 @@
 "today_net": 4.36,
 "engine": {
 "last_scan": "02:56",
-"age_min": 355,
+"age_min": 370,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -862,6 +875,11 @@
 "disk_free_gb": 15.5,
 "github_runs": [
 {
+"t": "2026-11-21T03:30:24Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-21T02:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -878,11 +896,6 @@
 },
 {
 "t": "2026-11-20T22:37:16Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-20T21:56:38Z",
 "ok": "success",
 "ev": "schedule"
 }
