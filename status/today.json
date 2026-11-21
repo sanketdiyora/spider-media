@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-21 05:35 IST",
+"updated": "2026-11-21 07:13 IST",
 "date": "2026-11-21",
-"followers": 78,
-"media_count": 142,
+"followers": 79,
+"media_count": 143,
 "slots": [
 {
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
 "title": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18001406133019645",
+"cap": "Aggressive ya Passive: tum kaunse trader ho? ⚡\n\nAggressive trader jaldi me hai, market order se abhi sauda chahta hai, aur spread ki keemat deta hai. Passive trader apna bhaav likh kar intezaar karta hai (limit order): behtar bhaav, par sauda hoga ya nahi, guarantee nahi.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
+"time": "2026-11-21 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -71,6 +84,20 @@
 ],
 "recent_posts": [
 {
+"id": "18001406133019645",
+"cap": "Aggressive ya Passive: tum kaunse trader ho? ⚡\n\nAggressive trader jaldi me hai, market order se abhi sauda chahta hai, aur spread ki keemat deta hai. Passive trader apna bhaav likh kar intezaar karta hai (limit order): behtar bhaav, par sauda hoga ya nahi, guarantee nahi.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
+"time": "2026-11-21 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18173107414476004",
 "cap": "KNOW #5 📚 Stop Loss Kyun Zaroori\nEk trade poora account uda sakti hai. Kaise bachen?\n• Stop loss matlab pehle se tay karo, kahan galat ho.\n• Bina stop loss chhota loss bada banta hai, phir hope pe trade chalti hai.\n• Stop structure ke peeche rakho, random number pe nahi.\nTip: stop loss lagao aur phir use door mat khiskao.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
 "cap1": "KNOW #5 📚 Stop Loss Kyun Zaroori",
@@ -107,7 +134,7 @@
 "link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
 "likes": 1,
 "comments": 0,
-"views": 138,
+"views": 140,
 "reach": 110,
 "saved": 2,
 "shares": 0
@@ -121,8 +148,8 @@
 "link": "https://www.instagram.com/reel/Df9Vs5EgDvI/",
 "likes": 1,
 "comments": 0,
-"views": 144,
-"reach": 121,
+"views": 146,
+"reach": 123,
 "saved": 1,
 "shares": 0
 },
@@ -175,11 +202,11 @@
 "time": "2026-11-20 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
-"likes": 19,
+"likes": 20,
 "comments": 0,
-"views": 684,
-"reach": 534,
-"saved": 17,
+"views": 696,
+"reach": 544,
+"saved": 18,
 "shares": 10
 },
 {
@@ -474,20 +501,6 @@
 "views": 119,
 "reach": 103,
 "saved": 0,
-"shares": 0
-},
-{
-"id": "18136092358749920",
-"cap": "Volume Profile kya hai? 📶\n\nNormal volume batata hai KAB trade hua. Volume Profile batata hai KIS BHAAV pe kitna trade hua. Mandi ki ginti se samjho: kis bhaav pe kitne kilo bike.\n\nOrder Flow Series, Episode 7 (Volume Profile) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Volume Profile kya hai? 📶",
-"time": "2026-11-17 17:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df11IJCgoDA/",
-"likes": 2,
-"comments": 0,
-"views": 141,
-"reach": 119,
-"saved": 1,
 "shares": 0
 }
 ],
@@ -816,7 +829,7 @@
 "today_net": 4.36,
 "engine": {
 "last_scan": "02:56",
-"age_min": 159,
+"age_min": 256,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -836,6 +849,11 @@
 "disk_free_gb": 15.5,
 "github_runs": [
 {
+"t": "2026-11-21T01:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-20T22:59:25Z",
 "ok": "success",
 "ev": "schedule"
@@ -852,11 +870,6 @@
 },
 {
 "t": "2026-11-20T20:57:18Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-20T19:55:50Z",
 "ok": "success",
 "ev": "schedule"
 }
