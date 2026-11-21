@@ -1,0 +1,168 @@
+1
+00:00:05,000 --> 00:00:11,922
+Two systems. The first wins 80% of its trades. The second only 45%.
+
+2
+00:00:12,372 --> 00:00:19,137
+Most people would pick the first. But in money, the second earns three and a half times more.
+
+3
+00:00:19,588 --> 00:00:23,951
+Today we judge a system with a full report card, not one number.
+
+4
+00:00:24,951 --> 00:00:29,783
+Hello, this is episode eight of the SPIDER Quant Trading series.
+
+5
+00:00:30,232 --> 00:00:35,641
+Last time: Monte Carlo. One backtest, a thousand paths.
+
+6
+00:00:36,091 --> 00:00:41,420
+Today: the system report card. Profit factor and Sharpe ratio.
+
+7
+00:00:42,420 --> 00:00:45,345
+Profit factor is the simplest number.
+
+8
+00:00:45,795 --> 00:00:51,516
+Add up the profit of all winning trades. Add up the loss of all losing trades.
+
+9
+00:00:51,966 --> 00:00:56,250
+Divide the profit by the loss. That is the profit factor.
+
+10
+00:00:57,250 --> 00:01:02,814
+System Y: 100 trades. 45 wins, each win 2R.
+
+11
+00:01:03,264 --> 00:01:10,422
+So profit is 90R. 55 losses of 1R each, so the loss is 55R.
+
+12
+00:01:10,872 --> 00:01:18,107
+90 divided by 55: a profit factor of 1.64. Net gain 35R.
+
+13
+00:01:19,107 --> 00:01:27,232
+Now System X: 80 wins out of 100, but each win only 0.5R. Profit 40R.
+
+14
+00:01:27,681 --> 00:01:33,089
+20 losses, but each loss 1.5R. Loss 30R.
+
+15
+00:01:33,538 --> 00:01:41,350
+A profit factor of 1.33 and a net gain of only 10R. High win rate, low earnings.
+
+16
+00:01:42,350 --> 00:01:49,116
+Below 1, the system loses money. Exactly 1, no gain and no loss.
+
+17
+00:01:49,565 --> 00:01:56,880
+In real markets, over many trades, 1.3 to 2 is often considered good.
+
+18
+00:01:57,330 --> 00:02:05,297
+But a profit factor of 3 on ten trades tells you nothing. Six wins, four losses, that is all.
+
+19
+00:02:06,297 --> 00:02:10,738
+A backtest profit factor drops once you add costs.
+
+20
+00:02:11,188 --> 00:02:17,066
+Add 0.1R of spread and commission to every trade of System Y.
+
+21
+00:02:17,516 --> 00:02:28,827
+Each win becomes 1.9R, each loss 1.1R. The profit factor falls from 1.64 to 1.41.
+
+22
+00:02:29,827 --> 00:02:36,018
+Profit factor tells you how much you made. It does not tell you how bumpy the ride was.
+
+23
+00:02:36,468 --> 00:02:42,109
+Sharpe ratio: divide the average return by how much the return swings.
+
+24
+00:02:42,560 --> 00:02:50,031
+The swing is called standard deviation: how far each month's return sits from the average.
+
+25
+00:02:51,031 --> 00:02:59,311
+System A: an average of 2% a month, with 4% swings. Sharpe 0.5.
+
+26
+00:02:59,762 --> 00:03:07,964
+System B: an average of 3%, but 9% swings. Sharpe 0.33.
+
+27
+00:03:08,414 --> 00:03:15,728
+B earns more, but gives more shocks for every percent. A has the cleaner path.
+
+28
+00:03:16,179 --> 00:03:29,579
+For a yearly Sharpe, multiply the monthly one by the square root of 12, about 3.5. A is about 1.7, B about 1.15.
+
+29
+00:03:30,579 --> 00:03:36,769
+The real formula also subtracts the risk-free return. We skipped it today to keep it simple.
+
+30
+00:03:37,220 --> 00:03:45,423
+Sharpe also punishes upside jumps. So some people use Sortino, which counts only the downside.
+
+31
+00:03:45,873 --> 00:03:57,759
+The biggest danger: a martingale-type system shows a great Sharpe for months, until one big shock arrives. Sharpe cannot see what is not in the data.
+
+32
+00:03:58,759 --> 00:04:01,684
+So build the full report card like this.
+
+33
+00:04:02,134 --> 00:04:10,023
+Number of trades: at least a hundred. Profit factor after costs. Average R per trade.
+
+34
+00:04:10,472 --> 00:04:16,743
+The biggest drawdown, and the bad edge from Monte Carlo. And the Sharpe ratio.
+
+35
+00:04:17,192 --> 00:04:26,518
+And if a backtest shows a profit factor or Sharpe above 3 over many trades, do not celebrate. Get suspicious first.
+
+36
+00:04:27,518 --> 00:04:29,086
+So, today's summary.
+
+37
+00:04:29,536 --> 00:04:36,223
+Profit factor is total profit divided by total loss. Win rate alone misleads.
+
+38
+00:04:36,673 --> 00:04:41,741
+Always check profit factor after costs, and over many trades.
+
+39
+00:04:42,191 --> 00:04:50,080
+Sharpe is return divided by swings. But it cannot see rare, big shocks.
+
+40
+00:04:51,080 --> 00:04:56,957
+Next episode: overfitting. When a backtest looks better than the truth.
+
+41
+00:04:57,407 --> 00:05:02,240
+If this was useful, subscribe and save the playlist.
+
+42
+00:05:02,690 --> 00:05:08,803
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

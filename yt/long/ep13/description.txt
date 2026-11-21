@@ -1,0 +1,43 @@
+Do candles bilkul ek jaisi hari: ek jaisa open, ek jaisa close. Ek me buyers ne zor se dhakela, dusri me bas sellers peeche hat gaye. Ye farq ek number batata hai: delta. Is episode me zero se samjho delta aur cumulative delta (CVD).
+
+Ye SPIDER ki Order Flow Series ka Episode 13 hai (Hindi + English subtitles).
+
+Is episode me:
+• Delta = ask par volume − bid par volume (jaldi wale buyers − jaldi wale sellers)
+• Ep 12 ki footprint candle: 655 − 390 = delta +265
+• Plus, minus aur zero ke paas delta ka matlab
+• Delta bars: har candle ka delta chart ke neeche
+• CVD = delta ka chalta jod (example: 265 → 385 → 305 → 455 → 415 → 615)
+• Price aur CVD saath naya high banayein = trend sehatmand
+• Delta ≠ volume: volume 1000 par delta +20, volume 400 par delta +300
+• CVD kab se ginein: har session/din zero se, ya anchored CVD
+• Spot forex/gold ka sach: MT5 ka delta tick se andaaza hai; asli delta futures par
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:40 Delta kya hai
+0:59 Ek candle ka delta
+1:18 Plus, minus, zero
+1:33 Delta bars
+1:51 CVD kya hai
+2:23 Price aur CVD saath
+2:42 Delta aur volume
+3:11 CVD kab se ginein
+3:29 Forex ka sach
+3:55 Recap
+4:18 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Agla episode: Delta Divergence. Jab price ek baat kahe, aur delta dusri.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #delta #cvd #tradinghindi #spidertrades

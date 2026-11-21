@@ -1,0 +1,164 @@
+1
+00:00:05,000 --> 00:00:11,268
+Two candles, exactly the same green. Same open, same close.
+
+2
+00:00:11,719 --> 00:00:16,970
+In one, buyers pushed hard. In the other, sellers simply stepped back.
+
+3
+00:00:17,420 --> 00:00:20,894
+One number shows that difference: delta.
+
+4
+00:00:21,894 --> 00:00:26,805
+Hello, this is episode thirteen of the SPIDER Order Flow series.
+
+5
+00:00:27,255 --> 00:00:32,400
+Last time: the footprint chart. Bid x ask at every price.
+
+6
+00:00:32,851 --> 00:00:39,696
+Today: delta, and its running total, cumulative delta or CVD.
+
+7
+00:00:40,696 --> 00:00:46,103
+Delta means volume traded at the ask minus volume traded at the bid.
+
+8
+00:00:46,553 --> 00:00:50,837
+At the ask are those buying with market orders, the buyers in a hurry.
+
+9
+00:00:51,287 --> 00:00:58,993
+At the bid are those selling with market orders, the sellers in a hurry. Delta shows who was in more of a hurry.
+
+10
+00:00:59,993 --> 00:01:02,266
+Remember the candle from the last episode.
+
+11
+00:01:02,716 --> 00:01:08,827
+All the ask volume adds up to 655. All the bid volume to 390.
+
+12
+00:01:09,277 --> 00:01:17,637
+655 minus 390: delta +265. In this candle the buyers in a hurry were ahead.
+
+13
+00:01:18,637 --> 00:01:22,190
+Positive delta: aggressive buyers were heavier.
+
+14
+00:01:22,640 --> 00:01:26,610
+Negative delta: aggressive sellers were heavier.
+
+15
+00:01:27,061 --> 00:01:32,860
+And delta near zero: an even fight on both sides. Nobody won.
+
+16
+00:01:33,860 --> 00:01:37,830
+Each candle's delta becomes a bar under the chart.
+
+17
+00:01:38,280 --> 00:01:44,000
+A green bar up means positive. A red bar down means negative.
+
+18
+00:01:44,451 --> 00:01:50,878
+But a single bar is just one candle's story. For the full picture, you add them up.
+
+19
+00:01:51,878 --> 00:01:58,878
+CVD, cumulative delta: keep adding each candle's delta to the running total.
+
+20
+00:01:59,327 --> 00:02:10,091
+Deltas of six candles: +265, +120, -80, +150, -40, +200.
+
+21
+00:02:10,541 --> 00:02:22,427
+Running total: 265, 385, 305, 455, 415, 615. That is the CVD line.
+
+22
+00:02:23,427 --> 00:02:26,117
+Now put CVD next to price.
+
+23
+00:02:26,567 --> 00:02:32,993
+Price makes a new high and CVD makes a new high too: buyers are really buying.
+
+24
+00:02:33,442 --> 00:02:41,254
+If they move together, the trend is healthy. If they split, be careful. That is next episode.
+
+25
+00:02:42,254 --> 00:02:46,042
+Remember: delta and volume are different things.
+
+26
+00:02:46,492 --> 00:02:55,399
+Candle P: volume 1000, but 510 at the ask and 490 at the bid. Delta only +20.
+
+27
+00:02:55,849 --> 00:03:04,287
+Candle Q: volume only 400, but 350 at the ask and 50 at the bid. Delta +300.
+
+28
+00:03:04,737 --> 00:03:10,536
+More volume does not mean more push. Delta shows which way the push went.
+
+29
+00:03:11,536 --> 00:03:14,462
+CVD is counted from some starting point.
+
+30
+00:03:14,912 --> 00:03:20,710
+Most tools restart it from zero at the start of each session or day.
+
+31
+00:03:21,161 --> 00:03:28,710
+Or from a chosen point, like a major high or low. That is called anchored CVD.
+
+32
+00:03:29,710 --> 00:03:35,196
+And the same truth again: spot forex and gold have no real delta.
+
+33
+00:03:35,646 --> 00:03:44,893
+Delta indicators on MT5 estimate it: an uptick is counted as a buy, a downtick as a sell.
+
+34
+00:03:45,343 --> 00:03:54,904
+It can be a useful estimate, but it is not real. Real delta comes from futures: gold futures, index futures or a crypto exchange.
+
+35
+00:03:55,904 --> 00:03:57,472
+So, today's summary.
+
+36
+00:03:57,922 --> 00:04:03,642
+Delta is ask minus bid: buyers in a hurry minus sellers in a hurry.
+
+37
+00:04:04,091 --> 00:04:11,642
+CVD is the running total of delta. If price and CVD move together, the trend is healthy.
+
+38
+00:04:12,091 --> 00:04:17,656
+More volume is not more push. And real delta comes from futures.
+
+39
+00:04:18,656 --> 00:04:25,187
+Next episode: delta divergence. When price says one thing and delta another.
+
+40
+00:04:25,637 --> 00:04:30,548
+If this was useful, subscribe and save the playlist.
+
+41
+00:04:30,998 --> 00:04:37,189
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

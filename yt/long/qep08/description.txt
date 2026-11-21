@@ -1,0 +1,47 @@
+Ek system 80% trades jeetta hai, dusra sirf 45%. Phir bhi paise me dusra saadhe teen guna zyada kamata hai. Is episode me zero se samjho system ka report card: profit factor aur Sharpe ratio, aur ye number kab dhokha dete hain.
+
+Ye SPIDER ki Quant Trading Series ka Episode 8 hai (Hindi + English subtitles).
+
+Is episode me:
+• Profit factor = kul kamaai ÷ kul nuksaan
+• Example: 45 jeet × 2R vs 55 haar × 1R → PF 1.64, kul +35R
+• Win rate ka dhokha: 80% jeet, par +0.5R jeet aur −1.5R haar → PF 1.33, sirf +10R
+• PF kaise padhein: 1 se kam = ghaata; bahut trades par 1.3–2 aksar achha; 10 trades ka PF 3 kuch nahi batata
+• Cost ka asar: har trade par 0.1R cost → PF 1.64 se 1.41
+• Sharpe ratio = ausat return ÷ utaar-chadhaav (standard deviation)
+• Example: A (2% ausat, 4% utaar-chadhaav) Sharpe 0.5 vs B (3%, 9%) Sharpe 0.33; saal ka ≈ × √12
+• Sharpe ki seema: risk-free return, Sortino, aur martingale jaise system ke chhupe jhatke
+• Poora report card: trades, PF (cost ke baad), ausat R, max drawdown + Monte Carlo, Sharpe
+
+Chapters:
+0:00 Intro
+0:24 Pichhla episode
+0:42 Profit factor kya hai
+0:57 Ek udaharan
+1:19 Win rate ka dhokha
+1:42 PF kaise padhein
+2:06 Cost ka asar
+2:29 Sharpe ratio kya hai
+2:51 Sharpe udaharan
+3:30 Sharpe ki seema
+3:58 Report card
+4:27 Recap
+4:51 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Agla episode: Overfitting. Jab backtest sach se zyada achha dikhe.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number samjhane ke liye example hain.
+
+#quanttrading #profitfactor #sharperatio #tradinghindi #spidertrades
