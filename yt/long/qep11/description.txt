@@ -7,7 +7,7 @@ Is episode me:
 • Data: Dukascopy XAUUSD, Mar 2024 – Nov 2026, hourly → daily = 692 trading din
 • Excel columns = code: close.shift(1).rolling(20).max(), 10 din ka min, 14 din ka ATR
 • shift(1) kyun zaroori: aaj ki row nahi, bhavishya nahi
-• Trade loop: signal → agle open pe buy, stop 2 ATR; low ≤ stop ya close < 10 din ka min → bahar
+• Trade loop: signal → agle open pe buy, stop 2 ATR; low stop tak aaye ya close 10 din ke min se neeche → bahar
 • Poora code ≈ 12 lines
 • Result: 16 trades, 7 jeet / 9 haar, +9.24R, PF 2.52 · 0.1R kharche ke baad +7.64R, PF 2.09
 • Chhupi baat: ek trade (29 Aug → 28 Oct 2025) = +8.29R; baaki 15 trades = sirf +0.95R
