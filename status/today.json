@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-21 20:42 IST",
-"date": "2026-11-21",
+"updated": "2026-11-22 05:33 IST",
+"date": "2026-11-22",
 "followers": 85,
 "media_count": 150,
 "slots": [
@@ -8,169 +8,65 @@
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
-"title": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
-"status": "POSTED",
-"post": {
-"id": "18001406133019645",
-"cap": "Aggressive ya Passive: tum kaunse trader ho? ⚡\n\nAggressive trader jaldi me hai, market order se abhi sauda chahta hai, aur spread ki keemat deta hai. Passive trader apna bhaav likh kar intezaar karta hai (limit order): behtar bhaav, par sauda hoga ya nahi, guarantee nahi.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
-"time": "2026-11-21 07:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
-"likes": 2,
-"comments": 0,
-"views": 182,
-"reach": 145,
-"saved": 0,
-"shares": 0
-}
+"title": "Backtest me superhit, live me loss? 🤔",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "0800",
 "name": "Motivation reel",
 "type": "reel",
-"title": "Trading do tarah ki hoti hai. 🧭",
-"status": "POSTED",
-"post": {
-"id": "18140548732710854",
-"cap": "Trading do tarah ki hoti hai. 🧭\n\nDiscretionary: har baar chart dekh ke khud faisla. Systematic: rule pehle se likhe hain, bas follow karna hai. Farq ye ki systematic ko pehle test kar sakte ho, aur usme mood nahi ghusta. Rule itna saaf ho ki computer bhi samajh jaye.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Trading do tarah ki hoti hai. 🧭",
-"time": "2026-11-21 08:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
-"likes": 5,
-"comments": 0,
-"views": 173,
-"reach": 137,
-"saved": 2,
-"shares": 2
-}
+"title": "Price ko hilata kaun hai? 🧱",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "0900",
 "name": "Jawab reel",
 "type": "reel",
-"title": "Market ka poora chakra. 🔄",
-"status": "POSTED",
-"post": {
-"id": "18169706770520789",
-"cap": "Market ka poora chakra. 🔄\n\nBalance, phir imbalance, phir naya balance. Value pe dono taraf ke log hote hain, isliye wahan price samay bitata hai. Unfair bhaav pe ek taraf gayab hoti hai, isliye wahan se price jaldi nikalta hai.\n\nOrder Flow Series, Episode 2 (Market kaise chalta hai: Auction) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
-"cap1": "Market ka poora chakra. 🔄",
-"time": "2026-11-21 09:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
-"likes": 1,
-"comments": 0,
-"views": 127,
-"reach": 111,
-"saved": 2,
-"shares": 1
-}
+"title": "Win rate akela adhoora hai. ⚖️",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1030",
 "name": "YouTube clip reel",
 "type": "reel",
-"title": "Har trade me kitna lot lagaun? ⚖️",
-"status": "POSTED",
-"post": {
-"id": "18122594269959865",
-"cap": "Har trade me kitna lot lagaun? ⚖️\n\nPehle tay karo kitna risk lena hai, phir SL ki doori dekho. Size = account × risk % ÷ (SL doori × 1 point ki keemat). SL chauda hai to lot chhota, SL chhota hai to lot bada. Risk wahi rehta hai.\n\nQuant Trading Series, Episode 4 (Position Sizing) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Har trade me kitna lot lagaun? ⚖️",
-"time": "2026-11-21 10:31",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_bozbHzFn/",
-"likes": 0,
-"comments": 0,
-"views": 92,
-"reach": 73,
-"saved": 0,
-"shares": 1
-}
+"title": "Kya passive trader hamesha smart hota hai? 🤔",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1500",
 "name": "Riddle reel",
 "type": "reel",
-"title": "SPIDER RIDDLE #6 🧩 Account kab gaya?",
-"status": "POSTED",
-"post": {
-"id": "17976438321187396",
-"cap": "SPIDER RIDDLE #6 🧩 Account kab gaya?\nProp firm: $100,000 account, daily loss limit $5,000 (din ke net loss pe). Trades: −$1,500, −$1,500, −$1,500, +$2,000, −$2,600. Account kaunse trade pe breach hua?\nJawab comment me likho 👇 Sahi jawab kal pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #propfirm #forexhindi #riskmanagement",
-"cap1": "SPIDER RIDDLE #6 🧩 Account kab gaya?",
-"time": "2026-11-21 15:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_6gxtmeaM/",
-"likes": 0,
-"comments": 0,
-"views": 122,
-"reach": 107,
-"saved": 0,
-"shares": 0
-}
+"title": "SPIDER RIDDLE #7 🧩 Spread ka chor.",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1700",
 "name": "YouTube clip reel",
 "type": "reel",
-"title": "HVN aur LVN kya hote hain? 📊",
-"status": "POSTED",
-"post": {
-"id": "17926367580221845",
-"cap": "HVN aur LVN kya hote hain? 📊\n\nJahan profile ke bar lambe hain wo High Volume Node, jahan chhote hain wo Low Volume Node. HVN pe price aksar dheema padta hai, LVN se aksar tezi se guzar jata hai.\n\nOrder Flow Series, Episode 7 (Volume Profile) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "HVN aur LVN kya hote hain? 📊",
-"time": "2026-11-21 17:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgAIRtZlJRN/",
-"likes": 0,
-"comments": 0,
-"views": 76,
-"reach": 61,
-"saved": 0,
-"shares": 0
-}
+"title": "Fixed lot ya fixed percent? 🧮",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1900",
 "name": "Aspire reel",
 "type": "reel",
-"title": "Sabse badi galti: pehle lot chunna. ❌",
-"status": "POSTED",
-"post": {
-"id": "17875464309649188",
-"cap": "Sabse badi galti: pehle lot chunna. ❌\n\nQuant ulta sochta hai. Pehle ye tay karo ki trade galat gaya to kitne rupaye khone ko taiyaar ho. Ise risk per trade kehte hain. Phir lot apne aap nikalta hai.\n\nQuant Trading Series, Episode 4 (Position Sizing) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Sabse badi galti: pehle lot chunna. ❌",
-"time": "2026-11-21 19:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgAWCfYE_GS/",
-"likes": 2,
-"comments": 0,
-"views": 104,
-"reach": 46,
-"saved": 0,
-"shares": 0
-}
+"title": "Order book ka asli kaam. 📒",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "2030",
 "name": "Know reel",
 "type": "reel",
-"title": "KNOW #6 📚 1% Risk Rule",
-"status": "POSTED",
-"post": {
-"id": "18155520052537259",
-"cap": "KNOW #6 📚 1% Risk Rule\nPro traders ek trade pe kitna risk lete hain?\n• Zyaadatar 1 se 2 percent per trade.\n• 1% pe lagatar 10 loss bhi ho to account lagbhag 90% bacha rehta hai.\n• 10% risk pe wahi 10 loss account ko lagbhag 65% neeche le jaate hain.\nTip: bada profit nahi, lamba survival hi game jitata hai.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
-"cap1": "KNOW #6 📚 1% Risk Rule",
-"time": "2026-11-21 20:32",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgAgSX0D2Gz/",
-"likes": 0,
-"comments": 0,
-"views": 1,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
+"title": "KNOW #7 📚 Risk : Reward",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
@@ -183,10 +79,10 @@
 "link": "https://www.instagram.com/reel/DgAgSX0D2Gz/",
 "likes": 0,
 "comments": 0,
-"views": 1,
-"reach": 0,
+"views": 67,
+"reach": 54,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "17875464309649188",
@@ -197,10 +93,10 @@
 "link": "https://www.instagram.com/reel/DgAWCfYE_GS/",
 "likes": 2,
 "comments": 0,
-"views": 104,
-"reach": 46,
+"views": 147,
+"reach": 112,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "17926367580221845",
@@ -211,8 +107,8 @@
 "link": "https://www.instagram.com/reel/DgAIRtZlJRN/",
 "likes": 0,
 "comments": 0,
-"views": 76,
-"reach": 61,
+"views": 117,
+"reach": 94,
 "saved": 0,
 "shares": 0
 },
@@ -225,8 +121,8 @@
 "link": "https://www.instagram.com/reel/Df_6gxtmeaM/",
 "likes": 0,
 "comments": 0,
-"views": 122,
-"reach": 107,
+"views": 128,
+"reach": 111,
 "saved": 0,
 "shares": 0
 },
@@ -239,8 +135,8 @@
 "link": "https://www.instagram.com/reel/Df_bozbHzFn/",
 "likes": 0,
 "comments": 0,
-"views": 92,
-"reach": 73,
+"views": 117,
+"reach": 96,
 "saved": 0,
 "shares": 1
 },
@@ -253,10 +149,10 @@
 "link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
 "likes": 1,
 "comments": 0,
-"views": 127,
-"reach": 111,
+"views": 139,
+"reach": 121,
 "saved": 2,
-"shares": 1
+"shares": 2
 },
 {
 "id": "18140548732710854",
@@ -267,8 +163,8 @@
 "link": "https://www.instagram.com/reel/Df_KaW_FPcw/",
 "likes": 5,
 "comments": 0,
-"views": 173,
-"reach": 137,
+"views": 174,
+"reach": 138,
 "saved": 2,
 "shares": 2
 },
@@ -281,9 +177,9 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 2,
 "comments": 0,
-"views": 182,
-"reach": 145,
-"saved": 0,
+"views": 201,
+"reach": 162,
+"saved": 1,
 "shares": 0
 },
 {
@@ -351,7 +247,7 @@
 "link": "https://www.instagram.com/reel/Df9MUudjFwj/",
 "likes": 0,
 "comments": 0,
-"views": 42,
+"views": 43,
 "reach": 34,
 "saved": 0,
 "shares": 0
@@ -394,7 +290,7 @@
 "likes": 20,
 "comments": 0,
 "views": 718,
-"reach": 564,
+"reach": 565,
 "saved": 17,
 "shares": 10
 },
@@ -561,7 +457,7 @@
 "link": "https://www.instagram.com/reel/Df4njZdkqEu/",
 "likes": 0,
 "comments": 0,
-"views": 74,
+"views": 75,
 "reach": 60,
 "saved": 0,
 "shares": 0
@@ -598,125 +494,7 @@
 "trades": [],
 "scanner": {
 "open": [],
-"closed_today": [
-{
-"id": "XAGUSD_1795199400_dpoc",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 40.905,
-"sl": 41.4962,
-"r": -1.0,
-"opened": "21 Nov 00:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -31.15 USD = -1.00R"
-},
-{
-"id": "NAS100_1795199400_dpoc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 25472.08,
-"sl": 25667.44,
-"r": -1.0,
-"opened": "21 Nov 00:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -19.97 USD = -0.99R"
-},
-{
-"id": "NZDCAD_1795184100_dpoc",
-"pair": "NZDCAD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.78678,
-"sl": 0.78781,
-"r": 1.61,
-"opened": "20 Nov 20:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "JPN225_1795198500_dpoc",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 55209.5,
-"sl": 55709.6,
-"r": -1.0,
-"opened": "21 Nov 00:00",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -10.82 USD = -0.49R"
-},
-{
-"id": "CADJPY_1795134600_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 111.268,
-"sl": 111.4746,
-"r": 2.0,
-"opened": "20 Nov 06:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURCHF_1795172400_pbo",
-"pair": "EURCHF",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.92255,
-"sl": 0.924367,
-"r": 1.02,
-"opened": "20 Nov 16:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "AUDNZD_1795199400_dpoc",
-"pair": "AUDNZD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.2096,
-"sl": 1.210929,
-"r": -0.29,
-"opened": "21 Nov 00:15",
-"state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -8.30 USD = -0.33R"
-},
-{
-"id": "GBPNZD_1795169700_pbo",
-"pair": "GBPNZD",
-"dir": "BUY",
-"model": "pbo",
-"entry": 2.38487,
-"sl": 2.380194,
-"r": 1.38,
-"opened": "20 Nov 16:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "JPN225_1795139100_pbo",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "pbo",
-"entry": 56809.5,
-"sl": 57802.5,
-"r": 1.64,
-"opened": "20 Nov 07:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-}
-],
+"closed_today": [],
 "closed_recent": [
 {
 "id": "JPN225_1795139100_pbo",
@@ -754,8 +532,8 @@
 "r": -0.29,
 "opened": "21 Nov 00:15",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -8.30 USD = -0.33R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "EURCHF_1795172400_pbo",
@@ -793,8 +571,8 @@
 "r": -1.0,
 "opened": "21 Nov 00:00",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -10.82 USD = -0.49R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "NZDCAD_1795184100_dpoc",
@@ -819,8 +597,8 @@
 "r": -1.0,
 "opened": "21 Nov 00:15",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -19.97 USD = -0.99R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "XAGUSD_1795199400_dpoc",
@@ -832,8 +610,8 @@
 "r": -1.0,
 "opened": "21 Nov 00:15",
 "state": "closed",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -31.15 USD = -1.00R"
+"mt5": null,
+"mt5_reason": null
 },
 {
 "id": "GBPNZD_1795183200_dpoc",
@@ -917,10 +695,10 @@
 "all_n": 243,
 "all_net": 45.44,
 "all_win": 137,
-"today_net": 4.36,
+"today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1066,
+"age_min": 1597,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -935,32 +713,32 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 151955,
+"voice_chars_month": 158444,
 "voice_limit": 30000,
-"disk_free_gb": 12.3,
+"disk_free_gb": 14.3,
 "github_runs": [
 {
-"t": "2026-11-21T15:00:26Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-21T14:27:03Z",
+"t": "2026-11-21T22:04:46Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-21T13:30:19Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-21T13:24:19Z",
+"t": "2026-11-21T21:35:55Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-21T12:57:48Z",
+"t": "2026-11-21T20:38:54Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-21T19:57:45Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-21T17:56:43Z",
 "ok": "success",
 "ev": "schedule"
 }
