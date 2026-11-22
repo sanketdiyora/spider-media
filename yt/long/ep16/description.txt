@@ -1,0 +1,47 @@
+Teen candles me sellers ne 1,250 contract bech diye, phir bhi price 2650 se ek tick neeche nahi gaya. Kaun khareed raha tha? Is episode me zero se samjho Absorption aur Exhaustion: footprint aur delta pe dono ka chehra, aur absorption ko breakout se kaise alag karein.
+
+Ye SPIDER ki Order Flow Series ka Episode 16 hai (Hindi + English subtitles).
+
+Is episode me:
+• Absorption = bahut aggressive orders, par price nahi hila (passive limit orders ne soka)
+• Exhaustion = zor dheere-dheere khatam, aakhir me koi khareedne wala nahi
+• Market (aggressive) vs limit (passive) order ka role
+• Udaharan: 3 candles, low 2650 · bid volume 420 + 380 + 450 = 1,250 · delta −310 −280 −330 = −920 · phir 2662
+• 4 nishaan: volume bahut zyada, delta bahut negative, price ek level pe atka, neeche wick
+• Exhaustion: rally 2672 tak, upar ask volume 190 → 150 → 35 → 9 → 4, phir 2660
+• Absorption vs breakout: deewar toot bhi sakti hai (2650 → 2641) · confirmation ka intezaar, stop level ke us paar (jaise 2647)
+• Akela signal mat lo: VAL, POC, stacked zone, delta divergence ke saath padho
+• Spot forex / gold me asli bid-ask volume nahi; asli footprint futures (COMEX gold) pe
+
+Chapters:
+0:00 Intro
+0:19 Pichhla episode
+0:38 Do shabd
+0:53 Market vs limit
+1:11 Absorption udaharan
+1:35 Pehchaan
+1:52 Uske baad
+2:03 Exhaustion udaharan
+2:23 Fark
+2:40 Absorption vs breakout
+3:05 Saath me padho
+3:17 Forex ka sach
+3:30 Recap
+3:48 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Episode 15 (Imbalance + Stacked Imbalance): https://youtu.be/F8j33xjRRd0
+Agla episode: Liquidity pools aur stop hunts. Stop loss kahan jama hote hain.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #absorption #footprint #tradinghindi #spidertrades

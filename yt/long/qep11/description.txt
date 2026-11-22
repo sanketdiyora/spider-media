@@ -1,0 +1,52 @@
+Pichhle episode ka Excel wala breakout system, ab Python (pandas) me, aur is baar asli gold data pe. Result achha aaya: +9.24R, PF 2.52. Lekin andar dekha to ek hi trade ne lagbhag poora profit kamaya tha. Is episode ka asli sabak wahi hai.
+
+Ye SPIDER ki Quant Trading Series ka Episode 11 hai (Hindi + English subtitles).
+
+Is episode me:
+• Python kyun: 10 saal × 10 market × 10 version haath se nahi hote
+• Data: Dukascopy XAUUSD, Mar 2024 – Nov 2026, hourly → daily = 692 trading din
+• Excel columns = code: close.shift(1).rolling(20).max(), 10 din ka min, 14 din ka ATR
+• shift(1) kyun zaroori: aaj ki row nahi, bhavishya nahi
+• Trade loop: signal → agle open pe buy, stop 2 ATR; low ≤ stop ya close < 10 din ka min → bahar
+• Poora code ≈ 12 lines
+• Result: 16 trades, 7 jeet / 9 haar, +9.24R, PF 2.52 · 0.1R kharche ke baad +7.64R, PF 2.09
+• Chhupi baat: ek trade (29 Aug → 28 Oct 2025) = +8.29R; baaki 15 trades = sirf +0.95R
+• Gold khud 2,328 → 4,061 (≈ +74%): tez trend me breakout achha dikhta hi hai
+• Agla kadam: zyada saal, aur markets, andekha data
+
+Chapters:
+0:00 Intro
+0:19 Pichhla episode
+0:36 Python kyun
+0:52 Data
+1:12 Columns code me
+1:31 Signal
+1:42 Trade loop
+2:05 R ka hisaab
+2:18 Result
+2:41 Chhupi baat
+3:02 Sabak
+3:21 Aage kya
+3:35 Recap
+3:55 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Agla episode: Out-of-sample aur walk-forward test. System ko andekhe data pe kaise parkhein.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Backtest Dukascopy gold data (Mar 2024 – Nov 2026) pe hai, kharcha simple 0.1R maana hai. Past results future ki guarantee nahi.
+
+#quanttrading #pythontrading #backtesting #tradinghindi #spidertrades

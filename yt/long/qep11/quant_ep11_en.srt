@@ -1,0 +1,156 @@
+1
+00:00:05,000 --> 00:00:11,922
+Last episode's Excel system, today in Python. And this time on real gold data.
+
+2
+00:00:12,372 --> 00:00:18,093
+The result looked good. But it hid one thing, and that is the most important part.
+
+3
+00:00:19,093 --> 00:00:24,083
+Hello, this is episode eleven of the SPIDER Quant Trading series.
+
+4
+00:00:24,533 --> 00:00:30,097
+Last time: five rules, an Excel sheet, and an example of thirty trades.
+
+5
+00:00:30,546 --> 00:00:35,458
+Today: the same rules in code, and a full backtest on real data.
+
+6
+00:00:36,458 --> 00:00:39,619
+Thirty rows work fine in Excel.
+
+7
+00:00:40,069 --> 00:00:46,338
+But ten years, ten markets, and ten versions of every rule? Not by hand.
+
+8
+00:00:46,788 --> 00:00:51,621
+Python does the same job in a second, and exactly the same way every time.
+
+9
+00:00:52,621 --> 00:00:59,047
+We took Dukascopy gold data, from March 2024 to November 2026.
+
+10
+00:00:59,497 --> 00:01:03,938
+We turned hourly candles into daily ones: 692 trading days.
+
+11
+00:01:04,387 --> 00:01:11,387
+Four things per day: open, high, low, close. The same columns as in Excel.
+
+12
+00:01:12,387 --> 00:01:18,579
+20-day max: close.shift(1).rolling(20).max().
+
+13
+00:01:19,029 --> 00:01:25,872
+That shift(1) matters. It leaves out today's row. The Excel mistake stops right here.
+
+14
+00:01:26,323 --> 00:01:30,607
+The same way: the 10-day min and the 14-day ATR.
+
+15
+00:01:31,607 --> 00:01:35,892
+The signal is one line: is the close above the 20-day max?
+
+16
+00:01:36,342 --> 00:01:41,827
+The answer is True or False for every day. Like the IF in Excel.
+
+17
+00:01:42,827 --> 00:01:47,582
+Now a loop. Each day, check: is a trade open or not?
+
+18
+00:01:48,032 --> 00:01:54,719
+No trade and a signal: buy at the next open, stop two ATR below.
+
+19
+00:01:55,169 --> 00:02:04,494
+Trade open: if the day's low hits the stop, out at the stop. If the close is below the 10-day min, out at the next open.
+
+20
+00:02:05,494 --> 00:02:12,574
+Each trade in R: exit minus entry, divided by entry minus stop.
+
+21
+00:02:13,024 --> 00:02:17,857
+The whole code, from loading data to R, is about twelve lines.
+
+22
+00:02:18,857 --> 00:02:23,531
+We ran it. Sixteen trades. Seven wins, nine losses.
+
+23
+00:02:23,982 --> 00:02:30,748
+Total +9.24R. Profit factor 2.52.
+
+24
+00:02:31,198 --> 00:02:40,837
+Subtract 0.1R cost per trade: +7.64R, PF 2.09.
+
+25
+00:02:41,837 --> 00:02:44,345
+Now look at the trades one by one.
+
+26
+00:02:44,795 --> 00:02:54,513
+One trade: entry on 29 August 2025, exit on 28 October. Alone, +8.29R.
+
+27
+00:02:54,963 --> 00:03:01,310
+Remove it, and the other fifteen trades add up to only +0.95R.
+
+28
+00:03:02,310 --> 00:03:07,065
+Sixteen trades are far too few. One trade changed the whole story.
+
+29
+00:03:07,515 --> 00:03:14,672
+And in this period gold itself went from 2,328 to 4,061: about 74%.
+
+30
+00:03:15,122 --> 00:03:20,033
+In a strong trend, breakouts always look good. Do not put money on this result.
+
+31
+00:03:21,033 --> 00:03:24,821
+Next step: more years, and more markets.
+
+32
+00:03:25,271 --> 00:03:29,477
+And data that was never looked at while building the system.
+
+33
+00:03:29,927 --> 00:03:34,289
+Remember episode nine? This is how you avoid overfitting.
+
+34
+00:03:35,289 --> 00:03:40,279
+So, today in short. The Excel rules, twelve lines in Python.
+
+35
+00:03:40,728 --> 00:03:46,920
+Use shift(1) so you never peek at the future. Every trade in R, minus costs.
+
+36
+00:03:47,370 --> 00:03:54,527
+And look inside the result: if a few trades earn everything, it may be luck, not edge.
+
+37
+00:03:55,527 --> 00:04:02,998
+Next episode: out-of-sample and walk-forward testing. How to test a system on unseen data.
+
+38
+00:04:03,448 --> 00:04:08,358
+If this was useful, subscribe and save the playlist.
+
+39
+00:04:08,809 --> 00:04:14,843
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

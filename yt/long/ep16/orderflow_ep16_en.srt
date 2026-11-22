@@ -1,0 +1,152 @@
+1
+00:00:05,000 --> 00:00:09,361
+In three candles, sellers sold 1,250 contracts.
+
+2
+00:00:09,812 --> 00:00:14,959
+Yet price did not go a single tick below 2650.
+
+3
+00:00:15,408 --> 00:00:18,883
+So who was buying? That is what we learn today.
+
+4
+00:00:19,883 --> 00:00:24,793
+Hello, this is episode sixteen of the SPIDER Order Flow series.
+
+5
+00:00:25,244 --> 00:00:30,729
+Last time: stacked imbalance. Where one side pushed hard.
+
+6
+00:00:31,180 --> 00:00:37,136
+Today: absorption and exhaustion. When there is force, but price does not move.
+
+7
+00:00:38,136 --> 00:00:45,528
+Absorption: lots of aggressive orders came in, but someone on the other side soaked them all up. Price stayed put.
+
+8
+00:00:45,978 --> 00:00:52,248
+Exhaustion: the push fades slowly. In the end, nobody is left to buy.
+
+9
+00:00:53,248 --> 00:01:00,092
+Remember: a market order fills at once. It is aggressive, and it is what the footprint counts.
+
+10
+00:01:00,542 --> 00:01:05,060
+A limit order waits in the book. It is passive.
+
+11
+00:01:05,510 --> 00:01:10,579
+In absorption, passive limit orders stop the aggressive market orders.
+
+12
+00:01:11,579 --> 00:01:15,705
+Three candles, all with a low of 2650.
+
+13
+00:01:16,155 --> 00:01:25,247
+Bid volume at 2650: 420, 380, 450. Total 1,250.
+
+14
+00:01:25,696 --> 00:01:34,604
+Delta: minus 310, minus 280, minus 330. Total minus 920.
+
+15
+00:01:35,604 --> 00:01:41,717
+Four signs together: very high volume. Very negative delta.
+
+16
+00:01:42,166 --> 00:01:46,529
+Yet price stuck at one level, with wicks below the candles.
+
+17
+00:01:46,979 --> 00:01:51,655
+Meaning: a big buyer there was taking it all with limit orders.
+
+18
+00:01:52,655 --> 00:01:57,905
+In this example, the sellers gave up. Price climbed to 2662.
+
+19
+00:01:58,356 --> 00:02:02,797
+The sellers trapped below had stops, which came in as buys on the way up.
+
+20
+00:02:03,797 --> 00:02:07,663
+Now the opposite. A rally went up to 2672.
+
+21
+00:02:08,113 --> 00:02:17,829
+Watch the ask volume going up: 190, 150, 35, 9, and only 4 at the very top.
+
+22
+00:02:18,280 --> 00:02:22,408
+Buyers ran out. Price fell back to 2660.
+
+23
+00:02:23,408 --> 00:02:28,084
+Absorption: huge volume, yet price stopped.
+
+24
+00:02:28,534 --> 00:02:33,784
+Exhaustion: tiny volume, so the move stopped.
+
+25
+00:02:34,233 --> 00:02:39,954
+Both mean one thing: the side that was pushing is no longer winning.
+
+26
+00:02:40,954 --> 00:02:45,631
+The biggest mistake: calling every big selling burst absorption.
+
+27
+00:02:46,081 --> 00:02:53,892
+Sometimes the wall breaks. Price broke 2650 and fell to 2641. That is a breakout.
+
+28
+00:02:54,341 --> 00:03:04,138
+So wait: the level holds, the next candle closes higher, delta flips. And the stop goes below the level, like 2647.
+
+29
+00:03:05,138 --> 00:03:12,373
+Do not trade a lone signal. Check the level: value area low, POC, an earlier stacked zone.
+
+30
+00:03:12,823 --> 00:03:16,533
+And delta divergence, from episode fourteen.
+
+31
+00:03:17,533 --> 00:03:22,940
+Remember: spot forex and gold do not give real bid and ask volume.
+
+32
+00:03:23,390 --> 00:03:29,346
+A real footprint comes from futures. For gold, COMEX gold futures.
+
+33
+00:03:30,346 --> 00:03:36,380
+So, today in short. Absorption: lots of force, yet price did not move.
+
+34
+00:03:36,829 --> 00:03:42,551
+Exhaustion: the push faded, the numbers at the top kept shrinking.
+
+35
+00:03:43,001 --> 00:03:47,677
+And always wait for confirmation, with the stop beyond the level.
+
+36
+00:03:48,677 --> 00:03:57,507
+Next episode: liquidity pools and stop hunts. Where stop losses pile up, and why big players hunt them.
+
+37
+00:03:57,957 --> 00:04:02,789
+If this was useful, subscribe and save the playlist.
+
+38
+00:04:03,239 --> 00:04:09,273
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
