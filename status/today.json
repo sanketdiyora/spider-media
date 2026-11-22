@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-22 05:33 IST",
+"updated": "2026-11-22 07:12 IST",
 "date": "2026-11-22",
 "followers": 85,
-"media_count": 150,
+"media_count": 151,
 "slots": [
 {
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
 "title": "Backtest me superhit, live me loss? 🤔",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17964731060998724",
+"cap": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Backtest me superhit, live me loss? 🤔",
+"time": "2026-11-22 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -71,6 +84,20 @@
 ],
 "recent_posts": [
 {
+"id": "17964731060998724",
+"cap": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Backtest me superhit, live me loss? 🤔",
+"time": "2026-11-22 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18155520052537259",
 "cap": "KNOW #6 📚 1% Risk Rule\nPro traders ek trade pe kitna risk lete hain?\n• Zyaadatar 1 se 2 percent per trade.\n• 1% pe lagatar 10 loss bhi ho to account lagbhag 90% bacha rehta hai.\n• 10% risk pe wahi 10 loss account ko lagbhag 65% neeche le jaate hain.\nTip: bada profit nahi, lamba survival hi game jitata hai.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
 "cap1": "KNOW #6 📚 1% Risk Rule",
@@ -79,8 +106,8 @@
 "link": "https://www.instagram.com/reel/DgAgSX0D2Gz/",
 "likes": 0,
 "comments": 0,
-"views": 67,
-"reach": 54,
+"views": 68,
+"reach": 55,
 "saved": 0,
 "shares": 1
 },
@@ -177,8 +204,8 @@
 "link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
 "likes": 2,
 "comments": 0,
-"views": 201,
-"reach": 162,
+"views": 203,
+"reach": 164,
 "saved": 1,
 "shares": 0
 },
@@ -475,20 +502,6 @@
 "reach": 111,
 "saved": 1,
 "shares": 0
-},
-{
-"id": "18129898243857155",
-"cap": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?\nTrader ka $1000 account girke $500 ho gaya. Wapas $1000 pe aane ke liye kitne % profit chahiye? Aur agar 90% gira hota to?\nJawab comment me likho 👇 Kal 9 AM jawab reel (Part 2/2) + pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #drawdown #riskmanagement",
-"cap1": "SPIDER RIDDLE #3 · Part 1/2 🧩 50% gira. Wapas kitna?",
-"time": "2026-11-18 15:07",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df4MzpqgIyw/",
-"likes": 0,
-"comments": 0,
-"views": 134,
-"reach": 114,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -698,7 +711,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1597,
+"age_min": 1696,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -718,6 +731,11 @@
 "disk_free_gb": 14.3,
 "github_runs": [
 {
+"t": "2026-11-22T01:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-21T22:04:46Z",
 "ok": "success",
 "ev": "schedule"
@@ -734,11 +752,6 @@
 },
 {
 "t": "2026-11-21T19:57:45Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-21T17:56:43Z",
 "ok": "success",
 "ev": "schedule"
 }
