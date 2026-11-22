@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-22 07:12 IST",
+"updated": "2026-11-22 08:10 IST",
 "date": "2026-11-22",
 "followers": 85,
-"media_count": 151,
+"media_count": 152,
 "slots": [
 {
 "slot": "0700",
@@ -17,12 +17,12 @@
 "time": "2026-11-22 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
+"views": 127,
+"reach": 85,
+"saved": 1,
+"shares": 1
 }
 },
 {
@@ -30,8 +30,21 @@
 "name": "Motivation reel",
 "type": "reel",
 "title": "Price ko hilata kaun hai? 🧱",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18036589412673091",
+"cap": "Price ko hilata kaun hai? 🧱\n\nMarket order maal uthata hai, wo jaldi wala hai. Limit order maal rakhta hai, wo intezaar wala hai. Price ko market orders hilate hain, aur limit orders unke raaste ki deewar bante hain. Order Flow isi ladaai ko dekhna hai.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Price ko hilata kaun hai? 🧱",
+"time": "2026-11-22 08:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgBvPj1FSh7/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0900",
@@ -84,18 +97,32 @@
 ],
 "recent_posts": [
 {
-"id": "17964731060998724",
-"cap": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Backtest me superhit, live me loss? 🤔",
-"time": "2026-11-22 07:01",
+"id": "18036589412673091",
+"cap": "Price ko hilata kaun hai? 🧱\n\nMarket order maal uthata hai, wo jaldi wala hai. Limit order maal rakhta hai, wo intezaar wala hai. Price ko market orders hilate hain, aur limit orders unke raaste ki deewar bante hain. Order Flow isi ladaai ko dekhna hai.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
+"cap1": "Price ko hilata kaun hai? 🧱",
+"time": "2026-11-22 08:01",
 "type": "REEL",
-"link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
+"link": "https://www.instagram.com/reel/DgBvPj1FSh7/",
 "likes": 0,
 "comments": 0,
 "views": 0,
 "reach": 0,
 "saved": 0,
 "shares": 0
+},
+{
+"id": "17964731060998724",
+"cap": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Backtest me superhit, live me loss? 🤔",
+"time": "2026-11-22 07:01",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
+"likes": 1,
+"comments": 0,
+"views": 127,
+"reach": 85,
+"saved": 1,
+"shares": 1
 },
 {
 "id": "18155520052537259",
@@ -176,8 +203,8 @@
 "link": "https://www.instagram.com/reel/Df_RWfKHAQv/",
 "likes": 1,
 "comments": 0,
-"views": 139,
-"reach": 121,
+"views": 142,
+"reach": 124,
 "saved": 2,
 "shares": 2
 },
@@ -488,20 +515,6 @@
 "reach": 60,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "17962808049260717",
-"cap": "Tick volume 3 jagah dhokha deta hai. ⚠️\n\nTick volume kaam ka hai, par har jagah nahi. Teen haalat aisi hain jahan ye galat tasveer dikha sakta hai. Inhe jaan lo, taaki volume ko andha-dhundh na padho.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Tick volume 3 jagah dhokha deta hai. ⚠️",
-"time": "2026-11-18 17:04",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df4aKj2jc2y/",
-"likes": 2,
-"comments": 0,
-"views": 133,
-"reach": 111,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -711,7 +724,7 @@
 "today_net": 0,
 "engine": {
 "last_scan": "02:56",
-"age_min": 1696,
+"age_min": 1754,
 "rc": 0,
 "summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
 },
@@ -731,6 +744,11 @@
 "disk_free_gb": 14.3,
 "github_runs": [
 {
+"t": "2026-11-22T02:30:20Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-22T01:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
@@ -747,11 +765,6 @@
 },
 {
 "t": "2026-11-21T20:38:54Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-21T19:57:45Z",
 "ok": "success",
 "ev": "schedule"
 }
