@@ -1,0 +1,172 @@
+1
+00:00:05,000 --> 00:00:12,706
+Inside one candle, three prices in a row. On all three, buyers outweighed sellers more than three to one.
+
+2
+00:00:13,155 --> 00:00:17,674
+Later price came back to that exact spot, and bounced from there again.
+
+3
+00:00:18,125 --> 00:00:22,253
+This is called a stacked imbalance. That is today's lesson.
+
+4
+00:00:23,253 --> 00:00:28,085
+Hello, this is episode fifteen of the SPIDER Order Flow series.
+
+5
+00:00:28,534 --> 00:00:34,099
+Last time: delta divergence. When price and CVD split.
+
+6
+00:00:34,549 --> 00:00:40,505
+Today: imbalance and stacked imbalance. Where one side pushed hard.
+
+7
+00:00:41,505 --> 00:00:47,696
+In a footprint every price has two numbers: sold at the bid, and bought at the ask.
+
+8
+00:00:48,146 --> 00:00:54,102
+When one side's number is many times bigger than the other's, that is an imbalance.
+
+9
+00:00:54,552 --> 00:00:58,758
+It means one side was in far more of a hurry at that price.
+
+10
+00:00:59,758 --> 00:01:03,624
+But the comparison is not straight across, it is diagonal. Why?
+
+11
+00:01:04,074 --> 00:01:11,780
+At any moment, if the bid is 2652, the ask is one tick higher, at 2653.
+
+12
+00:01:12,229 --> 00:01:23,306
+So whoever bought at 2653 was up against whoever sold at 2652. That is why the ask is compared with the bid one level below.
+
+13
+00:01:24,306 --> 00:01:34,179
+Example: 150 at the ask on 2653. Below it, only 30 at the bid on 2652.
+
+14
+00:01:34,630 --> 00:01:39,777
+150 divided by 30: five times. That is 500%.
+
+15
+00:01:40,226 --> 00:01:49,396
+Most traders use 300%, three times, as the threshold. Some use 400%. This is a buy imbalance.
+
+16
+00:01:50,396 --> 00:01:53,321
+Now check the whole candle, top to bottom.
+
+17
+00:01:53,771 --> 00:02:05,422
+2654: 2.7 times, no. 2653: 5 times, yes. 2652: 3.6 times, yes.
+
+18
+00:02:05,872 --> 00:02:12,951
+2651: 3.3 times, yes. 2650: less than one, no.
+
+19
+00:02:13,951 --> 00:02:20,220
+See? Three prices in a row with a buy imbalance: 2651, 2652, 2653.
+
+20
+00:02:20,670 --> 00:02:28,220
+One or two imbalances show up anywhere. But three or more in a row is called a stacked imbalance.
+
+21
+00:02:28,670 --> 00:02:33,920
+It is a zone where buyers pushed hard on one price after another.
+
+22
+00:02:34,920 --> 00:02:41,190
+The reverse happens too: sell imbalance. Here the bid is compared with the ask one level above.
+
+23
+00:02:41,640 --> 00:02:48,719
+210 at the bid on 2661, only 30 at the ask above: seven times.
+
+24
+00:02:49,168 --> 00:03:00,558
+4.2 at 2660, 4.3 at 2659. Three in a row: a stacked sell imbalance from 2659 to 2661.
+
+25
+00:03:01,558 --> 00:03:04,641
+Beware one trap: small numbers.
+
+26
+00:03:05,091 --> 00:03:10,733
+Three contracts against one is also 300%. But it means nothing.
+
+27
+00:03:11,183 --> 00:03:19,150
+So set a minimum volume rule. For example, count it only if the bigger side has at least 50 contracts.
+
+28
+00:03:20,150 --> 00:03:23,938
+Now the real use. What does this zone do later?
+
+29
+00:03:24,388 --> 00:03:31,232
+Price went up to 2670. Then it fell back into the zone, to 2652.
+
+30
+00:03:31,682 --> 00:03:42,523
+It held there and climbed to 2668. The buyers who pushed there before were standing there again. The zone became support.
+
+31
+00:03:43,523 --> 00:03:45,796
+But it does not happen every time.
+
+32
+00:03:46,245 --> 00:03:55,154
+Another day price came into the zone and went right through it, down to 2644. Sell imbalances formed on the way.
+
+33
+00:03:55,603 --> 00:04:04,851
+The buyers were not there any more. So always keep the stop beyond the zone. If the zone breaks, admit it and get out.
+
+34
+00:04:05,851 --> 00:04:12,120
+And the same truth again: spot forex and gold have no real bid and ask volume.
+
+35
+00:04:12,570 --> 00:04:18,291
+MT5 footprints estimate from ticks. An imbalance on them is an estimate too.
+
+36
+00:04:18,741 --> 00:04:25,089
+A real footprint comes from futures: gold futures, index futures or a crypto exchange.
+
+37
+00:04:26,089 --> 00:04:27,891
+So, today's summary.
+
+38
+00:04:28,341 --> 00:04:37,667
+Imbalance: a diagonal comparison. Ask against the bid below, bid against the ask above. Three times or more.
+
+39
+00:04:38,117 --> 00:04:43,603
+Three or more in a row is a stacked imbalance: a zone of strong pressure.
+
+40
+00:04:44,053 --> 00:04:51,289
+Later it can become support or resistance. Ignore small numbers, and keep the stop beyond the zone.
+
+41
+00:04:52,289 --> 00:04:58,898
+Next episode: absorption and exhaustion. When the push comes but price does not move.
+
+42
+00:04:59,348 --> 00:05:04,259
+If this was useful, subscribe and save the playlist.
+
+43
+00:05:04,709 --> 00:05:10,900
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

@@ -1,0 +1,49 @@
+Trading system ka matlab koi jaadu nahi, bas likhe hue rules. Is episode me zero se apna pehla system banate hain: 5 saaf niyam, ek worked trade, aur Excel me 30 trades ka backtest. Aur dekhte hain ki cost ke baad kya bachta hai.
+
+Ye SPIDER ki Quant Trading Series ka Episode 10 hai (Hindi + English subtitles).
+
+Is episode me:
+• System = 5 sawaalon ke likhe hue jawab: kya, kab ghuso, stop, kab niklo, kitna
+• Entry: close pichhle 20 din ke sabse unche close ke upar → agle din open pe buy
+• Stop: 2 ATR neeche · Exit: close 10 din ke sabse neeche close ke neeche
+• Risk: har trade 1% (10,000 $ × 1% ÷ 50 $ stop = 2 oz)
+• Worked trade: entry 2400, ATR 25, stop 2350, exit 2520 = +2.4R
+• Excel log: 30 trades, 12 jeet × +2.5R, 18 haar × −1R = +12R, PF 1.67, +0.4R per trade
+• Cost 0.1R per trade jodo: +9R, PF 1.45
+• 3 Excel galtiyan: MAX me aaj ki row jodna, cost bhoolna, baar-baar rules badalna (phir se overfitting)
+
+Chapters:
+0:00 Intro
+0:20 Pichhla episode
+0:38 5 sawaal
+0:54 Hamare niyam
+1:24 Saaf niyam ki pehchaan
+1:43 Excel ke columns
+2:12 Signal column
+2:32 Ek trade ka hisaab
+2:57 Kitna lagana
+3:19 Trade log
+3:51 Bharosa kab
+4:15 Excel ki galtiyan
+4:36 Recap
+5:02 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Agla episode: Wahi system Python me. Code se backtest.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is video ke saare number samjhane ke liye example hain.
+
+#quanttrading #tradingsystem #backtesting #tradinghindi #spidertrades

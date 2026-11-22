@@ -1,0 +1,46 @@
+Ek candle ke andar teen price lagataar, aur teeno pe buyers sellers se teen guna se bhi zyada bhaari. Baad me price wahin wapas aaya aur wahin se uchhla. Is episode me zero se samjho Imbalance aur Stacked Imbalance: kaise naapein, kab bharosa karein, aur kab zone toot jaata hai.
+
+Ye SPIDER ki Order Flow Series ka Episode 15 hai (Hindi + English subtitles).
+
+Is episode me:
+• Imbalance = ek taraf ka number doosri taraf se kai guna bada
+• Tulna tirchhi kyun: Ask ko ek neeche wale Bid se, Bid ko ek upar wale Ask se milao
+• Udaharan: 2653 ask 150 ÷ 2652 bid 30 = 5 guna (500%). Aam seema 300%, kuch log 400%
+• Poori candle: 2651, 2652, 2653 pe lagataar buy imbalance = stacked imbalance
+• Sell imbalance: 2659–2661 pe stacked sell (7, 4.2, 4.3 guna)
+• Chhote numbers ka dhokha: 3 vs 1 bhi 300% hai, isliye badi taraf kam se kam ~50 contract
+• Zone baad me: 2670 se girke 2652 pe ruka, phir 2668. Zone support bana
+• Jab zone toote: price 2644 tak gaya. Stop hamesha zone ke us paar
+• Spot forex / gold me asli bid-ask volume nahi; asli footprint futures pe
+
+Chapters:
+0:00 Intro
+0:23 Pichhla episode
+0:41 Imbalance kya hai
+0:59 Diagonal kyun
+1:24 Kaise naapein
+1:50 Poori candle
+2:13 Stacked imbalance
+2:34 Sell imbalance
+3:01 Chhote numbers
+3:20 Zone baad me
+3:43 Jab zone toote
+4:05 Forex ka sach
+4:26 Recap
+4:52 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Agla episode: Absorption aur Exhaustion. Jab zor lage, par price na hile.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #imbalance #footprint #tradinghindi #spidertrades
