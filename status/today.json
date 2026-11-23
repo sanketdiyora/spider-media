@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 16:37 IST",
+"updated": "2026-11-23 16:51 IST",
 "date": "2026-11-23",
 "followers": 89,
 "media_count": 164,
@@ -592,6 +592,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.03 lots @61298.59 SL 61997.89 (scanner SL) entry 61233.58 basis 82.88 (M15) +SLbuf 17.01 +TPbuf 17.01 split TP1/TP2 risk 0.40%"
+},
+{
+"id": "GBPNZD_1795431600_dpoc",
+"pair": "GBPNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 2.39826,
+"sl": 2.394408,
+"r": null,
+"opened": "23 Nov 16:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.12 lots @2.39815 SL 2.39449 (scanner SL) entry 2.39834 basis 0.00008 (M15)  risk 0.46%"
 }
 ],
 "closed_today": [
@@ -941,18 +954,18 @@
 "all_win": 142,
 "today_net": -1.79,
 "engine": {
-"last_scan": "16:31",
+"last_scan": "16:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 11:00 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-23 11:15 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5190.52",
-"equity": "5187.48",
-"floating": "-3.04",
-"positions": "2",
+"equity": "5184.58",
+"floating": "-5.94",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
