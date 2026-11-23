@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-23/1336.mp4",
+ "dur": 40.43,
+ "music": "ambient/584.mp3",
+ "chars": 478,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "JPN225",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    56124.5,
+    56131.328
+   ],
+   "sl": 56295.2,
+   "entry": 56124.5,
+   "rr": 3.0,
+   "tp1": 55953.8,
+   "tp2": 55612.4
+  },
+  {
+   "pair": "EURCHF",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.92231,
+    0.92234352
+   ],
+   "sl": 0.923148,
+   "entry": 0.92231,
+   "rr": 3.0,
+   "tp1": 0.921472,
+   "tp2": 0.919797
+  },
+  {
+   "pair": "USDCHF",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    0.838869,
+    0.8389134
+   ],
+   "sl": 0.839979,
+   "entry": 0.838869,
+   "rr": 2.5,
+   "tp1": 0.837759,
+   "tp2": 0.836093
+  },
+  {
+   "pair": "BTCUSD",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    61150.7,
+    61180.592
+   ],
+   "sl": 61898.0,
+   "entry": 61150.7,
+   "rr": 3.0,
+   "tp1": 60403.4,
+   "tp2": 58908.7
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_07ac0e49",
+ "crops": [
+  "/home/claude/ig/setup/w_07ac0e49/tg_0.jpg",
+  "/home/claude/ig/setup/w_07ac0e49/tg_1.jpg",
+  "/home/claude/ig/setup/w_07ac0e49/tg_2.jpg",
+  "/home/claude/ig/setup/w_07ac0e49/tg_3.jpg"
+ ]
+}
