@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 11:06 IST",
+"updated": "2026-11-23 11:21 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -547,19 +547,6 @@
 "scanner": {
 "open": [
 {
-"id": "WTI_1795392900_dpoc",
-"pair": "WTI OIL",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 82.83,
-"sl": 83.729,
-"r": null,
-"opened": "23 Nov 06:00",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "stop too close after spread: -0.21R room (basis too big 1.057 (M15, limit 0.450), 0)"
-},
-{
 "id": "EURCHF_1795398300_pbo",
 "pair": "EURCHF",
 "dir": "SELL",
@@ -584,19 +571,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.15 lots @2.00651 SL 2.00339 (scanner SL) entry 2.00653 basis -0.00003 (M15)  risk 0.49%"
-},
-{
-"id": "USDCAD_1795408200_dpoc",
-"pair": "USDCAD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 1.43329,
-"sl": 1.432487,
-"r": null,
-"opened": "23 Nov 10:15",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.43 lots @1.43334 SL 1.43249 (scanner SL) entry 1.43329 basis 0.00000 (M15)  risk 0.49%"
 },
 {
 "id": "BTCUSD_1795409100_pbo",
@@ -677,9 +651,61 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "stop too close after spread: -0.22R room (basis 19.09 (M15))"
+},
+{
+"id": "WTI_1795392900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 82.83,
+"sl": 83.729,
+"r": -1.0,
+"opened": "23 Nov 06:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.21R room (basis too big 1.057 (M15, limit 0.450), 0)"
+},
+{
+"id": "USDCAD_1795408200_dpoc",
+"pair": "USDCAD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.43329,
+"sl": 1.432487,
+"r": -1.0,
+"opened": "23 Nov 10:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.52 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "USDCAD_1795408200_dpoc",
+"pair": "USDCAD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.43329,
+"sl": 1.432487,
+"r": -1.0,
+"opened": "23 Nov 10:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.52 USD = -1.00R"
+},
+{
+"id": "WTI_1795392900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 82.83,
+"sl": 83.729,
+"r": -1.0,
+"opened": "23 Nov 06:00",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.21R room (basis too big 1.057 (M15, limit 0.450), 0)"
+},
 {
 "id": "NAS100_1795410000_poc",
 "pair": "NAS100",
@@ -848,51 +874,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "XAGUSD_1795199400_dpoc",
-"pair": "SILVER",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 40.905,
-"sl": 41.4962,
-"r": -1.0,
-"opened": "21 Nov 00:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "GBPNZD_1795183200_dpoc",
-"pair": "GBPNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 2.38521,
-"sl": 2.38136,
-"r": 1.03,
-"opened": "20 Nov 19:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 248,
-"all_net": 44.94,
+"all_n": 250,
+"all_net": 42.94,
 "all_win": 139,
-"today_net": -0.5,
+"today_net": -2.5,
 "engine": {
-"last_scan": "11:01",
+"last_scan": "11:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 05:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-23 05:45 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5218.09",
-"equity": "5200.66",
-"floating": "-17.43",
-"positions": "6",
+"balance": "5192.57",
+"equity": "5176.22",
+"floating": "-16.35",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
