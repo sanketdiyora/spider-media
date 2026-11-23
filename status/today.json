@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 10:06 IST",
+"updated": "2026-11-23 10:21 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 161,
@@ -571,6 +571,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.15 lots @2.00651 SL 2.00339 (scanner SL) entry 2.00653 basis -0.00003 (M15)  risk 0.49%"
+},
+{
+"id": "USDCAD_1795408200_dpoc",
+"pair": "USDCAD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.43329,
+"sl": 1.432487,
+"r": null,
+"opened": "23 Nov 10:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.43 lots @1.43334 SL 1.43249 (scanner SL) entry 1.43329 basis 0.00000 (M15)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -816,18 +829,18 @@
 "all_win": 139,
 "today_net": 1.5,
 "engine": {
-"last_scan": "10:02",
+"last_scan": "10:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 04:30 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-23 04:45 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5218.09",
-"equity": "5219.93",
-"floating": "1.84",
-"positions": "3",
+"equity": "5222.02",
+"floating": "3.93",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
