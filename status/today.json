@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 11:21 IST",
+"updated": "2026-11-23 11:37 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 111,
-"reach": 82,
+"views": 119,
+"reach": 97,
 "saved": 1,
 "shares": 0
 }
@@ -38,11 +38,11 @@
 "time": "2026-11-23 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgEUK_AEynw/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 57,
-"reach": 32,
-"saved": 0,
+"views": 106,
+"reach": 79,
+"saved": 1,
 "shares": 0
 }
 },
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
 "likes": 0,
 "comments": 0,
-"views": 25,
-"reach": 15,
+"views": 44,
+"reach": 31,
 "saved": 0,
 "shares": 0
 }
@@ -80,10 +80,10 @@
 "time": "2026-11-23 10:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgElPNAFfE_/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 73,
+"reach": 12,
 "saved": 0,
 "shares": 0
 }
@@ -129,10 +129,10 @@
 "time": "2026-11-23 10:32",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgElPNAFfE_/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 73,
+"reach": 12,
 "saved": 0,
 "shares": 0
 },
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
 "likes": 0,
 "comments": 0,
-"views": 25,
-"reach": 15,
+"views": 44,
+"reach": 31,
 "saved": 0,
 "shares": 0
 },
@@ -157,11 +157,11 @@
 "time": "2026-11-23 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgEUK_AEynw/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 57,
-"reach": 32,
-"saved": 0,
+"views": 106,
+"reach": 79,
+"saved": 1,
 "shares": 0
 },
 {
@@ -173,8 +173,8 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 111,
-"reach": 82,
+"views": 119,
+"reach": 97,
 "saved": 1,
 "shares": 0
 },
@@ -229,8 +229,8 @@
 "link": "https://www.instagram.com/reel/DgCfXkkD2Rr/",
 "likes": 0,
 "comments": 0,
-"views": 130,
-"reach": 115,
+"views": 131,
+"reach": 116,
 "saved": 0,
 "shares": 0
 },
@@ -584,6 +584,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.03 lots @61298.59 SL 61997.89 (scanner SL) entry 61233.58 basis 82.88 (M15) +SLbuf 17.01 +TPbuf 17.01 split TP1/TP2 risk 0.40%"
+},
+{
+"id": "USDJPY_1795412700_dpoc",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 158.955,
+"sl": 158.893,
+"r": null,
+"opened": "23 Nov 11:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "spread too wide: 0.018 = 0.29R of the scanner risk (basis -0.006 (M15))"
 }
 ],
 "closed_today": [
@@ -881,17 +894,17 @@
 "all_win": 139,
 "today_net": -2.5,
 "engine": {
-"last_scan": "11:16",
+"last_scan": "11:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 05:45 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-23 06:00 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5192.57",
-"equity": "5176.22",
-"floating": "-16.35",
+"equity": "5173.08",
+"floating": "-19.49",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
