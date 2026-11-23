@@ -1,0 +1,48 @@
+Price ne pichhle din ka low toda, sabke stop loss ude, aur phir price seedha upar. Ittefaq ya plan? Is episode me zero se samjho liquidity pools aur stop hunts: stop loss kahan jama hote hain, bade players ko unki zaroorat kyun hai, aur sweep ko asli breakout se kaise alag karein.
+
+Ye SPIDER ki Order Flow Series ka Episode 17 hai (Hindi + English subtitles).
+
+Is episode me:
+• Stop loss saaf highs aur lows ke theek peechhe jama hote hain = liquidity pool
+• Udaharan: 2640 = pichhle din ka low, do baar chhua · neeche ~1,500 contract ke sell stops
+• Stop order trigger hote hi market order ban jaata hai (Ep 3)
+• Bade buyer ko 1,300 contract chahiye; aam dinon me har price pe ~200 sellers
+• Sweep footprint: 2639–2636 pe bid 380 + 520 + 440 + 160 = 1,500, ask 300 + 480 + 410 + 120 = 1,310
+• Sweep candle: low 2636, close 2643, delta sirf −190 · phir 2655
+• Asli breakout: close 2634, phir 2628, 2625 · delta −420, −380 · level wapas nahi mila
+• Plan: close wapas level ke upar, stop sweep low ke neeche (2634), target pichhla high ya POC
+• Apna stop saaf low ke theek neeche mat rakho
+• Spot forex / gold me asli bid-ask volume nahi; footprint futures pe
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:41 Stop kahan
+1:01 Stop = market order
+1:14 Bade player ki zaroorat
+1:33 Sweep
+1:59 Candle ki kahani
+2:18 Asli breakout
+2:39 Fark kaise karein
+3:00 Plan
+3:22 Forex ka sach
+3:36 Recap
+3:57 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Episode 15 (Imbalance + Stacked Imbalance): https://youtu.be/F8j33xjRRd0
+Episode 16 (Absorption + Exhaustion): https://youtu.be/Iq_VhhkC4bQ
+Agla episode: Iceberg orders aur spoofing. Order book me chhupe aur jhoothe orders.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #stophunt #liquidity #tradinghindi #spidertrades

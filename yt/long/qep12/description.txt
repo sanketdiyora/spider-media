@@ -1,0 +1,53 @@
+Pichhle episode me gold pe ye breakout system +9R dikha raha tha. Aaj wahi niyam 42 markets pe, aur aise data pe jo system banate samay dekha hi nahi gaya. Out-of-sample aur walk-forward test ne jo sach dikhaya, wo koi guru reel me nahi dikhayega.
+
+Ye SPIDER ki Quant Trading Series ka Episode 12 hai (Hindi + English subtitles).
+
+Is episode me:
+• In-sample vs out-of-sample: jis data pe banaya, usi pe test = result achha hi aayega
+• Split: 1 Aug 2025 se pehle in-sample, uske baad out-of-sample (taala sirf ek baar)
+• 42 markets: 27 forex, gold + silver, 6 indices, 2 oil, 5 crypto · har trade 1R
+• Wahi niyam: 698 trades, 34% jeet, bina kharche −34.4R, 0.1R kharche ke saath −104.2R
+• 42 me se 22 markets plus; sabse upar gold (+9.24R) = pichhli baar sabse lucky market chuna tha
+• 60 settings in-sample pe: best (entry 10, exit 20, stop 1.5 ATR) = +5.9R
+• Wahi settings out-of-sample: −24.6R, PF 0.90 · 60 me se rank 17
+• In-sample vs out-of-sample correlation: sirf 0.1
+• Walk-forward: −14.6R, +45.1R, −46.5R = 378 trades, −15.9R, PF 0.93
+• Sabak: is simple breakout system me edge nahi, aur ye paisa lagane se pehle pata chala
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:37 Asli dikkat
+0:57 Hamara split
+1:11 42 markets
+1:25 Pehla jhatka
+1:49 Settings badlo
+2:15 Taala kholo
+2:32 Rishta hai?
+2:50 Walk-forward
+3:10 WF result
+3:35 Sabak
+3:52 Recap
+4:11 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Agla episode: Market regime. Trend aur range pehchaano, aur system kab band rakhna.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Backtest 42 markets ke Dukascopy daily data (Jan 2024 – Nov 2026) pe hai, har trade 1R, kharcha simple 0.1R maana hai. Past results future ki guarantee nahi.
+
+#quanttrading #backtesting #walkforward #tradinghindi #spidertrades

@@ -1,0 +1,160 @@
+1
+00:00:05,000 --> 00:00:09,361
+Last episode, this system made plus nine R on gold.
+
+2
+00:00:09,812 --> 00:00:16,657
+Today the same rules, on 42 markets. And on data never seen while building it.
+
+3
+00:00:17,107 --> 00:00:20,581
+What came out is something no guru will show you in a reel.
+
+4
+00:00:21,581 --> 00:00:26,570
+Hello, this is episode twelve of the SPIDER Quant Trading series.
+
+5
+00:00:27,020 --> 00:00:32,348
+Last time: a backtest in Python, where one trade made all the profit.
+
+6
+00:00:32,799 --> 00:00:36,665
+Today: out-of-sample and walk-forward testing.
+
+7
+00:00:37,665 --> 00:00:43,151
+If you test on the same data you built the system on, the result will look good.
+
+8
+00:00:43,601 --> 00:00:49,243
+That is in-sample. This is where rules are chosen and settings are tuned.
+
+9
+00:00:49,693 --> 00:00:56,538
+Out-of-sample: data kept under lock. Open it only once, at the end.
+
+10
+00:00:57,538 --> 00:01:03,415
+Our trades run from January 2024 to November 2026.
+
+11
+00:01:03,865 --> 00:01:10,396
+Before 1 August 2025: in-sample. After it: out-of-sample.
+
+12
+00:01:11,396 --> 00:01:15,758
+First, just this: the same rules on 42 markets.
+
+13
+00:01:16,208 --> 00:01:24,801
+Forex pairs, gold, silver, indices, oil and crypto. Every trade risks 1R in every market.
+
+14
+00:01:25,801 --> 00:01:30,164
+698 trades. Only 34% winners.
+
+15
+00:01:30,615 --> 00:01:39,288
+Minus 34R without costs. Add 0.1R cost per trade, and it is minus 104R.
+
+16
+00:01:39,738 --> 00:01:48,410
+22 of the 42 markets were positive. And the best one? Gold. Last time we had picked the luckiest market.
+
+17
+00:01:49,410 --> 00:01:59,520
+So let us try other settings. Entry 10 to 55 days, exit 5 to 20 days, stop 1.5 to 3 ATR.
+
+18
+00:01:59,970 --> 00:02:04,567
+Sixty combinations in total, in-sample only, with costs.
+
+19
+00:02:05,017 --> 00:02:14,500
+The best: entry 10, exit 20, stop 1.5 ATR. Plus 5.9R.
+
+20
+00:02:15,500 --> 00:02:19,549
+Now open the lock. The same settings, out-of-sample.
+
+21
+00:02:19,999 --> 00:02:25,641
+Minus 24.6R. Profit factor 0.90.
+
+22
+00:02:26,091 --> 00:02:31,655
+Number one in-sample, number seventeen of sixty out-of-sample.
+
+23
+00:02:32,655 --> 00:02:38,376
+We checked all sixty: good in-sample, so good out-of-sample?
+
+24
+00:02:38,826 --> 00:02:44,468
+Correlation is just 0.1. Almost no relationship.
+
+25
+00:02:44,918 --> 00:02:49,673
+Picking the best in-sample settings here was just picking noise.
+
+26
+00:02:50,673 --> 00:02:56,707
+Walk-forward goes one step further. Pick the best settings on the previous block.
+
+27
+00:02:57,156 --> 00:03:03,688
+Then trade the next block without changes. Then slide the window forward and repeat.
+
+28
+00:03:04,138 --> 00:03:09,388
+It is how real trading works: you can only look back.
+
+29
+00:03:10,388 --> 00:03:15,952
+Three test blocks. First: minus 14.6R.
+
+30
+00:03:16,402 --> 00:03:25,650
+Second: plus 45.1R. Third, with the same settings: minus 46.5R.
+
+31
+00:03:26,100 --> 00:03:34,851
+Total: 378 trades, minus 15.9R, profit factor 0.93.
+
+32
+00:03:35,851 --> 00:03:41,571
+Plainly: this simple breakout system has no edge on these markets.
+
+33
+00:03:42,021 --> 00:03:46,070
+And that is good news. We found out before putting money in.
+
+34
+00:03:46,519 --> 00:03:51,352
+That is the job of research: trying to break your own idea.
+
+35
+00:03:52,352 --> 00:03:59,589
+So, today in short. Two parts of data: in-sample to build, out-of-sample to test.
+
+36
+00:04:00,039 --> 00:04:04,400
+Run it on many markets. One lucky market hides everything.
+
+37
+00:04:04,851 --> 00:04:10,416
+And walk-forward: choose by looking back, trade forward without changes.
+
+38
+00:04:11,416 --> 00:04:18,651
+Next episode: market regime. Telling trend from range, and when to keep a system off.
+
+39
+00:04:19,101 --> 00:04:24,091
+If this was useful, subscribe and save the playlist.
+
+40
+00:04:24,541 --> 00:04:30,732
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+
