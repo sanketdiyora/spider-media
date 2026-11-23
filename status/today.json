@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-23 18:51 IST",
+"updated": "2026-11-23 19:07 IST",
 "date": "2026-11-23",
 "followers": 89,
-"media_count": 165,
+"media_count": 166,
 "slots": [
 {
 "slot": "0700",
@@ -20,7 +20,7 @@
 "likes": 0,
 "comments": 0,
 "views": 130,
-"reach": 104,
+"reach": 105,
 "saved": 1,
 "shares": 0
 }
@@ -62,7 +62,7 @@
 "likes": 1,
 "comments": 0,
 "views": 112,
-"reach": 104,
+"reach": 105,
 "saved": 1,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 9,
+"views": 13,
+"reach": 10,
 "saved": 0,
 "shares": 0
 }
@@ -125,7 +125,7 @@
 "likes": 1,
 "comments": 0,
 "views": 129,
-"reach": 113,
+"reach": 115,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 2,
 "comments": 0,
-"views": 119,
-"reach": 62,
+"views": 122,
+"reach": 101,
 "saved": 2,
 "shares": 0
 }
@@ -156,8 +156,21 @@
 "name": "Aspire reel",
 "type": "reel",
 "title": "Drawdown kya hai? 📉",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18134148545496699",
+"cap": "Drawdown kya hai? 📉\n\nAccount ki sabse unchi jagah peak hai. Peak se jitna gira, wahi drawdown. 1.2 lakh se 90 hazaar = 25% drawdown. Sabse badi giraawat ko max drawdown kehte hain. Profit batata hai kya mil sakta hai, drawdown batata hai raaste me kya sehna padega.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Drawdown kya hai? 📉",
+"time": "2026-11-23 19:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "2030",
@@ -170,6 +183,20 @@
 ],
 "recent_posts": [
 {
+"id": "18134148545496699",
+"cap": "Drawdown kya hai? 📉\n\nAccount ki sabse unchi jagah peak hai. Peak se jitna gira, wahi drawdown. 1.2 lakh se 90 hazaar = 25% drawdown. Sabse badi giraawat ko max drawdown kehte hain. Profit batata hai kya mil sakta hai, drawdown batata hai raaste me kya sehna padega.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Drawdown kya hai? 📉",
+"time": "2026-11-23 19:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18112775720351918",
 "cap": "Fair price kaun tay karta hai? 🤝\n\nFair price wo bhaav hai jise buyer aur seller dono theek samajhte hain. Price usse bahut upar jaye to buyers peeche hat sakte hain, bahut neeche jaye to sellers. Market isi value ke aas-paas ghoomta hai.\n\nOrder Flow Series, Episode 2 (Market ek neelaami) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
 "cap1": "Fair price kaun tay karta hai? 🤝",
@@ -178,8 +205,8 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 2,
 "comments": 0,
-"views": 119,
-"reach": 62,
+"views": 122,
+"reach": 101,
 "saved": 2,
 "shares": 0
 },
@@ -193,7 +220,7 @@
 "likes": 1,
 "comments": 0,
 "views": 129,
-"reach": 113,
+"reach": 115,
 "saved": 0,
 "shares": 0
 },
@@ -206,8 +233,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 12,
-"reach": 9,
+"views": 13,
+"reach": 10,
 "saved": 0,
 "shares": 0
 },
@@ -235,7 +262,7 @@
 "likes": 1,
 "comments": 0,
 "views": 112,
-"reach": 104,
+"reach": 105,
 "saved": 1,
 "shares": 0
 },
@@ -263,7 +290,7 @@
 "likes": 0,
 "comments": 0,
 "views": 130,
-"reach": 104,
+"reach": 105,
 "saved": 1,
 "shares": 0
 },
@@ -574,20 +601,6 @@
 "reach": 102,
 "saved": 2,
 "shares": 1
-},
-{
-"id": "18084430355348558",
-"cap": "Do system, dono ne saal me 30% kamaya. 🤝\n\nEk ka account beech me 8% neeche gaya, dusre ka 50%. Kaagaz pe dono barabar, par dusre ko zyadatar log beech me hi band kar dete. Ye beech wali giraawat hi drawdown hai.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Do system, dono ne saal me 30% kamaya. 🤝",
-"time": "2026-11-20 09:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df8sjasDUNP/",
-"likes": 0,
-"comments": 0,
-"views": 139,
-"reach": 109,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -967,17 +980,17 @@
 "all_win": 142,
 "today_net": -1.79,
 "engine": {
-"last_scan": "18:47",
-"age_min": 4,
+"last_scan": "19:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 13:15 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-23 13:30 UTC · new 0 · events 2 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5190.52",
-"equity": "5200.06",
-"floating": "9.54",
+"equity": "5202.29",
+"floating": "11.77",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -987,6 +1000,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 13.3,
 "github_runs": [
+{
+"t": "2026-11-23T13:30:19Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-23T12:12:46Z",
 "ok": "success",
@@ -1006,11 +1024,6 @@
 "t": "2026-11-23T09:30:24Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-23T08:43:39Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
