@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 13:06 IST",
+"updated": "2026-11-23 13:22 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -547,19 +547,6 @@
 "scanner": {
 "open": [
 {
-"id": "EURNZD_1795403700_dpoc",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 2.00656,
-"sl": 2.003417,
-"r": null,
-"opened": "23 Nov 09:00",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "SL 2.00953"
-},
-{
 "id": "BTCUSD_1795409100_pbo",
 "pair": "BTCUSD",
 "dir": "SELL",
@@ -581,7 +568,7 @@
 "sl": 0.839979,
 "r": null,
 "opened": "23 Nov 11:50",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
 }
@@ -703,9 +690,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 0.018 = 0.29R of the scanner risk (basis -0.006 (M15))"
+},
+{
+"id": "EURNZD_1795403700_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 2.00656,
+"sl": 2.003417,
+"r": 0.93,
+"opened": "23 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 23.90 USD = 0.93R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURNZD_1795403700_dpoc",
+"pair": "EURNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 2.00656,
+"sl": 2.003417,
+"r": 0.93,
+"opened": "23 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 23.90 USD = 0.93R"
+},
 {
 "id": "USDJPY_1795412700_dpoc",
 "pair": "USDJPY",
@@ -887,38 +900,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "JPN225_1795198500_dpoc",
-"pair": "JPN225",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 55209.5,
-"sl": 55709.6,
-"r": -1.0,
-"opened": "21 Nov 00:00",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 252,
-"all_net": 42.22,
-"all_win": 140,
-"today_net": -3.22,
+"all_n": 253,
+"all_net": 43.15,
+"all_win": 141,
+"today_net": -2.29,
 "engine": {
-"last_scan": "13:01",
+"last_scan": "13:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 07:30 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-23 07:45 UTC · new 0 · events 1 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5166.62",
-"equity": "5194.95",
-"floating": "28.33",
-"positions": "3",
+"balance": "5190.52",
+"equity": "5184.13",
+"floating": "-6.39",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
