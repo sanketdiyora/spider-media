@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 10:36 IST",
+"updated": "2026-11-23 10:51 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -610,6 +610,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.03 lots @61298.59 SL 61997.89 (scanner SL) entry 61233.58 basis 82.88 (M15) +SLbuf 17.01 +TPbuf 17.01 split TP1/TP2 risk 0.40%"
+},
+{
+"id": "US500_1795410000_poc",
+"pair": "US500",
+"dir": "SELL",
+"model": "poc",
+"entry": 7067.99,
+"sl": 7072.01,
+"r": null,
+"opened": "23 Nov 10:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: 0.07R room (basis 3.86 (M15))"
+},
+{
+"id": "NAS100_1795410000_poc",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "poc",
+"entry": 25778.71,
+"sl": 25795.98,
+"r": null,
+"opened": "23 Nov 10:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.22R room (basis 19.09 (M15))"
 }
 ],
 "closed_today": [
@@ -855,17 +881,17 @@
 "all_win": 139,
 "today_net": 1.5,
 "engine": {
-"last_scan": "10:31",
+"last_scan": "10:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 05:00 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-23 05:15 UTC · new 2 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5218.09",
-"equity": "5216.15",
-"floating": "-1.94",
+"equity": "5202.69",
+"floating": "-15.40",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
