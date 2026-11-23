@@ -1,6 +1,6 @@
 {
-"updated": "2026-11-22 20:42 IST",
-"date": "2026-11-22",
+"updated": "2026-11-23 05:35 IST",
+"date": "2026-11-23",
 "followers": 88,
 "media_count": 158,
 "slots": [
@@ -8,169 +8,65 @@
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
-"title": "Backtest me superhit, live me loss? 🤔",
-"status": "POSTED",
-"post": {
-"id": "17964731060998724",
-"cap": "Backtest me superhit, live me loss? 🤔\n\nDo chhupi galtiyan: bhavishya ka data (look-ahead bias) aur overfitting, yaani settings ko itna ghisna ki system purana data rat le. Dono nateeja asliyat se achha dikhate hain.\n\nQuant Trading Series, Episode 5 (Backtesting Basics) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Backtest me superhit, live me loss? 🤔",
-"time": "2026-11-22 07:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
-"likes": 2,
-"comments": 0,
-"views": 205,
-"reach": 169,
-"saved": 1,
-"shares": 1
-}
+"title": "Order book jhooth bhi bol sakti hai. 🎭",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "0800",
 "name": "Motivation reel",
 "type": "reel",
-"title": "Price ko hilata kaun hai? 🧱",
-"status": "POSTED",
-"post": {
-"id": "18036589412673091",
-"cap": "Price ko hilata kaun hai? 🧱\n\nMarket order maal uthata hai, wo jaldi wala hai. Limit order maal rakhta hai, wo intezaar wala hai. Price ko market orders hilate hain, aur limit orders unke raaste ki deewar bante hain. Order Flow isi ladaai ko dekhna hai.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
-"cap1": "Price ko hilata kaun hai? 🧱",
-"time": "2026-11-22 08:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgBvPj1FSh7/",
-"likes": 1,
-"comments": 0,
-"views": 153,
-"reach": 132,
-"saved": 0,
-"shares": 0
-}
+"title": "Do trader, ek hi system, ek hi trades. 👥",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "0900",
 "name": "Jawab reel",
 "type": "reel",
-"title": "Win rate akela adhoora hai. ⚖️",
-"status": "POSTED",
-"post": {
-"id": "18116255954590111",
-"cap": "Win rate akela adhoora hai. ⚖️\n\nWin rate batata hai kitni baar jeete. Payoff batata hai ausat jeet, ausat haar ke muqable kitni badi hai. Ausat jeet 300 aur ausat haar 100 ho, to payoff 3. Dono number saath dekhne padte hain.\n\nQuant Trading Series, Episode 2 (Win Rate ka Sach) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Win rate akela adhoora hai. ⚖️",
-"time": "2026-11-22 09:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgB2KGikZxe/",
-"likes": 0,
-"comments": 0,
-"views": 131,
-"reach": 110,
-"saved": 0,
-"shares": 0
-}
+"title": "Buyers aur sellers ki ladaai ke 3 nateeje. ⚔️",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1030",
 "name": "YouTube clip reel",
 "type": "reel",
-"title": "Kya passive trader hamesha smart hota hai? 🤔",
-"status": "POSTED",
-"post": {
-"id": "18118079531165603",
-"cap": "Kya passive trader hamesha smart hota hai? 🤔\n\nAksar log maan lete hain ki limit order wale smart hain aur market order wale galat. Sach thoda alag hai: dono taraf bade khiladi ho sakte hain.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Kya passive trader hamesha smart hota hai? 🤔",
-"time": "2026-11-22 10:32",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgCAb-ridQ9/",
-"likes": 0,
-"comments": 0,
-"views": 122,
-"reach": 95,
-"saved": 1,
-"shares": 0
-}
+"title": "Edge kya hai? 🎯",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1500",
 "name": "Riddle reel",
 "type": "reel",
-"title": "SPIDER RIDDLE #7 🧩 Spread ka chor.",
-"status": "POSTED",
-"post": {
-"id": "18103014212656622",
-"cap": "SPIDER RIDDLE #7 🧩 Spread ka chor.\nSpread 2 pips, 1 lot ($10 per pip), 10 trades roz, 20 trading days. Mahine ka spread kharcha kitna?\nJawab comment me likho 👇 Sahi jawab kal pinned comment me.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#spiderriddle #tradingriddle #forexhindi #spread #overtrading",
-"cap1": "SPIDER RIDDLE #7 🧩 Spread ka chor.",
-"time": "2026-11-22 15:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgCfXkkD2Rr/",
-"likes": 0,
-"comments": 0,
-"views": 122,
-"reach": 106,
-"saved": 0,
-"shares": 0
-}
+"title": "SPIDER RIDDLE #8 🧩 Leverage = bada loss?",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1700",
 "name": "YouTube clip reel",
 "type": "reel",
-"title": "Fixed lot ya fixed percent? 🧮",
-"status": "POSTED",
-"post": {
-"id": "18226999873336946",
-"cap": "Fixed lot ya fixed percent? 🧮\n\nLambi haar ki line me fixed lot account ko tezi se kha jata hai. Fixed percent me har haar ke baad size thoda chhota hota hai, isliye account zyada der tikta hai.\n\nQuant Trading Series, Episode 4 (Position Sizing) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Fixed lot ya fixed percent? 🧮",
-"time": "2026-11-22 17:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgCtDPwCk8H/",
-"likes": 0,
-"comments": 0,
-"views": 119,
-"reach": 76,
-"saved": 1,
-"shares": 0
-}
+"title": "Fair price kaun tay karta hai? 🤝",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "1900",
 "name": "Aspire reel",
 "type": "reel",
-"title": "Order book ka asli kaam. 📒",
-"status": "POSTED",
-"post": {
-"id": "17957246343301038",
-"cap": "Order book ka asli kaam. 📒\n\nBook batati hai log kya karna chahte hain: ye iraada hai. Hue trade batate hain asal me kya hua: ye action hai. Aur spot forex/gold me broker ki depth sirf us broker ki hoti hai, poore market ki nahi.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
-"cap1": "Order book ka asli kaam. 📒",
-"time": "2026-11-22 19:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgC6x99DYH_/",
-"likes": 1,
-"comments": 0,
-"views": 27,
-"reach": 18,
-"saved": 1,
-"shares": 0
-}
+"title": "Drawdown kya hai? 📉",
+"status": "PENDING",
+"post": null
 },
 {
 "slot": "2030",
 "name": "Know reel",
 "type": "reel",
-"title": "KNOW #7 📚 Risk : Reward",
-"status": "POSTED",
-"post": {
-"id": "18657166756008206",
-"cap": "KNOW #7 📚 Risk : Reward\n40% win rate pe bhi profit kaise?\n• Risk to reward matlab, ek rupaya risk karke kitna kamaane ka target hai.\n• 1:2 RR pe har win do losses ko cover karta hai.\n• 10 trades, 4 win: 4×2 = +8R, 6 loss = −6R. Net +2R.\nTip: entry se pehle target aur stop dono likho.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
-"cap1": "KNOW #7 📚 Risk : Reward",
-"time": "2026-11-22 20:32",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgDFGlmjBh4/",
-"likes": 0,
-"comments": 0,
-"views": 0,
-"reach": 0,
-"saved": 0,
-"shares": 0
-}
+"title": "KNOW #8 📚 Bid Vs Ask",
+"status": "PENDING",
+"post": null
 }
 ],
 "recent_posts": [
@@ -183,8 +79,8 @@
 "link": "https://www.instagram.com/reel/DgDFGlmjBh4/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 124,
+"reach": 106,
 "saved": 0,
 "shares": 0
 },
@@ -197,8 +93,8 @@
 "link": "https://www.instagram.com/reel/DgC6x99DYH_/",
 "likes": 1,
 "comments": 0,
-"views": 27,
-"reach": 18,
+"views": 83,
+"reach": 62,
 "saved": 1,
 "shares": 0
 },
@@ -211,8 +107,8 @@
 "link": "https://www.instagram.com/reel/DgCtDPwCk8H/",
 "likes": 0,
 "comments": 0,
-"views": 119,
-"reach": 76,
+"views": 122,
+"reach": 79,
 "saved": 1,
 "shares": 0
 },
@@ -225,8 +121,8 @@
 "link": "https://www.instagram.com/reel/DgCfXkkD2Rr/",
 "likes": 0,
 "comments": 0,
-"views": 122,
-"reach": 106,
+"views": 126,
+"reach": 111,
 "saved": 0,
 "shares": 0
 },
@@ -253,8 +149,8 @@
 "link": "https://www.instagram.com/reel/DgB2KGikZxe/",
 "likes": 0,
 "comments": 0,
-"views": 131,
-"reach": 110,
+"views": 133,
+"reach": 111,
 "saved": 0,
 "shares": 0
 },
@@ -267,8 +163,8 @@
 "link": "https://www.instagram.com/reel/DgBvPj1FSh7/",
 "likes": 1,
 "comments": 0,
-"views": 153,
-"reach": 132,
+"views": 158,
+"reach": 137,
 "saved": 0,
 "shares": 0
 },
@@ -279,12 +175,12 @@
 "time": "2026-11-22 07:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
-"likes": 2,
+"likes": 3,
 "comments": 0,
-"views": 205,
-"reach": 169,
-"saved": 1,
-"shares": 1
+"views": 237,
+"reach": 192,
+"saved": 2,
+"shares": 3
 },
 {
 "id": "18155520052537259",
@@ -324,7 +220,7 @@
 "likes": 0,
 "comments": 0,
 "views": 125,
-"reach": 101,
+"reach": 102,
 "saved": 0,
 "shares": 0
 },
@@ -505,7 +401,7 @@
 "link": "https://www.instagram.com/reel/Df8lrKaDOy8/",
 "likes": 20,
 "comments": 0,
-"views": 723,
+"views": 724,
 "reach": 569,
 "saved": 17,
 "shares": 10
@@ -801,10 +697,10 @@
 "all_win": 137,
 "today_net": 0,
 "engine": {
-"last_scan": "02:56",
-"age_min": 2505,
+"last_scan": "05:31",
+"age_min": 3,
 "rc": 0,
-"summary": "run 2026-11-20 21:25 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-23 00:00 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -817,32 +713,32 @@
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 163443,
+"voice_chars_month": 169058,
 "voice_limit": 30000,
-"disk_free_gb": 11.9,
+"disk_free_gb": 13.4,
 "github_runs": [
 {
-"t": "2026-11-22T15:00:25Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-22T14:22:07Z",
+"t": "2026-11-22T22:20:31Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-22T13:30:19Z",
-"ok": "success",
-"ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-22T13:15:43Z",
+"t": "2026-11-22T21:41:38Z",
 "ok": "success",
 "ev": "schedule"
 },
 {
-"t": "2026-11-22T12:50:03Z",
+"t": "2026-11-22T20:49:16Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-22T20:10:52Z",
+"ok": "success",
+"ev": "schedule"
+},
+{
+"t": "2026-11-22T18:27:58Z",
 "ok": "success",
 "ev": "schedule"
 }
