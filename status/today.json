@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 19:22 IST",
+"updated": "2026-11-23 19:37 IST",
 "date": "2026-11-23",
 "followers": 89,
 "media_count": 166,
@@ -607,19 +607,6 @@
 "scanner": {
 "open": [
 {
-"id": "BTCUSD_1795409100_pbo",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 61150.7,
-"sl": 61898.0,
-"r": null,
-"opened": "23 Nov 10:30",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.03 lots @61298.59 SL 61997.89 (scanner SL) entry 61233.58 basis 82.88 (M15) +SLbuf 17.01 +TPbuf 17.01 split TP1/TP2 risk 0.40%"
-},
-{
 "id": "GBPNZD_1795431600_dpoc",
 "pair": "GBPNZD",
 "dir": "BUY",
@@ -776,9 +763,35 @@
 "state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "BTCUSD_1795409100_pbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 61150.7,
+"sl": 61898.0,
+"r": -1.0,
+"opened": "23 Nov 10:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -20.97 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "BTCUSD_1795409100_pbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 61150.7,
+"sl": 61898.0,
+"r": -1.0,
+"opened": "23 Nov 10:30",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -20.97 USD = -1.00R"
+},
 {
 "id": "USDCHF_1795414500_lbo",
 "pair": "USDCHF",
@@ -960,38 +973,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "EURCHF_1795172400_pbo",
-"pair": "EURCHF",
-"dir": "SELL",
-"model": "pbo",
-"entry": 0.92255,
-"sl": 0.924367,
-"r": 1.02,
-"opened": "20 Nov 16:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 254,
-"all_net": 43.65,
+"all_n": 255,
+"all_net": 42.65,
 "all_win": 142,
-"today_net": -1.79,
+"today_net": -2.79,
 "engine": {
-"last_scan": "19:16",
+"last_scan": "19:31",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-23 13:45 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-23 14:00 UTC · new 0 · events 1 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5190.52",
-"equity": "5203.83",
-"floating": "13.31",
-"positions": "3",
+"balance": "5169.55",
+"equity": "5161.76",
+"floating": "-7.79",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
