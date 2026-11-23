@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 20:37 IST",
+"updated": "2026-11-23 20:47 IST",
 "date": "2026-11-23",
 "followers": 90,
 "media_count": 167,
@@ -992,10 +992,10 @@
 "all_win": 142,
 "today_net": -3.79,
 "engine": {
-"last_scan": "20:31",
-"age_min": 5,
+"last_scan": "20:41",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-23 15:00 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-23 15:10 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
@@ -1012,6 +1012,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 13.3,
 "github_runs": [
+{
+"t": "2026-11-23T15:16:37Z",
+"ok": "",
+"ev": "schedule"
+},
 {
 "t": "2026-11-23T15:00:26Z",
 "ok": "success",
@@ -1031,11 +1036,6 @@
 "t": "2026-11-23T11:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-23T10:39:19Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
