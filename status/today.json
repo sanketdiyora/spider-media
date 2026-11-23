@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-23 19:52 IST",
+"updated": "2026-11-23 20:07 IST",
 "date": "2026-11-23",
-"followers": 89,
+"followers": 90,
 "media_count": 166,
 "slots": [
 {
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 10,
+"views": 14,
+"reach": 11,
 "saved": 0,
 "shares": 0
 }
@@ -145,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 2,
 "comments": 0,
-"views": 122,
-"reach": 101,
+"views": 125,
+"reach": 103,
 "saved": 2,
 "shares": 0
 }
@@ -164,10 +164,10 @@
 "time": "2026-11-23 19:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 94,
+"reach": 51,
 "saved": 0,
 "shares": 0
 }
@@ -189,10 +189,10 @@
 "time": "2026-11-23 19:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 94,
+"reach": 51,
 "saved": 0,
 "shares": 0
 },
@@ -205,8 +205,8 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 2,
 "comments": 0,
-"views": 122,
-"reach": 101,
+"views": 125,
+"reach": 103,
 "saved": 2,
 "shares": 0
 },
@@ -233,8 +233,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 13,
-"reach": 10,
+"views": 14,
+"reach": 11,
 "saved": 0,
 "shares": 0
 },
@@ -605,21 +605,7 @@
 ],
 "trades": [],
 "scanner": {
-"open": [
-{
-"id": "GBPNZD_1795431600_dpoc",
-"pair": "GBPNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 2.39826,
-"sl": 2.394408,
-"r": null,
-"opened": "23 Nov 16:45",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.12 lots @2.39815 SL 2.39449 (scanner SL) entry 2.39834 basis 0.00008 (M15)  risk 0.46%"
-}
-],
+"open": [],
 "closed_today": [
 {
 "id": "JPN225_1795398300_pbo",
@@ -776,9 +762,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -20.97 USD = -1.00R"
+},
+{
+"id": "GBPNZD_1795431600_dpoc",
+"pair": "GBPNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 2.39826,
+"sl": 2.394408,
+"r": -1.0,
+"opened": "23 Nov 16:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.72 USD = -0.99R"
 }
 ],
 "closed_recent": [
+{
+"id": "GBPNZD_1795431600_dpoc",
+"pair": "GBPNZD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 2.39826,
+"sl": 2.394408,
+"r": -1.0,
+"opened": "23 Nov 16:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.72 USD = -0.99R"
+},
 {
 "id": "BTCUSD_1795409100_pbo",
 "pair": "BTCUSD",
@@ -960,38 +972,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "AUDNZD_1795199400_dpoc",
-"pair": "AUDNZD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 1.2096,
-"sl": 1.210929,
-"r": -0.29,
-"opened": "21 Nov 00:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 255,
-"all_net": 42.65,
+"all_n": 256,
+"all_net": 41.65,
 "all_win": 142,
-"today_net": -2.79,
+"today_net": -3.79,
 "engine": {
-"last_scan": "19:46",
+"last_scan": "20:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 14:15 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-23 14:30 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5169.55",
-"equity": "5155.48",
-"floating": "-14.07",
-"positions": "1",
+"balance": "5145.83",
+"equity": "5145.83",
+"floating": "0.00",
+"positions": "0",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
