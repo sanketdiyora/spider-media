@@ -1,16 +1,29 @@
 {
-"updated": "2026-11-23 05:35 IST",
+"updated": "2026-11-23 07:12 IST",
 "date": "2026-11-23",
 "followers": 88,
-"media_count": 158,
+"media_count": 159,
 "slots": [
 {
 "slot": "0700",
 "name": "Order Flow reel",
 "type": "reel",
 "title": "Order book jhooth bhi bol sakti hai. 🎭",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18104237576074607",
+"cap": "Order book jhooth bhi bol sakti hai. 🎭\n\nKabhi bada order sirf dikhane ke liye lagta hai aur price paas aate hi gayab ho jata hai: spoofing (zyadatar bazaaron me gair-kanooni). Aur bade khiladi apna asli size chhupa kar thoda thoda dikhate hain: iceberg. Book me jo dikhta hai, wo vaada nahi hai.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #forexhindi #spidertrades",
+"cap1": "Order book jhooth bhi bol sakti hai. 🎭",
+"time": "2026-11-23 07:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgENNpClfnO/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "0800",
@@ -71,6 +84,20 @@
 ],
 "recent_posts": [
 {
+"id": "18104237576074607",
+"cap": "Order book jhooth bhi bol sakti hai. 🎭\n\nKabhi bada order sirf dikhane ke liye lagta hai aur price paas aate hi gayab ho jata hai: spoofing (zyadatar bazaaron me gair-kanooni). Aur bade khiladi apna asli size chhupa kar thoda thoda dikhate hain: iceberg. Book me jo dikhta hai, wo vaada nahi hai.\n\nOrder Flow Series, Episode 4 (Order Book aur Liquidity) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #orderbook #forexhindi #spidertrades",
+"cap1": "Order book jhooth bhi bol sakti hai. 🎭",
+"time": "2026-11-23 07:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgENNpClfnO/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18657166756008206",
 "cap": "KNOW #7 📚 Risk : Reward\n40% win rate pe bhi profit kaise?\n• Risk to reward matlab, ek rupaya risk karke kitna kamaane ka target hai.\n• 1:2 RR pe har win do losses ko cover karta hai.\n• 10 trades, 4 win: 4×2 = +8R, 6 loss = −6R. Net +2R.\nTip: entry se pehle target aur stop dono likho.\nAur seekhna hai to follow karo. Trade setups ke liye Telegram join karo — link bio me 🕷️\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #tradingeducation #learntrading #forextrading #spidertrades",
 "cap1": "KNOW #7 📚 Risk : Reward",
@@ -79,8 +106,8 @@
 "link": "https://www.instagram.com/reel/DgDFGlmjBh4/",
 "likes": 0,
 "comments": 0,
-"views": 124,
-"reach": 106,
+"views": 126,
+"reach": 107,
 "saved": 0,
 "shares": 0
 },
@@ -121,8 +148,8 @@
 "link": "https://www.instagram.com/reel/DgCfXkkD2Rr/",
 "likes": 0,
 "comments": 0,
-"views": 126,
-"reach": 111,
+"views": 127,
+"reach": 112,
 "saved": 0,
 "shares": 0
 },
@@ -177,8 +204,8 @@
 "link": "https://www.instagram.com/reel/DgBoXrFEaqg/",
 "likes": 3,
 "comments": 0,
-"views": 237,
-"reach": 192,
+"views": 240,
+"reach": 194,
 "saved": 2,
 "shares": 3
 },
@@ -475,25 +502,25 @@
 "reach": 168,
 "saved": 2,
 "shares": 0
-},
-{
-"id": "18143495749546321",
-"cap": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇\nAaj: 6 trade band · 1 jeete · 5 haare · net -4.5R · 4 live\nEURNZD BUY — band, +0.5R (TP1 hit, baaki entry pe band)\nEURGBP SELL — band, -1.0R (SL hit)\nNAS100 BUY — abhi chal raha hai, +0.8R (risk-free 🔒)\nGBPCHF BUY — abhi chal raha hai, +0.6R (risk-free 🔒)\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
-"cap1": "🕷 Aaj ka live scanner UPDATE (Thu 19 Nov) 👇",
-"time": "2026-11-19 14:09",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df6q8AhD7MQ/",
-"likes": 0,
-"comments": 0,
-"views": 105,
-"reach": 85,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "WTI_1795392900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 82.83,
+"sl": 83.729,
+"r": null,
+"opened": "23 Nov 06:00",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "stop too close after spread: -0.21R room (basis too big 1.057 (M15, limit 0.450), 0)"
+}
+],
 "closed_today": [],
 "closed_recent": [
 {
@@ -697,10 +724,10 @@
 "all_win": 137,
 "today_net": 0,
 "engine": {
-"last_scan": "05:31",
-"age_min": 3,
+"last_scan": "07:06",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-23 00:00 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-23 01:35 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
@@ -718,6 +745,11 @@
 "disk_free_gb": 13.4,
 "github_runs": [
 {
+"t": "2026-11-23T01:30:18Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
+{
 "t": "2026-11-22T22:20:31Z",
 "ok": "success",
 "ev": "schedule"
@@ -734,11 +766,6 @@
 },
 {
 "t": "2026-11-22T20:10:52Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-22T18:27:58Z",
 "ok": "success",
 "ev": "schedule"
 }
