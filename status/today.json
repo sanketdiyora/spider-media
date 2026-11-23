@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 14:36 IST",
+"updated": "2026-11-23 14:51 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 163,
@@ -19,7 +19,7 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 125,
+"views": 126,
 "reach": 101,
 "saved": 1,
 "shares": 0
@@ -59,10 +59,10 @@
 "time": "2026-11-23 09:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 85,
-"reach": 77,
+"views": 104,
+"reach": 93,
 "saved": 1,
 "shares": 0
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DgElPNAFfE_/",
 "likes": 2,
 "comments": 0,
-"views": 116,
-"reach": 96,
+"views": 118,
+"reach": 97,
 "saved": 0,
 "shares": 0
 }
@@ -103,8 +103,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 }
@@ -152,8 +152,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 2,
+"reach": 1,
 "saved": 0,
 "shares": 0
 },
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/DgElPNAFfE_/",
 "likes": 2,
 "comments": 0,
-"views": 116,
-"reach": 96,
+"views": 118,
+"reach": 97,
 "saved": 0,
 "shares": 0
 },
@@ -178,10 +178,10 @@
 "time": "2026-11-23 09:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 85,
-"reach": 77,
+"views": 104,
+"reach": 93,
 "saved": 1,
 "shares": 0
 },
@@ -208,7 +208,7 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 125,
+"views": 126,
 "reach": 101,
 "saved": 1,
 "shares": 0
@@ -579,19 +579,6 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.03 lots @61298.59 SL 61997.89 (scanner SL) entry 61233.58 basis 82.88 (M15) +SLbuf 17.01 +TPbuf 17.01 split TP1/TP2 risk 0.40%"
-},
-{
-"id": "USDCHF_1795414500_lbo",
-"pair": "USDCHF",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.838869,
-"sl": 0.839979,
-"r": null,
-"opened": "23 Nov 11:50",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -724,9 +711,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 23.90 USD = 0.93R"
+},
+{
+"id": "USDCHF_1795414500_lbo",
+"pair": "USDCHF",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.838869,
+"sl": 0.839979,
+"r": 0.5,
+"opened": "23 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "USDCHF_1795414500_lbo",
+"pair": "USDCHF",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.838869,
+"sl": 0.839979,
+"r": 0.5,
+"opened": "23 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "EURNZD_1795403700_dpoc",
 "pair": "EURNZD",
@@ -908,37 +921,24 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CADJPY_1795134600_pbo",
-"pair": "CADJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 111.268,
-"sl": 111.4746,
-"r": 2.0,
-"opened": "20 Nov 06:15",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 253,
-"all_net": 43.15,
-"all_win": 141,
-"today_net": -2.29,
+"all_n": 254,
+"all_net": 43.65,
+"all_win": 142,
+"today_net": -1.79,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 09:00 UTC · new 0 · events 0 · open 2"
+"summary": "run 2026-11-23 09:15 UTC · new 0 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5190.52",
-"equity": "5182.08",
-"floating": "-8.44",
+"equity": "5174.62",
+"floating": "-15.90",
 "positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
