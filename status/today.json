@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 11:51 IST",
+"updated": "2026-11-23 12:06 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -597,6 +597,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 0.018 = 0.29R of the scanner risk (basis -0.006 (M15))"
+},
+{
+"id": "USDCHF_1795414500_lbo",
+"pair": "USDCHF",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.838869,
+"sl": 0.839979,
+"r": null,
+"opened": "23 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -894,17 +907,17 @@
 "all_win": 139,
 "today_net": -2.5,
 "engine": {
-"last_scan": "11:46",
+"last_scan": "12:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 06:15 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-23 06:30 UTC · new 0 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5192.57",
-"equity": "5180.24",
-"floating": "-12.33",
+"equity": "5191.76",
+"floating": "-0.81",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
