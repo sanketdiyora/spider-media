@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 09:51 IST",
+"updated": "2026-11-23 10:06 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 161,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 57,
-"reach": 45,
+"views": 93,
+"reach": 72,
 "saved": 1,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DgEUK_AEynw/",
 "likes": 0,
 "comments": 0,
-"views": 23,
-"reach": 11,
+"views": 42,
+"reach": 26,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 12,
+"reach": 7,
 "saved": 0,
 "shares": 0
 }
@@ -118,8 +118,8 @@
 "link": "https://www.instagram.com/reel/DgEa8AuiESp/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 12,
+"reach": 7,
 "saved": 0,
 "shares": 0
 },
@@ -132,8 +132,8 @@
 "link": "https://www.instagram.com/reel/DgEUK_AEynw/",
 "likes": 0,
 "comments": 0,
-"views": 23,
-"reach": 11,
+"views": 42,
+"reach": 26,
 "saved": 0,
 "shares": 0
 },
@@ -146,8 +146,8 @@
 "link": "https://www.instagram.com/reel/DgENNpClfnO/",
 "likes": 0,
 "comments": 0,
-"views": 57,
-"reach": 45,
+"views": 93,
+"reach": 72,
 "saved": 1,
 "shares": 0
 },
@@ -203,7 +203,7 @@
 "likes": 0,
 "comments": 0,
 "views": 130,
-"reach": 114,
+"reach": 115,
 "saved": 0,
 "shares": 0
 },
@@ -231,7 +231,7 @@
 "likes": 0,
 "comments": 0,
 "views": 134,
-"reach": 111,
+"reach": 112,
 "saved": 0,
 "shares": 0
 },
@@ -816,17 +816,17 @@
 "all_win": 139,
 "today_net": 1.5,
 "engine": {
-"last_scan": "09:46",
+"last_scan": "10:02",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 04:15 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-23 04:30 UTC · new 0 · events 0 · open 3"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5218.09",
-"equity": "5217.31",
-"floating": "-0.78",
+"equity": "5219.93",
+"floating": "1.84",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
