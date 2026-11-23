@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23 12:38 IST",
+"updated": "2026-11-23 12:51 IST",
 "date": "2026-11-23",
 "followers": 88,
 "media_count": 162,
@@ -556,8 +556,8 @@
 "r": null,
 "opened": "23 Nov 07:30",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.22 lots @0.92229 SL 0.92327 (scanner SL) entry 0.92229 basis -0.00002 (M15) +SLbuf 0.00014 +TPbuf 0.00014 split TP1/TP2 risk 0.50%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -25.95 USD = -1.01R"
 },
 {
 "id": "EURNZD_1795403700_dpoc",
@@ -594,7 +594,7 @@
 "sl": 158.893,
 "r": null,
 "opened": "23 Nov 11:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "spread too wide: 0.018 = 0.29R of the scanner risk (basis -0.006 (M15))"
 },
@@ -907,18 +907,18 @@
 "all_win": 139,
 "today_net": -2.5,
 "engine": {
-"last_scan": "12:31",
-"age_min": 6,
+"last_scan": "12:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-23 07:00 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-23 07:15 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5192.57",
-"equity": "5188.62",
-"floating": "-3.95",
-"positions": "5",
+"balance": "5166.62",
+"equity": "5177.89",
+"floating": "11.27",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
