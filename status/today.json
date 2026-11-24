@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 14:37 IST",
+"updated": "2026-11-24 14:52 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 173,
@@ -610,7 +610,7 @@
 "sl": 60712.5,
 "r": null,
 "opened": "24 Nov 09:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 60418.07"
 },
@@ -675,9 +675,9 @@
 "sl": 60541.2,
 "r": null,
 "opened": "24 Nov 14:30",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.04 lots @60040.91 SL 60620.07 (scanner SL) entry 60243.83 basis 61.83 (M15) +SLbuf 17.04  risk 0.47%"
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -0.16 USD = -0.01R"
 }
 ],
 "closed_today": [
@@ -1053,18 +1053,18 @@
 "all_win": 145,
 "today_net": -7.64,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 09:00 UTC · new 1 · events 0 · open 7"
+"summary": "run 2026-11-24 09:15 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4972.77",
-"equity": "5006.55",
-"floating": "33.78",
-"positions": "7",
+"balance": "4972.61",
+"equity": "4989.28",
+"floating": "16.67",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
