@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 07:06 IST",
+"updated": "2026-11-24 07:21 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 168,
@@ -506,7 +506,21 @@
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "USDJPY_1795483800_pbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 158.896,
+"sl": 158.7594,
+"r": null,
+"opened": "24 Nov 07:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.28 lots @158.892 SL 158.753 (scanner SL) entry 158.890 basis -0.006 (M15) split TP1/TP2 risk 0.49%"
+}
+],
 "closed_today": [
 {
 "id": "NZDUSD_1795455000_dpoc",
@@ -776,18 +790,18 @@
 "all_win": 143,
 "today_net": -2.89,
 "engine": {
-"last_scan": "07:01",
+"last_scan": "07:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 01:30 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-24 01:45 UTC · new 1 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5042.01",
-"equity": "5042.01",
-"floating": "0.00",
-"positions": "0",
+"equity": "5034.34",
+"floating": "-7.67",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
