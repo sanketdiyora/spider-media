@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 11:51 IST",
+"updated": "2026-11-24 12:06 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 171,
@@ -610,6 +610,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "CHFJPY_1795500900_lbo",
+"pair": "CHFJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 189.233,
+"sl": 188.9184,
+"r": null,
+"opened": "24 Nov 11:50",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_today": [
@@ -920,17 +933,17 @@
 "all_win": 143,
 "today_net": -5.89,
 "engine": {
-"last_scan": "11:47",
-"age_min": 4,
+"last_scan": "12:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 06:15 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-24 06:30 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4977.79",
-"equity": "4967.14",
-"floating": "-10.65",
+"equity": "4979.10",
+"floating": "1.31",
 "positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
