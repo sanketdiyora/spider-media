@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 14:06 IST",
+"updated": "2026-11-24 14:21 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 173,
@@ -598,8 +598,8 @@
 "r": null,
 "opened": "24 Nov 07:45",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.02 lots @89.111 SL 90.079 (scanner SL) entry 89.194 basis 0.174 (M15) +SLbuf 0.058  risk 0.39%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 8.58 USD = 0.44R"
 },
 {
 "id": "USDJPY_1795491000_pbo",
@@ -665,6 +665,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.26 lots @1.21626 SL 1.21798 (scanner SL) entry 1.21621 basis 0.00004 (M15) +SLbuf 0.00015 +TPbuf 0.00015 split TP1/TP2 risk 0.49%"
+},
+{
+"id": "CHFJPY_1795509000_pbo",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 189.109,
+"sl": 189.3995,
+"r": null,
+"opened": "24 Nov 14:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.13 lots @189.120 SL 189.421 (scanner SL) entry 189.109 basis 0.000 (M15) +SLbuf 0.021 +TPbuf 0.021 split TP1/TP2 risk 0.50%"
 }
 ],
 "closed_today": [
@@ -1027,18 +1040,18 @@
 "all_win": 144,
 "today_net": -8.39,
 "engine": {
-"last_scan": "14:02",
-"age_min": 4,
+"last_scan": "14:17",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 08:30 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-24 08:45 UTC · new 1 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4952.69",
-"equity": "4992.40",
-"floating": "39.71",
-"positions": "6",
+"balance": "4961.27",
+"equity": "4982.01",
+"floating": "20.74",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
