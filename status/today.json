@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 18:36 IST",
+"updated": "2026-11-24 18:51 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 175,
@@ -628,19 +628,6 @@
 "mt5_reason": "SL 158.958"
 },
 {
-"id": "CHFJPY_1795500900_lbo",
-"pair": "CHFJPY",
-"dir": "BUY",
-"model": "lbo",
-"entry": 189.233,
-"sl": 188.9184,
-"r": null,
-"opened": "24 Nov 11:50",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "AUDNZD_1795507200_pbo",
 "pair": "AUDNZD",
 "dir": "SELL",
@@ -875,9 +862,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 11.54 USD = 0.51R"
+},
+{
+"id": "CHFJPY_1795500900_lbo",
+"pair": "CHFJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 189.233,
+"sl": 188.9184,
+"r": 1.75,
+"opened": "24 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "CHFJPY_1795500900_lbo",
+"pair": "CHFJPY",
+"dir": "BUY",
+"model": "lbo",
+"entry": 189.233,
+"sl": 188.9184,
+"r": 1.75,
+"opened": "24 Nov 11:50",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "BTCUSD_1795492800_pbo",
 "pair": "BTCUSD",
@@ -1059,37 +1072,24 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -6.82 USD = -0.27R"
-},
-{
-"id": "USDCHF_1795451400_dpoc",
-"pair": "USDCHF",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 0.84255,
-"sl": 0.841398,
-"r": -1.0,
-"opened": "23 Nov 22:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 274,
-"all_net": 34.78,
-"all_win": 148,
-"today_net": -5.87,
+"all_n": 275,
+"all_net": 36.53,
+"all_win": 149,
+"today_net": -4.12,
 "engine": {
-"last_scan": "18:31",
-"age_min": 5,
+"last_scan": "18:46",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-24 13:00 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-24 13:15 UTC · new 0 · events 1 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4959.61",
-"equity": "4977.99",
-"floating": "18.38",
+"equity": "4982.07",
+"floating": "22.46",
 "positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
