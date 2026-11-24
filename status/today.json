@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 16:21 IST",
+"updated": "2026-11-24 16:36 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 174,
@@ -641,19 +641,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "US30_1795507200_dpoc",
-"pair": "US30",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 49645.57,
-"sl": 49790.49,
-"r": null,
-"opened": "24 Nov 13:45",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
-},
-{
 "id": "AUDNZD_1795507200_pbo",
 "pair": "AUDNZD",
 "dir": "SELL",
@@ -862,9 +849,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.81 USD = -0.97R"
+},
+{
+"id": "US30_1795507200_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 49645.57,
+"sl": 49790.49,
+"r": 1.66,
+"opened": "24 Nov 13:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "US30_1795507200_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 49645.57,
+"sl": 49790.49,
+"r": 1.66,
+"opened": "24 Nov 13:45",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "CHFJPY_1795509000_pbo",
 "pair": "CHFJPY",
@@ -1046,37 +1059,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NZDUSD_1795455000_dpoc",
-"pair": "NZDUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 0.54377,
-"sl": 0.544412,
-"r": -1.0,
-"opened": "23 Nov 23:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 272,
-"all_net": 32.62,
-"all_win": 146,
-"today_net": -8.03,
+"all_n": 273,
+"all_net": 34.28,
+"all_win": 147,
+"today_net": -6.37,
 "engine": {
-"last_scan": "16:16",
+"last_scan": "16:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 10:45 UTC · new 0 · events 1 · open 5"
+"summary": "run 2026-11-24 11:00 UTC · new 0 · events 1 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4959.57",
-"equity": "5017.57",
-"floating": "58.00",
+"equity": "5003.73",
+"floating": "44.16",
 "positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
