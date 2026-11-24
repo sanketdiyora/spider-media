@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 13:52 IST",
+"updated": "2026-11-24 14:06 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 173,
@@ -641,32 +641,6 @@
 "mt5_reason": "model off"
 },
 {
-"id": "UK100_1795506900_lbo",
-"pair": "UK100",
-"dir": "SELL",
-"model": "lbo",
-"entry": 10485.07,
-"sl": 10503.85,
-"r": null,
-"opened": "24 Nov 13:30",
-"state": "risk-free",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
-"id": "NZDCAD_1795507500_lbo",
-"pair": "NZDCAD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.781611,
-"sl": 0.782289,
-"r": null,
-"opened": "24 Nov 13:40",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "model off"
-},
-{
 "id": "US30_1795507200_dpoc",
 "pair": "US30",
 "dir": "SELL",
@@ -823,9 +797,61 @@
 "state": "closed",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "UK100_1795506900_lbo",
+"pair": "UK100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 10485.07,
+"sl": 10503.85,
+"r": 0.5,
+"opened": "24 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "NZDCAD_1795507500_lbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.781611,
+"sl": 0.782289,
+"r": -1.0,
+"opened": "24 Nov 13:40",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
 }
 ],
 "closed_recent": [
+{
+"id": "NZDCAD_1795507500_lbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.781611,
+"sl": 0.782289,
+"r": -1.0,
+"opened": "24 Nov 13:40",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "UK100_1795506900_lbo",
+"pair": "UK100",
+"dir": "SELL",
+"model": "lbo",
+"entry": 10485.07,
+"sl": 10503.85,
+"r": 0.5,
+"opened": "24 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
 {
 "id": "USDCAD_1795496400_dpoc",
 "pair": "USDCAD",
@@ -994,50 +1020,24 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "USDCHF_1795414500_lbo",
-"pair": "USDCHF",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.838869,
-"sl": 0.839979,
-"r": 0.5,
-"opened": "23 Nov 11:50",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
-},
-{
-"id": "EURNZD_1795403700_dpoc",
-"pair": "EURNZD",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 2.00656,
-"sl": 2.003417,
-"r": 0.93,
-"opened": "23 Nov 09:00",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 267,
-"all_net": 32.76,
-"all_win": 143,
-"today_net": -7.89,
+"all_n": 269,
+"all_net": 32.26,
+"all_win": 144,
+"today_net": -8.39,
 "engine": {
-"last_scan": "13:46",
-"age_min": 5,
+"last_scan": "14:02",
+"age_min": 4,
 "rc": 0,
-"summary": "run 2026-11-24 08:15 UTC · new 2 · events 0 · open 8"
+"summary": "run 2026-11-24 08:30 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4952.69",
-"equity": "4975.08",
-"floating": "22.39",
+"equity": "4992.40",
+"floating": "39.71",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
