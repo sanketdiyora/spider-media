@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-24 10:21 IST",
+"updated": "2026-11-24 10:36 IST",
 "date": "2026-11-24",
 "followers": 91,
-"media_count": 170,
+"media_count": 171,
 "slots": [
 {
 "slot": "0700",
@@ -41,7 +41,7 @@
 "likes": 2,
 "comments": 0,
 "views": 121,
-"reach": 98,
+"reach": 100,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 34,
-"reach": 17,
+"views": 46,
+"reach": 40,
 "saved": 0,
 "shares": 0
 }
@@ -72,8 +72,21 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "Gold ka asli volume kahan milega? 🥇",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17909896074671527",
+"cap": "Gold ka asli volume kahan milega? 🥇\n\nSpot gold ka koi ek central exchange nahi hai. Asli, gina hua volume futures market me milta hai. Har spot chart ka ek futures bhai hota hai.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Gold ka asli volume kahan milega? 🥇",
+"time": "2026-11-24 10:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgHKEAcDj8w/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -110,6 +123,20 @@
 ],
 "recent_posts": [
 {
+"id": "17909896074671527",
+"cap": "Gold ka asli volume kahan milega? 🥇\n\nSpot gold ka koi ek central exchange nahi hai. Asli, gina hua volume futures market me milta hai. Har spot chart ka ek futures bhai hota hai.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
+"cap1": "Gold ka asli volume kahan milega? 🥇",
+"time": "2026-11-24 10:32",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgHKEAcDj8w/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18090239018315015",
 "cap": "Ek quant system 5 hisson se banta hai. 🧩\n\nIdea, data, backtest, risk aur execution. Idea market ke baare me ek soch hai. Backtest matlab purane data pe rule chalakar dekhna. Aur execution matlab rule ko bina chhede chalana, haath se ya bot se.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
 "cap1": "Ek quant system 5 hisson se banta hai. 🧩",
@@ -118,8 +145,8 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 34,
-"reach": 17,
+"views": 46,
+"reach": 40,
 "saved": 0,
 "shares": 0
 },
@@ -133,7 +160,7 @@
 "likes": 2,
 "comments": 0,
 "views": 121,
-"reach": 98,
+"reach": 100,
 "saved": 0,
 "shares": 0
 },
@@ -174,8 +201,8 @@
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
 "likes": 5,
 "comments": 0,
-"views": 352,
-"reach": 286,
+"views": 358,
+"reach": 292,
 "saved": 3,
 "shares": 0
 },
@@ -189,7 +216,7 @@
 "likes": 3,
 "comments": 0,
 "views": 139,
-"reach": 114,
+"reach": 116,
 "saved": 2,
 "shares": 0
 },
@@ -513,20 +540,6 @@
 "views": 5,
 "reach": 5,
 "saved": 0,
-"shares": 0
-},
-{
-"id": "18058480841581376",
-"cap": "Order Flow ke 5 bade tools. 🧰\n\nVolume Profile, VWAP, Footprint, Delta aur CVD. Ek sach bhi: forex aur gold ke spot market me asli volume nahi milta, sirf tick volume. Asli data futures market se aata hai.\n\nOrder Flow Series, Episode 1 (Order Flow kya hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
-"cap1": "Order Flow ke 5 bade tools. 🧰",
-"time": "2026-11-20 19:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df9xKYNnGxs/",
-"likes": 1,
-"comments": 0,
-"views": 140,
-"reach": 107,
-"saved": 2,
 "shares": 0
 }
 ],
@@ -894,17 +907,17 @@
 "all_win": 143,
 "today_net": -3.89,
 "engine": {
-"last_scan": "10:16",
+"last_scan": "10:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 04:45 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-24 05:00 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "4993.89",
-"floating": "-23.51",
+"equity": "4968.45",
+"floating": "-48.95",
 "positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -914,6 +927,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 13.0,
 "github_runs": [
+{
+"t": "2026-11-24T05:00:30Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-24T03:30:25Z",
 "ok": "success",
@@ -933,11 +951,6 @@
 "t": "2026-11-24T02:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-24T01:52:51Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
