@@ -1,0 +1,54 @@
+Sab kehte hain: trend me breakout chalta hai, range me nahi. Humne ye baat 42 markets aur 675 trades pe test ki, ADX trend filter ke saath. Result ulta nikla. Is episode me dekho ki market regime filter sach me kaam karta hai ya nahi, aur system kab band karna chahiye.
+
+Ye SPIDER ki Quant Trading Series ka Episode 13 hai (Hindi + English subtitles).
+
+Is episode me:
+• Regime = market ka mood: trend (ek disha) ya range (dibbe ke andar)
+• ADX(14): 0 se 100, sirf taakat batata hai, disha nahi · aam niyam: 25 se upar = trend
+• Wahi breakout system (Ep 10-12), 42 markets: 675 trades, 34% jeet, kul −24.4R, PF 0.92
+• ADX 25 se upar: 167 trades, −22.6R, PF 0.73 · 25 se neeche: 508 trades, −1.8R, PF 0.99
+• Trend filter ne system aur kharab kiya: ADX der se badhta hai, entry thake trend me
+• ADX 30 se upar: 81 trades, +8.0R, PF 1.23 · par split pe: pehle 45 trades −6.7R, baad me 36 trades +14.6R = noise
+• 100 din ka average: upar 463 trades −20.3R (PF 0.91), neeche 153 trades −9.3R (PF 0.85) · koi asli fark nahi
+• Saal dar saal: 2024 −12.0R, 2025 +23.7R, 2026 −36.1R
+• System kab band: live se pehle likha niyam (jaise drawdown = backtest max DD x 1.5 to ruko aur jaancho)
+• Ye result sirf isi system ka hai · har filter ko out-of-sample pe parkho
+
+Chapters:
+0:00 Intro
+0:16 Pichhla episode
+0:35 Regime kya hai
+0:54 ADX
+1:12 Test
+1:30 Ulta result
+1:55 Kyun
+2:12 ADX 30 ka jaal
+2:30 Split karke dekho
+2:52 Doosra filter
+3:14 Saal dar saal
+3:38 Kab band karein
+3:58 Recap
+4:20 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Episode 12 (Out-of-sample + Walk-forward): https://youtu.be/wlIW_pMYiFU
+Agla episode: Portfolio. Ek system, bahut saare markets: diversification aur correlation.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Backtest 42 markets ke Dukascopy daily data (Jan 2024 – Nov 2026) pe hai, har trade 1R, kharcha simple 0.1R maana hai. Past results future ki guarantee nahi.
+
+#quanttrading #marketregime #backtesting #tradinghindi #spidertrades

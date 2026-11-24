@@ -1,0 +1,164 @@
+1
+00:00:05,000 --> 00:00:09,440
+Everyone says: breakouts work in a trend, not in a range.
+
+2
+00:00:09,891 --> 00:00:12,895
+We tested that claim on 42 markets.
+
+3
+00:00:13,344 --> 00:00:15,382
+And the result came out the other way round.
+
+4
+00:00:16,381 --> 00:00:21,528
+Hello, this is episode thirteen of the SPIDER Quant Trading series.
+
+5
+00:00:21,979 --> 00:00:29,789
+Last time: out-of-sample and walk-forward. Our breakout system failed on unseen data.
+
+6
+00:00:30,238 --> 00:00:34,915
+Today the question: can we save it by reading the market mood?
+
+7
+00:00:35,915 --> 00:00:41,793
+Regime means the market mood. Two broad kinds: trend and range.
+
+8
+00:00:42,243 --> 00:00:48,434
+In a trend, price moves one way. In a range, it goes up and down inside a box.
+
+9
+00:00:48,884 --> 00:00:53,560
+The idea: system on in a trend, off in a range.
+
+10
+00:00:54,560 --> 00:01:00,986
+A common way to measure trend is ADX. It is a number from 0 to 100.
+
+11
+00:01:01,436 --> 00:01:07,627
+The usual rule: ADX above 25 means trend. Below means range.
+
+12
+00:01:08,077 --> 00:01:11,943
+ADX shows only strength, not direction.
+
+13
+00:01:12,943 --> 00:01:17,149
+The same system as last episode. The same 42 markets.
+
+14
+00:01:17,598 --> 00:01:25,226
+In total 675 trades. Win rate 34%, total minus 24.4R.
+
+15
+00:01:25,675 --> 00:01:29,960
+For every trade we checked the ADX on the signal day.
+
+16
+00:01:30,960 --> 00:01:41,565
+Trades with ADX above 25: 167. Total minus 22.6R. PF 0.73.
+
+17
+00:01:42,015 --> 00:01:50,767
+Below 25: 508 trades. Minus 1.8R. PF 0.99.
+
+18
+00:01:51,217 --> 00:01:54,613
+So the trend filter made the system worse.
+
+19
+00:01:55,613 --> 00:02:01,491
+One reason: ADX rises late. It is built from past price moves.
+
+20
+00:02:01,940 --> 00:02:07,190
+By the time ADX is high, much of the move is already gone.
+
+21
+00:02:07,640 --> 00:02:11,612
+The breakout enters just where the trend starts to tire.
+
+22
+00:02:12,612 --> 00:02:21,938
+Now change the threshold. ADX above 30: 81 trades, plus 8R, PF 1.23.
+
+23
+00:02:22,388 --> 00:02:29,545
+Looks like we found it. But remember episode nine? Try enough settings and one will look good.
+
+24
+00:02:30,545 --> 00:02:34,019
+The same split at 1 August 2025.
+
+25
+00:02:34,469 --> 00:02:44,997
+In the first part: 45 trades, minus 6.7R. In the later part: 36 trades, plus 14.6R.
+
+26
+00:02:45,447 --> 00:02:51,873
+Bad first, then good. On so few trades, that flip is noise, not edge.
+
+27
+00:02:52,873 --> 00:02:57,941
+A second method: is price above or below its 100-day average?
+
+28
+00:02:58,391 --> 00:03:08,995
+Above: 463 trades, minus 20.3R. Below: 153 trades, minus 9.3R.
+
+29
+00:03:09,446 --> 00:03:13,730
+PF is below 1 in both. No real difference.
+
+30
+00:03:14,730 --> 00:03:18,361
+So where is the difference? Look year by year.
+
+31
+00:03:18,811 --> 00:03:31,011
+2024: minus 12R. 2025: plus 23.7R. 2026: minus 36.1R.
+
+32
+00:03:31,460 --> 00:03:37,417
+The system works in some periods and not in others. And you cannot know those periods in advance.
+
+33
+00:03:38,417 --> 00:03:41,811
+So when do you switch a system off? Not by gut feeling.
+
+34
+00:03:42,262 --> 00:03:52,058
+Write a rule before going live. For example: if drawdown reaches 1.5 times the biggest backtest drawdown, stop and review.
+
+35
+00:03:52,507 --> 00:03:57,759
+And test any regime filter out-of-sample, like every other rule.
+
+36
+00:03:58,759 --> 00:04:05,290
+So, today in short. The ADX 25 trend filter made our system worse.
+
+37
+00:04:05,739 --> 00:04:12,009
+The threshold that looked good flipped in the split. The 100-day average made no difference either.
+
+38
+00:04:12,459 --> 00:04:19,146
+This result is for this system only. Always test a filter on data; never just assume it works.
+
+39
+00:04:20,146 --> 00:04:28,270
+Next episode: portfolio. One system, many markets. Diversification and correlation.
+
+40
+00:04:28,720 --> 00:04:33,631
+If this was useful, subscribe and save the playlist.
+
+41
+00:04:34,081 --> 00:04:40,272
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

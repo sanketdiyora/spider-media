@@ -1,0 +1,164 @@
+1
+00:00:05,000 --> 00:00:08,161
+The order book showed only 20 contracts.
+
+2
+00:00:08,611 --> 00:00:15,455
+Yet 640 contracts traded at that price. And price did not go a single tick higher.
+
+3
+00:00:15,905 --> 00:00:20,581
+Today: hidden orders, and fake orders.
+
+4
+00:00:21,581 --> 00:00:26,570
+Hello, this is episode eighteen of the SPIDER Order Flow series.
+
+5
+00:00:27,020 --> 00:00:30,729
+Last time: liquidity pools and stop hunts.
+
+6
+00:00:31,180 --> 00:00:36,586
+Today: iceberg orders and spoofing. When to trust the order book.
+
+7
+00:00:37,587 --> 00:00:42,994
+First, one thing. The order book shows what people intend to do.
+
+8
+00:00:43,444 --> 00:00:46,919
+The tape and the footprint show what actually happened.
+
+9
+00:00:47,369 --> 00:00:50,294
+The book is intent. The tape is proof.
+
+10
+00:00:51,294 --> 00:00:56,623
+An iceberg is a big limit order that shows only a small part in the book.
+
+11
+00:00:57,073 --> 00:01:01,436
+Like an iceberg: a little on top, a lot below.
+
+12
+00:01:01,886 --> 00:01:06,562
+As soon as the visible part fills, the next part appears by itself.
+
+13
+00:01:07,562 --> 00:01:10,148
+Why does a big player hide his size?
+
+14
+00:01:10,598 --> 00:01:18,487
+If everyone sees a 640 seller up there, buyers back off. Or they sell in front of him.
+
+15
+00:01:18,937 --> 00:01:23,378
+By hiding it, he fills his whole order at a good price.
+
+16
+00:01:24,378 --> 00:01:30,490
+Our example. Gold futures, only 20 contracts on the ask at 2650.
+
+17
+00:01:30,940 --> 00:01:36,425
+Buyers lift it, the 20 fill. And another 20 appears again.
+
+18
+00:01:36,875 --> 00:01:38,913
+This keeps happening.
+
+19
+00:01:39,913 --> 00:01:46,104
+Thirty-two refills in five minutes. Thirty-two times twenty: 640 contracts.
+
+20
+00:01:46,553 --> 00:01:50,420
+And price never touched 2651 once.
+
+21
+00:01:50,871 --> 00:01:55,782
+The buyers gave up. After that, price fell to 2642.
+
+22
+00:01:56,782 --> 00:02:02,502
+Three signs. One: repeated refills at the same price.
+
+23
+00:02:02,952 --> 00:02:08,203
+Two: traded volume at that price is many times the visible size.
+
+24
+00:02:08,652 --> 00:02:15,966
+Three: price does not move through. Remember absorption from episode sixteen? This can be the reason.
+
+25
+00:02:16,966 --> 00:02:22,923
+Now the reverse game: spoofing. Show a big order, then pull it before it fills.
+
+26
+00:02:23,373 --> 00:02:29,094
+The aim: scare or tempt others so that price moves your way.
+
+27
+00:02:29,543 --> 00:02:36,075
+This is illegal in US futures and in many other places. We are only learning to recognise it.
+
+28
+00:02:37,075 --> 00:02:43,501
+Suddenly a 900-contract bid appears at 2645. The other rows show 40 to 80.
+
+29
+00:02:43,951 --> 00:02:48,862
+People think: strong support below. They start buying.
+
+30
+00:02:49,311 --> 00:02:57,906
+Price reached 2646 and the 900 vanished. Not one contract filled. Then price went to 2638.
+
+31
+00:02:58,906 --> 00:03:04,470
+So when to trust the book? What filled is more reliable than what was shown.
+
+32
+00:03:04,920 --> 00:03:09,831
+Do not trust a big order that disappears as price gets close.
+
+33
+00:03:10,281 --> 00:03:20,965
+And never trade an iceberg on a guess. Wait for price to turn instead of breaking, and for a close, then think. Stop beyond the iceberg.
+
+34
+00:03:21,965 --> 00:03:29,123
+Spot forex has no single central order book. Your broker's DOM is only its own liquidity.
+
+35
+00:03:29,573 --> 00:03:34,902
+A real book and tape come from futures. For gold, COMEX gold futures.
+
+36
+00:03:35,902 --> 00:03:41,048
+So, today in short. The book is intent, the tape is proof.
+
+37
+00:03:41,498 --> 00:03:51,372
+Iceberg: looks small, fills a lot, price stalls. Spoofing: looks big, vanishes before it fills.
+
+38
+00:03:51,822 --> 00:03:56,185
+Trust filled volume, not displayed orders.
+
+39
+00:03:57,185 --> 00:04:05,543
+Next episode: trapped traders. Buyers and sellers caught in the wrong place, and how they fuel price.
+
+40
+00:04:05,994 --> 00:04:10,983
+If this was useful, subscribe and save the playlist.
+
+41
+00:04:11,433 --> 00:04:17,546
+For trade setups, our Telegram and Instagram are in the description. See you in the next episode.
+

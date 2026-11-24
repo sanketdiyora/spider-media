@@ -1,0 +1,59 @@
+Order book me sirf 20 contract dikh rahe the, phir bhi usi price pe 640 contract bik gaye, aur price ek tick bhi upar nahi gaya. Is episode me zero se samjho iceberg orders (chhupe hue orders) aur spoofing (jhoothe orders), aur order book pe kab bharosa karein.
+
+Ye SPIDER ki Order Flow Series ka Episode 18 hai (Hindi + English subtitles).
+
+Is episode me:
+• Book = iraada (log kya karna chahte hain) · Tape / footprint = saboot (sach me kya hua)
+• Iceberg: bada limit order, book me sirf chhota hissa dikhta hai, bharte hi agla hissa aa jaata hai
+• Bada player size kyun chhupata hai
+• Udaharan: gold futures, ask 2650 pe sirf 20 · 5 minute me 32 refill x 20 = 640 contract · 2651 kabhi nahi · phir 2642
+• Iceberg ki pehchaan: same price pe baar baar refill, traded volume dikhe size se kai guna, price aage nahi (Ep 16 absorption)
+• Spoofing: bada order dikhao, bharne se pehle hata lo · US futures aur kai jagah gair-kaanooni · sirf pehchaan ke liye
+• Udaharan: 2645 pe 900 ka bid (baaki 40-80) · price 2646 aaya, order gayab, ek bhi contract nahi bhara · phir 2638
+• Bharosa: jo bhara wo jo dikha se zyada bharosemand · paas aate hi hatne wala order = dikhawa
+• Spot forex me central order book nahi · asli book + tape futures pe (gold: COMEX)
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:37 Book vs tape
+0:51 Iceberg kya
+1:07 Kyun chhupaate hain
+1:24 Iceberg udaharan
+1:39 Ginti
+1:56 Iceberg pehchaan
+2:16 Spoofing kya
+2:37 Spoof udaharan
+2:58 Bharosa kab
+3:21 Forex ka sach
+3:35 Recap
+3:57 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1 (Order Flow Kya Hai): https://youtu.be/k2cNi_kMYMo
+Episode 2 (Auction, Fair Price): https://youtu.be/3MAcGFXck4U
+Episode 3 (Bid, Ask, Order Types): https://youtu.be/k85NV5xBEWY
+Episode 4 (Order Book / DOM): https://youtu.be/yZYfSop0PUI
+Episode 5 (Aggressive vs Passive): https://youtu.be/hzNmdhwConY
+Episode 6 (Forex/Gold Volume ka Sach): https://youtu.be/ENbgIkNYTX8
+Episode 7 (Volume Profile): https://youtu.be/vsTFTYiXSV4
+Episode 8 (VWAP): https://youtu.be/gF7i8jp8zlw
+Episode 9 (Session Profiles): https://youtu.be/JE1m8CbP9w0
+Episode 10 (Market Profile TPO): https://youtu.be/qpAG3n2kDM0
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Episode 15 (Imbalance + Stacked Imbalance): https://youtu.be/F8j33xjRRd0
+Episode 16 (Absorption + Exhaustion): https://youtu.be/Iq_VhhkC4bQ
+Episode 17 (Liquidity Pools + Stop Hunts): https://youtu.be/RmX_njxX2hg
+Agla episode: Trapped traders. Galat jagah fanse buyers aur sellers, aur wo price ka fuel kaise bante hain.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Trade setups (Telegram): https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #iceberg #spoofing #tradinghindi #spidertrades
