@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 15:11 IST",
+"updated": "2026-11-24 15:21 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 174,
@@ -676,8 +676,8 @@
 "r": null,
 "opened": "24 Nov 14:15",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.13 lots @189.120 SL 189.421 (scanner SL) entry 189.109 basis 0.000 (M15) +SLbuf 0.021 +TPbuf 0.021 split TP1/TP2 risk 0.50%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.81 USD = -0.97R"
 }
 ],
 "closed_today": [
@@ -1066,18 +1066,18 @@
 "all_win": 146,
 "today_net": -7.03,
 "engine": {
-"last_scan": "15:01",
-"age_min": 9,
+"last_scan": "15:17",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 09:30 UTC · new 0 · events 0 · open 6"
+"summary": "run 2026-11-24 09:45 UTC · new 0 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4972.61",
-"equity": "4989.08",
-"floating": "16.47",
-"positions": "6",
+"balance": "4948.80",
+"equity": "4990.99",
+"floating": "42.19",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
