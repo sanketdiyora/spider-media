@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 16:06 IST",
+"updated": "2026-11-24 16:21 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 174,
@@ -649,7 +649,7 @@
 "sl": 49790.49,
 "r": null,
 "opened": "24 Nov 13:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -662,9 +662,9 @@
 "sl": 1.217791,
 "r": null,
 "opened": "24 Nov 13:45",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.26 lots @1.21626 SL 1.21798 (scanner SL) entry 1.21621 basis 0.00004 (M15) +SLbuf 0.00015 +TPbuf 0.00015 split TP1/TP2 risk 0.49%"
+"mt5_reason": "SL 1.21636"
 }
 ],
 "closed_today": [
@@ -1066,18 +1066,18 @@
 "all_win": 146,
 "today_net": -8.03,
 "engine": {
-"last_scan": "16:01",
+"last_scan": "16:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 10:30 UTC · new 0 · events 0 · open 5"
+"summary": "run 2026-11-24 10:45 UTC · new 0 · events 1 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4948.80",
-"equity": "5006.79",
-"floating": "57.99",
-"positions": "4",
+"balance": "4959.57",
+"equity": "5017.57",
+"floating": "58.00",
+"positions": "3",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -1086,6 +1086,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 12.7,
 "github_runs": [
+{
+"t": "2026-11-24T10:44:20Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-24T09:30:23Z",
 "ok": "success",
@@ -1103,11 +1108,6 @@
 },
 {
 "t": "2026-11-24T03:11:49Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-24T02:51:55Z",
 "ok": "success",
 "ev": "schedule"
 }
