@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 07:36 IST",
+"updated": "2026-11-24 07:52 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 168,
@@ -508,17 +508,17 @@
 "scanner": {
 "open": [
 {
-"id": "USDJPY_1795483800_pbo",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "pbo",
-"entry": 158.896,
-"sl": 158.7594,
+"id": "BRENT_1795485600_dpoc",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 89.02,
+"sl": 89.847,
 "r": null,
-"opened": "24 Nov 07:15",
+"opened": "24 Nov 07:45",
 "state": "open",
-"mt5": "closed",
-"mt5_reason": "DONE pnl -24.61 USD = -1.00R"
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.02 lots @89.111 SL 90.079 (scanner SL) entry 89.194 basis 0.174 (M15) +SLbuf 0.058  risk 0.39%"
 }
 ],
 "closed_today": [
@@ -586,9 +586,35 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
+},
+{
+"id": "USDJPY_1795483800_pbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 158.896,
+"sl": 158.7594,
+"r": -1.0,
+"opened": "24 Nov 07:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.61 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "USDJPY_1795483800_pbo",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "pbo",
+"entry": 158.896,
+"sl": 158.7594,
+"r": -1.0,
+"opened": "24 Nov 07:15",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -24.61 USD = -1.00R"
+},
 {
 "id": "NZDJPY_1795455000_dpoc",
 "pair": "NZDJPY",
@@ -770,38 +796,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NAS100_1795410000_poc",
-"pair": "NAS100",
-"dir": "SELL",
-"model": "poc",
-"entry": 25778.71,
-"sl": 25795.98,
-"r": -1.0,
-"opened": "23 Nov 10:45",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 262,
-"all_net": 37.76,
+"all_n": 263,
+"all_net": 36.76,
 "all_win": 143,
-"today_net": -2.89,
+"today_net": -3.89,
 "engine": {
-"last_scan": "07:31",
+"last_scan": "07:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 02:00 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-24 02:15 UTC · new 1 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "5017.40",
-"floating": "0.00",
-"positions": "0",
+"equity": "5016.66",
+"floating": "-0.74",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
