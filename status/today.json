@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-24 13:38 IST",
+"updated": "2026-11-24 13:39 IST",
 "date": "2026-11-24",
 "followers": 91,
-"media_count": 172,
+"media_count": 173,
 "slots": [
 {
 "slot": "0700",
@@ -61,7 +61,7 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 90,
+"views": 91,
 "reach": 75,
 "saved": 2,
 "shares": 0
@@ -114,8 +114,21 @@
 "name": "reel",
 "type": "reel",
 "title": "🕷 Aaj ka live scanner UPDATE (Tue 24 Nov) 👇",
-"status": "DUE",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18111714527251359",
+"cap": "🕷 Aaj ka live scanner UPDATE (Tue 24 Nov) 👇\nAaj: 6 trade band · 0 jeete · 6 haare · net -5.2R · 5 live\nUSDCAD BUY — band, -0.2R (din ke end pe band)\nUSDCAD BUY — band, -1.0R (SL hit)\nUSDJPY BUY — abhi chal raha hai, +1.3R (risk-free 🔒)\nUK100 SELL — abhi chal raha hai, +0.1R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Tue 24 Nov) 👇",
+"time": "2026-11-24 13:39",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgHfgd_ETgA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -151,6 +164,20 @@
 }
 ],
 "recent_posts": [
+{
+"id": "18111714527251359",
+"cap": "🕷 Aaj ka live scanner UPDATE (Tue 24 Nov) 👇\nAaj: 6 trade band · 0 jeete · 6 haare · net -5.2R · 5 live\nUSDCAD BUY — band, -0.2R (din ke end pe band)\nUSDCAD BUY — band, -1.0R (SL hit)\nUSDJPY BUY — abhi chal raha hai, +1.3R (risk-free 🔒)\nUK100 SELL — abhi chal raha hai, +0.1R\nHar trade, har loss Telegram pe live post hota hai — entry, SL, TP1, close sab.\nTrade setups ke liye Telegram join karo — link bio me 🕷️\nYe sirf scenario hain. Risk aur plan apna.\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#forexhindi #xauusd #tradingsetups #priceaction #spidertrades",
+"cap1": "🕷 Aaj ka live scanner UPDATE (Tue 24 Nov) 👇",
+"time": "2026-11-24 13:39",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgHfgd_ETgA/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
 {
 "id": "18158907370589198",
 "cap": "🕷 50000 vs 50000 CHALLENGE — Day 1 (24 Nov 2026)\n21 din me paisa double? Halwa hai kya? 😏\nAaj se race shuru: 50000 followers pehle aayenge, ya GoldMint Titan bot ka 50000 USC profit?\nEk account. Har trade public. Loss bhi dikhega.\n\nKhud dekh lo — Investor login (read-only, sirf dekh sakte ho, trade nahi):\nLogin: 36945299\nServer: VantageMarkets-Live 21\nInvestor password: Spider69@69\n\nRoz ka score yahin milega — follow karo @spider.trades 🕷️\n\nFor educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Past results do not guarantee future results.\n\n#spidertrades #50kchallenge #algotrading #forexindia #tradinglive",
@@ -188,7 +215,7 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 90,
+"views": 91,
 "reach": 75,
 "saved": 2,
 "shares": 0
@@ -556,20 +583,6 @@
 "reach": 141,
 "saved": 2,
 "shares": 2
-},
-{
-"id": "18001406133019645",
-"cap": "Aggressive ya Passive: tum kaunse trader ho? ⚡\n\nAggressive trader jaldi me hai, market order se abhi sauda chahta hai, aur spread ki keemat deta hai. Passive trader apna bhaav likh kar intezaar karta hai (limit order): behtar bhaav, par sauda hoga ya nahi, guarantee nahi.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #tradingeducation #spidertrades",
-"cap1": "Aggressive ya Passive: tum kaunse trader ho? ⚡",
-"time": "2026-11-21 07:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df_DkfDgGv-/",
-"likes": 2,
-"comments": 0,
-"views": 204,
-"reach": 166,
-"saved": 1,
-"shares": 0
 }
 ],
 "trades": [],
@@ -976,7 +989,7 @@
 "today_net": -7.89,
 "engine": {
 "last_scan": "13:31",
-"age_min": 7,
+"age_min": 8,
 "rc": 0,
 "summary": "run 2026-11-24 08:00 UTC · new 0 · events 1 · open 5"
 },
