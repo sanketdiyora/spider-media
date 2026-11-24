@@ -1,0 +1,72 @@
+{
+ "out": "/home/claude/spider-media/media/2026-11-24/1336.mp4",
+ "dur": 39.73,
+ "music": "trap/364.mp3",
+ "chars": 487,
+ "novoice": false,
+ "cards": [
+  {
+   "pair": "USDCAD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.43742288,
+    1.43745
+   ],
+   "sl": 1.436772,
+   "entry": 1.43745,
+   "rr": 1.0,
+   "tp1": 1.438128,
+   "tp2": null
+  },
+  {
+   "pair": "USDCAD",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    1.43611368,
+    1.43614
+   ],
+   "sl": 1.435482,
+   "entry": 1.43614,
+   "rr": 1.0,
+   "tp1": 1.436798,
+   "tp2": null
+  },
+  {
+   "pair": "USDJPY",
+   "dir": "BUY",
+   "style": "scalp",
+   "zone": [
+    158.954516,
+    158.964
+   ],
+   "sl": 158.7269,
+   "entry": 158.964,
+   "rr": 3.0,
+   "tp1": 159.2011,
+   "tp2": 159.6752
+  },
+  {
+   "pair": "UK100",
+   "dir": "SELL",
+   "style": "scalp",
+   "zone": [
+    10485.07,
+    10485.8212
+   ],
+   "sl": 10503.85,
+   "entry": 10485.07,
+   "rr": 2.5,
+   "tp1": 10466.29,
+   "tp2": 10438.12
+  }
+ ],
+ "work": "/home/claude/ig/setup/w_b494b70c",
+ "crops": [
+  "/home/claude/ig/setup/w_b494b70c/tg_0.jpg",
+  "/home/claude/ig/setup/w_b494b70c/tg_1.jpg",
+  "/home/claude/ig/setup/w_b494b70c/tg_2.jpg",
+  "/home/claude/ig/setup/w_b494b70c/tg_3.jpg"
+ ]
+}
