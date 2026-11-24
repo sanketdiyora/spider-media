@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 08:37 IST",
+"updated": "2026-11-24 08:52 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 169,
@@ -532,6 +532,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.02 lots @89.111 SL 90.079 (scanner SL) entry 89.194 basis 0.174 (M15) +SLbuf 0.058  risk 0.39%"
+},
+{
+"id": "AUDNZD_1795489200_dpoc",
+"pair": "AUDNZD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 1.21554,
+"sl": 1.216912,
+"r": null,
+"opened": "24 Nov 08:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.29 lots @1.21553 SL 1.21707 (scanner SL) entry 1.21555 basis 0.00001 (M15) +SLbuf 0.00015  risk 0.48%"
 }
 ],
 "closed_today": [
@@ -816,18 +829,18 @@
 "all_win": 143,
 "today_net": -3.89,
 "engine": {
-"last_scan": "08:36",
-"age_min": 1,
+"last_scan": "08:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 03:05 UTC · new 0 · events 0 · open 1"
+"summary": "run 2026-11-24 03:15 UTC · new 1 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "5008.70",
-"floating": "-8.70",
-"positions": "1",
+"equity": "5011.39",
+"floating": "-6.01",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -836,6 +849,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 13.0,
 "github_runs": [
+{
+"t": "2026-11-24T03:11:49Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-24T02:51:55Z",
 "ok": "success",
@@ -855,11 +873,6 @@
 "t": "2026-11-24T01:30:18Z",
 "ok": "success",
 "ev": "workflow_dispatch"
-},
-{
-"t": "2026-11-24T00:37:10Z",
-"ok": "success",
-"ev": "schedule"
 }
 ]
 }
