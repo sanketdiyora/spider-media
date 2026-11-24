@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-24 08:52 IST",
+"updated": "2026-11-24 09:06 IST",
 "date": "2026-11-24",
 "followers": 91,
-"media_count": 169,
+"media_count": 170,
 "slots": [
 {
 "slot": "0700",
@@ -17,11 +17,11 @@
 "time": "2026-11-24 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgGyAr5jeDU/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 45,
-"reach": 16,
-"saved": 0,
+"views": 128,
+"reach": 108,
+"saved": 2,
 "shares": 0
 }
 },
@@ -38,10 +38,10 @@
 "time": "2026-11-24 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgG43DTE8qy/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 83,
+"reach": 36,
 "saved": 0,
 "shares": 0
 }
@@ -51,8 +51,21 @@
 "name": "Jawab reel",
 "type": "reel",
 "title": "Ek quant system 5 hisson se banta hai. 🧩",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "18090239018315015",
+"cap": "Ek quant system 5 hisson se banta hai. 🧩\n\nIdea, data, backtest, risk aur execution. Idea market ke baare me ek soch hai. Backtest matlab purane data pe rule chalakar dekhna. Aur execution matlab rule ko bina chhede chalana, haath se ya bot se.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Ek quant system 5 hisson se banta hai. 🧩",
+"time": "2026-11-24 09:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1030",
@@ -97,16 +110,30 @@
 ],
 "recent_posts": [
 {
+"id": "18090239018315015",
+"cap": "Ek quant system 5 hisson se banta hai. 🧩\n\nIdea, data, backtest, risk aur execution. Idea market ke baare me ek soch hai. Backtest matlab purane data pe rule chalakar dekhna. Aur execution matlab rule ko bina chhede chalana, haath se ya bot se.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Ek quant system 5 hisson se banta hai. 🧩",
+"time": "2026-11-24 09:02",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "18014891513770459",
 "cap": "Chhota sa quiz. 🧠\n\nSawaal 1: price range ke upar nikla, volume bada, par candle chhoti aur price wapas andar. Kya hua? Sawaal 2: badi khabar se pehle spread chauda kyun hota hai? Jawaab reel me. Comment me batao kitne sahi the.\n\nOrder Flow Series, Episode 5 (Aggressive vs Passive) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
 "cap1": "Chhota sa quiz. 🧠",
 "time": "2026-11-24 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgG43DTE8qy/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 83,
+"reach": 36,
 "saved": 0,
 "shares": 0
 },
@@ -117,11 +144,11 @@
 "time": "2026-11-24 07:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgGyAr5jeDU/",
-"likes": 0,
+"likes": 2,
 "comments": 0,
-"views": 45,
-"reach": 16,
-"saved": 0,
+"views": 128,
+"reach": 108,
+"saved": 2,
 "shares": 0
 },
 {
@@ -133,8 +160,8 @@
 "link": "https://www.instagram.com/reel/DgFp6nGjnQz/",
 "likes": 2,
 "comments": 0,
-"views": 104,
-"reach": 83,
+"views": 108,
+"reach": 89,
 "saved": 0,
 "shares": 0
 },
@@ -145,10 +172,10 @@
 "time": "2026-11-23 19:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
-"likes": 4,
+"likes": 5,
 "comments": 0,
-"views": 279,
-"reach": 234,
+"views": 330,
+"reach": 265,
 "saved": 3,
 "shares": 0
 },
@@ -162,7 +189,7 @@
 "likes": 3,
 "comments": 0,
 "views": 137,
-"reach": 113,
+"reach": 114,
 "saved": 2,
 "shares": 0
 },
@@ -189,8 +216,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 21,
-"reach": 15,
+"views": 22,
+"reach": 16,
 "saved": 0,
 "shares": 0
 },
@@ -330,7 +357,7 @@
 "likes": 0,
 "comments": 0,
 "views": 134,
-"reach": 112,
+"reach": 113,
 "saved": 0,
 "shares": 0
 },
@@ -499,20 +526,6 @@
 "comments": 0,
 "views": 140,
 "reach": 107,
-"saved": 2,
-"shares": 0
-},
-{
-"id": "18252092806310673",
-"cap": "Quant trading ka matlab kya hai? ☕\n\nEk chai wala roz copy me likhta hai ki kitne cup bike. Kuch hafton me use pata chal jata hai ki kis din zyada maal chahiye. Yahi quant soch hai: andaaza nahi, ginti.\n\nQuant Trading Series, Episode 1 (Quant Trading Kya Hai?) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
-"cap1": "Quant trading ka matlab kya hai? ☕",
-"time": "2026-11-20 17:02",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/Df9jgJMk9gu/",
-"likes": 1,
-"comments": 0,
-"views": 144,
-"reach": 114,
 "saved": 2,
 "shares": 0
 }
@@ -829,17 +842,17 @@
 "all_win": 143,
 "today_net": -3.89,
 "engine": {
-"last_scan": "08:46",
+"last_scan": "09:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 03:15 UTC · new 1 · events 0 · open 2"
+"summary": "run 2026-11-24 03:30 UTC · new 0 · events 0 · open 2"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "5011.39",
-"floating": "-6.01",
+"equity": "5006.62",
+"floating": "-10.78",
 "positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
@@ -849,6 +862,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 13.0,
 "github_runs": [
+{
+"t": "2026-11-24T03:30:25Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-24T03:11:49Z",
 "ok": "success",
@@ -868,11 +886,6 @@
 "t": "2026-11-24T01:52:51Z",
 "ok": "success",
 "ev": "schedule"
-},
-{
-"t": "2026-11-24T01:30:18Z",
-"ok": "success",
-"ev": "workflow_dispatch"
 }
 ]
 }
