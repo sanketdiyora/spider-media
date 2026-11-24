@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 09:52 IST",
+"updated": "2026-11-24 10:06 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 170,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgGyAr5jeDU/",
 "likes": 2,
 "comments": 0,
-"views": 128,
-"reach": 108,
+"views": 132,
+"reach": 112,
 "saved": 2,
 "shares": 0
 }
@@ -38,10 +38,10 @@
 "time": "2026-11-24 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgG43DTE8qy/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 83,
-"reach": 36,
+"views": 121,
+"reach": 98,
 "saved": 0,
 "shares": 0
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 34,
+"reach": 17,
 "saved": 0,
 "shares": 0
 }
@@ -118,8 +118,8 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 0,
 "comments": 0,
-"views": 0,
-"reach": 0,
+"views": 34,
+"reach": 17,
 "saved": 0,
 "shares": 0
 },
@@ -130,10 +130,10 @@
 "time": "2026-11-24 08:02",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgG43DTE8qy/",
-"likes": 1,
+"likes": 2,
 "comments": 0,
-"views": 83,
-"reach": 36,
+"views": 121,
+"reach": 98,
 "saved": 0,
 "shares": 0
 },
@@ -146,8 +146,8 @@
 "link": "https://www.instagram.com/reel/DgGyAr5jeDU/",
 "likes": 2,
 "comments": 0,
-"views": 128,
-"reach": 108,
+"views": 132,
+"reach": 112,
 "saved": 2,
 "shares": 0
 },
@@ -160,8 +160,8 @@
 "link": "https://www.instagram.com/reel/DgFp6nGjnQz/",
 "likes": 2,
 "comments": 0,
-"views": 108,
-"reach": 89,
+"views": 109,
+"reach": 90,
 "saved": 0,
 "shares": 0
 },
@@ -174,8 +174,8 @@
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
 "likes": 5,
 "comments": 0,
-"views": 330,
-"reach": 265,
+"views": 352,
+"reach": 286,
 "saved": 3,
 "shares": 0
 },
@@ -188,7 +188,7 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 3,
 "comments": 0,
-"views": 137,
+"views": 139,
 "reach": 114,
 "saved": 2,
 "shares": 0
@@ -230,8 +230,8 @@
 "link": "https://www.instagram.com/reel/DgElPNAFfE_/",
 "likes": 3,
 "comments": 0,
-"views": 126,
-"reach": 106,
+"views": 127,
+"reach": 107,
 "saved": 0,
 "shares": 0
 },
@@ -584,6 +584,32 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.06 lots @60420.26 SL 60800.27 (scanner SL) entry 60401.09 basis 70.79 (M15) +SLbuf 16.98 +TPbuf 16.98 split TP1/TP2 risk 0.45%"
+},
+{
+"id": "AUDJPY_1795493700_dpoc",
+"pair": "AUDJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 105.287,
+"sl": 105.481,
+"r": null,
+"opened": "24 Nov 10:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.18 lots @105.274 SL 105.492 (scanner SL) entry 105.282 basis -0.005 (M15) +SLbuf 0.016  risk 0.49%"
+},
+{
+"id": "GBPAUD_1795493700_dpoc",
+"pair": "GBPAUD",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 1.96794,
+"sl": 1.965589,
+"r": null,
+"opened": "24 Nov 10:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.13 lots @1.96846 SL 1.96560 (scanner SL) entry 1.96795 basis 0.00001 (M15)  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -868,18 +894,18 @@
 "all_win": 143,
 "today_net": -3.89,
 "engine": {
-"last_scan": "09:46",
+"last_scan": "10:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 04:15 UTC · new 1 · events 0 · open 4"
+"summary": "run 2026-11-24 04:30 UTC · new 2 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "5000.30",
-"floating": "-17.10",
-"positions": "6",
+"equity": "4991.61",
+"floating": "-25.79",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
