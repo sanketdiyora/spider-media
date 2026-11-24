@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 13:06 IST",
+"updated": "2026-11-24 13:22 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 171,
@@ -933,25 +933,25 @@
 "all_win": 143,
 "today_net": -7.89,
 "engine": {
-"last_scan": "13:01",
-"age_min": 5,
+"last_scan": "13:16",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-24 07:30 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-24 07:45 UTC · new 0 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4952.69",
-"equity": "4958.47",
-"floating": "5.78",
+"equity": "4961.75",
+"floating": "9.06",
 "positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
 },
-"voice_chars_month": 175226,
+"voice_chars_month": 175593,
 "voice_limit": 30000,
-"disk_free_gb": 13.0,
+"disk_free_gb": 12.8,
 "github_runs": [
 {
 "t": "2026-11-24T05:00:30Z",
