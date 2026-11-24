@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 09:36 IST",
+"updated": "2026-11-24 09:52 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 170,
@@ -571,6 +571,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.15 lots @158.978 SL 158.721 (scanner SL) entry 158.958 basis -0.006 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "BTCUSD_1795492800_pbo",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 60330.3,
+"sl": 60712.5,
+"r": null,
+"opened": "24 Nov 09:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.06 lots @60420.26 SL 60800.27 (scanner SL) entry 60401.09 basis 70.79 (M15) +SLbuf 16.98 +TPbuf 16.98 split TP1/TP2 risk 0.45%"
 }
 ],
 "closed_today": [
@@ -855,18 +868,18 @@
 "all_win": 143,
 "today_net": -3.89,
 "engine": {
-"last_scan": "09:31",
+"last_scan": "09:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 04:00 UTC · new 0 · events 0 · open 3"
+"summary": "run 2026-11-24 04:15 UTC · new 1 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5017.40",
-"equity": "5007.22",
-"floating": "-10.18",
-"positions": "4",
+"equity": "5000.30",
+"floating": "-17.10",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
