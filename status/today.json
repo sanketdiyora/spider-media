@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 06:21 IST",
+"updated": "2026-11-24 06:36 IST",
 "date": "2026-11-24",
 "followers": 90,
 "media_count": 167,
@@ -79,8 +79,8 @@
 "link": "https://www.instagram.com/reel/DgFp6nGjnQz/",
 "likes": 2,
 "comments": 0,
-"views": 78,
-"reach": 66,
+"views": 88,
+"reach": 73,
 "saved": 0,
 "shares": 0
 },
@@ -93,8 +93,8 @@
 "link": "https://www.instagram.com/reel/DgFfmYhAdJc/",
 "likes": 4,
 "comments": 0,
-"views": 229,
-"reach": 191,
+"views": 244,
+"reach": 199,
 "saved": 1,
 "shares": 0
 },
@@ -107,7 +107,7 @@
 "link": "https://www.instagram.com/reel/DgFR5H5DzW_/",
 "likes": 3,
 "comments": 0,
-"views": 135,
+"views": 136,
 "reach": 112,
 "saved": 2,
 "shares": 0
@@ -121,7 +121,7 @@
 "link": "https://www.instagram.com/reel/DgFEKBwGIbX/",
 "likes": 1,
 "comments": 0,
-"views": 129,
+"views": 130,
 "reach": 115,
 "saved": 0,
 "shares": 0
@@ -135,8 +135,8 @@
 "link": "https://www.instagram.com/reel/DgE8K4mifoF/",
 "likes": 0,
 "comments": 0,
-"views": 19,
-"reach": 13,
+"views": 20,
+"reach": 14,
 "saved": 0,
 "shares": 0
 },
@@ -763,10 +763,10 @@
 "all_win": 143,
 "today_net": -2.89,
 "engine": {
-"last_scan": "06:16",
-"age_min": 4,
+"last_scan": "06:31",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 00:45 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-24 01:00 UTC · new 0 · events 0 · open 0"
 },
 "mt5": {
 "mode": "demo",
