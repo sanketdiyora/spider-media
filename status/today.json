@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24 13:39 IST",
+"updated": "2026-11-24 13:52 IST",
 "date": "2026-11-24",
 "followers": 91,
 "media_count": 173,
@@ -649,9 +649,48 @@
 "sl": 10503.85,
 "r": null,
 "opened": "24 Nov 13:30",
+"state": "risk-free",
+"mt5": "skip",
+"mt5_reason": "model off"
+},
+{
+"id": "NZDCAD_1795507500_lbo",
+"pair": "NZDCAD",
+"dir": "SELL",
+"model": "lbo",
+"entry": 0.781611,
+"sl": 0.782289,
+"r": null,
+"opened": "24 Nov 13:40",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "model off"
+},
+{
+"id": "US30_1795507200_dpoc",
+"pair": "US30",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 49645.57,
+"sl": 49790.49,
+"r": null,
+"opened": "24 Nov 13:45",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "AUDNZD_1795507200_pbo",
+"pair": "AUDNZD",
+"dir": "SELL",
+"model": "pbo",
+"entry": 1.21617,
+"sl": 1.217791,
+"r": null,
+"opened": "24 Nov 13:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.26 lots @1.21626 SL 1.21798 (scanner SL) entry 1.21621 basis 0.00004 (M15) +SLbuf 0.00015 +TPbuf 0.00015 split TP1/TP2 risk 0.49%"
 }
 ],
 "closed_today": [
@@ -988,18 +1027,18 @@
 "all_win": 143,
 "today_net": -7.89,
 "engine": {
-"last_scan": "13:31",
-"age_min": 8,
+"last_scan": "13:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-24 08:00 UTC · new 0 · events 1 · open 5"
+"summary": "run 2026-11-24 08:15 UTC · new 2 · events 0 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4952.69",
-"equity": "4970.66",
-"floating": "17.97",
-"positions": "4",
+"equity": "4975.08",
+"floating": "22.39",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
