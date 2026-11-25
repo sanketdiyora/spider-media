@@ -1,0 +1,144 @@
+1
+00:00:05,000 --> 00:00:10,329
+Delta plus 900. The footprint is green. But do we take the trade or not?
+
+2
+00:00:10,779 --> 00:00:16,107
+The answer is not in the delta. It is in where that delta showed up.
+
+3
+00:00:16,558 --> 00:00:22,592
+Today: the top-down method. First context, then level, then confirmation.
+
+4
+00:00:23,592 --> 00:00:28,424
+Hello, this is episode twenty two of the SPIDER Order Flow series.
+
+5
+00:00:28,875 --> 00:00:35,641
+Last time: the practical gold and forex setup, futures and spot, and the basis.
+
+6
+00:00:36,091 --> 00:00:39,016
+Today we put all the tools together in one order.
+
+7
+00:00:40,016 --> 00:00:46,625
+Three steps. First, context: is the market in balance, or breaking out of it?
+
+8
+00:00:47,075 --> 00:00:51,830
+Second, level: a place we decided in advance.
+
+9
+00:00:52,280 --> 00:00:57,426
+Third, confirmation: what order flow says at that level.
+
+10
+00:00:58,426 --> 00:01:06,236
+Our example, gold futures. Yesterday's value area was 2640 to 2664, POC 2652.
+
+11
+00:01:06,686 --> 00:01:10,892
+Today the market opened at 2668, above yesterday's value.
+
+12
+00:01:11,342 --> 00:01:17,872
+This context says: an attempt to break out of balance to the upside. We will look for buys.
+
+13
+00:01:18,872 --> 00:01:29,399
+Now the levels, written down in the morning. Yesterday's VAH 2664, today's VWAP 2661, yesterday's POC 2652.
+
+14
+00:01:29,850 --> 00:01:36,851
+The plan: if price comes back to 2664, we watch whether buyers defend it.
+
+15
+00:01:37,300 --> 00:01:41,820
+Watching order flow without a level is like shooting arrows in the dark.
+
+16
+00:01:42,820 --> 00:01:48,071
+Price came back to 2664. In two minutes, 1,400 contracts sold at the bid.
+
+17
+00:01:48,521 --> 00:01:55,991
+But price did not fall; it held at 2663 to 2664. That is absorption, episode sixteen.
+
+18
+00:01:56,442 --> 00:02:04,148
+Then delta plus 900, and three stacked imbalances from 2664 to 2666. Now we have confirmation.
+
+19
+00:02:05,148 --> 00:02:14,552
+Entry 2665. Stop below both VWAP and VAH, at 2659.5.
+
+20
+00:02:15,001 --> 00:02:20,801
+Risk 5.5 points. Target this week's high, 2678.
+
+21
+00:02:21,251 --> 00:02:25,299
+A thirteen point reward, about 2.4R.
+
+22
+00:02:26,299 --> 00:02:32,256
+Now the same delta plus 900, but at 2655, in the middle of value.
+
+23
+00:02:32,706 --> 00:02:36,102
+No planned level there, no context.
+
+24
+00:02:36,552 --> 00:02:41,881
+So no trade. Order flow is not a signal on its own, only confirmation.
+
+25
+00:02:42,881 --> 00:02:48,837
+A general checklist, not our own system. One: is the context clear?
+
+26
+00:02:49,287 --> 00:02:56,209
+Two: is price at a pre-planned level? Three: does order flow agree in that direction?
+
+27
+00:02:56,659 --> 00:03:03,817
+Four: a stop where the idea is proven wrong, and a reward of at least 1.5R.
+
+28
+00:03:04,817 --> 00:03:12,287
+When is the idea wrong? If price closes below VWAP and slips back into value.
+
+29
+00:03:12,738 --> 00:03:17,649
+Then the context itself has changed. Do not wait for the stop; get out early.
+
+30
+00:03:18,099 --> 00:03:24,210
+And remember, this checklist will not win every time either. It just keeps losses small.
+
+31
+00:03:25,210 --> 00:03:30,462
+So, today in short. Context first: balance, or out of it?
+
+32
+00:03:30,912 --> 00:03:37,912
+Levels planned in advance: places like VAH, VWAP, POC.
+
+33
+00:03:38,363 --> 00:03:46,487
+Confirmation last: absorption, delta, imbalance. Order flow alone is not a signal.
+
+34
+00:03:47,487 --> 00:03:55,454
+Next episode: risk management with order flow. Where the stop goes, how big the size, and when not to trade.
+
+35
+00:03:55,904 --> 00:04:00,737
+If this was useful, subscribe and save the playlist.
+
+36
+00:04:01,186 --> 00:04:06,255
+Our Telegram and Instagram are in the description. See you in the next episode.
+
