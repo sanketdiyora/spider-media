@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 10:52 IST",
+"updated": "2026-11-25 11:07 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 181,
@@ -599,19 +599,6 @@
 "mt5_reason": "OPEN BUY 0.17 lots @0.58614 SL 0.58496 (scanner SL) entry 0.58590 basis 0.00000 (M15) split TP1/TP2 risk 0.48%"
 },
 {
-"id": "CHFJPY_1795568400_pbo",
-"pair": "CHFJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 190.418,
-"sl": 190.6804,
-"r": null,
-"opened": "25 Nov 06:45",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.14 lots @190.430 SL 190.698 (scanner SL) entry 190.416 basis -0.002 (M15) +SLbuf 0.020 +TPbuf 0.020 split TP1/TP2 risk 0.47%"
-},
-{
 "id": "CADCHF_1795569300_dpoc",
 "pair": "CADCHF",
 "dir": "BUY",
@@ -648,7 +635,7 @@
 "opened": "25 Nov 10:30",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.01 lots @3547.29 SL 3560.09 (scanner SL) entry 3549.31 basis 0.27 (M15) +SLbuf 0.29  risk 0.26%"
+"mt5_reason": "SL 3544.33"
 },
 {
 "id": "BRENT_1795581900_dpoc",
@@ -807,9 +794,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 13.54 USD = 0.59R"
+},
+{
+"id": "CHFJPY_1795568400_pbo",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 190.418,
+"sl": 190.6804,
+"r": -1.0,
+"opened": "25 Nov 06:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.62 USD = -1.00R"
 }
 ],
 "closed_recent": [
+{
+"id": "CHFJPY_1795568400_pbo",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 190.418,
+"sl": 190.6804,
+"r": -1.0,
+"opened": "25 Nov 06:45",
+"state": "closed",
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.62 USD = -1.00R"
+},
 {
 "id": "BTCUSD_1795576500_dpoc",
 "pair": "BTCUSD",
@@ -991,38 +1004,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "CHFJPY_1795509000_pbo",
-"pair": "CHFJPY",
-"dir": "SELL",
-"model": "pbo",
-"entry": 189.109,
-"sl": 189.3995,
-"r": -1.0,
-"opened": "24 Nov 14:15",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 286,
-"all_net": 36.65,
+"all_n": 287,
+"all_net": 35.65,
 "all_win": 155,
-"today_net": -1.88,
+"today_net": -2.88,
 "engine": {
-"last_scan": "10:46",
-"age_min": 6,
+"last_scan": "11:01",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 05:15 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-25 05:30 UTC · new 0 · events 1 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5009.69",
-"equity": "5013.50",
-"floating": "3.81",
-"positions": "8",
+"balance": "4986.07",
+"equity": "5030.60",
+"floating": "44.53",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
