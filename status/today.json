@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 14:37 IST",
+"updated": "2026-11-25 14:51 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 182,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 1,
 "comments": 0,
-"views": 116,
-"reach": 80,
+"views": 124,
+"reach": 100,
 "saved": 0,
 "shares": 4
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
 "likes": 1,
 "comments": 0,
-"views": 128,
-"reach": 109,
+"views": 133,
+"reach": 112,
 "saved": 2,
 "shares": 1
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
 "likes": 2,
 "comments": 0,
-"views": 122,
-"reach": 109,
+"views": 124,
+"reach": 110,
 "saved": 0,
 "shares": 0
 }
@@ -103,7 +103,7 @@
 "link": "https://www.instagram.com/reel/DgJ3yaRxENB/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -152,7 +152,7 @@
 "link": "https://www.instagram.com/reel/DgJ3yaRxENB/",
 "likes": 0,
 "comments": 0,
-"views": 0,
+"views": 1,
 "reach": 0,
 "saved": 0,
 "shares": 0
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
 "likes": 2,
 "comments": 0,
-"views": 122,
-"reach": 109,
+"views": 124,
+"reach": 110,
 "saved": 0,
 "shares": 0
 },
@@ -180,8 +180,8 @@
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
 "likes": 1,
 "comments": 0,
-"views": 128,
-"reach": 109,
+"views": 133,
+"reach": 112,
 "saved": 2,
 "shares": 1
 },
@@ -208,8 +208,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 1,
 "comments": 0,
-"views": 116,
-"reach": 80,
+"views": 124,
+"reach": 100,
 "saved": 0,
 "shares": 4
 },
@@ -222,10 +222,10 @@
 "link": "https://www.instagram.com/reel/DgIOzC7mSNs/",
 "likes": 0,
 "comments": 0,
-"views": 45,
-"reach": 33,
+"views": 51,
+"reach": 35,
 "saved": 0,
-"shares": 0
+"shares": 1
 },
 {
 "id": "17966767677246893",
@@ -250,8 +250,8 @@
 "link": "https://www.instagram.com/reel/DgH2uekHGvg/",
 "likes": 3,
 "comments": 0,
-"views": 231,
-"reach": 186,
+"views": 232,
+"reach": 187,
 "saved": 4,
 "shares": 0
 },
@@ -265,7 +265,7 @@
 "likes": 0,
 "comments": 0,
 "views": 125,
-"reach": 104,
+"reach": 105,
 "saved": 0,
 "shares": 0
 },
@@ -618,6 +618,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.16 lots @1.56193 SL 1.56410 (scanner SL) entry 1.56222 basis 0.00001 (M15) +SLbuf 0.00016  risk 0.48%"
+},
+{
+"id": "US30_1795597200_pbo",
+"pair": "US30",
+"dir": "SELL",
+"model": "pbo",
+"entry": 49752.53,
+"sl": 49959.35,
+"r": null,
+"opened": "25 Nov 14:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.10 lots @49784.45 SL 49992.37 (scanner SL) entry 49782.45 basis 29.92 (M15) +SLbuf 3.10 +TPbuf 3.10  risk 0.42%"
 }
 ],
 "closed_today": [
@@ -1110,18 +1123,18 @@
 "all_win": 161,
 "today_net": -1.44,
 "engine": {
-"last_scan": "14:31",
+"last_scan": "14:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 09:00 UTC · new 0 · events 1 · open 4"
+"summary": "run 2026-11-25 09:15 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4988.65",
-"equity": "5045.76",
-"floating": "57.11",
-"positions": "3",
+"equity": "5061.20",
+"floating": "72.55",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
