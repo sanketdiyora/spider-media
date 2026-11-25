@@ -1,0 +1,144 @@
+1
+00:00:05,000 --> 00:00:11,033
+Price made a new high, 2671. Then no buyer showed up there.
+
+2
+00:00:11,484 --> 00:00:15,690
+Volume less than half of normal. And price back inside.
+
+3
+00:00:16,140 --> 00:00:22,331
+Today: the marks of an unfinished auction, and why the market comes back there.
+
+4
+00:00:23,331 --> 00:00:28,085
+Hello, this is episode twenty of the SPIDER Order Flow series.
+
+5
+00:00:28,534 --> 00:00:33,681
+Last time: trapped traders, and how they become fuel for price.
+
+6
+00:00:34,131 --> 00:00:42,099
+Today: marks of unfinished business inside the profile. This ties the auction from episode two to the profile from episode seven.
+
+7
+00:00:43,099 --> 00:00:51,301
+Remember, the market is an auction. Price goes up to find sellers, down to find buyers.
+
+8
+00:00:51,751 --> 00:00:55,957
+An auction is finished when one side has nobody left.
+
+9
+00:00:56,407 --> 00:01:00,848
+If people are still standing on both sides, the auction is unfinished.
+
+10
+00:01:01,848 --> 00:01:10,128
+Our example, one gold futures session. Value area 2652 to 2664, POC 2658.
+
+11
+00:01:10,579 --> 00:01:19,250
+The session high is 2668. But at the very top price, 340 sold and 310 bought.
+
+12
+00:01:19,701 --> 00:01:27,172
+So even at the top, both sides traded heavily. That is a poor high: a flat top, no tail.
+
+13
+00:01:28,172 --> 00:01:35,982
+The opposite is excess. Look at another day's high: a thin tail from 2672 to 2676.
+
+14
+00:01:36,433 --> 00:01:43,747
+Only 5 to 20 contracts at each price. Price went there, buyers ran out, and it snapped back.
+
+15
+00:01:44,196 --> 00:01:50,231
+That is a finished auction. A poor high is unfinished, excess is finished.
+
+16
+00:01:51,231 --> 00:01:58,154
+Now single prints. Price ran from 2645 to 2655 in a single half hour.
+
+17
+00:01:58,604 --> 00:02:05,683
+In the TPO profile, 2646 to 2654 has only one letter. No pause in between.
+
+18
+00:02:06,133 --> 00:02:13,055
+It is a thin zone. If price comes back, it either moves through it fast or finds support there.
+
+19
+00:02:14,055 --> 00:02:19,463
+Why does the market come back to unfinished business? Because orders are still left there.
+
+20
+00:02:19,912 --> 00:02:26,103
+Above a poor high sit stops and breakout traders. The liquidity pool from episode seventeen.
+
+21
+00:02:26,554 --> 00:02:31,230
+But remember: it often comes back, not always.
+
+22
+00:02:32,230 --> 00:02:38,656
+Next day, price went above 2668, up to 2671. The poor high got repaired.
+
+23
+00:02:39,106 --> 00:02:45,454
+But volume in that half hour was only 600 contracts. Normally around 2,000.
+
+24
+00:02:45,904 --> 00:02:52,173
+No new buyers came. The close was back at 2666. That is a failed auction.
+
+25
+00:02:53,173 --> 00:02:59,129
+The plan idea: entry at 2666 after a close back below 2667.
+
+26
+00:02:59,579 --> 00:03:05,613
+Stop above the failure high, at 2672.5. Risk 6.5 points.
+
+27
+00:03:06,063 --> 00:03:12,594
+Target the bottom of the value area, 2652. 14 points, about 2R.
+
+28
+00:03:13,594 --> 00:03:22,109
+When is the idea wrong? If price gives two half-hour closes above 2668, that is acceptance above. Get out.
+
+29
+00:03:22,560 --> 00:03:28,672
+Not every poor high becomes a failed auction. Often the market goes up and stays there.
+
+30
+00:03:29,122 --> 00:03:34,843
+And in forex, this profile is built from tick volume. The real picture is on futures.
+
+31
+00:03:35,843 --> 00:03:44,046
+So, today in short. A poor high or low: heavy two-sided trade at the top, no tail. Unfinished business.
+
+32
+00:03:44,495 --> 00:03:51,497
+Excess: a thin tail, a sharp rejection. Single prints: the thin zone of a fast move.
+
+33
+00:03:51,947 --> 00:03:57,197
+Failed auction: a new high, but low volume and back inside.
+
+34
+00:03:58,197 --> 00:04:05,355
+Next episode: a practical order flow setup for gold and forex. Module five begins.
+
+35
+00:04:05,805 --> 00:04:10,793
+If this was useful, subscribe and save the playlist.
+
+36
+00:04:11,244 --> 00:04:16,312
+Our Telegram and Instagram are in the description. See you in the next episode.
+
