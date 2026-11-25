@@ -1,0 +1,64 @@
+24 episodes: auction se footprint tak, delta se risk tak. Is aakhiri episode me sab kuch ek poore trade me jodte hain, shuru se aakhir tak, aur ek haara hua trade bhi imaandari se dikhate hain. Saath me poori Order Flow Series ka recap aur aage kya karein.
+
+Ye SPIDER ki Order Flow Series ka Episode 24 (finale) hai (Hindi + English subtitles).
+
+Is episode me:
+• Context: gold futures, kal value area 2650-2672 · aaj open 2645 = value ke neeche, sell ki taraf dekho
+• Level: kal VAL 2650, aaj VWAP 2648, kal low 2634
+• Confirmation: 2650 pe ask pe 1200 khareeda par price 2650-2652 me atka (sellers absorb) · phir delta −800, 2649-2647 stacked bid imbalance
+• Trade idea: entry 2648, stop 2653.5 (risk 5.5, size = 1% risk), target 2634 (14) ≈ 2.5R
+• Management: +1R (2642.5) pe stop entry pe · target laga = +2.5R
+• Haara trade: agle din wahi checklist, entry 2649, stop 2654.5 · 2650 ke upar do 30-min close = acceptance · stop laga = −1R
+• Sabak: tareeka ek, nateeja alag · ek trade se nahi, 100 trades se faisla
+• Series recap: Module 1 Buniyaad, 2 Volume tools, 3 Asli Order Flow, 4 Bade players, 5 Practical
+• Aage kya: replay practice → demo → journal → 50 trades ke baad hisaab → Quant series se data se jaancho
+
+Chapters:
+0:00 Intro
+0:21 Pichhla episode
+0:38 Context
+0:54 Level
+1:12 Confirmation
+1:31 Entry aur risk
+1:53 Management
+2:10 Haara trade
+2:33 Sabak
+2:44 Series recap 1
+3:12 Series recap 2
+3:28 Aage kya
+3:47 Shukriya
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1 (Order Flow Kya Hai): https://youtu.be/k2cNi_kMYMo
+Episode 2 (Auction, Fair Price): https://youtu.be/3MAcGFXck4U
+Episode 3 (Bid, Ask, Order Types): https://youtu.be/k85NV5xBEWY
+Episode 4 (Order Book / DOM): https://youtu.be/yZYfSop0PUI
+Episode 5 (Aggressive vs Passive): https://youtu.be/hzNmdhwConY
+Episode 6 (Forex/Gold Volume ka Sach): https://youtu.be/ENbgIkNYTX8
+Episode 7 (Volume Profile): https://youtu.be/vsTFTYiXSV4
+Episode 8 (VWAP): https://youtu.be/gF7i8jp8zlw
+Episode 9 (Session Profiles): https://youtu.be/JE1m8CbP9w0
+Episode 10 (Market Profile TPO): https://youtu.be/qpAG3n2kDM0
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Episode 15 (Imbalance + Stacked Imbalance): https://youtu.be/F8j33xjRRd0
+Episode 16 (Absorption + Exhaustion): https://youtu.be/Iq_VhhkC4bQ
+Episode 17 (Liquidity Pools + Stop Hunts): https://youtu.be/RmX_njxX2hg
+Episode 18 (Iceberg Orders + Spoofing): https://youtu.be/uhuzfU_1VQk
+Episode 19 (Trapped Traders): https://youtu.be/_2a63HSOvho
+Episode 20 (Failed Auction, Single Prints): https://youtu.be/Bb-SLTjF1rM
+Episode 21 (Gold + Forex Practical Setup): https://youtu.be/VPLM6sUtjR8
+Episode 22 (Top-down: Context, Level, Confirmation): https://youtu.be/Z1Ijff-qrM0
+Episode 23 (Risk Management + Order Flow): https://youtu.be/4N4Y9BP_AVc
+Ye Order Flow Series ka aakhiri episode hai. Saath dene ke liye shukriya!
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #tradingcourse #goldtrading #tradinghindi #spidertrades

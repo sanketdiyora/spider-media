@@ -1,0 +1,144 @@
+1
+00:00:05,000 --> 00:00:10,486
+Twenty four episodes. From auction to footprint, from delta to risk.
+
+2
+00:00:10,936 --> 00:00:16,970
+Today we put it all into one trade. And we will show a losing trade too, honestly.
+
+3
+00:00:17,420 --> 00:00:20,006
+This is the final episode of the series.
+
+4
+00:00:21,006 --> 00:00:25,917
+Hello, this is episode twenty four of the SPIDER Order Flow series.
+
+5
+00:00:26,366 --> 00:00:33,368
+Last time: risk management. Where the stop goes, how big the size, and when not to trade.
+
+6
+00:00:33,818 --> 00:00:37,057
+Today, that same checklist from start to finish.
+
+7
+00:00:38,057 --> 00:00:43,203
+Gold futures. Yesterday's value area was 2650 to 2672.
+
+8
+00:00:43,653 --> 00:00:47,441
+Today the market opened at 2645, below yesterday's value.
+
+9
+00:00:47,891 --> 00:00:53,612
+Context: an attempt to break out of balance to the downside. We look for sells.
+
+10
+00:00:54,612 --> 00:01:04,643
+Morning levels: yesterday's VAL 2650, today's VWAP 2648, yesterday's low 2634.
+
+11
+00:01:05,093 --> 00:01:11,048
+The plan: if price rallies to 2650, we watch whether sellers defend it.
+
+12
+00:01:12,048 --> 00:01:16,960
+Price reached 2650. 1,200 contracts were bought at the ask.
+
+13
+00:01:17,410 --> 00:01:22,817
+But price stayed stuck between 2650 and 2652. Sellers were absorbing.
+
+14
+00:01:23,267 --> 00:01:30,817
+Then delta minus 800, and stacked bid imbalances from 2649 to 2647. Confirmation.
+
+15
+00:01:31,817 --> 00:01:40,488
+Entry 2648. Stop above both the absorption high and VAL, at 2653.5.
+
+16
+00:01:40,939 --> 00:01:46,660
+Risk 5.5 points. Size the usual way, 1 percent of the account.
+
+17
+00:01:47,110 --> 00:01:52,439
+Target yesterday's low, 2634. Fourteen points, about 2.5R.
+
+18
+00:01:53,439 --> 00:01:59,395
+Price moved down 1R, to 2642.5. We moved the stop to entry.
+
+19
+00:01:59,845 --> 00:02:03,893
+Now this trade cannot lose; at worst it breaks even.
+
+20
+00:02:04,344 --> 00:02:09,020
+Target 2634 hit. Plus 14 points, so 2.5R.
+
+21
+00:02:10,020 --> 00:02:17,987
+Next day, same checklist, same kind of setup. Entry 2649, stop 2654.5.
+
+22
+00:02:18,436 --> 00:02:25,046
+But this time price gave two half-hour closes above 2650. Acceptance above.
+
+23
+00:02:25,495 --> 00:02:32,027
+Stop hit, minus 1R. That is all. The plan kept the loss small.
+
+24
+00:02:33,027 --> 00:02:37,076
+The process was the same in both trades. The result was different.
+
+25
+00:02:37,525 --> 00:02:43,716
+Do not judge by one trade. Look at a hundred trades to see if the method works.
+
+26
+00:02:44,716 --> 00:02:53,076
+Now the whole series in a minute. Module one: auction, bid and ask, the order book, aggressive and passive.
+
+27
+00:02:53,525 --> 00:03:02,930
+Module two: the truth about volume, volume profile, VWAP, session profiles, and TPO.
+
+28
+00:03:03,380 --> 00:03:11,817
+Module three: the tape, footprint, delta and CVD, divergence, imbalance, absorption.
+
+29
+00:03:12,817 --> 00:03:20,367
+Module four: liquidity pools, icebergs and spoofing, trapped traders, failed auctions.
+
+30
+00:03:20,817 --> 00:03:27,817
+Module five: the practical setup, top-down, risk management, and today's full trade.
+
+31
+00:03:28,817 --> 00:03:32,787
+What next? First practice on replay, then a demo account.
+
+32
+00:03:33,238 --> 00:03:41,833
+Write every trade in a journal: context, level, confirmation, and result. Check the numbers after fifty trades.
+
+33
+00:03:42,283 --> 00:03:46,722
+And to test your method with data, watch our Quant series.
+
+34
+00:03:47,722 --> 00:03:50,963
+Thank you for staying with us for twenty four episodes.
+
+35
+00:03:51,412 --> 00:03:57,055
+If the series helped, subscribe to the channel and share the playlist with friends.
+
+36
+00:03:57,505 --> 00:04:02,912
+Our Telegram and Instagram are in the description. See you with a new topic.
+
