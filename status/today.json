@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 09:37 IST",
+"updated": "2026-11-25 09:52 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 180,
@@ -612,19 +612,6 @@
 "mt5_reason": "OPEN BUY 0.17 lots @0.58610 SL 0.58493 (scanner SL) entry 0.58595 basis -0.00003 (M15)  risk 0.48%"
 },
 {
-"id": "BTCUSD_1795576500_dpoc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 59366.1,
-"sl": 59630.0,
-"r": null,
-"opened": "25 Nov 09:00",
-"state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN SELL 0.10 lots @59490.97 SL 59721.57 (scanner SL) entry 59440.60 basis 74.50 (M15) +SLbuf 17.07  risk 0.46%"
-},
-{
 "id": "USDCHF_1795576500_pbo",
 "pair": "USDCHF",
 "dir": "BUY",
@@ -755,9 +742,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 16.47 USD = 0.68R"
+},
+{
+"id": "BTCUSD_1795576500_dpoc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 59366.1,
+"sl": 59630.0,
+"r": 0.45,
+"opened": "25 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 13.54 USD = 0.59R"
 }
 ],
 "closed_recent": [
+{
+"id": "BTCUSD_1795576500_dpoc",
+"pair": "BTCUSD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 59366.1,
+"sl": 59630.0,
+"r": 0.45,
+"opened": "25 Nov 09:00",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 13.54 USD = 0.59R"
+},
 {
 "id": "NZDJPY_1795570200_dpoc",
 "pair": "NZDJPY",
@@ -939,38 +952,25 @@
 "state": "closed",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "BTCUSD_1795509900_dpoc",
-"pair": "BTCUSD",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 60182.0,
-"sl": 60541.2,
-"r": 0.61,
-"opened": "24 Nov 14:30",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 285,
-"all_net": 36.2,
-"all_win": 154,
-"today_net": -2.33,
+"all_n": 286,
+"all_net": 36.65,
+"all_win": 155,
+"today_net": -1.88,
 "engine": {
-"last_scan": "09:31",
+"last_scan": "09:46",
 "age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-25 04:00 UTC · new 0 · events 0 · open 8"
+"summary": "run 2026-11-25 04:15 UTC · new 0 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4996.15",
-"equity": "5050.80",
-"floating": "54.65",
-"positions": "8",
+"balance": "5009.69",
+"equity": "5023.23",
+"floating": "13.54",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
