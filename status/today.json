@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 08:21 IST",
+"updated": "2026-11-25 08:37 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 179,
@@ -531,7 +531,7 @@
 "opened": "25 Nov 06:00",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.80 lots @7187.39 SL 7216.12 (scanner SL) entry 7182.64 basis 3.28 (M15) +SLbuf 0.60 +TPbuf 0.60 split TP1/TP2 risk 0.46%"
+"mt5_reason": "SL 7183.24"
 },
 {
 "id": "NAS100_1795565700_pbo",
@@ -544,7 +544,7 @@
 "opened": "25 Nov 06:00",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.10 lots @26135.57 SL 26317.24 (scanner SL) entry 26115.32 basis 15.68 (M15) +SLbuf 1.80 +TPbuf 1.80  risk 0.36%"
+"mt5_reason": "SL 26117.12"
 },
 {
 "id": "US30_1795565700_pbo",
@@ -607,22 +607,9 @@
 "sl": 87.3434,
 "r": null,
 "opened": "25 Nov 07:15",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 87.141"
-},
-{
-"id": "USDJPY_1795571100_dpoc",
-"pair": "USDJPY",
-"dir": "BUY",
-"model": "dpoc",
-"entry": 159.268,
-"sl": 159.1475,
-"r": null,
-"opened": "25 Nov 07:30",
-"state": "open",
-"mt5": "skip",
-"mt5_reason": "same currency limit"
+"mt5_reason": "SL 87.074"
 }
 ],
 "closed_today": [
@@ -716,9 +703,35 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -23.90 USD = -1.00R"
+},
+{
+"id": "USDJPY_1795571100_dpoc",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 159.268,
+"sl": 159.1475,
+"r": -1.0,
+"opened": "25 Nov 07:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_recent": [
+{
+"id": "USDJPY_1795571100_dpoc",
+"pair": "USDJPY",
+"dir": "BUY",
+"model": "dpoc",
+"entry": 159.268,
+"sl": 159.1475,
+"r": -1.0,
+"opened": "25 Nov 07:30",
+"state": "closed",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
 {
 "id": "XAUUSD_1795564800_dpoc",
 "pair": "GOLD",
@@ -900,38 +913,25 @@
 "state": "risk-free",
 "mt5": null,
 "mt5_reason": null
-},
-{
-"id": "NZDCAD_1795507500_lbo",
-"pair": "NZDCAD",
-"dir": "SELL",
-"model": "lbo",
-"entry": 0.781611,
-"sl": 0.782289,
-"r": -1.0,
-"opened": "24 Nov 13:40",
-"state": "closed",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 283,
-"all_net": 36.21,
+"all_n": 284,
+"all_net": 35.21,
 "all_win": 153,
-"today_net": -2.32,
+"today_net": -3.32,
 "engine": {
-"last_scan": "08:16",
+"last_scan": "08:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 02:45 UTC · new 0 · events 1 · open 8"
+"summary": "run 2026-11-25 03:00 UTC · new 0 · events 1 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4964.97",
-"equity": "5004.50",
-"floating": "39.53",
-"positions": "9",
+"balance": "4979.68",
+"equity": "5031.22",
+"floating": "51.54",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
