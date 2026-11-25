@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 08:37 IST",
+"updated": "2026-11-25 08:51 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 179,
@@ -529,7 +529,7 @@
 "sl": 7212.24,
 "r": null,
 "opened": "25 Nov 06:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "SL 7183.24"
 },
@@ -608,8 +608,8 @@
 "r": null,
 "opened": "25 Nov 07:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 87.074"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 16.47 USD = 0.68R"
 }
 ],
 "closed_today": [
@@ -920,18 +920,18 @@
 "all_win": 153,
 "today_net": -3.32,
 "engine": {
-"last_scan": "08:31",
+"last_scan": "08:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 03:00 UTC · new 0 · events 1 · open 7"
+"summary": "run 2026-11-25 03:15 UTC · new 0 · events 0 · open 7"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "4979.68",
-"equity": "5031.22",
-"floating": "51.54",
-"positions": "8",
+"balance": "4996.15",
+"equity": "5008.75",
+"floating": "12.60",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
