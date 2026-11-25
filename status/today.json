@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 12:37 IST",
+"updated": "2026-11-25 12:52 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 182,
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 0,
 "comments": 0,
-"views": 70,
-"reach": 51,
+"views": 87,
+"reach": 59,
 "saved": 0,
 "shares": 1
 }
@@ -61,8 +61,8 @@
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
 "likes": 1,
 "comments": 0,
-"views": 121,
-"reach": 100,
+"views": 128,
+"reach": 104,
 "saved": 2,
 "shares": 1
 }
@@ -82,8 +82,8 @@
 "link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
 "likes": 2,
 "comments": 0,
-"views": 112,
-"reach": 94,
+"views": 117,
+"reach": 105,
 "saved": 0,
 "shares": 0
 }
@@ -166,8 +166,8 @@
 "link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
 "likes": 2,
 "comments": 0,
-"views": 112,
-"reach": 94,
+"views": 117,
+"reach": 105,
 "saved": 0,
 "shares": 0
 },
@@ -180,8 +180,8 @@
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
 "likes": 1,
 "comments": 0,
-"views": 121,
-"reach": 100,
+"views": 128,
+"reach": 104,
 "saved": 2,
 "shares": 1
 },
@@ -208,8 +208,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 0,
 "comments": 0,
-"views": 70,
-"reach": 51,
+"views": 87,
+"reach": 59,
 "saved": 0,
 "shares": 1
 },
@@ -222,8 +222,8 @@
 "link": "https://www.instagram.com/reel/DgIOzC7mSNs/",
 "likes": 0,
 "comments": 0,
-"views": 40,
-"reach": 31,
+"views": 43,
+"reach": 32,
 "saved": 0,
 "shares": 0
 },
@@ -250,8 +250,8 @@
 "link": "https://www.instagram.com/reel/DgH2uekHGvg/",
 "likes": 3,
 "comments": 0,
-"views": 229,
-"reach": 184,
+"views": 231,
+"reach": 186,
 "saved": 4,
 "shares": 0
 },
@@ -292,8 +292,8 @@
 "link": "https://www.instagram.com/reel/DgHfgd_ETgA/",
 "likes": 0,
 "comments": 0,
-"views": 106,
-"reach": 89,
+"views": 107,
+"reach": 91,
 "saved": 0,
 "shares": 0
 },
@@ -616,8 +616,8 @@
 "r": null,
 "opened": "25 Nov 06:30",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @0.58614 SL 0.58496 (scanner SL) entry 0.58590 basis 0.00000 (M15) split TP1/TP2 risk 0.48%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.80 USD = -0.99R"
 },
 {
 "id": "CADCHF_1795569300_dpoc",
@@ -629,8 +629,8 @@
 "r": null,
 "opened": "25 Nov 07:00",
 "state": "open",
-"mt5": "open",
-"mt5_reason": "OPEN BUY 0.17 lots @0.58610 SL 0.58493 (scanner SL) entry 0.58595 basis -0.00003 (M15)  risk 0.48%"
+"mt5": "closed",
+"mt5_reason": "DONE pnl -23.80 USD = -1.00R"
 },
 {
 "id": "USDCHF_1795576500_pbo",
@@ -644,19 +644,6 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
-},
-{
-"id": "EURJPY_1795584600_dpoc",
-"pair": "EURJPY",
-"dir": "SELL",
-"model": "dpoc",
-"entry": 174.506,
-"sl": 174.6345,
-"r": null,
-"opened": "25 Nov 11:15",
-"state": "risk-free",
-"mt5": "closed",
-"mt5_reason": "DONE pnl 54.14 USD = 2.22R"
 },
 {
 "id": "EURCAD_1795587300_lbo",
@@ -880,9 +867,35 @@
 "state": "risk-free",
 "mt5": "closed",
 "mt5_reason": "DONE pnl 21.03 USD = 1.64R"
+},
+{
+"id": "EURJPY_1795584600_dpoc",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 174.506,
+"sl": 174.6345,
+"r": 2.5,
+"opened": "25 Nov 11:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 54.14 USD = 2.22R"
 }
 ],
 "closed_recent": [
+{
+"id": "EURJPY_1795584600_dpoc",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 174.506,
+"sl": 174.6345,
+"r": 2.5,
+"opened": "25 Nov 11:15",
+"state": "risk-free",
+"mt5": "closed",
+"mt5_reason": "DONE pnl 54.14 USD = 2.22R"
+},
 {
 "id": "XAUUSD_1795581900_dpoc",
 "pair": "GOLD",
@@ -1064,38 +1077,25 @@
 "state": "closed",
 "mt5": "closed",
 "mt5_reason": "DONE pnl -18.31 USD = -0.74R"
-},
-{
-"id": "AUDNZD_1795507200_pbo",
-"pair": "AUDNZD",
-"dir": "SELL",
-"model": "pbo",
-"entry": 1.21617,
-"sl": 1.217791,
-"r": 2.0,
-"opened": "24 Nov 13:45",
-"state": "risk-free",
-"mt5": null,
-"mt5_reason": null
 }
 ],
-"all_n": 290,
-"all_net": 37.09,
-"all_win": 157,
-"today_net": -1.44,
+"all_n": 291,
+"all_net": 39.59,
+"all_win": 158,
+"today_net": 1.06,
 "engine": {
-"last_scan": "12:31",
+"last_scan": "12:46",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 07:00 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-25 07:15 UTC · new 0 · events 0 · open 9"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5061.24",
-"equity": "5082.79",
-"floating": "21.55",
-"positions": "5",
+"balance": "5013.64",
+"equity": "5078.63",
+"floating": "64.99",
+"positions": "2",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
