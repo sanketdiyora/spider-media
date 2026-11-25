@@ -1,0 +1,51 @@
+Ek trade ka kharch bas 0.1R, chhota lagta hai na? Hamare 771 trades pe yahi chhota kharch 77R kha gaya. Is episode me zero se samjho trading ke teen kharch (spread, slippage, commission), unhe R me kaise naapein, aur breakeven cost se kaise pata chale ki edge kitna patla hai.
+
+Ye SPIDER ki Quant Trading Series ka Episode 16 hai (Hindi + English subtitles).
+
+Is episode me:
+• Teen kharch: spread (buy-sell ka farq), slippage (maanga ≠ mila, stop/news pe sabse zyaada), commission (broker fee per lot)
+• Kharch R me: EURUSD daily stop 129 pips, 1.5 pip kharch = 0.012R · wahi 1.5 pip 12-pip intraday stop pe = 0.125R (10 guna)
+• Commission: $7/lot round turn, 0.07 lot = $0.49 = $100 risk pe 0.005R
+• Asar (771 trades): cost 0 → −21.6R · 0.05 → −60.1R · 0.1 → −98.7R · 0.2 → −175.8R · 0.3 → −252.9R
+• Cherry pick: sirf 19 "positive" markets (325 trades) cost 0 pe +85.7R · par nateeja dekhkar chuna = overfitting (Ep 9)
+• Unhi pe kharch: 0.1 → +53.2R, 0.2 → +20.7R, 0.3 → −11.8R · breakeven cost ≈ 0.26R per trade
+• Kya karein: backtest me hamesha kharch (asli se zyaada), apna breakeven cost nikaalo, kam trade · bada stop · sasta broker
+
+Chapters:
+0:00 Intro
+0:24 Pichhla episode
+0:40 Teen kharch
+1:01 R me kharch
+1:26 Commission
+1:47 Asar
+2:10 Cherry pick
+2:31 Breakeven cost
+2:54 Kya karein
+3:13 Recap
+3:31 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Episode 12 (Out-of-sample + Walk-forward): https://youtu.be/wlIW_pMYiFU
+Episode 13 (Market Regime: Trend ya Range): https://youtu.be/2OjvXszCryU
+Episode 14 (Portfolio: Diversification + Correlation): https://youtu.be/FkpmFjYBg4c
+Episode 15 (Portfolio Position Sizing): https://youtu.be/8M8O2a_WpBE
+Agla episode: Live vs Backtest, aur Kill switch. System kab band karein.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Numbers Ep 10 wale breakout rules (20-din high entry, 10-din low exit, stop 2 ATR) ke 42 markets ke Dukascopy daily data (Feb 2024 – Nov 2026, 771 trades) pe python me nikale hain. Spread/commission ke example simple maane hue numbers hain. Past results future ki guarantee nahi.
+
+#quanttrading #tradingcosts #backtesting #tradinghindi #spidertrades

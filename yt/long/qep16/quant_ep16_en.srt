@@ -1,0 +1,132 @@
+1
+00:00:05,000 --> 00:00:10,146
+The cost of one trade: just a tenth of an R. Sounds small, right?
+
+2
+00:00:10,596 --> 00:00:16,317
+Across our 771 trades, that small cost ate 77R.
+
+3
+00:00:16,767 --> 00:00:23,375
+Today: costs. Spread, slippage, commission, and their effect on the edge.
+
+4
+00:00:24,375 --> 00:00:29,287
+Hello, this is episode sixteen of the SPIDER Quant Trading series.
+
+5
+00:00:29,737 --> 00:00:34,570
+Last time: portfolio position sizing, based on volatility.
+
+6
+00:00:35,020 --> 00:00:39,069
+Today, the cost that keeps every backtest honest.
+
+7
+00:00:40,069 --> 00:00:46,991
+Three costs. Spread: the gap between buy and sell price, paid on every trade.
+
+8
+00:00:47,441 --> 00:00:54,912
+Slippage: you got a worse price than you asked for. Worst on stops and news.
+
+9
+00:00:55,362 --> 00:01:00,195
+And commission: the broker's fee, on many accounts charged per lot.
+
+10
+00:01:01,195 --> 00:01:09,240
+In quant, measure cost in R. Our daily stop on EURUSD is 129 pips.
+
+11
+00:01:09,690 --> 00:01:16,378
+Spread plus slippage of 1.5 pips is only 0.012R.
+
+12
+00:01:16,827 --> 00:01:25,422
+But the same 1.5 pips on a 12-pip intraday stop is 0.125R. Ten times more.
+
+13
+00:01:26,422 --> 00:01:31,908
+Commission math: say 7 dollars per lot, round trip.
+
+14
+00:01:32,357 --> 00:01:40,717
+On 0.07 lot, that is 49 cents. On a 100 dollar risk, less than half a percent of R.
+
+15
+00:01:41,166 --> 00:01:46,235
+So a small stop and frequent trading are what make costs big.
+
+16
+00:01:47,235 --> 00:01:55,280
+Now our system, all 771 trades. With zero cost, minus 21.6R.
+
+17
+00:01:55,729 --> 00:02:01,530
+At 0.1R cost per trade, minus 98.7.
+
+18
+00:02:01,979 --> 00:02:09,686
+At 0.3R, minus 252. Cost adds up on every trade and never stops.
+
+19
+00:02:10,686 --> 00:02:18,731
+Now a trick. Take only the 19 markets that were profitable at zero cost. 325 trades.
+
+20
+00:02:19,180 --> 00:02:24,510
+At zero cost, plus 85.7R. Looks great.
+
+21
+00:02:24,960 --> 00:02:30,524
+But this was picked after seeing the results, which is overfitting. Remember episode nine.
+
+22
+00:02:31,524 --> 00:02:38,917
+Now add costs to those too. At 0.1, 53R; at 0.2, 20.
+
+23
+00:02:39,367 --> 00:02:47,412
+At 0.3, minus 12. The break-even cost is 0.26R per trade.
+
+24
+00:02:47,863 --> 00:02:53,819
+Meaning the edge is so thin that slightly more spread or slippage wipes it out.
+
+25
+00:02:54,819 --> 00:03:00,382
+So what do we do? Always include costs in backtests, a bit more than the real ones.
+
+26
+00:03:00,833 --> 00:03:06,554
+Work out your break-even cost. If real costs come close to it, drop the system.
+
+27
+00:03:07,004 --> 00:03:12,489
+And fewer trades, wider stops, a cheaper broker: all three cut costs.
+
+28
+00:03:13,489 --> 00:03:19,759
+So, today in short. Measure spread, slippage, and commission in R.
+
+29
+00:03:20,209 --> 00:03:24,885
+Small stops and many trades multiply the cost.
+
+30
+00:03:25,335 --> 00:03:30,167
+Work out the break-even cost. A thin edge drowns in costs.
+
+31
+00:03:31,167 --> 00:03:37,855
+Next episode: live versus backtest, and the kill switch. When to switch a system off.
+
+32
+00:03:38,305 --> 00:03:43,216
+If this was useful, subscribe and save the playlist.
+
+33
+00:03:43,666 --> 00:03:48,811
+Our Telegram and Instagram are in the description. See you in the next episode.
+
