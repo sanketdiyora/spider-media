@@ -1,0 +1,164 @@
+1
+00:00:05,000 --> 00:00:11,609
+A breakout. Buyers piled in. Plus 1,800 contracts of delta in one candle.
+
+2
+00:00:12,059 --> 00:00:16,578
+Next candle, price was back inside. And those same buyers were trapped.
+
+3
+00:00:17,028 --> 00:00:22,592
+Today: trapped traders, and how they become fuel for price.
+
+4
+00:00:23,592 --> 00:00:28,582
+Hello, this is episode nineteen of the SPIDER Order Flow series.
+
+5
+00:00:29,031 --> 00:00:32,741
+Last time: iceberg orders and spoofing.
+
+6
+00:00:33,191 --> 00:00:39,147
+Today: trapped traders. This ties episodes sixteen and seventeen together.
+
+7
+00:00:40,147 --> 00:00:45,711
+A trapped trader entered at the wrong place, and price moved against him right away.
+
+8
+00:00:46,161 --> 00:00:51,960
+Now he has two choices: exit at a loss, or wait for his stop to hit.
+
+9
+00:00:52,410 --> 00:00:55,728
+Either way, he has to place the opposite order.
+
+10
+00:00:56,728 --> 00:01:03,493
+A trapped buyer exits by selling. That selling pushes price further down.
+
+11
+00:01:03,943 --> 00:01:07,574
+The more people trapped, the more fuel.
+
+12
+00:01:08,024 --> 00:01:13,902
+And their stops pile up in one place. The liquidity pool from episode seventeen.
+
+13
+00:01:14,902 --> 00:01:22,137
+Our example. Gold futures, in a range for three sessions: 2640 to 2660.
+
+14
+00:01:22,588 --> 00:01:28,701
+Everyone is watching the top wall. Break 2660 and it is a breakout.
+
+15
+00:01:29,701 --> 00:01:34,612
+Price went to 2664. Candle volume: 4,200.
+
+16
+00:01:35,062 --> 00:01:40,782
+3,000 on the ask, 1,200 on the bid. Delta plus 1,800.
+
+17
+00:01:41,232 --> 00:01:47,345
+Buyers bought between 2661 and 2664. Average around 2662.5.
+
+18
+00:01:48,345 --> 00:01:55,423
+But no more buyers showed up. The next candle closed back inside the range at 2657.
+
+19
+00:01:55,874 --> 00:01:58,878
+This candle had a delta of minus 1,100.
+
+20
+00:01:59,327 --> 00:02:04,579
+The buyers from 2662.5 are now 5.5 points down per contract.
+
+21
+00:02:05,579 --> 00:02:09,705
+Their stops were inside the range, below 2655.
+
+22
+00:02:10,156 --> 00:02:15,642
+The stops hit, the selling came in. Price fell to 2648.
+
+23
+00:02:16,091 --> 00:02:22,858
+That is the full cycle of a trap: get in, get stuck, get out, and push price.
+
+24
+00:02:23,858 --> 00:02:29,656
+The face of a trap, three signs. One: big delta on the breakout.
+
+25
+00:02:30,107 --> 00:02:35,828
+Two: price did not follow through, and soon closed back inside the range.
+
+26
+00:02:36,278 --> 00:02:43,043
+Three: the next candle delta flips. The divergence from episode fourteen shows up here too.
+
+27
+00:02:44,043 --> 00:02:51,932
+The same game runs in reverse. Price broke below 2640 to 2636, delta minus 1,500.
+
+28
+00:02:52,382 --> 00:02:57,790
+Then it closed back at 2643. Now the sellers are trapped.
+
+29
+00:02:58,239 --> 00:03:02,524
+When they exit they buy, and price can go up.
+
+30
+00:03:03,524 --> 00:03:11,882
+The plan idea on the first example. Wait for a close back inside, entry around 2658.
+
+31
+00:03:12,333 --> 00:03:18,132
+Stop above the trap high, at 2665.5. Risk 7.5 points.
+
+32
+00:03:18,582 --> 00:03:24,067
+Target 2648, so 10 points. Around 1.3R.
+
+33
+00:03:25,067 --> 00:03:32,147
+And when is the idea wrong? If price closes back above 2664, there was no trap. Get out.
+
+34
+00:03:32,597 --> 00:03:38,317
+Not every failed breakout is a trap. Without big delta, few people are stuck.
+
+35
+00:03:38,768 --> 00:03:45,037
+And in forex this delta is not real, only tick volume. The real picture is on futures.
+
+36
+00:03:46,037 --> 00:03:51,445
+So, today in short. A trapped trader places the opposite order to get out.
+
+37
+00:03:51,894 --> 00:03:58,424
+The face of a trap: big delta, no follow-through, close back inside, delta flips.
+
+38
+00:03:58,875 --> 00:04:04,361
+Stop always beyond the trap. If price goes back, the idea is over.
+
+39
+00:04:05,361 --> 00:04:14,347
+Next episode: failed auctions, single prints, and poor highs or lows. Signs of unfinished business in the profile.
+
+40
+00:04:14,797 --> 00:04:19,630
+If this was useful, subscribe and save the playlist.
+
+41
+00:04:20,079 --> 00:04:25,226
+Our Telegram and Instagram are in the description. See you in the next episode.
+

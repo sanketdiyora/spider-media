@@ -1,0 +1,61 @@
+Breakout hua, buyers toot pade, ek candle me +1800 ka delta. Agli candle me price wapas range ke andar, aur wahi buyers phans gaye. Is episode me zero se samjho trapped traders kaun hote hain, wo price ka fuel kyun bante hain, aur trap ko kaise pehchanein.
+
+Ye SPIDER ki Order Flow Series ka Episode 19 hai (Hindi + English subtitles).
+
+Is episode me:
+• Trapped trader = galat jagah ghusa, price turant uske khilaaf · bahar nikalne ke liye ulta order daalna padta hai
+• Phansa buyer = future seller · unke stops ek jagah jama (Ep 17 liquidity pool)
+• Udaharan: gold futures, range 2640-2660 · breakout candle 2664 tak, volume 4200, ask 3000 / bid 1200, delta +1800, avg buyer ~2662.5
+• Agli candle andar close 2657, delta −1100 · buyers har contract pe −5.5 points · stops 2655 ke neeche lage, price 2648
+• Trap ka chehra: breakout pe bada delta, aage nahi badha, jaldi andar close, agli candle delta ulta (Ep 14 divergence)
+• Ulta khel: 2636 tak breakdown, delta −1500, phir close 2643 = trapped sellers
+• Plan idea: entry ~2658, stop trap high ke upar 2665.5 (risk 7.5), target 2648 (10) ≈ 1.3R
+• Idea kab galat: close wapas 2664 ke upar · har failed breakout trap nahi, bada delta chahiye
+• Forex me sirf tick volume · asli delta futures pe
+
+
+Chapters:
+0:00 Intro
+0:23 Pichhla episode
+0:40 Trap kya
+0:56 Fuel kyun
+1:14 Setup
+1:29 Breakout candle
+1:48 Fail
+2:05 Fuel jala
+2:23 Pehchaan
+2:44 Trapped sellers
+3:03 Plan
+3:25 Kab galat
+3:46 Recap
+4:05 Agla episode
+
+Poori Order Flow Series (playlist): https://www.youtube.com/playlist?list=PLO3cG4bjC7SM
+Episode 1 (Order Flow Kya Hai): https://youtu.be/k2cNi_kMYMo
+Episode 2 (Auction, Fair Price): https://youtu.be/3MAcGFXck4U
+Episode 3 (Bid, Ask, Order Types): https://youtu.be/k85NV5xBEWY
+Episode 4 (Order Book / DOM): https://youtu.be/yZYfSop0PUI
+Episode 5 (Aggressive vs Passive): https://youtu.be/hzNmdhwConY
+Episode 6 (Forex/Gold Volume ka Sach): https://youtu.be/ENbgIkNYTX8
+Episode 7 (Volume Profile): https://youtu.be/vsTFTYiXSV4
+Episode 8 (VWAP): https://youtu.be/gF7i8jp8zlw
+Episode 9 (Session Profiles): https://youtu.be/JE1m8CbP9w0
+Episode 10 (Market Profile TPO): https://youtu.be/qpAG3n2kDM0
+Episode 11 (Time & Sales / Tape): https://youtu.be/0yWHTAU6wJ0
+Episode 12 (Footprint Chart): https://youtu.be/1LKk-NPMoiU
+Episode 13 (Delta aur CVD): https://youtu.be/sEzkstnuWPI
+Episode 14 (Delta Divergence): https://youtu.be/xeLHTz6uuSA
+Episode 15 (Imbalance + Stacked Imbalance): https://youtu.be/F8j33xjRRd0
+Episode 16 (Absorption + Exhaustion): https://youtu.be/Iq_VhhkC4bQ
+Episode 17 (Liquidity Pools + Stop Hunts): https://youtu.be/RmX_njxX2hg
+Episode 18 (Iceberg Orders + Spoofing): https://youtu.be/uhuzfU_1VQk
+Agla episode: Failed auction, single prints aur poor high/low. Profile me adhoore kaam ke nishaan.
+
+Quant Trading Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Video ke example sirf samjhane ke liye scenario hain, guarantee nahi.
+
+#orderflow #trappedtraders #footprint #tradinghindi #spidertrades
