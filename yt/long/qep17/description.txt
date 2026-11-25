@@ -1,0 +1,50 @@
+Backtest: 628 trades, +18R. Phir system live gaya, aur 7 mahine baad −40R. Ab rukein ya chalne dein? Is episode me zero se samjho live aur backtest ka farq kaise naapein, Monte Carlo se "normal" bura daur kitna hota hai, aur kill switch ka niyam pehle se kaise likhein.
+
+Ye SPIDER ki Quant Trading Series ka Episode 17 hai (Hindi + English subtitles).
+
+Is episode me:
+• Setup: wahi breakout system, 42 markets · backtest Feb 2024 – Apr 2026 (628 trades, +18.4R, +0.03R/trade) · "live" May – Nov 2026 (143 trades, −40R, −0.28R/trade) · numbers bina kharch ke
+• Monte Carlo (Ep 7): backtest trades se 143 trades ke 5000 raaste · DD median 14.5R, 95% 27.6R, 99% 34.9R
+• Live DD 39R = 99% seema se bhi aage · −40R ya bura sirf 0.06% raaston me · sirf buri kismat nahi, market badla
+• Kill switch: DD ≥ 27.6R → system band · 17 Aug 2026 ko 67ve trade pe laga · baad ke 76 trades ne −11.1R aur banaya, wo bacha
+• Aur nishaan: win rate 37% → 26%, sabse lambi haar 20 → 26 · kai number ek saath bahar = ruko
+• Niyam: live se pehle likho · band hone ke baad naye data pe jaancho · wapas aao to chhote size se
+
+Chapters:
+0:00 Intro
+0:26 Pichhla episode
+0:44 Setup
+1:08 Normal ya nahi
+1:33 Live ka sach
+1:57 Kill switch
+2:21 Aur nishaan
+2:42 Niyam
+3:03 Recap
+3:22 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Episode 12 (Out-of-sample + Walk-forward): https://youtu.be/wlIW_pMYiFU
+Episode 13 (Market Regime: Trend ya Range): https://youtu.be/2OjvXszCryU
+Episode 14 (Portfolio: Diversification + Correlation): https://youtu.be/FkpmFjYBg4c
+Episode 15 (Portfolio Position Sizing): https://youtu.be/8M8O2a_WpBE
+Episode 16 (Trading Costs): https://youtu.be/KoO2fjVZl9s
+Agla episode (Season 1 ka aakhiri): poore safar ka recap aur aage ka raasta.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Numbers Ep 10 wale breakout rules (20-din high entry, 10-din low exit, stop 2 ATR) ke 42 markets ke Dukascopy daily data (Feb 2024 – Nov 2026, 771 trades) pe python me nikale hain. Is episode ke numbers bina kharch (gross R) ke hain; 'live' ek maana hua split hai. Past results future ki guarantee nahi.
+
+#quanttrading #montecarlo #backtesting #tradinghindi #spidertrades

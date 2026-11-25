@@ -1,0 +1,120 @@
+1
+00:00:05,000 --> 00:00:11,609
+Backtest: 628 trades, plus 18R. Then the system went live.
+
+2
+00:00:12,059 --> 00:00:18,093
+Seven months later: minus 40R. Now what, stop or keep going?
+
+3
+00:00:18,543 --> 00:00:25,387
+Today: live versus backtest, and the kill switch. When to switch off, decided in advance.
+
+4
+00:00:26,387 --> 00:00:31,455
+Hello, this is episode seventeen of the SPIDER Quant Trading series.
+
+5
+00:00:31,905 --> 00:00:37,391
+Last time: costs. Small expense, thin edge.
+
+6
+00:00:37,841 --> 00:00:43,248
+Today's numbers are without costs, so only the live versus backtest gap shows.
+
+7
+00:00:44,248 --> 00:00:51,719
+Our same breakout system, 42 markets. February 2024 to April 2026 is the backtest.
+
+8
+00:00:52,169 --> 00:00:58,282
+Say we went live on 1 May 2026. May to November, 143 trades.
+
+9
+00:00:58,732 --> 00:01:07,718
+In the backtest, the average trade made plus 0.03R. Live, minus 0.28.
+
+10
+00:01:08,717 --> 00:01:13,315
+The question: is this bad stretch normal, or is the system broken?
+
+11
+00:01:13,765 --> 00:01:22,934
+For the answer, Monte Carlo from episode seven. Five thousand paths of 143 trades drawn from the backtest.
+
+12
+00:01:23,384 --> 00:01:32,214
+Drawdown: typically 14.5R. In 95 out of 100 paths, under 27.6.
+
+13
+00:01:33,214 --> 00:01:41,338
+The live drawdown was 39R. Beyond even the 99 percent line of 34.9.
+
+14
+00:01:41,788 --> 00:01:49,911
+And minus 40R or worse happened in only 0.06 percent of the paths.
+
+15
+00:01:50,362 --> 00:01:56,553
+So this is not just bad luck. The live market stopped behaving like the backtest market.
+
+16
+00:01:57,553 --> 00:02:03,666
+A kill switch is a rule written in advance: if drawdown reaches this much, the system stops.
+
+17
+00:02:04,116 --> 00:02:10,881
+Our rule: the Monte Carlo 95 percent line, 27.6R.
+
+18
+00:02:11,331 --> 00:02:20,500
+It triggered on 17 August, at trade 67. The 76 trades after that lost another 11R. That was saved.
+
+19
+00:02:21,500 --> 00:02:29,468
+Watch other signs besides drawdown. Win rate: 37 percent in backtest, 26 live.
+
+20
+00:02:29,918 --> 00:02:35,874
+Losing streak: the longest was 20 in the backtest, 26 live.
+
+21
+00:02:36,323 --> 00:02:41,391
+When several numbers break the backtest limits together, stop.
+
+22
+00:02:42,391 --> 00:02:48,269
+Kill switch rules. One: write it before going live, not in the middle.
+
+23
+00:02:48,719 --> 00:02:57,392
+Two: after it stops, re-test the system on new data. Three: if you return, start with a small size.
+
+24
+00:02:57,841 --> 00:03:02,439
+And a kill switch is also a loss, but a small, planned one.
+
+25
+00:03:03,439 --> 00:03:10,283
+So, today in short. Live will always differ from the backtest. The question is how much.
+
+26
+00:03:10,733 --> 00:03:16,924
+Use Monte Carlo to find the normal range. Outside it, the system is under suspicion.
+
+27
+00:03:17,374 --> 00:03:21,239
+Write the kill switch in advance, and follow it without argument.
+
+28
+00:03:22,239 --> 00:03:28,667
+The next episode is the last of season one: a recap of the whole journey, and the road ahead.
+
+29
+00:03:29,117 --> 00:03:33,870
+If this was useful, subscribe and save the playlist.
+
+30
+00:03:34,321 --> 00:03:39,571
+Our Telegram and Instagram are in the description. See you in the next episode.
+
