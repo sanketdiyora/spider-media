@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 05:51 IST",
+"updated": "2026-11-25 06:07 IST",
 "date": "2026-11-25",
 "followers": 91,
 "media_count": 177,
@@ -506,6 +506,45 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.01 lots @3546.29 SL 3570.31 (scanner SL) entry 3551.18 basis 0.21 (M15) +SLbuf 0.28  risk 0.48%"
+},
+{
+"id": "US500_1795565700_pbo",
+"pair": "US500",
+"dir": "SELL",
+"model": "pbo",
+"entry": 7179.36,
+"sl": 7212.24,
+"r": null,
+"opened": "25 Nov 06:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.80 lots @7187.39 SL 7216.12 (scanner SL) entry 7182.64 basis 3.28 (M15) +SLbuf 0.60 +TPbuf 0.60 split TP1/TP2 risk 0.46%"
+},
+{
+"id": "NAS100_1795565700_pbo",
+"pair": "NAS100",
+"dir": "SELL",
+"model": "pbo",
+"entry": 26099.64,
+"sl": 26299.76,
+"r": null,
+"opened": "25 Nov 06:00",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.10 lots @26135.57 SL 26317.24 (scanner SL) entry 26115.32 basis 15.68 (M15) +SLbuf 1.80 +TPbuf 1.80  risk 0.36%"
+},
+{
+"id": "US30_1795565700_pbo",
+"pair": "US30",
+"dir": "SELL",
+"model": "pbo",
+"entry": 49887.01,
+"sl": 50034.82,
+"r": null,
+"opened": "25 Nov 06:00",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
 }
 ],
 "closed_today": [
@@ -777,18 +816,18 @@
 "all_win": 153,
 "today_net": -0.32,
 "engine": {
-"last_scan": "05:46",
+"last_scan": "06:01",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 00:15 UTC · new 1 · events 0 · open 1"
+"summary": "run 2026-11-25 00:30 UTC · new 3 · events 0 · open 4"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4988.87",
-"equity": "4993.62",
-"floating": "4.75",
-"positions": "1",
+"equity": "4991.84",
+"floating": "2.97",
+"positions": "4",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -797,6 +836,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 12.5,
 "github_runs": [
+{
+"t": "2026-11-25T00:33:44Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-24T23:36:55Z",
 "ok": "success",
@@ -814,11 +858,6 @@
 },
 {
 "t": "2026-11-24T21:07:20Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-24T20:05:51Z",
 "ok": "success",
 "ev": "schedule"
 }
