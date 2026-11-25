@@ -3,6 +3,7 @@
 import json, os, glob, subprocess, sys, tempfile, urllib.request
 D=os.path.dirname(os.path.abspath(__file__)); R=os.path.dirname(D)
 os.makedirs(os.path.join(D,'done'),exist_ok=True); changed=[]
+if os.path.exists(os.path.join(D,'HOLD_SHORTS')): print('SHORTS ON HOLD (yt/HOLD_SHORTS) - long episodes first (Sanket 25 Nov)'); sys.exit(0)
 def _clip(q):
     # reels cut from our own YouTube episodes go LAST (Sanket 17 Nov): originals first, then clips; oldest first inside each group
     try: return 'youtube' in json.load(open(q)).get('caption','').lower()
