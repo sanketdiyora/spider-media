@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-25 06:22 IST",
+"updated": "2026-11-25 06:37 IST",
 "date": "2026-11-25",
-"followers": 91,
+"followers": 92,
 "media_count": 177,
 "slots": [
 {
@@ -79,7 +79,7 @@
 "link": "https://www.instagram.com/reel/DgIOzC7mSNs/",
 "likes": 0,
 "comments": 0,
-"views": 34,
+"views": 36,
 "reach": 29,
 "saved": 0,
 "shares": 0
@@ -93,7 +93,7 @@
 "link": "https://www.instagram.com/reel/DgIEaPrHAMC/",
 "likes": 2,
 "comments": 0,
-"views": 139,
+"views": 142,
 "reach": 98,
 "saved": 0,
 "shares": 0
@@ -107,7 +107,7 @@
 "link": "https://www.instagram.com/reel/DgH2uekHGvg/",
 "likes": 3,
 "comments": 0,
-"views": 206,
+"views": 207,
 "reach": 169,
 "saved": 2,
 "shares": 0
@@ -121,7 +121,7 @@
 "link": "https://www.instagram.com/reel/DgHo-uhAQXU/",
 "likes": 0,
 "comments": 0,
-"views": 117,
+"views": 118,
 "reach": 99,
 "saved": 0,
 "shares": 0
@@ -135,7 +135,7 @@
 "link": "https://www.instagram.com/reel/DgHhjjOxwKk/",
 "likes": 0,
 "comments": 0,
-"views": 34,
+"views": 35,
 "reach": 29,
 "saved": 0,
 "shares": 0
@@ -149,8 +149,8 @@
 "link": "https://www.instagram.com/reel/DgHfgd_ETgA/",
 "likes": 0,
 "comments": 0,
-"views": 92,
-"reach": 80,
+"views": 95,
+"reach": 82,
 "saved": 0,
 "shares": 0
 },
@@ -163,7 +163,7 @@
 "link": "https://www.instagram.com/reel/DgHeAP_jfKz/",
 "likes": 0,
 "comments": 0,
-"views": 22,
+"views": 23,
 "reach": 19,
 "saved": 0,
 "shares": 0
@@ -177,9 +177,9 @@
 "link": "https://www.instagram.com/reel/DgHKEAcDj8w/",
 "likes": 1,
 "comments": 0,
-"views": 138,
+"views": 139,
 "reach": 121,
-"saved": 1,
+"saved": 2,
 "shares": 1
 },
 {
@@ -191,7 +191,7 @@
 "link": "https://www.instagram.com/reel/DgG_wCTDGqZ/",
 "likes": 2,
 "comments": 0,
-"views": 127,
+"views": 130,
 "reach": 104,
 "saved": 2,
 "shares": 0
@@ -205,7 +205,7 @@
 "link": "https://www.instagram.com/reel/DgG43DTE8qy/",
 "likes": 2,
 "comments": 0,
-"views": 132,
+"views": 133,
 "reach": 112,
 "saved": 0,
 "shares": 0
@@ -219,7 +219,7 @@
 "link": "https://www.instagram.com/reel/DgGyAr5jeDU/",
 "likes": 2,
 "comments": 0,
-"views": 135,
+"views": 136,
 "reach": 114,
 "saved": 2,
 "shares": 0
@@ -545,6 +545,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "CADCHF_1795567500_pbo",
+"pair": "CADCHF",
+"dir": "BUY",
+"model": "pbo",
+"entry": 0.5859,
+"sl": 0.584958,
+"r": null,
+"opened": "25 Nov 06:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN BUY 0.17 lots @0.58614 SL 0.58496 (scanner SL) entry 0.58590 basis 0.00000 (M15) split TP1/TP2 risk 0.48%"
 }
 ],
 "closed_today": [
@@ -816,18 +829,18 @@
 "all_win": 153,
 "today_net": -0.32,
 "engine": {
-"last_scan": "06:21",
-"age_min": 1,
+"last_scan": "06:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-25 00:50 UTC · new 0 · events 0 · open 4"
+"summary": "run 2026-11-25 01:00 UTC · new 1 · events 0 · open 5"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4988.87",
-"equity": "4978.09",
-"floating": "-10.78",
-"positions": "4",
+"equity": "4996.70",
+"floating": "7.83",
+"positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
