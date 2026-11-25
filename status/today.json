@@ -1,8 +1,8 @@
 {
-"updated": "2026-11-25 10:21 IST",
+"updated": "2026-11-25 10:37 IST",
 "date": "2026-11-25",
 "followers": 92,
-"media_count": 180,
+"media_count": 181,
 "slots": [
 {
 "slot": "0700",
@@ -19,8 +19,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 0,
 "comments": 0,
-"views": 31,
-"reach": 23,
+"views": 38,
+"reach": 27,
 "saved": 0,
 "shares": 0
 }
@@ -40,8 +40,8 @@
 "link": "https://www.instagram.com/reel/DgJdlpJBt-1/",
 "likes": 0,
 "comments": 0,
-"views": 79,
-"reach": 59,
+"views": 103,
+"reach": 74,
 "saved": 0,
 "shares": 3
 }
@@ -59,11 +59,11 @@
 "time": "2026-11-25 09:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 30,
-"reach": 19,
-"saved": 0,
+"views": 73,
+"reach": 47,
+"saved": 1,
 "shares": 0
 }
 },
@@ -72,8 +72,21 @@
 "name": "YouTube clip reel",
 "type": "reel",
 "title": "Drawdown ka asli dard: samay. ⏳",
-"status": "PENDING",
-"post": null
+"status": "POSTED",
+"post": {
+"id": "17913006072656962",
+"cap": "Drawdown ka asli dard: samay. ⏳\n\nAccount girne ka dard sirf paisa nahi, wapas aane me lagne wala samay bhi hai. Isliye system ko return ÷ drawdown se bhi naapo, sirf profit se nahi.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Drawdown ka asli dard: samay. ⏳",
+"time": "2026-11-25 10:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+}
 },
 {
 "slot": "1500",
@@ -110,17 +123,31 @@
 ],
 "recent_posts": [
 {
+"id": "17913006072656962",
+"cap": "Drawdown ka asli dard: samay. ⏳\n\nAccount girne ka dard sirf paisa nahi, wapas aane me lagne wala samay bhi hai. Isliye system ko return ÷ drawdown se bhi naapo, sirf profit se nahi.\n\nQuant Trading Series, Episode 3 (Drawdown) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#quanttrading #tradinghindi #forexhindi #riskmanagement #spidertrades",
+"cap1": "Drawdown ka asli dard: samay. ⏳",
+"time": "2026-11-25 10:31",
+"type": "REEL",
+"link": "https://www.instagram.com/reel/DgJuwy_BZiT/",
+"likes": 0,
+"comments": 0,
+"views": 0,
+"reach": 0,
+"saved": 0,
+"shares": 0
+},
+{
 "id": "17957158563273317",
 "cap": "Order flow kahan padhein? 🔎\n\nFutures aur spot ka bhaav thoda alag hota hai, par dono saath chalte hain. Tarika: order flow futures chart pe padho, trade spot pe, level ko farq se adjust karo. Seekhne ke liye der wala free data kaafi hai.\n\nOrder Flow Series, Episode 6 (Volume vs Tick Volume) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
 "cap1": "Order flow kahan padhein? 🔎",
 "time": "2026-11-25 09:01",
 "type": "REEL",
 "link": "https://www.instagram.com/reel/DgJkd24JbtM/",
-"likes": 0,
+"likes": 1,
 "comments": 0,
-"views": 30,
-"reach": 19,
-"saved": 0,
+"views": 73,
+"reach": 47,
+"saved": 1,
 "shares": 0
 },
 {
@@ -132,8 +159,8 @@
 "link": "https://www.instagram.com/reel/DgJdlpJBt-1/",
 "likes": 0,
 "comments": 0,
-"views": 79,
-"reach": 59,
+"views": 103,
+"reach": 74,
 "saved": 0,
 "shares": 3
 },
@@ -146,8 +173,8 @@
 "link": "https://www.instagram.com/reel/DgJWtTjDJPd/",
 "likes": 0,
 "comments": 0,
-"views": 31,
-"reach": 23,
+"views": 38,
+"reach": 27,
 "saved": 0,
 "shares": 0
 },
@@ -188,8 +215,8 @@
 "link": "https://www.instagram.com/reel/DgH2uekHGvg/",
 "likes": 3,
 "comments": 0,
-"views": 220,
-"reach": 178,
+"views": 222,
+"reach": 179,
 "saved": 3,
 "shares": 0
 },
@@ -230,7 +257,7 @@
 "link": "https://www.instagram.com/reel/DgHfgd_ETgA/",
 "likes": 0,
 "comments": 0,
-"views": 100,
+"views": 101,
 "reach": 85,
 "saved": 0,
 "shares": 0
@@ -514,20 +541,6 @@
 "reach": 113,
 "saved": 0,
 "shares": 0
-},
-{
-"id": "18036589412673091",
-"cap": "Price ko hilata kaun hai? 🧱\n\nMarket order maal uthata hai, wo jaldi wala hai. Limit order maal rakhta hai, wo intezaar wala hai. Price ko market orders hilate hain, aur limit orders unke raaste ki deewar bante hain. Order Flow isi ladaai ko dekhna hai.\n\nOrder Flow Series, Episode 3 (Bid, Ask, Spread aur order ke types) — poora episode SPIDER YouTube channel pe.\nTrade setups ke liye Telegram — link bio me 🕷️\n\n⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk.\n#orderflow #tradinghindi #forexhindi #volumeprofile #spidertrades",
-"cap1": "Price ko hilata kaun hai? 🧱",
-"time": "2026-11-22 08:01",
-"type": "REEL",
-"link": "https://www.instagram.com/reel/DgBvPj1FSh7/",
-"likes": 1,
-"comments": 0,
-"views": 158,
-"reach": 137,
-"saved": 0,
-"shares": 0
 }
 ],
 "trades": [],
@@ -620,6 +633,45 @@
 "sl": 0.834776,
 "r": null,
 "opened": "25 Nov 09:00",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "XAUUSD_1795581900_dpoc",
+"pair": "GOLD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 3549.041,
+"sl": 3559.529,
+"r": null,
+"opened": "25 Nov 10:30",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.01 lots @3547.29 SL 3560.09 (scanner SL) entry 3549.31 basis 0.27 (M15) +SLbuf 0.29  risk 0.26%"
+},
+{
+"id": "BRENT_1795581900_dpoc",
+"pair": "BRENT OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 90.08,
+"sl": 90.356,
+"r": null,
+"opened": "25 Nov 10:30",
+"state": "open",
+"mt5": "skip",
+"mt5_reason": "same currency limit"
+},
+{
+"id": "WTI_1795581900_dpoc",
+"pair": "WTI OIL",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 80.695,
+"sl": 80.988,
+"r": null,
+"opened": "25 Nov 10:30",
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
@@ -959,18 +1011,18 @@
 "all_win": 155,
 "today_net": -1.88,
 "engine": {
-"last_scan": "10:16",
-"age_min": 5,
+"last_scan": "10:31",
+"age_min": 6,
 "rc": 0,
-"summary": "run 2026-11-25 04:45 UTC · new 0 · events 0 · open 7"
+"summary": "run 2026-11-25 05:00 UTC · new 3 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5009.69",
-"equity": "5028.54",
-"floating": "18.85",
-"positions": "7",
+"equity": "5024.07",
+"floating": "14.38",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -979,6 +1031,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 12.5,
 "github_runs": [
+{
+"t": "2026-11-25T05:00:29Z",
+"ok": "success",
+"ev": "workflow_dispatch"
+},
 {
 "t": "2026-11-25T03:30:25Z",
 "ok": "success",
@@ -996,11 +1053,6 @@
 },
 {
 "t": "2026-11-25T01:17:17Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-25T00:33:44Z",
 "ok": "success",
 "ev": "schedule"
 }
