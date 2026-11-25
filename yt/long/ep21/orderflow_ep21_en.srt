@@ -1,0 +1,156 @@
+1
+00:00:05,000 --> 00:00:12,001
+Your broker shows gold at 2652. On futures, the same gold is at 2668.
+
+2
+00:00:12,451 --> 00:00:17,857
+A sixteen point gap. Put the level in the wrong place, and the whole plan is wrong.
+
+3
+00:00:18,308 --> 00:00:24,839
+Today: a practical order flow setup for gold and forex. Module five begins.
+
+4
+00:00:25,839 --> 00:00:30,750
+Hello, this is episode twenty one of the SPIDER Order Flow series.
+
+5
+00:00:31,200 --> 00:00:36,921
+Last time: failed auctions, single prints, and poor highs.
+
+6
+00:00:37,371 --> 00:00:42,438
+So far we learned the tools. Now we learn to set them up properly on screen.
+
+7
+00:00:43,438 --> 00:00:51,066
+Remember episode six. Spot gold and forex have no single exchange, nobody has the real volume.
+
+8
+00:00:51,516 --> 00:00:56,114
+The broker's volume is just tick volume, meaning how many times price moved.
+
+9
+00:00:56,564 --> 00:01:02,128
+Real contracts, delta, footprint: all of that comes from the futures exchange.
+
+10
+00:01:03,128 --> 00:01:08,378
+So the setup has two parts. On the left, futures, where you read order flow.
+
+11
+00:01:08,827 --> 00:01:12,877
+On the right, the broker's spot chart, where the trade actually happens.
+
+12
+00:01:13,327 --> 00:01:19,205
+Read on futures, trade on spot. The thing that links them is the basis.
+
+13
+00:01:20,205 --> 00:01:30,079
+Basis is the gap between futures and spot. Right now futures 2668.4, spot 2652.1.
+
+14
+00:01:30,529 --> 00:01:36,562
+So the basis is plus 16.3. It comes from interest and time.
+
+15
+00:01:37,012 --> 00:01:42,160
+It changes slowly, so measure it once at the start of every day.
+
+16
+00:01:43,160 --> 00:01:47,365
+Say futures shows a poor high at 2670.
+
+17
+00:01:47,815 --> 00:01:54,658
+On spot, that level is 2670 minus 16.3, which is 2653.7.
+
+18
+00:01:55,109 --> 00:02:00,256
+Put that level on the broker chart. Forget the basis, and you are sixteen points off.
+
+19
+00:02:01,256 --> 00:02:09,144
+Forex works the same way. For EURUSD use Euro futures; both move in the same direction.
+
+20
+00:02:09,594 --> 00:02:17,483
+But for USDJPY, Yen futures move the opposite way. USDJPY up, Yen futures down.
+
+21
+00:02:17,933 --> 00:02:23,888
+There, buying in futures means selling in USDJPY. Remember that flip.
+
+22
+00:02:24,888 --> 00:02:30,375
+Watch the clock too. Futures take a break of about an hour every day.
+
+23
+00:02:30,825 --> 00:02:37,251
+Liquidity is thin before and after the break. Delta there is not reliable.
+
+24
+00:02:37,701 --> 00:02:42,220
+The clearest picture comes at the London and New York opens.
+
+25
+00:02:43,220 --> 00:02:51,658
+Now the tools. Only four are essential: volume profile, VWAP, footprint, and delta.
+
+26
+00:02:52,108 --> 00:02:58,638
+Profile and VWAP give the level. Footprint and delta give the confirmation.
+
+27
+00:02:59,089 --> 00:03:05,515
+Ten more indicators are just noise. The fuller the screen, the slower the decision.
+
+28
+00:03:06,515 --> 00:03:11,844
+A clean layout: top left, the futures footprint; below it, delta.
+
+29
+00:03:12,293 --> 00:03:18,250
+On the right, the spot chart with only the converted levels and VWAP.
+
+30
+00:03:18,700 --> 00:03:23,454
+And the basis number in one corner, so the math is always in front of you.
+
+31
+00:03:24,454 --> 00:03:30,096
+Common mistakes. One: treating broker tick volume as real volume.
+
+32
+00:03:30,546 --> 00:03:38,670
+Two: forgetting the basis. Three: reading direction wrong on an inverted pair like the Yen.
+
+33
+00:03:39,120 --> 00:03:42,829
+And four: trading in the thin hours around the break.
+
+34
+00:03:43,829 --> 00:03:48,898
+So, today in short. Read order flow on futures, trade on spot.
+
+35
+00:03:49,347 --> 00:03:55,067
+To convert a level, subtract the basis from the futures level. Measure the basis daily.
+
+36
+00:03:55,518 --> 00:04:01,239
+Pairs like the Yen move inverted. Four tools are enough, the rest is noise.
+
+37
+00:04:02,239 --> 00:04:08,509
+Next episode: the top-down method. Context, then level, then confirmation.
+
+38
+00:04:08,959 --> 00:04:13,791
+If this was useful, subscribe and save the playlist.
+
+39
+00:04:14,241 --> 00:04:19,492
+Our Telegram and Instagram are in the description. See you in the next episode.
+
