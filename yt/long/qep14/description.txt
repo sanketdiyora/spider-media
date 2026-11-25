@@ -1,0 +1,56 @@
+Ek market pe risk lo, ya wahi risk 42 markets me baant do: jhatke 4 guna se zyada kam ho gaye, drawdown aadhe se bhi kam. Lekin ek cheez nahi badli. Is episode me dekho ki portfolio aur diversification sach me kya karte hain, aur kya nahi.
+
+Ye SPIDER ki Quant Trading Series ka Episode 14 hai (Hindi + English subtitles).
+
+Is episode me:
+• Portfolio = ek system, kai markets pe ek saath · total risk wahi, bas bant jaata hai
+• Wahi breakout system (Ep 10-13), 42 markets, Feb 2024 – Nov 2026: 675 trades, cost ke baad −91.9R
+• 42 me se sirf 17 markets plus me · best Gold +7.4R, worst NZDUSD −12.5R
+• Ek market ka drawdown: aam 5.5R, sabse bura 12.8R
+• Wahi risk 1 / 5 / 10 / 20 / 42 markets me (300 random draws): mahine ka jhatka 0.86 → 0.41 → 0.31 → 0.23 → 0.19, max drawdown 5.8 → 3.4 → 2.8 → 2.5 → 2.3
+• Par 42 markets ka portfolio bhi minus: −2.2 units, 32 me se sirf 11 mahine green · diversification safar smooth karta hai, edge nahi banata
+• Correlation: mahine ke results ka ausat sirf 0.02 · par JPY ke 7 pairs: 0.16, saath milkar −40.5R
+• Jis din 2 NZD trades saath khule: 22 trades, sirf 23% jeet, −8R · same currency = zyaadatar ek daanv
+• Niyam: ek currency me ek baar me ek trade (ya currency pe risk ki seema), ek din ki entries bhi dekho
+• Galti: sirf jeete hue 17 markets rakhna = Ep 9 ka overfitting · markets pehle se, niyam se chuno
+
+
+Chapters:
+0:00 Intro
+0:18 Pichhla episode
+0:34 Portfolio kya
+0:50 Data
+1:09 Ek market
+1:31 Baant ke dekho
+1:48 Result
+2:15 Jo nahi badla
+2:33 Correlation
+2:55 Chhupa correlation
+3:18 Sabak
+3:42 Galti mat karna
+4:01 Recap
+4:17 Agla episode
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Episode 12 (Out-of-sample + Walk-forward): https://youtu.be/wlIW_pMYiFU
+Episode 13 (Market Regime: Trend ya Range): https://youtu.be/2OjvXszCryU
+Agla episode: Portfolio position sizing. Har market ko kitna risk dein, volatility ke hisaab se.
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Backtest 42 markets ke Dukascopy daily data (Jan 2024 – Nov 2026) pe hai, har trade 1R, kharcha simple 0.1R maana hai. Past results future ki guarantee nahi.
+
+#quanttrading #portfolio #diversification #tradinghindi #spidertrades

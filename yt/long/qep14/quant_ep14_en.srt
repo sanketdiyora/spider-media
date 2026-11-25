@@ -1,0 +1,168 @@
+1
+00:00:05,000 --> 00:00:09,989
+Put the risk on one market, or split the same risk across 42 markets.
+
+2
+00:00:10,439 --> 00:00:12,790
+The swings dropped to less than half.
+
+3
+00:00:13,240 --> 00:00:17,028
+But one thing did not change. That is what we look at today.
+
+4
+00:00:18,028 --> 00:00:22,939
+Hello, this is episode fourteen of the SPIDER Quant Trading series.
+
+5
+00:00:23,389 --> 00:00:28,640
+Last time: market regime. The ADX trend filter backfired.
+
+6
+00:00:29,089 --> 00:00:33,766
+Today: portfolio. One system, many markets.
+
+7
+00:00:34,766 --> 00:00:40,251
+A portfolio means one system running on many markets at once.
+
+8
+00:00:40,701 --> 00:00:44,332
+The total risk stays the same, it just gets split.
+
+9
+00:00:44,782 --> 00:00:49,067
+The idea: all markets will not go bad at the same time.
+
+10
+00:00:50,067 --> 00:00:58,269
+The same breakout system from the last four episodes. 42 markets, February 2024 to now.
+
+11
+00:00:58,719 --> 00:01:04,831
+675 trades. After costs, a total of minus 91.9R.
+
+12
+00:01:05,282 --> 00:01:08,756
+Only 17 of the 42 markets ended in profit.
+
+13
+00:01:09,756 --> 00:01:15,946
+Look at single markets. The best was gold: plus 7.4R.
+
+14
+00:01:16,396 --> 00:01:23,006
+The worst was NZDUSD: minus 12.5R.
+
+15
+00:01:23,455 --> 00:01:30,143
+A typical single-market drawdown was 5.5R. The worst was 12.8R.
+
+16
+00:01:31,143 --> 00:01:38,143
+Now split the same total risk over 1, 5, 10, 20 and 42 markets.
+
+17
+00:01:38,594 --> 00:01:42,381
+For each count we picked random markets 300 times.
+
+18
+00:01:42,832 --> 00:01:47,978
+And measured the monthly swing and the biggest drawdown.
+
+19
+00:01:48,978 --> 00:01:57,179
+One market: monthly swing 0.86, drawdown 5.8.
+
+20
+00:01:57,630 --> 00:02:08,863
+Ten markets: 0.31 and 2.8. Forty-two: 0.19 and 2.3.
+
+21
+00:02:09,312 --> 00:02:14,381
+The swing fell more than four times. Drawdown fell to less than half.
+
+22
+00:02:15,381 --> 00:02:22,382
+But look at the total. The 42-market portfolio is still negative: minus 2.2 units.
+
+23
+00:02:22,832 --> 00:02:26,384
+Only 11 of 32 months were green.
+
+24
+00:02:26,834 --> 00:02:32,398
+Diversification smooths the ride. It does not turn a bad system into a good one.
+
+25
+00:02:33,398 --> 00:02:36,793
+Why did the swings drop? Because of correlation.
+
+26
+00:02:37,244 --> 00:02:47,353
+Correlation tells how much two things move together. One means fully together, zero means no link.
+
+27
+00:02:47,804 --> 00:02:54,334
+The average correlation of our markets monthly results: only 0.02.
+
+28
+00:02:55,334 --> 00:03:00,010
+But the monthly average does not tell everything. Look at pairs that share a currency.
+
+29
+00:03:00,460 --> 00:03:08,898
+The seven JPY pairs: correlation 0.16. Together, minus 40.5R.
+
+30
+00:03:09,347 --> 00:03:17,864
+And on days when two NZD trades opened together: 22 trades, only 23 percent won, minus 8R.
+
+31
+00:03:18,864 --> 00:03:25,786
+So six NZD pairs are not really six separate bets. Mostly they are one bet.
+
+32
+00:03:26,236 --> 00:03:34,047
+So cap the total risk per currency. For example: one trade per currency at a time.
+
+33
+00:03:34,497 --> 00:03:41,418
+And watch how many trades open on one day. In our data, one day had seven entries.
+
+34
+00:03:42,418 --> 00:03:49,577
+A common mistake: run the backtest on 42 markets and keep only the 17 that were in profit.
+
+35
+00:03:50,027 --> 00:03:55,277
+That is the same overfitting from episode nine. Those 17 can change going forward.
+
+36
+00:03:55,727 --> 00:04:00,090
+Choose markets in advance, by a rule. Not after seeing the result.
+
+37
+00:04:01,090 --> 00:04:06,576
+So, today in short. Splitting risk cut the swings and the drawdown a lot.
+
+38
+00:04:07,025 --> 00:04:12,668
+But the system edge did not change. A losing system is still losing in a portfolio.
+
+39
+00:04:13,118 --> 00:04:16,436
+And count pairs that share a currency as one bet.
+
+40
+00:04:17,436 --> 00:04:26,422
+Next episode: position sizing again, but for a portfolio. How much risk each market gets, based on volatility.
+
+41
+00:04:26,872 --> 00:04:31,704
+If this was useful, subscribe and save the playlist.
+
+42
+00:04:32,154 --> 00:04:37,300
+Our Telegram and Instagram are in the description. See you in the next episode.
+
