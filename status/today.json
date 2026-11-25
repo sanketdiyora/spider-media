@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 12:21 IST",
+"updated": "2026-11-25 12:37 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 182,
@@ -655,8 +655,8 @@
 "r": null,
 "opened": "25 Nov 11:15",
 "state": "risk-free",
-"mt5": "open",
-"mt5_reason": "SL 174.353"
+"mt5": "closed",
+"mt5_reason": "DONE pnl 54.14 USD = 2.22R"
 },
 {
 "id": "EURCAD_1795587300_lbo",
@@ -1084,18 +1084,18 @@
 "all_win": 157,
 "today_net": -1.44,
 "engine": {
-"last_scan": "12:16",
+"last_scan": "12:31",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 06:45 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-25 07:00 UTC · new 0 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
-"balance": "5007.10",
-"equity": "5073.22",
-"floating": "66.12",
-"positions": "6",
+"balance": "5061.24",
+"equity": "5082.79",
+"floating": "21.55",
+"positions": "5",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
