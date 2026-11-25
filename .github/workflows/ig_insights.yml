@@ -1,0 +1,20 @@
+name: IG insights (read-only)
+on:
+  workflow_dispatch:
+  push:
+    paths: ['insights/request.txt']
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch insights
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 tools/ig_insights.py
+      - name: Commit
+        run: |
+          git config user.name "spider-bot"; git config user.email "bot@users.noreply.github.com"
+          git add insights/ig_*.json && git commit -qm "ig insights [skip ci]" && (git pull -q --rebase; git push -q) || true
