@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 11:07 IST",
+"updated": "2026-11-25 11:22 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 181,
@@ -633,9 +633,9 @@
 "sl": 3559.529,
 "r": null,
 "opened": "25 Nov 10:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 3544.33"
+"mt5_reason": "SL 3534.69"
 },
 {
 "id": "BRENT_1795581900_dpoc",
@@ -646,7 +646,7 @@
 "sl": 90.356,
 "r": null,
 "opened": "25 Nov 10:30",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
 },
@@ -662,6 +662,19 @@
 "state": "open",
 "mt5": "skip",
 "mt5_reason": "same currency limit"
+},
+{
+"id": "EURJPY_1795584600_dpoc",
+"pair": "EURJPY",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 174.506,
+"sl": 174.6345,
+"r": null,
+"opened": "25 Nov 11:15",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.28 lots @174.505 SL 174.644 (scanner SL) entry 174.502 basis -0.004 (M15) +SLbuf 0.013  risk 0.49%"
 }
 ],
 "closed_today": [
@@ -1011,18 +1024,18 @@
 "all_win": 155,
 "today_net": -2.88,
 "engine": {
-"last_scan": "11:01",
+"last_scan": "11:16",
 "age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 05:30 UTC · new 0 · events 1 · open 9"
+"summary": "run 2026-11-25 05:45 UTC · new 1 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4986.07",
-"equity": "5030.60",
-"floating": "44.53",
-"positions": "6",
+"equity": "5031.88",
+"floating": "45.81",
+"positions": "7",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
