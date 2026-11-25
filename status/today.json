@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 08:11 IST",
+"updated": "2026-11-25 08:21 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 179,
@@ -542,7 +542,7 @@
 "sl": 26299.76,
 "r": null,
 "opened": "25 Nov 06:00",
-"state": "open",
+"state": "risk-free",
 "mt5": "open",
 "mt5_reason": "OPEN SELL 0.10 lots @26135.57 SL 26317.24 (scanner SL) entry 26115.32 basis 15.68 (M15) +SLbuf 1.80 +TPbuf 1.80  risk 0.36%"
 },
@@ -609,7 +609,7 @@
 "opened": "25 Nov 07:15",
 "state": "open",
 "mt5": "open",
-"mt5_reason": "OPEN SELL 0.23 lots @87.188 SL 87.355 (scanner SL) entry 87.198 basis -0.003 (M15) +SLbuf 0.015  risk 0.48%"
+"mt5_reason": "SL 87.141"
 },
 {
 "id": "USDJPY_1795571100_dpoc",
@@ -920,17 +920,17 @@
 "all_win": 153,
 "today_net": -2.32,
 "engine": {
-"last_scan": "08:01",
-"age_min": 9,
+"last_scan": "08:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 02:30 UTC · new 0 · events 1 · open 8"
+"summary": "run 2026-11-25 02:45 UTC · new 0 · events 1 · open 8"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4964.97",
-"equity": "4970.37",
-"floating": "5.40",
+"equity": "5004.50",
+"floating": "39.53",
 "positions": "9",
 "ea_enabled": "1",
 "algo_trading": "1"
