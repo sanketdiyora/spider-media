@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 06:37 IST",
+"updated": "2026-11-25 06:52 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 177,
@@ -558,6 +558,19 @@
 "state": "open",
 "mt5": "open",
 "mt5_reason": "OPEN BUY 0.17 lots @0.58614 SL 0.58496 (scanner SL) entry 0.58590 basis 0.00000 (M15) split TP1/TP2 risk 0.48%"
+},
+{
+"id": "CHFJPY_1795568400_pbo",
+"pair": "CHFJPY",
+"dir": "SELL",
+"model": "pbo",
+"entry": 190.418,
+"sl": 190.6804,
+"r": null,
+"opened": "25 Nov 06:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.14 lots @190.430 SL 190.698 (scanner SL) entry 190.416 basis -0.002 (M15) +SLbuf 0.020 +TPbuf 0.020 split TP1/TP2 risk 0.47%"
 }
 ],
 "closed_today": [
@@ -829,18 +842,18 @@
 "all_win": 153,
 "today_net": -0.32,
 "engine": {
-"last_scan": "06:31",
-"age_min": 6,
+"last_scan": "06:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 01:00 UTC · new 1 · events 0 · open 5"
+"summary": "run 2026-11-25 01:15 UTC · new 1 · events 0 · open 6"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4988.87",
-"equity": "4996.70",
-"floating": "7.83",
-"positions": "6",
+"equity": "4984.39",
+"floating": "-4.48",
+"positions": "8",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
@@ -849,6 +862,11 @@
 "voice_limit": 30000,
 "disk_free_gb": 12.5,
 "github_runs": [
+{
+"t": "2026-11-25T01:17:17Z",
+"ok": "success",
+"ev": "schedule"
+},
 {
 "t": "2026-11-25T00:33:44Z",
 "ok": "success",
@@ -866,11 +884,6 @@
 },
 {
 "t": "2026-11-24T22:15:56Z",
-"ok": "success",
-"ev": "schedule"
-},
-{
-"t": "2026-11-24T21:07:20Z",
 "ok": "success",
 "ev": "schedule"
 }
