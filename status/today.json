@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 12:07 IST",
+"updated": "2026-11-25 12:21 IST",
 "date": "2026-11-25",
 "followers": 92,
 "media_count": 182,
@@ -656,7 +656,7 @@
 "opened": "25 Nov 11:15",
 "state": "risk-free",
 "mt5": "open",
-"mt5_reason": "SL 174.375"
+"mt5_reason": "SL 174.353"
 },
 {
 "id": "EURCAD_1795587300_lbo",
@@ -680,7 +680,7 @@
 "sl": 0.546703,
 "r": null,
 "opened": "25 Nov 11:50",
-"state": "open",
+"state": "risk-free",
 "mt5": "skip",
 "mt5_reason": "model off"
 },
@@ -1084,17 +1084,17 @@
 "all_win": 157,
 "today_net": -1.44,
 "engine": {
-"last_scan": "12:01",
-"age_min": 6,
+"last_scan": "12:16",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 06:30 UTC · new 0 · events 0 · open 10"
+"summary": "run 2026-11-25 06:45 UTC · new 0 · events 0 · open 10"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "5007.10",
-"equity": "5073.10",
-"floating": "66.00",
+"equity": "5073.22",
+"floating": "66.12",
 "positions": "6",
 "ea_enabled": "1",
 "algo_trading": "1"
