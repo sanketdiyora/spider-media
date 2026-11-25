@@ -1,0 +1,132 @@
+1
+00:00:05,000 --> 00:00:13,516
+Ten thousand dollars of EURUSD, and ten thousand dollars of Bitcoin. Same size, same risk?
+
+2
+00:00:13,966 --> 00:00:21,045
+Not at all. In our data, Bitcoin's risk is about seven times EURUSD's.
+
+3
+00:00:21,494 --> 00:00:27,372
+Today: how much size each market gets in a portfolio, based on volatility.
+
+4
+00:00:28,372 --> 00:00:33,440
+Hello, this is episode fifteen of the SPIDER Quant Trading series.
+
+5
+00:00:33,890 --> 00:00:40,578
+Last time: portfolio. Spreading risk reduced the swings, but did not change the edge.
+
+6
+00:00:41,028 --> 00:00:44,737
+Today, splitting the risk properly inside that portfolio.
+
+7
+00:00:45,737 --> 00:00:53,208
+An easy way to measure volatility: ATR. How far a market usually moves in a day.
+
+8
+00:00:53,658 --> 00:01:04,263
+Across our 42 markets, as a percent of price: EURUSD 0.59, gold 1.52.
+
+9
+00:01:04,714 --> 00:01:14,588
+Nasdaq 1.58, and Bitcoin 4.12. The fastest, Solana, at 6.62.
+
+10
+00:01:15,588 --> 00:01:21,857
+Our system puts the stop at 2 ATR. So on a ten thousand dollar position, the risk is:
+
+11
+00:01:22,308 --> 00:01:32,835
+EURUSD 118 dollars, gold 305, Nasdaq 315, Bitcoin 824.
+
+12
+00:01:33,285 --> 00:01:42,113
+Use equal size across 42 markets, and four crypto markets alone take 37.6 percent of the total risk.
+
+13
+00:01:43,113 --> 00:01:49,801
+The fix: set size by risk, not by dollars. The same risk on every trade.
+
+14
+00:01:50,252 --> 00:01:58,140
+Same formula as episode four: size equals risk dollars divided by the value of the stop distance.
+
+15
+00:01:58,591 --> 00:02:05,669
+In a fast market the stop is far, so the size is small. In a slow market the stop is close, so the size is big.
+
+16
+00:02:06,669 --> 00:02:11,738
+Account ten thousand, risk 1 percent, so 100 dollars.
+
+17
+00:02:12,188 --> 00:02:25,510
+EURUSD at 1.096, stop 129 pips. 1,290 dollars per lot. Size 0.07 lot.
+
+18
+00:02:25,960 --> 00:02:36,644
+Gold at 3551, 10,800 per lot. The size comes out to 0.009, smaller than the minimum lot.
+
+19
+00:02:37,644 --> 00:02:43,600
+This is a real problem for small accounts. The minimum lot itself breaks your fixed risk.
+
+20
+00:02:44,049 --> 00:02:50,006
+Then two options: drop that market, or find an instrument with a smaller contract.
+
+21
+00:02:50,456 --> 00:02:54,009
+But never force it in by raising the risk.
+
+22
+00:02:55,009 --> 00:03:02,400
+Now the risk of the whole portfolio, called heat. In our backtest, up to 30 trades were open at once.
+
+23
+00:03:02,851 --> 00:03:09,198
+At 1 percent each, that is 30 percent at stake at once. That is far too much.
+
+24
+00:03:09,649 --> 00:03:17,198
+So cap total heat, say at 6 percent. When more trades are open, each one gets less risk.
+
+25
+00:03:18,198 --> 00:03:26,793
+One more trap: markets that move together. Bitcoin and Ethereum have a daily correlation of 0.84.
+
+26
+00:03:27,243 --> 00:03:32,572
+Four crypto trades open together are really one big bet.
+
+27
+00:03:33,022 --> 00:03:39,369
+So treat markets that move together as one bucket, with its own limit.
+
+28
+00:03:40,369 --> 00:03:45,620
+So, today in short. Equal dollars do not mean equal risk.
+
+29
+00:03:46,070 --> 00:03:54,037
+Set size by volatility, the same risk per trade. If the minimum lot breaks your risk, skip the market.
+
+30
+00:03:54,487 --> 00:03:59,738
+Cap the total heat, and treat markets that move together as one bucket.
+
+31
+00:04:00,738 --> 00:04:09,489
+Next episode: costs. Spread, slippage, commission. How a small expense eats the whole edge.
+
+32
+00:04:09,939 --> 00:04:14,772
+If this was useful, subscribe and save the playlist.
+
+33
+00:04:15,222 --> 00:04:20,289
+Our Telegram and Instagram are in the description. See you in the next episode.
+
