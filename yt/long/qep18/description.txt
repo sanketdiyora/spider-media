@@ -1,0 +1,52 @@
+17 episodes: win rate se walk-forward tak, drawdown se kill switch tak. Aur sabse imaandaar baat: hamara apna udaharan wala breakout system 42 markets pe ghaate me nikla. Is Season 1 finale me poore safar ka recap, wo haar sabse badi seekh kyun hai, aur aage kya karein.
+
+Ye SPIDER ki Quant Trading Series ka Episode 18 (Season 1 finale) hai (Hindi + English subtitles).
+
+Is episode me:
+• Buniyaad (Ep 1-4): quant = niyam + number + test · win rate + payoff · drawdown · pehle stop, phir size
+• Test karna (Ep 5-9): backtest ke niyam, risk of ruin, Monte Carlo, report card, overfitting
+• Apna system (Ep 10-13): Excel, Python, out-of-sample + walk-forward, market regime
+• Portfolio (Ep 14-17): risk baantna, volatility sizing, costs, live vs backtest + kill switch
+• Haar ki seekh: breakout system 42 markets pe −91.9R (Ep 14), sirf 17 markets faayde me · quant ka kaam = paise se pehle data se sach
+• Sabse aam galti: ek achha backtest → poora paisa live · sahi kram: idea → backtest → out-of-sample → chhota live → dheere size
+• Aage kya: apna ek simple idea har kadam se guzaaro, har nateeja journal me · Season 2 agle mahine (data-mining bias, automation aur bhi)
+
+Chapters:
+0:00 Intro
+0:26 Pichhla episode
+0:41 Buniyaad
+1:03 Test karna
+1:24 Apna system
+1:43 Portfolio
+2:04 Haar ki seekh
+2:24 Galti
+2:40 Aage kya
+3:00 Shukriya
+
+Episode 1 (Quant Trading Kya Hai?): https://youtu.be/YrAij4NKT6k
+Episode 2 (Win Rate ka Sach): https://youtu.be/EmAQPkZQGX4
+Episode 3 (Drawdown): https://youtu.be/NJ8jxdHa3z8
+Episode 4 (Position Sizing): https://youtu.be/jZ_mjo9FzIM
+Episode 5 (Backtesting Basics): https://youtu.be/75ejyVrYmc8
+Episode 6 (Risk of Ruin): https://youtu.be/EqGW7zcflL0
+Episode 7 (Monte Carlo): https://youtu.be/Wz9PmaF2WN0
+Episode 8 (System ka Report Card): https://youtu.be/tR_6fEu3huQ
+Episode 9 (Overfitting): https://youtu.be/XzuCxhwKX7c
+Episode 10 (Apna Pehla System, Excel): https://youtu.be/OObFi0V5tW4
+Episode 11 (Wahi System Python Me): https://youtu.be/MAO2xQDFMLE
+Episode 12 (Out-of-sample + Walk-forward): https://youtu.be/wlIW_pMYiFU
+Episode 13 (Market Regime: Trend ya Range): https://youtu.be/2OjvXszCryU
+Episode 14 (Portfolio: Diversification + Correlation): https://youtu.be/FkpmFjYBg4c
+Episode 15 (Portfolio Position Sizing): https://youtu.be/8M8O2a_WpBE
+Episode 16 (Trading Costs): https://youtu.be/KoO2fjVZl9s
+Episode 17 (Live vs Backtest + Kill Switch): https://youtu.be/Sg9a3Ws1KVo
+Ye Season 1 ka aakhiri episode hai. Season 2 agle mahine. Saath dene ke liye shukriya!
+
+Order Flow Series bhi isi channel pe chal rahi hai, playlist me dekho.
+
+Telegram: https://t.me/+_8kWG6BbMltmMDQ1
+Instagram: https://instagram.com/spider.trades
+
+⚠️ For educational purposes only. This is not financial advice. Trading involves risk; try it at your own risk. Is episode ke numbers pichhle episodes se liye gaye hain (Ep 14: 42 markets ka breakout backtest). Past results future ki guarantee nahi.
+
+#quanttrading #algotrading #backtesting #tradinghindi #spidertrades

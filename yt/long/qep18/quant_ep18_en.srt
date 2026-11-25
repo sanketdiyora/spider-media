@@ -1,0 +1,116 @@
+1
+00:00:05,000 --> 00:00:11,033
+Seventeen episodes. From win rate to walk-forward, from drawdown to the kill switch.
+
+2
+00:00:11,484 --> 00:00:18,485
+And the most honest part: our own example system lost money across 42 markets.
+
+3
+00:00:18,935 --> 00:00:25,543
+Today we see why that loss is the biggest lesson. The last episode of season one.
+
+4
+00:00:26,543 --> 00:00:31,533
+Hello, this is episode eighteen of the SPIDER Quant Trading series.
+
+5
+00:00:31,982 --> 00:00:36,894
+Last time: live versus backtest, and the kill switch.
+
+6
+00:00:37,344 --> 00:00:40,349
+Today, the whole season's journey in one place.
+
+7
+00:00:41,349 --> 00:00:47,879
+Part one, the foundation. Quant means rules, numbers, and tests.
+
+8
+00:00:48,329 --> 00:00:55,487
+Win rate alone is incomplete; look at it with payoff. Drawdown tells you how deep the pain goes.
+
+9
+00:00:55,937 --> 00:01:02,938
+And position sizing: stop first, then size. A small, fixed risk per trade.
+
+10
+00:01:03,938 --> 00:01:09,893
+Part two, testing. The rules of backtesting, and risk of ruin.
+
+11
+00:01:10,342 --> 00:01:16,378
+Monte Carlo showed that the same trades in a different order can give very different drawdowns.
+
+12
+00:01:16,827 --> 00:01:23,985
+The report card taught us not to judge a system by one number. And overfitting, the biggest trap.
+
+13
+00:01:24,985 --> 00:01:30,314
+Part three, our own system. First in Excel, then in Python.
+
+14
+00:01:30,764 --> 00:01:36,720
+Then out-of-sample and walk-forward, so the system does not just memorize old data.
+
+15
+00:01:37,169 --> 00:01:42,812
+And market regime: the same system behaves differently in trend and range.
+
+16
+00:01:43,812 --> 00:01:50,892
+Part four, portfolio. Spreading risk across many markets reduced the swings.
+
+17
+00:01:51,342 --> 00:01:56,827
+Size by volatility, so no single market eats the whole risk.
+
+18
+00:01:57,277 --> 00:02:03,964
+Costs showed that even a small expense can swallow an edge. And the kill switch: when to stop.
+
+19
+00:02:04,964 --> 00:02:12,122
+Now the biggest point. Our breakout system ended at minus 91.9R across 42 markets.
+
+20
+00:02:12,572 --> 00:02:17,561
+Only 17 markets were profitable. This is not a system worth selling to anyone.
+
+21
+00:02:18,012 --> 00:02:23,888
+But that is exactly the job of quant: to learn the truth from data before putting money in.
+
+22
+00:02:24,888 --> 00:02:30,845
+The most common mistake: see one good backtest and go live with all your money.
+
+23
+00:02:31,295 --> 00:02:39,106
+The right order: idea, backtest, out-of-sample, small live, and then slowly increase size.
+
+24
+00:02:40,106 --> 00:02:45,748
+What next? Take one simple idea of your own and put it through every step of this season.
+
+25
+00:02:46,198 --> 00:02:51,684
+Write down every result, good or bad. No quant without a journal.
+
+26
+00:02:52,134 --> 00:02:59,762
+Season two comes next month, with deeper topics: data-mining bias, automation, and more.
+
+27
+00:03:00,762 --> 00:03:03,844
+Thank you for staying with us for eighteen episodes.
+
+28
+00:03:04,293 --> 00:03:09,936
+If the series helped, subscribe and share the playlist with friends.
+
+29
+00:03:10,387 --> 00:03:15,793
+Our Telegram and Instagram are in the description. See you in season two.
+
