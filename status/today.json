@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25 05:37 IST",
+"updated": "2026-11-25 05:51 IST",
 "date": "2026-11-25",
 "followers": 91,
 "media_count": 177,
@@ -493,7 +493,21 @@
 ],
 "trades": [],
 "scanner": {
-"open": [],
+"open": [
+{
+"id": "XAUUSD_1795564800_dpoc",
+"pair": "GOLD",
+"dir": "SELL",
+"model": "dpoc",
+"entry": 3550.97,
+"sl": 3569.816,
+"r": null,
+"opened": "25 Nov 05:45",
+"state": "open",
+"mt5": "open",
+"mt5_reason": "OPEN SELL 0.01 lots @3546.29 SL 3570.31 (scanner SL) entry 3551.18 basis 0.21 (M15) +SLbuf 0.28  risk 0.48%"
+}
+],
 "closed_today": [
 {
 "id": "BTCUSD_1795544100_poc",
@@ -763,18 +777,18 @@
 "all_win": 153,
 "today_net": -0.32,
 "engine": {
-"last_scan": "05:31",
-"age_min": 6,
+"last_scan": "05:46",
+"age_min": 5,
 "rc": 0,
-"summary": "run 2026-11-25 00:00 UTC · new 0 · events 0 · open 0"
+"summary": "run 2026-11-25 00:15 UTC · new 1 · events 0 · open 1"
 },
 "mt5": {
 "mode": "demo",
 "server": "VantageMarkets-Demo",
 "balance": "4988.87",
-"equity": "4988.87",
-"floating": "0.00",
-"positions": "0",
+"equity": "4993.62",
+"floating": "4.75",
+"positions": "1",
 "ea_enabled": "1",
 "algo_trading": "1"
 }
