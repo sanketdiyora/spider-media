@@ -88,7 +88,8 @@ def main():
         print('SKIP: already posted (caption match)'); tg(it,date,slot,hit[0].get('permalink')); return 0
     body={}
     if it['type']=='reel':
-        body={'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'true','thumb_offset':str(it.get('thumb_offset',1500))}
+        body={'media_type':'REELS','video_url':it['media'][0],'caption':cap,'share_to_feed':'false' if it.get('feed') is False else 'true','thumb_offset':str(it.get('thumb_offset',1500))}
+        # Sanket 28 Nov 12:56: "feed": false in schedule = Reels tab only, not main grid (too many posts on grid)
         if it.get('trial'): body['trial_params']=json.dumps({'graduation_strategy':it['trial']})      # trial reel: non-followers first (Sanket 7 Nov: SS_PERFORMANCE)
         c=call(f'{IG}/media',body,'POST')
         if it.get('trial') and not c.get('id'):
